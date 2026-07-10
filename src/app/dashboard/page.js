@@ -29,6 +29,14 @@ const DEPT_ICONS = {
   security: '\uD83D\uDEE1\uFE0F',
 };
 
+// Helper: convert hex color to rgba string
+function hexToRgba(hex, alpha) {
+  const r = parseInt(hex.slice(1, 3), 16);
+  const g = parseInt(hex.slice(3, 5), 16);
+  const b = parseInt(hex.slice(5, 7), 16);
+  return `rgba(${r},${g},${b},${alpha})`;
+}
+
 // ─── Particle Swarm Canvas ──────────────────────────────────────────────
 
 function ParticleSwarm({ agents, activeIds }) {
@@ -68,8 +76,6 @@ function ParticleSwarm({ agents, activeIds }) {
         y: center.y + (Math.random() - 0.5) * radius * 0.5,
         baseX: center.x,
         baseY: center.y,
-        vx: (Math.random() - 0.5) * 0.3,
-        vy: (Math.random() - 0.5) * 0.3,
         radius: 3 + Math.random() * 2,
         phase: Math.random() * Math.PI * 2,
         dept: agent.dept,
@@ -126,35 +132,31 @@ function ParticleSwarm({ agents, activeIds }) {
         const active = activeIds.has(p.agent.name);
         const color = DEPT_COLORS[p.dept] || '#888';
 
-        // Gentle drift + orbit around base position
-        const t = performance.now() * 0.0005 + p.phase;
-        p.x += p.vx + Math.cos(t) * 0.15;
-        p.y += p.vy + Math.sin(t) * 0.15;
-
-        // Pull back toward base position
-        p.x += (p.baseX - p.x) * 0.003;
-        p.y += (p.baseY - p.y) * 0.003;
+        // Stable positions — snap to base, gentle breathing only
+        p.x += (p.baseX - p.x) * 0.1;
+        p.y += (p.baseY - p.y) * 0.1;
 
         // Mouse repulsion
         const dx = p.x - mx;
         const dy = p.y - my;
         const dist = Math.sqrt(dx * dx + dy * dy);
-        if (dist < 80 && dist > 0) {
-          const force = (80 - dist) / 80 * 1.2;
+        if (dist < 100 && dist > 0) {
+          const force = (100 - dist) / 100 * 1.5;
           p.x += (dx / dist) * force;
           p.y += (dy / dist) * force;
         }
 
         // Draw connection lines to nearby same-dept particles
+        const connDist = 130;
         particles.forEach((q) => {
           if (q.id <= p.id) return;
           if (q.dept !== p.dept) return;
           const dx2 = p.x - q.x;
           const dy2 = p.y - q.y;
           const dist2 = Math.sqrt(dx2 * dx2 + dy2 * dy2);
-          if (dist2 < 70) {
-            const alpha = (1 - dist2 / 70) * (active ? 0.18 : 0.06);
-            ctx.strokeStyle = color.replace(')', `, ${alpha})`).replace('rgb', 'rgba');
+          if (dist2 < connDist) {
+            const alpha = (1 - dist2 / connDist) * (active ? 0.15 : 0.04);
+            ctx.strokeStyle = hexToRgba(color, alpha);
             ctx.lineWidth = 0.5;
             ctx.beginPath();
             ctx.moveTo(p.x, p.y);
@@ -163,14 +165,15 @@ function ParticleSwarm({ agents, activeIds }) {
           }
         });
 
-        // Draw particle
-        const r = active ? p.radius * 1.6 : p.radius;
-        const glow = active ? 6 : 2;
+        // Draw particle with pulse
+        const pulse = active ? 1 + Math.sin(performance.now() * 0.003 + p.phase) * 0.3 : 1;
+        const r = p.radius * pulse;
+        const glow = active ? 8 : 2;
 
         // Outer glow
         const glowGrad = ctx.createRadialGradient(p.x, p.y, r * 0.3, p.x, p.y, r + glow);
-        glowGrad.addColorStop(0, color);
-        glowGrad.addColorStop(0.5, color.replace(')', ', 0.2)').replace('rgb', 'rgba'));
+        glowGrad.addColorStop(0, hexToRgba(color, active ? 0.9 : 0.5));
+        glowGrad.addColorStop(0.5, hexToRgba(color, 0.15));
         glowGrad.addColorStop(1, 'rgba(0,0,0,0)');
         ctx.fillStyle = glowGrad;
         ctx.beginPath();
