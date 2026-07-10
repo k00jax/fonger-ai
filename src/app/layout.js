@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${inter.className} bg-[#0a0a0a] text-gray-200 antialiased`}>
         <NavBar />
-        <main className="pt-16">
+        <main>
           {children}
         </main>
       </body>

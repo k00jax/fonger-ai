@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-export default function PasswordGate({ onUnlock }) {
+export default function PasswordGate({ onUnlock, title = 'Family Portal' }) {
   const [password, setPassword] = useState('');
   const [error, setError] = useState(false);
 
@@ -22,7 +22,7 @@ export default function PasswordGate({ onUnlock }) {
       <div className="w-full max-w-sm animate-fade-in">
         <div className="text-center mb-8">
           <div className="text-4xl mb-3">🔒</div>
-          <h1 className="text-2xl font-bold text-white mb-2">Family Portal</h1>
+          <h1 className="text-2xl font-bold text-white mb-2">{title}</h1>
           <p className="text-gray-500 text-sm">
             This area is for the Fonger family. Enter the password to continue.
           </p>

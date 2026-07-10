@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import PasswordGate from '../../components/PasswordGate';
 
 const DEPT_COLORS = {
   research: '#f0a030', design: '#4da6ff', production: '#a78bfa',
@@ -12,7 +13,7 @@ const DEPT_ICONS = {
   operations: '🔧', quality: '✅', analytics: '📊', strategy: '🧠', director: '🎯'
 };
 
-export default function DashboardPage() {
+function SwarmDashboard() {
   const [state, setState] = useState(null);
   const [time, setTime] = useState(0);
 
@@ -31,7 +32,7 @@ export default function DashboardPage() {
 
   if (!state) return (
     <div className="min-h-screen bg-[#08081a] flex items-center justify-center">
-      <p className="text-[#33ff33] font-mono text-sm">Loading swarm...</p>
+      <p className="text-[#33ff33] font-mono text-sm animate-pulse">initializing swarm...</p>
     </div>
   );
 
@@ -40,7 +41,7 @@ export default function DashboardPage() {
   const depts = [...new Set(agents.map(a => a.dept))];
 
   return (
-    <div className="min-h-screen bg-[#08081a] text-[#33ff33] font-mono">
+    <div className="min-h-screen bg-[#08081a] text-[#33ff33] font-mono relative z-10">
       {/* Scanlines */}
       <div className="fixed inset-0 pointer-events-none z-50" style={{
         background: 'linear-gradient(transparent 50%, rgba(0,255,0,.015) 50%)',
@@ -112,4 +113,22 @@ export default function DashboardPage() {
       </div>
     </div>
   );
+}
+
+export default function DashboardPage() {
+  const [unlocked, setUnlocked] = useState(false);
+
+  useEffect(() => {
+    if (typeof window !== 'undefined' && sessionStorage.getItem('family-auth') === 'true') {
+      setUnlocked(true);
+    }
+  }, []);
+
+  if (!unlocked) {
+    return (
+      <PasswordGate title="Swarm Dashboard" onUnlock={() => setUnlocked(true)} />
+    );
+  }
+
+  return <SwarmDashboard />;
 }

@@ -1,11 +1,11 @@
 export default function BooksPage() {
   return (
-    <div className="min-h-screen pt-20 pb-16 px-4">
+    <div className="min-h-screen pt-24 pb-16 px-4 relative z-10">
       <div className="max-w-4xl mx-auto">
         {/* Header */}
-        <div className="animate-slide-up mb-12">
-          <h1 className="text-4xl font-bold text-white mb-4">Books</h1>
-          <p className="text-xl text-gray-400 leading-relaxed">
+        <div className="animate-slide-up mb-14">
+          <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4 tracking-tight">Books</h1>
+          <p className="text-lg sm:text-xl text-gray-400 leading-relaxed">
             Writing at the intersection of philosophy, religion, and the stories we tell ourselves.
           </p>
         </div>
@@ -13,12 +13,14 @@ export default function BooksPage() {
         {/* Book Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
           {/* Book 1 */}
-          <div className="bg-[#111] border border-[#1f1f1f] rounded-xl p-8 animate-slide-up animate-delay-100 hover:border-brand-red/30 transition-all duration-300">
-            <div className="text-4xl mb-4">📖</div>
+          <div className="bg-[#111] border border-[#1f1f1f] rounded-xl p-8 animate-slide-up animate-delay-100 card-glow hover:-translate-y-1 transition-all duration-300">
+            <div className="w-14 h-14 rounded-full bg-brand-red/10 text-brand-red flex items-center justify-center text-2xl mb-5">
+              📖
+            </div>
             <h2 className="text-2xl font-bold text-white mb-3 leading-tight">
               What the Fuck Are You Talking About?
             </h2>
-            <div className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-4">
+            <div className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-4 font-medium">
               24th Draft
             </div>
             <p className="text-gray-400 leading-relaxed mb-4">
@@ -33,12 +35,14 @@ export default function BooksPage() {
           </div>
 
           {/* Book 2 */}
-          <div className="bg-[#111] border border-[#1f1f1f] rounded-xl p-8 animate-slide-up animate-delay-200 hover:border-brand-orange/30 transition-all duration-300">
-            <div className="text-4xl mb-4">🔍</div>
+          <div className="bg-[#111] border border-[#1f1f1f] rounded-xl p-8 animate-slide-up animate-delay-200 card-glow-orange hover:-translate-y-1 transition-all duration-300">
+            <div className="w-14 h-14 rounded-full bg-brand-orange/10 text-brand-orange flex items-center justify-center text-2xl mb-5">
+              🔍
+            </div>
             <h2 className="text-2xl font-bold text-white mb-3 leading-tight">
               Manufacturing Monsters
             </h2>
-            <div className="inline-block px-3 py-1 bg-brand-orange/10 text-brand-orange text-xs rounded-full mb-4">
+            <div className="inline-block px-3 py-1 bg-brand-orange/10 text-brand-orange text-xs rounded-full mb-4 font-medium">
               In Progress
             </div>
             <p className="text-gray-400 leading-relaxed mb-4">
@@ -62,7 +66,7 @@ export default function BooksPage() {
             </p>
             <a
               href="mailto:kyle@fonger.ai?subject=Book Updates"
-              className="inline-block px-8 py-3 bg-brand-red text-white rounded-lg font-medium hover:bg-red-700 transition-all"
+              className="inline-block px-8 py-3 bg-brand-red text-white rounded-lg font-medium hover:bg-red-700 transition-all hover:glow-red"
             >
               Get Updates
             </a>
