@@ -1,0 +1,1 @@
+const API_KEY = 'sk-abc123def456ghi789';
