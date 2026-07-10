@@ -51,6 +51,11 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
   const dragOffsetRef = useRef({ x: 0, y: 0 });
   const [isDragging, setIsDragging] = useState(false);
   const [tooltip, setTooltip] = useState(null);
+  const panRef = useRef({ x: 0, y: 0 });
+  const zoomRef = useRef(1);
+  const isPanningRef = useRef(false);
+  const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
+  const deptLabelPosRef = useRef({});
 
   const initParticles = useCallback(() => {
     const depts = [...new Set(agents.map((a) => a.dept))];
@@ -139,23 +144,37 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       }
 
       const particles = particlesRef.current;
-      const mx = mouseRef.current.x;
-      const my = mouseRef.current.y;
+      const panX = panRef.current.x;
+      const panY = panRef.current.y;
+      const zoom = zoomRef.current;
+
+      // Load saved dept label positions
+      try {
+        const stored = localStorage.getItem('trivance_dept_labels');
+        if (stored) deptLabelPosRef.current = JSON.parse(stored);
+      } catch {}
+
+      // Transform helper
+      const tx = (x) => x * zoom + panX;
+      const ty = (y) => y * zoom + panY;
 
       // ── Draw department labels ──
-      const deptCenters = {};
       const deptList = [...new Set(particles.map(p => p.dept))];
       deptList.forEach(dept => {
         const deptParticles = particles.filter(p => p.dept === dept);
-        const cx = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
-        const cy = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
+        const baseCx = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
+        const baseCy = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
+        const saved = deptLabelPosRef.current[dept];
+        const lx = saved ? saved.x : tx(baseCx);
+        const ly = saved ? saved.y : ty(baseCy - 85);
         const color = DEPT_COLORS[dept] || '#888';
         const icon = DEPT_ICONS[dept] || '';
-        deptCenters[dept] = { x: cx, y: cy };
-        ctx.font = 'bold 11px \"JetBrains Mono\", monospace';
+        ctx.font = `bold ${11 * zoom}px "JetBrains Mono", monospace`;
         ctx.fillStyle = hexToRgba(color, 0.5);
         ctx.textAlign = 'center';
-        ctx.fillText(`${icon} ${dept.toUpperCase()}`, cx, cy - 85);
+        ctx.fillText(`${icon} ${dept.toUpperCase()}`, lx, ly);
+        // Store for hit detection
+        deptLabelPosRef.current[dept] = { x: lx, y: ly };
       });
 
       // ── Draw connection lines ──
@@ -163,16 +182,16 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         particles.forEach((q) => {
           if (q.id <= p.id) return;
           if (q.dept !== p.dept) return;
-          const dx = p.x - q.x;
-          const dy = p.y - q.y;
+          const dx = tx(p.x) - tx(q.x);
+          const dy = ty(p.y) - ty(q.y);
           const dist = Math.sqrt(dx * dx + dy * dy);
-          if (dist < 180) {
+          if (dist < 180 * zoom) {
             const alpha = (1 - dist / 180) * 0.1;
             ctx.strokeStyle = hexToRgba(DEPT_COLORS[p.dept] || '#888', alpha);
             ctx.lineWidth = 0.5;
             ctx.beginPath();
-            ctx.moveTo(p.x, p.y);
-            ctx.lineTo(q.x, q.y);
+            ctx.moveTo(tx(p.x), ty(p.y));
+            ctx.lineTo(tx(q.x), ty(q.y));
             ctx.stroke();
           }
         });
@@ -188,23 +207,27 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
           p.y += (p.baseY - p.y) * 0.08;
         }
 
+        const sx = tx(p.x);
+        const sy = ty(p.y);
+        const sr = p.radius * zoom;
+
         // Outer glow for active
         if (active) {
-          const glow = ctx.createRadialGradient(p.x, p.y, p.radius * 0.5, p.x, p.y, p.radius * 2.5);
+          const glow = ctx.createRadialGradient(sx, sy, sr * 0.5, sx, sy, sr * 2.5);
           glow.addColorStop(0, hexToRgba(color, 0.4));
           glow.addColorStop(1, 'rgba(0,0,0,0)');
           ctx.fillStyle = glow;
           ctx.beginPath();
-          ctx.arc(p.x, p.y, p.radius * 2.5, 0, Math.PI * 2);
+          ctx.arc(sx, sy, sr * 2.5, 0, Math.PI * 2);
           ctx.fill();
         }
 
         // Node circle
         ctx.fillStyle = hexToRgba(color, active ? 0.9 : 0.35);
         ctx.strokeStyle = hexToRgba(color, active ? 0.8 : 0.3);
-        ctx.lineWidth = active ? 1.5 : 0.8;
+        ctx.lineWidth = (active ? 1.5 : 0.8) * zoom;
         ctx.beginPath();
-        ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
+        ctx.arc(sx, sy, sr, 0, Math.PI * 2);
         ctx.fill();
         ctx.stroke();
 
@@ -212,37 +235,38 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         if (active) {
           ctx.fillStyle = '#fff';
           ctx.beginPath();
-          ctx.arc(p.x, p.y, 3, 0, Math.PI * 2);
+          ctx.arc(sx, sy, 3 * zoom, 0, Math.PI * 2);
           ctx.fill();
         }
 
-        // Drag visual: increased radius ring
+        // Drag indicator
         if (isDragged) {
-          const dragR = p.radius + 4;
-          ctx.strokeStyle = hexToRgba(color, 0.8);
+          ctx.strokeStyle = '#fff';
           ctx.lineWidth = 2;
-          ctx.setLineDash([4, 3]);
+          ctx.setLineDash([4, 4]);
           ctx.beginPath();
-          ctx.arc(p.x, p.y, dragR, 0, Math.PI * 2);
+          ctx.arc(sx, sy, sr + 6, 0, Math.PI * 2);
           ctx.stroke();
           ctx.setLineDash([]);
         }
 
         // Label
-        const fontSize = active ? 10 : 9;
-        ctx.font = `${active ? 'bold ' : ''}${fontSize}px \"JetBrains Mono\", monospace`;
+        const fontSize = (active ? 10 : 9) * zoom;
+        ctx.font = `${active ? 'bold ' : ''}${Math.max(7, fontSize)}px "JetBrains Mono", monospace`;
         ctx.fillStyle = active ? '#fff' : '#666';
         ctx.textAlign = 'center';
-        ctx.fillText(p.agent.name, p.x, p.y + p.radius + 12);
+        ctx.fillText(p.agent.name, sx, sy + sr + 12 * zoom);
       });
 
-      // Check hover
+      // Check hover (use screen-space mouse coords)
+      const mx = mouseRef.current.x;
+      const my = mouseRef.current.y;
       if (hoveredRef.current !== null) {
         const p = particles[hoveredRef.current];
         if (p) {
-          const dx = p.x - mx;
-          const dy = p.y - my;
-          if (Math.sqrt(dx * dx + dy * dy) > (activeIdsRef.current.has(p.agent.name) ? 18 : 10)) {
+          const dx = tx(p.x) - mx;
+          const dy = ty(p.y) - my;
+          if (Math.sqrt(dx * dx + dy * dy) > (activeIdsRef.current.has(p.agent.name) ? 22 : 14)) {
             hoveredRef.current = null;
             setTooltip(null);
           }
@@ -287,13 +311,20 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
     mouseRef.current.x = mx;
     mouseRef.current.y = my;
 
+    if (isPanningRef.current) {
+      panRef.current.x = panStartRef.current.panX + (mx - panStartRef.current.x);
+      panRef.current.y = panStartRef.current.panY + (my - panStartRef.current.y);
+      return;
+    }
+
     // Update dragged node position
     if (dragNodeRef.current !== null) {
       const particles = particlesRef.current;
       const p = particles[dragNodeRef.current];
       if (p) {
-        p.baseX = mx - dragOffsetRef.current.x;
-        p.baseY = my - dragOffsetRef.current.y;
+        const z = zoomRef.current;
+        p.baseX = (mx - panRef.current.x) / z - dragOffsetRef.current.x;
+        p.baseY = (my - panRef.current.y) / z - dragOffsetRef.current.y;
         p.x = p.baseX;
         p.y = p.baseY;
       }
@@ -320,17 +351,49 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       const dy = p.y - my;
       if (Math.sqrt(dx * dx + dy * dy) < p.radius + 6) {
         dragNodeRef.current = i;
-        dragOffsetRef.current.x = mx - p.x;
-        dragOffsetRef.current.y = my - p.y;
+        dragOffsetRef.current.x = (mx - panRef.current.x) / zoomRef.current - p.x;
+        dragOffsetRef.current.y = (my - panRef.current.y) / zoomRef.current - p.y;
         setIsDragging(true);
-        break;
+        return;
       }
     }
+    // Check dept label hit
+    const deptList = [...new Set(particles.map(p => p.dept))];
+    const labelPositions = deptLabelPosRef.current;
+    for (const dept of deptList) {
+      const pos = labelPositions[dept];
+      if (!pos) continue;
+      const dx = pos.x - mx;
+      const dy = pos.y - my;
+      if (Math.abs(dx) < 80 && Math.abs(dy) < 14) {
+        dragNodeRef.current = -1; // special: dragging label
+        dragOffsetRef.current.dept = dept;
+        dragOffsetRef.current.x = mx - pos.x;
+        dragOffsetRef.current.y = my - pos.y;
+        setIsDragging(true);
+        return;
+      }
+    }
+    // Start panning
+    isPanningRef.current = true;
+    panStartRef.current = { x: mx, y: my, panX: panRef.current.x, panY: panRef.current.y };
   };
 
   const handleMouseUp = useCallback(() => {
-    if (dragNodeRef.current !== null) {
-      // Save positions to localStorage
+    if (dragNodeRef.current === -1) {
+      // Save dept label position
+      const dept = dragOffsetRef.current.dept;
+      deptLabelPosRef.current[dept] = {
+        x: mouseRef.current.x - dragOffsetRef.current.x,
+        y: mouseRef.current.y - dragOffsetRef.current.y,
+      };
+      try {
+        localStorage.setItem('trivance_dept_labels', JSON.stringify(deptLabelPosRef.current));
+      } catch {}
+      dragNodeRef.current = null;
+      setIsDragging(false);
+    } else if (dragNodeRef.current !== null) {
+      // Save node positions to localStorage
       try {
         const positions = {};
         particlesRef.current.forEach((p) => {
@@ -341,6 +404,22 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       dragNodeRef.current = null;
       setIsDragging(false);
     }
+    if (isPanningRef.current) {
+      isPanningRef.current = false;
+    }
+  }, []);
+
+  const handleWheel = useCallback((e) => {
+    e.preventDefault();
+    const rect = canvasRef.current.getBoundingClientRect();
+    const mx = e.clientX - rect.left;
+    const my = e.clientY - rect.top;
+    const delta = e.deltaY > 0 ? 0.9 : 1.1;
+    const newZoom = Math.max(0.3, Math.min(3, zoomRef.current * delta));
+    // Zoom toward mouse position
+    panRef.current.x = mx - (mx - panRef.current.x) * (newZoom / zoomRef.current);
+    panRef.current.y = my - (my - panRef.current.y) * (newZoom / zoomRef.current);
+    zoomRef.current = newZoom;
   }, []);
 
   // Global mouseup to catch drag release outside canvas
@@ -350,7 +429,7 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
   }, [handleMouseUp]);
 
   return (
-    <div className="relative w-full" style={{ height: '40vh', minHeight: '280px' }}>
+    <div className="relative w-full" style={{ height: '50vh', minHeight: '380px' }}>
       <canvas
         ref={canvasRef}
         className="w-full h-full"
@@ -358,6 +437,7 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         onMouseDown={handleMouseDown}
         onMouseMove={handleMouseMove}
         onMouseLeave={handleMouseLeave}
+        onWheel={handleWheel}
       />
       {tooltip && (
         <div
