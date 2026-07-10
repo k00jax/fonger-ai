@@ -85,18 +85,29 @@ export default function BooksPage() {
             <div className="w-12 h-12 rounded-xl bg-[#22d3ee]/10 text-[#22d3ee] flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
               🌌
             </div>
-            <h2 className="text-xl font-bold text-white leading-tight mb-3">
+            <h2 className="text-xl font-bold text-white leading-tight mb-2">
               Where Are You
             </h2>
+            <p className="text-gray-500 text-sm mb-4 leading-relaxed">The Bible as a Map of Consciousness</p>
             <span className="inline-block px-3 py-1 bg-[#22d3ee]/10 text-[#22d3ee] text-xs rounded-full mb-5 font-medium tracking-wide">
               Final Draft · June 2026 · 174 pages
             </span>
-            <p className="text-gray-400 leading-relaxed text-sm mb-4">
-              The Bible as a map of consciousness. A sympathetic reading of the
-              biblical tradition that treats scripture not as a rulebook or a
-              history text, but as a guide to the inner landscape.
+            <p className="text-gray-400 leading-relaxed text-sm mb-5">
+              A sympathetic reading of the biblical tradition that treats
+              scripture not as a rulebook or a history text, but as a guide to
+              the inner landscape.
             </p>
-            <p className="text-gray-500 text-xs uppercase tracking-wider mt-2">K.W.F.</p>
+            <a
+              href="/where-are-you.pdf"
+              download
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-[#22d3ee]/20 text-[#22d3ee] text-sm rounded-lg font-medium hover:bg-[#22d3ee]/30 transition-all duration-300"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+              </svg>
+              Download PDF
+            </a>
+            <p className="text-gray-500 text-xs uppercase tracking-wider mt-5">K.W.F.</p>
             <p className="text-gray-600 text-xs">Biblical interpretation, consciousness studies, perennial philosophy.</p>
           </div>
         </div>
