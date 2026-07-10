@@ -213,7 +213,7 @@ export default function Home() {
           <div className="bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 sm:p-10 card-hover">
             <h2 className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">About</h2>
             <p className="text-gray-300 leading-relaxed text-base sm:text-lg max-w-2xl text-balance">
-              BA in Philosophy. Enterprise AE at Paylocity. Founder of Trivance AI.
+              BA in Philosophy. Experienced sales rep across half a dozen industries. Founder of Trivance AI.
               Father of three. Martial artist. Building autonomous agent swarms and
               writing about the ideas that shape us. Based in the Midwest, shipping
               from the basement.
@@ -251,7 +251,7 @@ export default function Home() {
               href="/swarm/"
               icon="⚡"
               title="The Swarm"
-              description="Live demos and portfolio: NakedLeadGen, DealPilot, The Questionarium."
+              description="Live demos and portfolio: NakedLeadGen, Paylocity Sales Hub, The Questionarium."
             />
             <NavigationCard
               href="/family/"

@@ -22,7 +22,7 @@ export default function SwarmPage() {
     },
     {
       icon: '📞',
-      title: 'DealPilot',
+      title: 'Paylocity Sales Hub',
       tagline: 'Sales Call Intelligence',
       description:
         'Real-time agent assistance during sales calls. Call transcription, objection handling prompts, and post-call summaries. Like having a strategist in your ear.',

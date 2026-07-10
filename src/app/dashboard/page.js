@@ -651,7 +651,7 @@ function SlidingDrawer({ side, storageKey, label, width, badge, children }) {
       {!open && (
         <button
           onClick={toggle}
-          className={`fixed top-1/2 -translate-y-1/2 z-30 px-1.5 py-6 bg-[#0d0d1a] border border-[#1a1a2e] text-[#33ff33] text-[10px] font-mono uppercase tracking-wider hover:bg-[#1a1a2e] transition-colors cursor-pointer ${
+          className={`fixed top-1/2 -translate-y-1/2 z-50 px-1.5 py-6 bg-[#0d0d1a] border border-[#1a1a2e] text-[#33ff33] text-[10px] font-mono uppercase tracking-wider hover:bg-[#1a1a2e] transition-colors cursor-pointer ${
             isLeft ? 'left-0 rounded-r-md' : 'right-0 rounded-l-md'
           }`}
           style={{ writingMode: 'vertical-rl' }}
@@ -662,7 +662,7 @@ function SlidingDrawer({ side, storageKey, label, width, badge, children }) {
 
       {/* Sliding panel */}
       <div
-        className={`fixed top-0 ${isLeft ? 'left-0' : 'right-0'} h-full z-30 bg-[#0d0d1a] border-l border-r border-[#1a1a2e] overflow-y-auto shadow-2xl`}
+        className={`fixed top-0 ${isLeft ? 'left-0' : 'right-0'} h-full z-40 bg-[#0d0d1a] border-l border-r border-[#1a1a2e] overflow-y-auto shadow-2xl`}
         style={{
           width: `${width}px`,
           transform: open ? transformOpen : transformClosed,
@@ -763,8 +763,23 @@ function SwarmDashboard() {
         aria-hidden="true"
       />
 
-      <div className="relative z-10 flex">
-        {/* LEFT: Sliding Agent Drawer */}
+      <div className="relative z-10">
+        {/* Stats Bar */}
+        <StatsBar
+          agents={agents}
+          active={active}
+          depts={depts}
+          scrollToDept={scrollToDept}
+        />
+
+        {/* Canvas — always full width, drawers overlay on top */}
+        <div className="px-4 py-2">
+          <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
+            <ParticleSwarm agents={agents} activeIds={activeIds} />
+          </div>
+        </div>
+
+        {/* LEFT: Sliding Agent Drawer (overlay) */}
         <SlidingDrawer
           side="left"
           storageKey="agent-list"
@@ -788,25 +803,7 @@ function SwarmDashboard() {
           </div>
         </SlidingDrawer>
 
-        {/* CENTER: Full-width content */}
-        <div className="flex-1 min-w-0">
-          {/* Stats Bar */}
-          <StatsBar
-            agents={agents}
-            active={active}
-            depts={depts}
-            scrollToDept={scrollToDept}
-          />
-
-          {/* Canvas particle swarm — full width */}
-          <div className="px-4 py-4">
-            <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
-              <ParticleSwarm agents={agents} activeIds={activeIds} />
-            </div>
-          </div>
-        </div>
-
-        {/* RIGHT: Sliding Feed Drawer */}
+        {/* RIGHT: Sliding Feed Drawer (overlay) */}
         <SlidingDrawer
           side="right"
           storageKey="live-feed"

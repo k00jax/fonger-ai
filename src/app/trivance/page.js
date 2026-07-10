@@ -111,7 +111,7 @@ export default function TrivancePage() {
           <h2 className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">Backed By</h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             {[
-              { label: 'BA Philosophy', desc: 'Critical thinking and systems analysis' },
+              { label: 'Philosophy Background', desc: 'Critical thinking and systems analysis' },
               { label: '10 Years Sales', desc: 'Deep understanding of business operations' },
               { label: 'Prompt Engineering', desc: 'Certification from Vanderbilt University' },
             ].map((item) => (

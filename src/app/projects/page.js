@@ -43,12 +43,36 @@ const projects = [
     tech: ['Shopify', 'Printify', 'Python', 'Automation'],
   },
   {
-    name: 'DealPilot',
+    name: 'Paylocity Sales Hub',
     description:
       'An AI sales call assistant that provides real-time guidance during calls, post-call summaries, and CRM integration. Like having a strategist in your ear.',
     status: 'development',
     link: null,
     tech: ['Python', 'Whisper', 'GPT-4o', 'CRM API'],
+  },
+  {
+    name: 'AetherChat',
+    description:
+      'AI API arbitrage platform. Pay-per-use access to Claude, Gemini, Qwen, and more. Stripe checkout, zero subscriptions. Multi-model chat with usage-based pricing.',
+    status: 'live',
+    link: null,
+    tech: ['Next.js', 'Stripe', 'Claude API', 'Gemini API'],
+  },
+  {
+    name: 'Payroll Map',
+    description:
+      'Interactive US map of state payroll forms for employers. Visualizes complex payroll compliance requirements across all 50 states.',
+    status: 'live',
+    link: null,
+    tech: ['Next.js', 'D3.js', 'GeoJSON'],
+  },
+  {
+    name: 'FTA Navigator',
+    description:
+      'First Time Assignment navigator. Streamlines the process of setting up new client payroll tax accounts across jurisdictions.',
+    status: 'development',
+    link: null,
+    tech: ['Python', 'Automation', 'Tax API'],
   },
 ];
 
