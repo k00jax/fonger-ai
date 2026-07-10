@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef, useCallback, memo } from 'react';
 import PasswordGate from '../../components/PasswordGate';
 
 const DEPT_COLORS = {
@@ -39,7 +39,7 @@ function hexToRgba(hex, alpha) {
 
 // ─── Particle Swarm Canvas ──────────────────────────────────────────────
 
-function ParticleSwarm({ agents, activeIds }) {
+const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
   const canvasRef = useRef(null);
   const animRef = useRef(null);
   const particlesRef = useRef([]);
@@ -134,19 +134,9 @@ function ParticleSwarm({ agents, activeIds }) {
         const active = activeIdsRef.current.has(p.agent.name);
         const color = DEPT_COLORS[p.dept] || '#888';
 
-        // Stable positions — snap to base, gentle breathing only
-        p.x += (p.baseX - p.x) * 0.1;
-        p.y += (p.baseY - p.y) * 0.1;
-
-        // Mouse repulsion
-        const dx = p.x - mx;
-        const dy = p.y - my;
-        const dist = Math.sqrt(dx * dx + dy * dy);
-        if (dist < 100 && dist > 0) {
-          const force = (100 - dist) / 100 * 1.5;
-          p.x += (dx / dist) * force;
-          p.y += (dy / dist) * force;
-        }
+        // Stable positions — snap to base
+        p.x += (p.baseX - p.x) * 0.08;
+        p.y += (p.baseY - p.y) * 0.08;
 
         // Draw connection lines to nearby same-dept particles
         const connDist = 130;
@@ -295,7 +285,7 @@ function ParticleSwarm({ agents, activeIds }) {
       )}
     </div>
   );
-}
+});
 
 // ─── Stats Bar ──────────────────────────────────────────────────────────
 
