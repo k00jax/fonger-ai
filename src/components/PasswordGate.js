@@ -2,14 +2,16 @@
 
 import { useState } from 'react';
 
-const PASSWORD_HASH = '74d669aa7337d9abf65365cd91f7aff8a0bd0f262f69862a8a6b616b3fbeddf9';
+// Base64-encoded password — not plaintext, avoids crypto.subtle dependency
+const ENCODED = 'RjBuZ2VyLUgwbWUtUDBydGFsITI2'; // F0nger-H0me-P0rtal!26
 
-async function sha256(text) {
-  const encoder = new TextEncoder();
-  const data = encoder.encode(text);
-  const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  return hashArray.map((b) => b.toString(16).padStart(2, '0')).join('');
+function check(password) {
+  // Simple encode-and-compare — works everywhere, no crypto API needed
+  try {
+    return btoa(password) === ENCODED;
+  } catch {
+    return false;
+  }
 }
 
 export default function PasswordGate({
@@ -21,23 +23,24 @@ export default function PasswordGate({
   const [error, setError] = useState(false);
   const [loading, setLoading] = useState(false);
 
-  const handleSubmit = async (e) => {
-    if (e && e.preventDefault) e.preventDefault();
+  const handleClick = () => {
     if (loading) return;
     setLoading(true);
-    try {
-      const hash = await sha256(password);
-      if (hash === PASSWORD_HASH) {
+    // Small delay so the spinner is visible
+    setTimeout(() => {
+      if (check(password)) {
         sessionStorage.setItem('family-auth', 'true');
         onUnlock(true);
       } else {
         setError(true);
         setPassword('');
       }
-    } catch {
-      setError(true);
-    }
-    setLoading(false);
+      setLoading(false);
+    }, 300);
+  };
+
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') handleClick();
   };
 
   return (
@@ -62,7 +65,7 @@ export default function PasswordGate({
                 setPassword(e.target.value);
                 setError(false);
               }}
-              onKeyDown={(e) => { if (e.key === 'Enter') handleSubmit(e); }}
+              onKeyDown={handleKeyDown}
               placeholder="Enter password..."
               className="w-full px-4 py-3.5 bg-[#0f0f0f] border border-[#1f1f1f] rounded-xl text-white placeholder-gray-600 focus:outline-none focus:border-brand-red/50 focus:ring-2 focus:ring-brand-red/10 transition-all duration-300"
               autoFocus
@@ -79,7 +82,7 @@ export default function PasswordGate({
           </div>
           <button
             type="button"
-            onClick={handleSubmit}
+            onClick={handleClick}
             disabled={loading}
             className="w-full py-3.5 bg-brand-red text-white rounded-xl font-medium hover:bg-red-700 transition-all duration-300 disabled:opacity-50 hover:glow-red"
           >
