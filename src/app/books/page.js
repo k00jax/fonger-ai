@@ -12,7 +12,7 @@ export default function BooksPage() {
         </div>
 
         {/* Book Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
           {/* Book 1: WTFAYTA */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover transition-all duration-500">
             <div className="w-12 h-12 rounded-xl bg-brand-red/10 text-brand-red flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
@@ -76,6 +76,26 @@ export default function BooksPage() {
             </p>
 
             <p className="text-gray-600 text-xs">Conspiracy theory analysis, cultural history.</p>
+          </div>
+
+          {/* Book 3: Where Are You */}
+          <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover transition-all duration-500">
+            <div className="w-12 h-12 rounded-xl bg-[#22d3ee]/10 text-[#22d3ee] flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
+              🌌
+            </div>
+            <h2 className="text-xl font-bold text-white leading-tight mb-3">
+              Where Are You
+            </h2>
+            <span className="inline-block px-3 py-1 bg-[#22d3ee]/10 text-[#22d3ee] text-xs rounded-full mb-5 font-medium tracking-wide">
+              Final Draft · June 2026 · 174 pages
+            </span>
+            <p className="text-gray-400 leading-relaxed text-sm mb-4">
+              The Bible as a map of consciousness. A sympathetic reading of the
+              biblical tradition that treats scripture not as a rulebook or a
+              history text, but as a guide to the inner landscape.
+            </p>
+            <p className="text-gray-500 text-xs uppercase tracking-wider mt-2">K.W.F.</p>
+            <p className="text-gray-600 text-xs">Biblical interpretation, consciousness studies, perennial philosophy.</p>
           </div>
         </div>
 
