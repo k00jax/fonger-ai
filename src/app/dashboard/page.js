@@ -47,6 +47,9 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
   const activeIdsRef = useRef(activeIds);
   activeIdsRef.current = activeIds; // Always current for animation loop
   const hoveredRef = useRef(null);
+  const dragNodeRef = useRef(null);
+  const dragOffsetRef = useRef({ x: 0, y: 0 });
+  const [isDragging, setIsDragging] = useState(false);
   const [tooltip, setTooltip] = useState(null);
 
   const initParticles = useCallback(() => {
@@ -58,27 +61,37 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
     const H = canvas.height;
     const cx = W / 2;
     const cy = H / 2;
-    const radius = Math.min(W, H) * 0.35;
+    const radius = Math.min(W, H) * 0.42;
 
     // Place department cluster centers in a circle
     depts.forEach((dept, i) => {
       const angle = (i / depts.length) * Math.PI * 2 - Math.PI / 2;
       deptCenters[dept] = {
-        x: cx + Math.cos(angle) * radius * 0.7,
-        y: cy + Math.sin(angle) * radius * 0.7,
+        x: cx + Math.cos(angle) * radius * 0.8,
+        y: cy + Math.sin(angle) * radius * 0.8,
       };
     });
 
+    // Load saved positions from localStorage
+    let savedPositions = {};
+    try {
+      if (typeof window !== 'undefined') {
+        const stored = localStorage.getItem('trivance_node_positions');
+        if (stored) savedPositions = JSON.parse(stored);
+      }
+    } catch {}
+
     const particles = agents.map((agent, i) => {
       const center = deptCenters[agent.dept] || { x: cx, y: cy };
+      const saved = savedPositions[agent.name];
       return {
         id: i,
         agent,
-        x: center.x + (Math.random() - 0.5) * radius * 0.6,
-        y: center.y + (Math.random() - 0.5) * radius * 0.6,
-        baseX: center.x,
-        baseY: center.y,
-        radius: 11 + Math.random() * 3,
+        x: saved ? saved.x : center.x + (Math.random() - 0.5) * radius * 0.8,
+        y: saved ? saved.y : center.y + (Math.random() - 0.5) * radius * 0.8,
+        baseX: saved ? saved.x : center.x,
+        baseY: saved ? saved.y : center.y,
+        radius: 9 + Math.random() * 2,
         phase: Math.random() * Math.PI * 2,
         dept: agent.dept,
         active: activeIds.has(agent.name),
@@ -142,7 +155,7 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         ctx.font = 'bold 11px \"JetBrains Mono\", monospace';
         ctx.fillStyle = hexToRgba(color, 0.5);
         ctx.textAlign = 'center';
-        ctx.fillText(`${icon} ${dept.toUpperCase()}`, cx, cy - 70);
+        ctx.fillText(`${icon} ${dept.toUpperCase()}`, cx, cy - 85);
       });
 
       // ── Draw connection lines ──
@@ -153,8 +166,8 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
           const dx = p.x - q.x;
           const dy = p.y - q.y;
           const dist = Math.sqrt(dx * dx + dy * dy);
-          if (dist < 150) {
-            const alpha = (1 - dist / 150) * 0.1;
+          if (dist < 180) {
+            const alpha = (1 - dist / 180) * 0.1;
             ctx.strokeStyle = hexToRgba(DEPT_COLORS[p.dept] || '#888', alpha);
             ctx.lineWidth = 0.5;
             ctx.beginPath();
@@ -169,8 +182,11 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       particles.forEach((p) => {
         const active = activeIdsRef.current.has(p.agent.name);
         const color = DEPT_COLORS[p.dept] || '#888';
-        p.x += (p.baseX - p.x) * 0.08;
-        p.y += (p.baseY - p.y) * 0.08;
+        const isDragged = dragNodeRef.current === p.id;
+        if (!isDragged) {
+          p.x += (p.baseX - p.x) * 0.08;
+          p.y += (p.baseY - p.y) * 0.08;
+        }
 
         // Outer glow for active
         if (active) {
@@ -200,12 +216,24 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
           ctx.fill();
         }
 
+        // Drag visual: increased radius ring
+        if (isDragged) {
+          const dragR = p.radius + 4;
+          ctx.strokeStyle = hexToRgba(color, 0.8);
+          ctx.lineWidth = 2;
+          ctx.setLineDash([4, 3]);
+          ctx.beginPath();
+          ctx.arc(p.x, p.y, dragR, 0, Math.PI * 2);
+          ctx.stroke();
+          ctx.setLineDash([]);
+        }
+
         // Label
         const fontSize = active ? 10 : 9;
         ctx.font = `${active ? 'bold ' : ''}${fontSize}px \"JetBrains Mono\", monospace`;
         ctx.fillStyle = active ? '#fff' : '#666';
         ctx.textAlign = 'center';
-        ctx.fillText(p.agent.name, p.x, p.y + p.radius + 14);
+        ctx.fillText(p.agent.name, p.x, p.y + p.radius + 12);
       });
 
       // Check hover
@@ -254,8 +282,22 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
 
   const handleMouseMove = (e) => {
     const rect = canvasRef.current.getBoundingClientRect();
-    mouseRef.current.x = e.clientX - rect.left;
-    mouseRef.current.y = e.clientY - rect.top;
+    const mx = e.clientX - rect.left;
+    const my = e.clientY - rect.top;
+    mouseRef.current.x = mx;
+    mouseRef.current.y = my;
+
+    // Update dragged node position
+    if (dragNodeRef.current !== null) {
+      const particles = particlesRef.current;
+      const p = particles[dragNodeRef.current];
+      if (p) {
+        p.baseX = mx - dragOffsetRef.current.x;
+        p.baseY = my - dragOffsetRef.current.y;
+        p.x = p.baseX;
+        p.y = p.baseY;
+      }
+    }
   };
 
   const handleMouseLeave = () => {
@@ -265,11 +307,55 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
     setTooltip(null);
   };
 
+  const handleMouseDown = (e) => {
+    const rect = canvasRef.current.getBoundingClientRect();
+    const mx = e.clientX - rect.left;
+    const my = e.clientY - rect.top;
+    const particles = particlesRef.current;
+
+    // Find clicked node (reverse to get topmost)
+    for (let i = particles.length - 1; i >= 0; i--) {
+      const p = particles[i];
+      const dx = p.x - mx;
+      const dy = p.y - my;
+      if (Math.sqrt(dx * dx + dy * dy) < p.radius + 6) {
+        dragNodeRef.current = i;
+        dragOffsetRef.current.x = mx - p.x;
+        dragOffsetRef.current.y = my - p.y;
+        setIsDragging(true);
+        break;
+      }
+    }
+  };
+
+  const handleMouseUp = useCallback(() => {
+    if (dragNodeRef.current !== null) {
+      // Save positions to localStorage
+      try {
+        const positions = {};
+        particlesRef.current.forEach((p) => {
+          positions[p.agent.name] = { x: p.baseX, y: p.baseY };
+        });
+        localStorage.setItem('trivance_node_positions', JSON.stringify(positions));
+      } catch {}
+      dragNodeRef.current = null;
+      setIsDragging(false);
+    }
+  }, []);
+
+  // Global mouseup to catch drag release outside canvas
+  useEffect(() => {
+    window.addEventListener('mouseup', handleMouseUp);
+    return () => window.removeEventListener('mouseup', handleMouseUp);
+  }, [handleMouseUp]);
+
   return (
     <div className="relative w-full" style={{ height: '40vh', minHeight: '280px' }}>
       <canvas
         ref={canvasRef}
-        className="w-full h-full cursor-crosshair"
+        className="w-full h-full"
+        style={{ cursor: isDragging ? 'grabbing' : 'grab' }}
+        onMouseDown={handleMouseDown}
         onMouseMove={handleMouseMove}
         onMouseLeave={handleMouseLeave}
       />
@@ -522,67 +608,98 @@ function LiveFeed({ events }) {
   );
 }
 
-// ─── Collapsible Panel ──────────────────────────────────────────────────
+// ─── Sliding Drawer Panel ───────────────────────────────────────────────
 
 /**
- * A panel that can be collapsed. State is persisted to localStorage.
- * When collapsed, shows only the toggle button with a badge.
+ * Fixed-position drawer that slides in/out from the left or right edge.
+ * State is persisted to localStorage.
+ * When closed, shows a thin tab on the edge with a toggle arrow.
  */
-function CollapsiblePanel({ storageKey, title, badge, children, className }) {
-  const [collapsed, setCollapsed] = useState(() => {
+function SlidingDrawer({ side, storageKey, label, width, badge, children }) {
+  const [open, setOpen] = useState(() => {
     if (typeof window !== 'undefined') {
-      const stored = localStorage.getItem(`panel-collapse-${storageKey}`);
+      const stored = localStorage.getItem(`sliding-drawer-${storageKey}`);
       if (stored !== null) return stored === 'true';
     }
     return false;
   });
 
   const toggle = () => {
-    setCollapsed((prev) => {
+    setOpen((prev) => {
       const next = !prev;
-      localStorage.setItem(`panel-collapse-${storageKey}`, String(next));
+      localStorage.setItem(`sliding-drawer-${storageKey}`, String(next));
       return next;
     });
   };
 
-  return (
-    <div className={`bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden ${className || ''}`}>
-      {/* Toggle header */}
-      <button
-        onClick={toggle}
-        className="w-full flex items-center gap-2.5 px-4 py-3 border-b border-[#1a1a2e] text-left hover:bg-[#0d0d1f] transition-colors"
-      >
-        <svg
-          className={`w-3.5 h-3.5 text-gray-500 transition-transform duration-300 ${
-            collapsed ? '' : 'rotate-90'
-          }`}
-          fill="currentColor"
-          viewBox="0 0 20 20"
-        >
-          <path d="M7 4l8 6-8 6V4z" />
-        </svg>
-        <span
-          className={`text-xs font-bold uppercase tracking-widest ${
-            collapsed ? 'text-gray-600' : 'text-gray-400'
-          }`}
-        >
-          {collapsed ? `\u25B6 ${title}` : `\u25BC ${title}`}
-        </span>
-        {badge != null && (
-          <span className="ml-auto text-[10px] text-gray-600 font-mono">{badge}</span>
-        )}
-      </button>
+  const isLeft = side === 'left';
+  const transformOpen = 'translateX(0)';
+  const transformClosed = isLeft ? 'translateX(-100%)' : 'translateX(100%)';
 
-      {/* Collapsible content */}
+  return (
+    <>
+      {/* Backdrop overlay (mobile) */}
+      {open && (
+        <div
+          className="fixed inset-0 z-40 bg-black/40 lg:hidden"
+          onClick={toggle}
+          aria-hidden="true"
+        />
+      )}
+
+      {/* Tab toggle (visible when closed) */}
+      {!open && (
+        <button
+          onClick={toggle}
+          className={`fixed top-1/2 -translate-y-1/2 z-30 px-1.5 py-6 bg-[#0d0d1a] border border-[#1a1a2e] text-[#33ff33] text-[10px] font-mono uppercase tracking-wider hover:bg-[#1a1a2e] transition-colors cursor-pointer ${
+            isLeft ? 'left-0 rounded-r-md' : 'right-0 rounded-l-md'
+          }`}
+          style={{ writingMode: 'vertical-rl' }}
+        >
+          {isLeft ? '\u25B6 Agents' : '\u25C0 Feed'}
+        </button>
+      )}
+
+      {/* Sliding panel */}
       <div
-        className={`overflow-hidden transition-all duration-400 ${
-          collapsed ? 'max-h-0 opacity-0' : 'max-h-[2000px] opacity-100'
-        }`}
-        style={{ transitionProperty: 'max-height, opacity' }}
+        className={`fixed top-0 ${isLeft ? 'left-0' : 'right-0'} h-full z-30 bg-[#0d0d1a] border-l border-r border-[#1a1a2e] overflow-y-auto shadow-2xl`}
+        style={{
+          width: `${width}px`,
+          transform: open ? transformOpen : transformClosed,
+          transition: 'transform 0.3s ease',
+        }}
       >
-        {children}
+        {/* Header */}
+        <div className="flex items-center justify-between px-4 py-3 border-b border-[#1a1a2e] sticky top-0 bg-[#0d0d1a] z-20">
+          <span className="text-xs font-bold uppercase tracking-widest text-gray-400">
+            {label}
+          </span>
+          <div className="flex items-center gap-2">
+            {badge != null && (
+              <span className="text-[10px] text-gray-600 font-mono">{badge}</span>
+            )}
+            <button
+              onClick={toggle}
+              className="text-gray-500 hover:text-gray-300 transition-colors p-1"
+              aria-label={`Close ${label}`}
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+                  d={isLeft ? 'M15 19l-7-7 7-7' : 'M9 5l7 7-7 7'} />
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        {/* Content */}
+        <div className="p-3">
+          {children}
+        </div>
       </div>
-    </div>
+
+      {/* Spacer to prevent content shift */}
+      <div style={{ width: open ? `${width}px` : '0px', transition: 'width 0.3s ease', flexShrink: 0 }} />
+    </>
   );
 }
 
@@ -646,61 +763,59 @@ function SwarmDashboard() {
         aria-hidden="true"
       />
 
-      <div className="relative z-10">
-        {/* Stats Bar */}
-        <StatsBar
-          agents={agents}
-          active={active}
-          depts={depts}
-          scrollToDept={scrollToDept}
-        />
+      <div className="relative z-10 flex">
+        {/* LEFT: Sliding Agent Drawer */}
+        <SlidingDrawer
+          side="left"
+          storageKey="agent-list"
+          label="Agents"
+          width={320}
+          badge={`${depts.length} depts`}
+        >
+          <div className="space-y-3">
+            {depts.map((dept) => {
+              const deptAgents = agents.filter((a) => a.dept === dept);
+              return (
+                <DepartmentCard
+                  key={dept}
+                  dept={dept}
+                  agents={deptAgents}
+                  activeIds={activeIds}
+                  defaultExpanded={depts.length <= 5}
+                />
+              );
+            })}
+          </div>
+        </SlidingDrawer>
 
-        {/* Three-Column Layout: Agents | Canvas | Feed */}
-        <div className="max-w-[1600px] mx-auto px-4 py-4">
-          <div className="flex flex-col lg:flex-row gap-4">
-            {/* LEFT: Agent List (collapsible) */}
-            <div className="lg:w-1/4 flex-shrink-0">
-              <CollapsiblePanel
-                storageKey="agent-list"
-                title="Agents"
-                badge={`${depts.length} depts`}
-              >
-                <div className="p-3 space-y-3">
-                  {depts.map((dept) => {
-                    const deptAgents = agents.filter((a) => a.dept === dept);
-                    return (
-                      <DepartmentCard
-                        key={dept}
-                        dept={dept}
-                        agents={deptAgents}
-                        activeIds={activeIds}
-                        defaultExpanded={depts.length <= 5}
-                      />
-                    );
-                  })}
-                </div>
-              </CollapsiblePanel>
-            </div>
+        {/* CENTER: Full-width content */}
+        <div className="flex-1 min-w-0">
+          {/* Stats Bar */}
+          <StatsBar
+            agents={agents}
+            active={active}
+            depts={depts}
+            scrollToDept={scrollToDept}
+          />
 
-            {/* CENTER: Canvas particle swarm */}
-            <div className="lg:flex-1">
-              <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
-                <ParticleSwarm agents={agents} activeIds={activeIds} />
-              </div>
-            </div>
-
-            {/* RIGHT: Live Feed (collapsible) */}
-            <div className="lg:w-1/4 flex-shrink-0">
-              <CollapsiblePanel
-                storageKey="live-feed"
-                title="Feed"
-                badge={`${(state.events || []).length} events`}
-              >
-                <LiveFeed events={state.events} />
-              </CollapsiblePanel>
+          {/* Canvas particle swarm — full width */}
+          <div className="px-4 py-4">
+            <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
+              <ParticleSwarm agents={agents} activeIds={activeIds} />
             </div>
           </div>
         </div>
+
+        {/* RIGHT: Sliding Feed Drawer */}
+        <SlidingDrawer
+          side="right"
+          storageKey="live-feed"
+          label="Feed"
+          width={300}
+          badge={`${(state.events || []).length} events`}
+        >
+          <LiveFeed events={state.events} />
+        </SlidingDrawer>
       </div>
     </div>
   );
