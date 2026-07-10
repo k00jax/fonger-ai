@@ -11,35 +11,47 @@ export default function BooksPage() {
           </p>
         </div>
 
-        {/* Book Cards */}
+        {/* Book Cards — newest to oldest */}
         <div className="grid grid-cols-1 gap-6 mb-16">
-          {/* Book 1: WTFAYTA */}
+
+          {/* Book 1: Manufacturing Monsters (most recent) */}
+          <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover-orange transition-all duration-500">
+            <div className="w-12 h-12 rounded-xl bg-brand-orange/10 text-brand-orange flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
+              🔍
+            </div>
+            <h2 className="text-xl font-bold text-white leading-tight mb-3">
+              Manufacturing Monsters
+            </h2>
+            <span className="inline-block px-3 py-1 bg-brand-orange/10 text-brand-orange text-xs rounded-full mb-5 font-medium tracking-wide">
+              In Progress
+            </span>
+            <p className="text-gray-400 leading-relaxed text-sm mb-4">
+              From the satanic panic of the 1980s to QAnon and the modern conspiracy
+              landscape. A deep analysis of how we manufacture moral panics and the
+              monsters we need to believe in.
+            </p>
+            <p className="text-gray-600 text-xs">Conspiracy theory analysis, cultural history.</p>
+          </div>
+
+          {/* Book 2: WTFAYTA */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover transition-all duration-500">
             <div className="w-12 h-12 rounded-xl bg-brand-red/10 text-brand-red flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
               📖
             </div>
-
-            <div className="flex items-center gap-3 mb-3">
-              <h2 className="text-xl font-bold text-white leading-tight">
-                What the Fuck Are You Talking About?
-              </h2>
-            </div>
-
-            <p className="text-gray-500 text-sm mb-3 leading-relaxed">A History of Metaphysical Ideas, from Apocalypse to the Ground of Being</p>
-
-            <span className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-5 font-medium tracking-wide">
-              24th Draft
+            <h2 className="text-xl font-bold text-white leading-tight mb-2">
+              What the Fuck Are You Talking About?
+            </h2>
+            <p className="text-gray-500 text-sm mb-4 leading-relaxed">A History of Metaphysical Ideas, from Apocalypse to the Ground of Being</p>
+            <span className="inline-block px-3 py-1 bg-green-500/10 text-green-400 text-xs rounded-full mb-5 font-medium tracking-wide">
+              Complete
             </span>
-
             <p className="text-gray-400 leading-relaxed text-sm mb-4">
               A journey through philosophy and comparative religion for people who
               are tired of jargon and academic gatekeeping. Clear thinking about big
-              ideas. No fluff. No footnotes that take up half the page. Just the
-              questions that matter and the traditions that have tried to answer them.
+              ideas. No fluff. Just the questions that matter and the traditions
+              that have tried to answer them.
             </p>
-
             <p className="text-gray-600 text-xs">Philosophy, comparative religion, and honest inquiry.</p>
-
             <a
               href="https://youtu.be/ElUaKsgD4es"
               target="_blank"
@@ -54,33 +66,7 @@ export default function BooksPage() {
             </a>
           </div>
 
-          {/* Book 2: Manufacturing Monsters */}
-          <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover-orange transition-all duration-500">
-            <div className="w-12 h-12 rounded-xl bg-brand-orange/10 text-brand-orange flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
-              🔍
-            </div>
-
-            <div className="flex items-center gap-3 mb-3">
-              <h2 className="text-xl font-bold text-white leading-tight">
-                Manufacturing Monsters
-              </h2>
-            </div>
-
-            <span className="inline-block px-3 py-1 bg-brand-orange/10 text-brand-orange text-xs rounded-full mb-5 font-medium tracking-wide">
-              In Progress
-            </span>
-
-            <p className="text-gray-400 leading-relaxed text-sm mb-4">
-              From the satanic panic of the 1980s to QAnon and the modern conspiracy
-              landscape. A deep analysis of how we manufacture moral panics and the
-              monsters we need to believe in. Tracing the threads that connect moral
-              panics across decades.
-            </p>
-
-            <p className="text-gray-600 text-xs">Conspiracy theory analysis, cultural history.</p>
-          </div>
-
-          {/* Book 3: Where Are You */}
+          {/* Book 3: Where Are You (oldest) */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover transition-all duration-500">
             <div className="w-12 h-12 rounded-xl bg-[#22d3ee]/10 text-[#22d3ee] flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
               🌌
@@ -117,7 +103,7 @@ export default function BooksPage() {
           <div className="bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 max-w-md mx-auto card-hover">
             <h3 className="text-lg font-semibold text-white mb-3">Get Notified</h3>
             <p className="text-gray-400 mb-6 text-sm leading-relaxed">
-              Both books are actively being written. Drop your email for updates.
+              New books and writing in progress. Drop your email for updates.
             </p>
             <a
               href="mailto:kyle@fonger.ai?subject=Book Updates"
@@ -129,7 +115,7 @@ export default function BooksPage() {
               </svg>
             </a>
             <p className="mt-3 text-gray-600 text-xs">
-              Email kyle@fonger.ai with subject &quot;Book Updates&quot;
+              Email kyle@fonger.ai with subject "Book Updates"
             </p>
           </div>
         </div>
