@@ -8,6 +8,7 @@ export default function NavBar() {
 
   const links = [
     { href: '/trivance/', label: 'Trivance AI' },
+    { href: '/dashboard/', label: 'Dashboard' },
     { href: '/books/', label: 'Books' },
     { href: '/swarm/', label: 'Swarm' },
     { href: '/family/', label: 'Family' },
