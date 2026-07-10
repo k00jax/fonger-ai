@@ -1,176 +1,130 @@
 import Link from 'next/link';
 
+const departments = [
+  { name: 'Director', icon: '🎯', count: 3, agents: 'Director, Dashboard, Gateway', desc: 'Orchestrates the entire swarm. Single point of contact via Discord. Routes tasks to specialists.' },
+  { name: 'Research', icon: '🔬', count: 5, agents: 'Scout, Trend, Intel, Ledger, Circuit', desc: 'Niche discovery, market research, SERP analysis, revenue modeling, AI/automation research.' },
+  { name: 'Design', icon: '🎨', count: 5, agents: 'Pixel, Mockup, Pattern, Type, Brand', desc: 'Vector art, product mockups, print-ready patterns, typography, and brand identity.' },
+  { name: 'Production', icon: '⚙️', count: 5, agents: 'Claude, Printify, OpenCode, Renderer, Canvas', desc: 'Heavy coding via Claude Code CLI, Printify uploads, platform-agnostic coding, Playwright renders, order processing.' },
+  { name: 'Marketing', icon: '📢', count: 5, agents: 'Scribe, Signal, Reel, Inbox, Magnet', desc: 'Long-form content, social media, video, email campaigns, and lead magnets.' },
+  { name: 'Operations', icon: '🔧', count: 6, agents: 'Cron, Monitor, Refresh, Pricer, DescBot, Cleanup', desc: 'Task scheduling, order monitoring, asset sync, price auditing, description generation, duplicate cleanup.' },
+  { name: 'Quality', icon: '✅', count: 3, agents: 'QA-Design, QA-Price, QA-Desc', desc: 'Design review, pricing verification, listing accuracy and SEO audits.' },
+  { name: 'Analytics', icon: '📊', count: 4, agents: 'Analyst-Sales, Analyst-Traffic, Analyst-Margin, Report', desc: 'Sales analytics, traffic reports, profit margin calculations, daily performance summaries.' },
+  { name: 'Strategy', icon: '🧠', count: 4, agents: 'Strategist, Collector, Planner, Scope', desc: 'Niche selection roadmap, competitive intelligence, product roadmap, opportunity scoring.' },
+  { name: 'Security', icon: '🛡️', count: 5, agents: 'Gate, Sentinel, Vault, Watchdog, Audit', desc: 'Pre-commit secret scanning, agent output filtering, encrypted secrets management, network monitoring, config auditing.' },
+];
+
+const howItWorks = [
+  { title: 'Director Dispatch', desc: 'Everything flows through the Director via Discord. The Director analyzes requests, asks clarifying questions, then routes work to the right specialist with structured JSON handoffs.' },
+  { title: 'Specialized Agents', desc: 'Each of the 45 agents has a narrow, deeply-prompted role. No generalists. Every agent knows its department, its tools, and its output format. One-shot execution is the goal.' },
+  { title: 'Activity Reporter', desc: 'A cron job scans system signals every 60 seconds — active Hermes processes, running cron jobs, dispatched agents, and pre-commit hooks — then pushes real-time status to the dashboard.' },
+  { title: 'Cron Scheduler', desc: 'Recurring jobs handle everything from crypto arbitrage monitoring to daily mockup refresh. The scheduler runs autonomous scripts with no human in the loop.' },
+  { title: 'Live Dashboard', desc: 'A canvas-based visualization at fonger.ai/dashboard shows all 45 agents as an interactive node graph. Drag nodes, zoom with scroll, toggle side panels for agent details and live event feeds.' },
+];
+
+const DEPT_COLORS = {
+  director: '#c8ffbe', research: '#f0a030', design: '#4da6ff', production: '#a78bfa',
+  marketing: '#ff6b5e', operations: '#7ddc8a', quality: '#ffd866',
+  analytics: '#5aa2e8', strategy: '#f2c94c', security: '#22d3ee',
+};
+
+const DEPT_ICONS = {
+  director: '🎯', research: '🔬', design: '🎨', production: '⚙️', marketing: '📢',
+  operations: '🔧', quality: '✅', analytics: '📊', strategy: '🧠', security: '🛡️',
+};
+
 export default function SwarmPage() {
-  const projects = [
-    {
-      icon: '🤖',
-      title: 'The Trivance',
-      tagline: '40-Agent Autonomous Swarm',
-      description:
-        'Nine departments operating in concert. A fully autonomous POD pipeline from product research to customer support. Built on a modular agent architecture with inter-department communication protocols.',
-      link: '/dashboard/',
-      linkLabel: 'View Dashboard',
-      variant: 'red',
-    },
-    {
-      icon: '🎯',
-      title: 'NakedLeadGen',
-      tagline: 'Bulk Business Intelligence',
-      description:
-        'Automated lead generation at scale. Business data enrichment, structured prospecting lists, and sales intelligence. Built for B2B sales teams who need clean data fast.',
-      variant: 'orange',
-    },
-    {
-      icon: '📞',
-      title: 'Paylocity Sales Hub',
-      tagline: 'Sales Call Intelligence',
-      description:
-        'Real-time agent assistance during sales calls. Call transcription, objection handling prompts, and post-call summaries. Like having a strategist in your ear.',
-      variant: 'red',
-    },
-    {
-      icon: '❓',
-      title: 'The Questionarium',
-      tagline: 'Wonder-Question Game',
-      description:
-        'A game that asks the biggest questions. Philosophy meets play. Designed to spark curiosity and deep conversation. For kids and adults who still know how to wonder.',
-      variant: 'orange',
-    },
-  ];
-
-  const swarmDepts = [
-    'Research', 'Design', 'Listings', 'Orders', 'QA',
-    'Support', 'Analytics', 'Content', 'Infra',
-  ];
-
   return (
     <div className="min-h-screen pt-24 pb-16 px-4 relative z-10">
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-5xl mx-auto">
         {/* Header */}
-        <div className="animate-fade-in-up mb-16">
-          <p className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">Portfolio</p>
+        <div className="animate-fade-in-up mb-14">
+          <p className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">The Trivance</p>
           <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4 tracking-tight">
             The Swarm
           </h1>
-          <p className="text-lg text-gray-400 leading-relaxed max-w-xl">
-            A portfolio of autonomous agent projects. Live demos where available.
+          <p className="text-lg text-gray-400 leading-relaxed max-w-2xl">
+            45 specialized agents across 10 departments, running on Hermes Desktop. 
+            Orchestrated through a single Director. Autonomous pipelines, live monitoring, 
+            and modular architecture.
           </p>
-        </div>
-
-        {/* Architecture diagram */}
-        <div className="mb-16 animate-fade-in-up animate-delay-100">
-          <h2 className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">Architecture</h2>
-          <div className="bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 text-center card-hover">
-            <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-brand-red/10 text-brand-red text-2xl mb-5">
-              ⚡
-            </div>
-            <h3 className="text-white font-semibold text-lg mb-3">The Swarm Architecture</h3>
-            <p className="text-gray-500 text-sm max-w-md mx-auto mb-7 leading-relaxed">
-              40 agents, 9 departments. Each agent has a specific role. They
-              communicate, delegate, and escalate. The swarm is greater than the
-              sum of its parts.
-            </p>
-
-            {/* Department pills */}
-            <div className="flex flex-wrap justify-center gap-2 max-w-md mx-auto">
-              {swarmDepts.map((dept, i) => (
-                <span
-                  key={dept}
-                  className={`px-3 py-1.5 rounded-full text-xs font-medium border transition-all duration-300 hover:scale-105 ${
-                    i % 2 === 0
-                      ? 'border-brand-red/20 text-brand-red bg-brand-red/5 hover:bg-brand-red/10 hover:border-brand-red/30'
-                      : 'border-brand-orange/20 text-brand-orange bg-brand-orange/5 hover:bg-brand-orange/10 hover:border-brand-orange/30'
-                  }`}
-                >
-                  {dept}
-                </span>
-              ))}
-            </div>
-
-            <div className="mt-5">
-              <span className="text-gray-600 text-xs">
-                <span className="inline-block w-1.5 h-1.5 rounded-full bg-green-600 mr-1.5 animate-pulse" />
-                Inter-agent communication bus
-              </span>
-            </div>
+          <div className="flex gap-3 mt-6">
+            <Link
+              href="/dashboard/"
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-brand-red text-white text-sm rounded-lg font-medium hover:bg-red-700 transition-all hover:glow-red"
+            >
+              View Live Dashboard
+              <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </Link>
           </div>
         </div>
 
-        {/* Projects */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-          {projects.map((project, i) => (
-            <div
-              key={project.title}
-              className={`group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-7 animate-fade-in-up transition-all duration-500
-                ${project.variant === 'orange' ? 'card-hover-orange' : 'card-hover'}`}
-              style={{ animationDelay: `${(i + 2) * 100}ms` }}
-            >
-              <div className="flex items-start gap-4">
-                <div
-                  className={`w-11 h-11 rounded-xl flex items-center justify-center text-xl flex-shrink-0 transition-transform duration-500 group-hover:scale-110 ${
-                    project.variant === 'orange'
-                      ? 'bg-brand-orange/10 text-brand-orange'
-                      : 'bg-brand-red/10 text-brand-red'
-                  }`}
-                >
-                  {project.icon}
+        {/* Department Grid */}
+        <div className="mb-16">
+          <h2 className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-6">Departments</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {departments.map((dept) => (
+              <div
+                key={dept.name}
+                className="bg-[#0f0f0f] border border-[#1f1f1f] rounded-xl p-6 hover:border-[#2a2a3a] transition-all duration-300"
+              >
+                <div className="flex items-center gap-3 mb-3">
+                  <span className="text-lg">{dept.icon}</span>
+                  <h3 className="text-sm font-bold text-white uppercase tracking-wider">{dept.name}</h3>
+                  <span className="ml-auto text-xs text-gray-600 font-mono">{dept.count} agents</span>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <h3 className="text-base font-semibold text-white mb-1">
-                    {project.title}
-                  </h3>
-                  <p
-                    className={`text-xs mb-3 font-medium tracking-wide ${
-                      project.variant === 'orange' ? 'text-brand-orange' : 'text-brand-red'
-                    }`}
-                  >
-                    {project.tagline}
-                  </p>
-                  <p className="text-gray-500 text-sm leading-relaxed mb-4">
-                    {project.description}
-                  </p>
-                  {project.link && (
-                    project.link.startsWith('http') ? (
-                      <a
-                        href={project.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2 px-5 py-2.5 bg-brand-red text-white text-sm rounded-lg font-medium hover:bg-red-700 transition-all duration-300 hover:glow-red"
-                      >
-                        {project.linkLabel}
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                        </svg>
-                      </a>
-                    ) : (
-                      <Link
-                        href={project.link}
-                        className="inline-flex items-center gap-2 px-5 py-2.5 bg-brand-red text-white text-sm rounded-lg font-medium hover:bg-red-700 transition-all duration-300 hover:glow-red"
-                      >
-                        {project.linkLabel}
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                        </svg>
-                      </Link>
-                    )
-                  )}
-                </div>
+                <p className="text-gray-500 text-sm leading-relaxed mb-3">{dept.desc}</p>
+                <p className="text-gray-700 text-xs font-mono">{dept.agents}</p>
               </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
 
-        {/* Contact */}
-        <div className="mt-14 text-center animate-fade-in-up animate-delay-600">
-          <p className="text-gray-600 text-sm">
-            Interested in the swarm?{' '}
-            <a
-              href="mailto:kyle@fonger.ai"
-              className="text-brand-red hover:text-red-400 transition-colors font-medium"
-            >
-              kyle@fonger.ai
-            </a>
+        {/* How It Works */}
+        <div className="mb-16">
+          <h2 className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-6">How It Works</h2>
+          <div className="space-y-4">
+            {howItWorks.map((item) => (
+              <div
+                key={item.title}
+                className="bg-[#0f0f0f] border border-[#1f1f1f] rounded-xl p-6 hover:border-[#2a2a3a] transition-all duration-300"
+              >
+                <h3 className="text-sm font-bold text-white mb-2">{item.title}</h3>
+                <p className="text-gray-500 text-sm leading-relaxed">{item.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Tech Stack */}
+        <div className="mb-16">
+          <h2 className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-6">Built With</h2>
+          <div className="flex flex-wrap gap-2">
+            {['Hermes Desktop', 'DeepSeek v4', 'Python 3.11', 'Next.js 14', 'GitHub Pages', 'Vercel', 'Discord API', 'Shopify API', 'Printify API', 'Google Workspace', 'Power Automate'].map((tech) => (
+              <span key={tech} className="px-3 py-1.5 bg-[#0f0f0f] border border-[#1f1f1f] rounded-lg text-xs text-gray-400 font-mono">
+                {tech}
+              </span>
+            ))}
+          </div>
+        </div>
+
+        {/* Link to Dashboard */}
+        <div className="text-center bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover">
+          <h3 className="text-lg font-semibold text-white mb-3">See It Live</h3>
+          <p className="text-gray-400 text-sm mb-5 leading-relaxed">
+            Watch all 45 agents in real time. Interactive node graph, department
+            status bars, and live event feed.
           </p>
+          <Link
+            href="/dashboard/"
+            className="inline-flex items-center gap-2 px-6 py-3 bg-brand-red text-white rounded-lg font-medium hover:bg-red-700 transition-all hover:glow-red"
+          >
+            Open Dashboard
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            </svg>
+          </Link>
         </div>
       </div>
     </div>
