@@ -3,72 +3,84 @@ export default function BooksPage() {
     <div className="min-h-screen pt-24 pb-16 px-4 relative z-10">
       <div className="max-w-4xl mx-auto">
         {/* Header */}
-        <div className="animate-slide-up mb-14">
+        <div className="animate-fade-in-up mb-16">
+          <p className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">Writing</p>
           <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4 tracking-tight">Books</h1>
-          <p className="text-lg sm:text-xl text-gray-400 leading-relaxed">
-            Writing at the intersection of philosophy, religion, and the stories we tell ourselves.
+          <p className="text-lg text-gray-400 leading-relaxed max-w-xl">
+            At the intersection of philosophy, religion, and the stories we tell ourselves.
           </p>
         </div>
 
         {/* Book Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
-          {/* Book 1 */}
-          <div className="bg-[#111] border border-[#1f1f1f] rounded-xl p-8 animate-slide-up animate-delay-100 card-glow hover:-translate-y-1 transition-all duration-300">
-            <div className="w-14 h-14 rounded-full bg-brand-red/10 text-brand-red flex items-center justify-center text-2xl mb-5">
+          {/* Book 1: WTFAYTA */}
+          <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover transition-all duration-500">
+            <div className="w-12 h-12 rounded-xl bg-brand-red/10 text-brand-red flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
               📖
             </div>
-            <h2 className="text-2xl font-bold text-white mb-3 leading-tight">
-              What the Fuck Are You Talking About?
-            </h2>
-            <div className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-4 font-medium">
-              24th Draft
+
+            <div className="flex items-center gap-3 mb-3">
+              <h2 className="text-xl font-bold text-white leading-tight">
+                What the Fuck Are You Talking About?
+              </h2>
             </div>
-            <p className="text-gray-400 leading-relaxed mb-4">
-              A journey through philosophy and comparative religion for people who are tired
-              of jargon and academic gatekeeping. Clear thinking about big ideas. No fluff.
-              No footnotes that take up half the page. Just the questions that matter and
-              the traditions that have tried to answer them.
+
+            <span className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-5 font-medium tracking-wide">
+              24th Draft
+            </span>
+
+            <p className="text-gray-400 leading-relaxed text-sm mb-4">
+              A journey through philosophy and comparative religion for people who
+              are tired of jargon and academic gatekeeping. Clear thinking about big
+              ideas. No fluff. No footnotes that take up half the page. Just the
+              questions that matter and the traditions that have tried to answer them.
             </p>
-            <p className="text-gray-600 text-sm">
-              Philosophy, comparative religion, and honest inquiry.
-            </p>
+
+            <p className="text-gray-600 text-xs">Philosophy, comparative religion, and honest inquiry.</p>
           </div>
 
-          {/* Book 2 */}
-          <div className="bg-[#111] border border-[#1f1f1f] rounded-xl p-8 animate-slide-up animate-delay-200 card-glow-orange hover:-translate-y-1 transition-all duration-300">
-            <div className="w-14 h-14 rounded-full bg-brand-orange/10 text-brand-orange flex items-center justify-center text-2xl mb-5">
+          {/* Book 2: Manufacturing Monsters */}
+          <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover-orange transition-all duration-500">
+            <div className="w-12 h-12 rounded-xl bg-brand-orange/10 text-brand-orange flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
               🔍
             </div>
-            <h2 className="text-2xl font-bold text-white mb-3 leading-tight">
-              Manufacturing Monsters
-            </h2>
-            <div className="inline-block px-3 py-1 bg-brand-orange/10 text-brand-orange text-xs rounded-full mb-4 font-medium">
-              In Progress
+
+            <div className="flex items-center gap-3 mb-3">
+              <h2 className="text-xl font-bold text-white leading-tight">
+                Manufacturing Monsters
+              </h2>
             </div>
-            <p className="text-gray-400 leading-relaxed mb-4">
+
+            <span className="inline-block px-3 py-1 bg-brand-orange/10 text-brand-orange text-xs rounded-full mb-5 font-medium tracking-wide">
+              In Progress
+            </span>
+
+            <p className="text-gray-400 leading-relaxed text-sm mb-4">
               From the satanic panic of the 1980s to QAnon and the modern conspiracy
               landscape. A deep analysis of how we manufacture moral panics and the
               monsters we need to believe in. Tracing the threads that connect moral
               panics across decades.
             </p>
-            <p className="text-gray-600 text-sm">
-              Conspiracy theory analysis, cultural history.
-            </p>
+
+            <p className="text-gray-600 text-xs">Conspiracy theory analysis, cultural history.</p>
           </div>
         </div>
 
-        {/* Coming Soon / Subscribe */}
-        <div className="text-center animate-slide-up animate-delay-300">
-          <div className="bg-[#111] border border-[#1f1f1f] rounded-xl p-8 max-w-lg mx-auto">
-            <h3 className="text-xl font-semibold text-white mb-3">Coming Soon</h3>
+        {/* Subscribe */}
+        <div className="text-center animate-fade-in-up animate-delay-300">
+          <div className="bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 max-w-md mx-auto card-hover">
+            <h3 className="text-lg font-semibold text-white mb-3">Get Notified</h3>
             <p className="text-gray-400 mb-6 text-sm leading-relaxed">
-              Both books are actively being written. Get notified when they drop.
+              Both books are actively being written. Drop your email for updates.
             </p>
             <a
               href="mailto:kyle@fonger.ai?subject=Book Updates"
-              className="inline-block px-8 py-3 bg-brand-red text-white rounded-lg font-medium hover:bg-red-700 transition-all hover:glow-red"
+              className="inline-flex items-center gap-2 px-7 py-3 bg-brand-red text-white rounded-lg font-medium hover:bg-red-700 transition-all duration-300 hover:glow-red"
             >
-              Get Updates
+              <span>Get Updates</span>
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+              </svg>
             </a>
             <p className="mt-3 text-gray-600 text-xs">
               Email kyle@fonger.ai with subject &quot;Book Updates&quot;
