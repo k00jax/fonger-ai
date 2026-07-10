@@ -213,4 +213,9 @@ export default function DashboardPage() {
       <PasswordGate
         title="Swarm Dashboard"
         onUnlock={() => setUnlocked(true)}
-      
+      />
+    );
+  }
+
+  return <SwarmDashboard />;
+}

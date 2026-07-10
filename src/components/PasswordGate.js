@@ -22,7 +22,8 @@ export default function PasswordGate({
   const [loading, setLoading] = useState(false);
 
   const handleSubmit = async (e) => {
-    e.preventDefault();
+    if (e && e.preventDefault) e.preventDefault();
+    if (loading) return;
     setLoading(true);
     try {
       const hash = await sha256(password);
@@ -52,7 +53,7 @@ export default function PasswordGate({
           </p>
         </div>
 
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <div className="space-y-4">
           <div>
             <input
               type="password"
@@ -61,6 +62,7 @@ export default function PasswordGate({
                 setPassword(e.target.value);
                 setError(false);
               }}
+              onKeyDown={(e) => { if (e.key === 'Enter') handleSubmit(e); }}
               placeholder="Enter password..."
               className="w-full px-4 py-3.5 bg-[#0f0f0f] border border-[#1f1f1f] rounded-xl text-white placeholder-gray-600 focus:outline-none focus:border-brand-red/50 focus:ring-2 focus:ring-brand-red/10 transition-all duration-300"
               autoFocus
@@ -76,7 +78,8 @@ export default function PasswordGate({
             )}
           </div>
           <button
-            type="submit"
+            type="button"
+            onClick={handleSubmit}
             disabled={loading}
             className="w-full py-3.5 bg-brand-red text-white rounded-xl font-medium hover:bg-red-700 transition-all duration-300 disabled:opacity-50 hover:glow-red"
           >
@@ -92,7 +95,7 @@ export default function PasswordGate({
               'Enter Portal'
             )}
           </button>
-        </form>
+        </div>
 
         {demoLink && (
           <div className="mt-5 text-center">
