@@ -134,7 +134,7 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         const active = activeIdsRef.current.has(p.agent.name);
         const color = DEPT_COLORS[p.dept] || '#888';
 
-        // Stable positions — snap to base
+        // Stable positions — snap to base (no mouse repulsion)
         p.x += (p.baseX - p.x) * 0.08;
         p.y += (p.baseY - p.y) * 0.08;
 
@@ -285,6 +285,13 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       )}
     </div>
   );
+}, (prev, next) => {
+  // Custom comparison: only re-render if agent count or active counts change.
+  // This prevents canvas flashing on every data poll when agents is a new array reference.
+  if (prev.agents.length !== next.agents.length) return false;
+  const prevActive = prev.activeIds.size;
+  const nextActive = next.activeIds.size;
+  return prevActive === nextActive;
 });
 
 // ─── Stats Bar ──────────────────────────────────────────────────────────
@@ -459,53 +466,102 @@ function LiveFeed({ events }) {
   }, [events]);
 
   return (
-    <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
-      <div className="px-4 py-3 border-b border-[#1a1a2e] flex items-center gap-2">
-        <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-        <span className="text-xs font-bold uppercase tracking-widest text-gray-400">
-          Live Feed
-        </span>
-        <span className="ml-auto text-[10px] text-gray-600 font-mono">
-          {(events || []).length} events
-        </span>
-      </div>
-      <div
-        ref={feedRef}
-        className="overflow-y-auto"
-        style={{ maxHeight: '200px' }}
-      >
-        {(!events || events.length === 0) && (
-          <div className="px-4 py-6 text-center text-gray-600 text-xs font-mono">
-            No events yet. Agents report on next tick.
-          </div>
-        )}
-        {(events || [])
-          .slice(-40)
-          .reverse()
-          .map((ev, i) => (
-            <div
-              key={i}
-              className={`flex items-center gap-2.5 px-4 py-1.5 text-[11px] font-mono border-b border-[#1a1a2e]/30 last:border-0 transition-colors hover:bg-[#0d0d1f] ${
-                i === 0 ? 'bg-[#0d0d1f]' : ''
+    <div ref={feedRef} className="overflow-y-auto" style={{ maxHeight: 'calc(40vh - 44px)' }}>
+      {(!events || events.length === 0) && (
+        <div className="px-4 py-6 text-center text-gray-600 text-xs font-mono">
+          No events yet. Agents report on next tick.
+        </div>
+      )}
+      {(events || [])
+        .slice(-40)
+        .reverse()
+        .map((ev, i) => (
+          <div
+            key={i}
+            className={`flex items-center gap-2.5 px-4 py-1.5 text-[11px] font-mono border-b border-[#1a1a2e]/30 last:border-0 transition-colors hover:bg-[#0d0d1f] ${
+              i === 0 ? 'bg-[#0d0d1f]' : ''
+            }`}
+          >
+            <span className="text-gray-600 w-12 flex-none text-[10px]">{ev.time}</span>
+            <span
+              className={`w-1.5 h-1.5 rounded-full flex-none ${
+                ev.status === 'running' ? 'bg-green-500' : 'bg-gray-600'
               }`}
-            >
-              <span className="text-gray-600 w-12 flex-none text-[10px]">{ev.time}</span>
-              <span
-                className={`w-1.5 h-1.5 rounded-full flex-none ${
-                  ev.status === 'running' ? 'bg-green-500' : 'bg-gray-600'
-                }`}
-              />
-              <span className="text-gray-300 truncate font-bold min-w-0 w-24 flex-none">
-                {ev.agent}
+            />
+            <span className="text-gray-300 truncate font-bold min-w-0 w-24 flex-none">
+              {ev.agent}
+            </span>
+            <span className="text-gray-500 truncate">{ev.msg}</span>
+            {i === 0 && (
+              <span className="text-[#33ff33] text-[9px] animate-pulse flex-none ml-auto">
+                NEW
               </span>
-              <span className="text-gray-500 truncate">{ev.msg}</span>
-              {i === 0 && (
-                <span className="text-[#33ff33] text-[9px] animate-pulse flex-none ml-auto">
-                  NEW
-                </span>
-              )}
-            </div>
-          ))}
+            )}
+          </div>
+        ))}
+    </div>
+  );
+}
+
+// ─── Collapsible Panel ──────────────────────────────────────────────────
+
+/**
+ * A panel that can be collapsed. State is persisted to localStorage.
+ * When collapsed, shows only the toggle button with a badge.
+ */
+function CollapsiblePanel({ storageKey, title, badge, children, className }) {
+  const [collapsed, setCollapsed] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const stored = localStorage.getItem(`panel-collapse-${storageKey}`);
+      if (stored !== null) return stored === 'true';
+    }
+    return false;
+  });
+
+  const toggle = () => {
+    setCollapsed((prev) => {
+      const next = !prev;
+      localStorage.setItem(`panel-collapse-${storageKey}`, String(next));
+      return next;
+    });
+  };
+
+  return (
+    <div className={`bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden ${className || ''}`}>
+      {/* Toggle header */}
+      <button
+        onClick={toggle}
+        className="w-full flex items-center gap-2.5 px-4 py-3 border-b border-[#1a1a2e] text-left hover:bg-[#0d0d1f] transition-colors"
+      >
+        <svg
+          className={`w-3.5 h-3.5 text-gray-500 transition-transform duration-300 ${
+            collapsed ? '' : 'rotate-90'
+          }`}
+          fill="currentColor"
+          viewBox="0 0 20 20"
+        >
+          <path d="M7 4l8 6-8 6V4z" />
+        </svg>
+        <span
+          className={`text-xs font-bold uppercase tracking-widest ${
+            collapsed ? 'text-gray-600' : 'text-gray-400'
+          }`}
+        >
+          {collapsed ? `\u25B6 ${title}` : `\u25BC ${title}`}
+        </span>
+        {badge != null && (
+          <span className="ml-auto text-[10px] text-gray-600 font-mono">{badge}</span>
+        )}
+      </button>
+
+      {/* Collapsible content */}
+      <div
+        className={`overflow-hidden transition-all duration-400 ${
+          collapsed ? 'max-h-0 opacity-0' : 'max-h-[2000px] opacity-100'
+        }`}
+        style={{ transitionProperty: 'max-height, opacity' }}
+      >
+        {children}
       </div>
     </div>
   );
@@ -572,9 +628,6 @@ function SwarmDashboard() {
       />
 
       <div className="relative z-10">
-        {/* Particle Swarm Canvas */}
-        <ParticleSwarm agents={agents} activeIds={activeIds} />
-
         {/* Stats Bar */}
         <StatsBar
           agents={agents}
@@ -583,28 +636,49 @@ function SwarmDashboard() {
           scrollToDept={scrollToDept}
         />
 
-        {/* Main Content: Agent List (Left) + Live Feed (Right) */}
-        <div className="max-w-7xl mx-auto px-4 py-6">
+        {/* Three-Column Layout: Agents | Canvas | Feed */}
+        <div className="max-w-[1600px] mx-auto px-4 py-4">
           <div className="flex flex-col lg:flex-row gap-4">
-            {/* Left: Department Cards + Agent Lists */}
-            <div className="lg:w-2/3 space-y-4">
-              {depts.map((dept) => {
-                const deptAgents = agents.filter((a) => a.dept === dept);
-                return (
-                  <DepartmentCard
-                    key={dept}
-                    dept={dept}
-                    agents={deptAgents}
-                    activeIds={activeIds}
-                    defaultExpanded={depts.length <= 5}
-                  />
-                );
-              })}
+            {/* LEFT: Agent List (collapsible) */}
+            <div className="lg:w-1/4 flex-shrink-0">
+              <CollapsiblePanel
+                storageKey="agent-list"
+                title="Agents"
+                badge={`${depts.length} depts`}
+              >
+                <div className="p-3 space-y-3">
+                  {depts.map((dept) => {
+                    const deptAgents = agents.filter((a) => a.dept === dept);
+                    return (
+                      <DepartmentCard
+                        key={dept}
+                        dept={dept}
+                        agents={deptAgents}
+                        activeIds={activeIds}
+                        defaultExpanded={depts.length <= 5}
+                      />
+                    );
+                  })}
+                </div>
+              </CollapsiblePanel>
             </div>
 
-            {/* Right: Live Feed */}
-            <div className="lg:w-1/3 lg:sticky lg:top-4 lg:self-start">
-              <LiveFeed events={state.events} />
+            {/* CENTER: Canvas particle swarm */}
+            <div className="lg:flex-1">
+              <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
+                <ParticleSwarm agents={agents} activeIds={activeIds} />
+              </div>
+            </div>
+
+            {/* RIGHT: Live Feed (collapsible) */}
+            <div className="lg:w-1/4 flex-shrink-0">
+              <CollapsiblePanel
+                storageKey="live-feed"
+                title="Feed"
+                badge={`${(state.events || []).length} events`}
+              >
+                <LiveFeed events={state.events} />
+              </CollapsiblePanel>
             </div>
           </div>
         </div>
