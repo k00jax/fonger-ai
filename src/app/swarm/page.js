@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function SwarmPage() {
   const projects = [
     {
@@ -6,7 +8,7 @@ export default function SwarmPage() {
       tagline: '40-Agent Autonomous Swarm',
       description:
         'Nine departments operating in concert. A fully autonomous POD pipeline from product research to customer support. Built on a modular agent architecture with inter-department communication protocols.',
-      link: 'https://trivanceai-cc.vercel.app',
+      link: '/dashboard/',
       linkLabel: 'View Dashboard',
       variant: 'red',
     },
@@ -128,17 +130,29 @@ export default function SwarmPage() {
                     {project.description}
                   </p>
                   {project.link && (
-                    <a
-                      href={project.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 px-5 py-2.5 bg-brand-red text-white text-sm rounded-lg font-medium hover:bg-red-700 transition-all duration-300 hover:glow-red"
-                    >
-                      {project.linkLabel}
-                      <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                      </svg>
-                    </a>
+                    project.link.startsWith('http') ? (
+                      <a
+                        href={project.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 px-5 py-2.5 bg-brand-red text-white text-sm rounded-lg font-medium hover:bg-red-700 transition-all duration-300 hover:glow-red"
+                      >
+                        {project.linkLabel}
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                        </svg>
+                      </a>
+                    ) : (
+                      <Link
+                        href={project.link}
+                        className="inline-flex items-center gap-2 px-5 py-2.5 bg-brand-red text-white text-sm rounded-lg font-medium hover:bg-red-700 transition-all duration-300 hover:glow-red"
+                      >
+                        {project.linkLabel}
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                        </svg>
+                      </Link>
+                    )
                   )}
                 </div>
               </div>
