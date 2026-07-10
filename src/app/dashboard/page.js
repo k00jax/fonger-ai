@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef, useCallback, memo } from 'react';
+import { useState, useEffect, useRef, useMemo } from 'react';
 import PasswordGate from '../../components/PasswordGate';
 
 const DEPT_COLORS = {
@@ -29,606 +29,168 @@ const DEPT_ICONS = {
   security: '\uD83D\uDEE1\uFE0F',
 };
 
-// Helper: convert hex color to rgba string
-function hexToRgba(hex, alpha) {
-  const r = parseInt(hex.slice(1, 3), 16);
-  const g = parseInt(hex.slice(3, 5), 16);
-  const b = parseInt(hex.slice(5, 7), 16);
-  return `rgba(${r},${g},${b},${alpha})`;
-}
+// ─── Stats Header ────────────────────────────────────────────────────────
 
-// ─── Particle Swarm Canvas ──────────────────────────────────────────────
-
-const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
-  const canvasRef = useRef(null);
-  const animRef = useRef(null);
-  const particlesRef = useRef([]);
-  const mouseRef = useRef({ x: -100, y: -100 });
-  const activeIdsRef = useRef(activeIds);
-  activeIdsRef.current = activeIds; // Always current for animation loop
-  const hoveredRef = useRef(null);
-  const dragNodeRef = useRef(null);
-  const dragOffsetRef = useRef({ x: 0, y: 0 });
-  const [isDragging, setIsDragging] = useState(false);
-  const [tooltip, setTooltip] = useState(null);
-  const panRef = useRef({ x: 0, y: 0 });
-  const zoomRef = useRef(1);
-  const isPanningRef = useRef(false);
-  const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
-  const deptLabelOffsetsRef = useRef({});
-  const flowParticlesRef = useRef([]);
-
-  const initParticles = useCallback(() => {
-    const depts = [...new Set(agents.map((a) => a.dept))];
-    const deptCenters = {};
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const W = canvas.width;
-    const H = canvas.height;
-    const cx = W / 2;
-    const cy = H / 2;
-    const radius = Math.min(W, H) * 0.42;
-
-    // Place department cluster centers in a circle
-    depts.forEach((dept, i) => {
-      const angle = (i / depts.length) * Math.PI * 2 - Math.PI / 2;
-      deptCenters[dept] = {
-        x: cx + Math.cos(angle) * radius * 0.8,
-        y: cy + Math.sin(angle) * radius * 0.8,
-      };
-    });
-
-    // Load saved positions from localStorage
-    let savedPositions = {};
-    try {
-      if (typeof window !== 'undefined') {
-        const stored = localStorage.getItem('trivance_node_positions');
-        if (stored) savedPositions = JSON.parse(stored);
-      }
-    } catch {}
-
-    const particles = agents.map((agent, i) => {
-      const center = deptCenters[agent.dept] || { x: cx, y: cy };
-      const saved = savedPositions[agent.name];
-      return {
-        id: i,
-        agent,
-        x: saved ? saved.x : center.x + (Math.random() - 0.5) * radius * 0.8,
-        y: saved ? saved.y : center.y + (Math.random() - 0.5) * radius * 0.8,
-        baseX: saved ? saved.x : center.x,
-        baseY: saved ? saved.y : center.y,
-        radius: 9 + Math.random() * 2,
-        phase: Math.random() * Math.PI * 2,
-        dept: agent.dept,
-        active: activeIds.has(agent.name),
-      };
-    });
-    particlesRef.current = particles;
-  }, []); // Only init once — active states update in animation loop
-
-  useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-
-    const resize = () => {
-      const parent = canvas.parentElement;
-      canvas.width = parent.clientWidth;
-      canvas.height = parent.clientHeight;
-    };
-    resize();
-    window.addEventListener('resize', resize);
-
-    initParticles();
-
-    // Load saved dept label offsets
-    try {
-      const stored = localStorage.getItem('trivance_dept_labels');
-      if (stored) deptLabelOffsetsRef.current = JSON.parse(stored);
-    } catch {}
-
-    const ctx = canvas.getContext('2d');
-
-    const animate = () => {
-      const W = canvas.width;
-      const H = canvas.height;
-      ctx.clearRect(0, 0, W, H);
-
-      // Grid
-      ctx.strokeStyle = 'rgba(51,255,51,0.03)';
-      ctx.lineWidth = 0.5;
-      const gridSize = 40;
-      for (let x = 0; x < W; x += gridSize) {
-        ctx.beginPath();
-        ctx.moveTo(x, 0);
-        ctx.lineTo(x, H);
-        ctx.stroke();
-      }
-      for (let y = 0; y < H; y += gridSize) {
-        ctx.beginPath();
-        ctx.moveTo(0, y);
-        ctx.lineTo(W, y);
-        ctx.stroke();
-      }
-
-      const particles = particlesRef.current;
-      const panX = panRef.current.x;
-      const panY = panRef.current.y;
-      const zoom = zoomRef.current;
-
-      // Transform helper
-      const tx = (x) => x * zoom + panX;
-      const ty = (y) => y * zoom + panY;
-
-      // ── Draw department labels (follow cluster centers) ──
-      const deptList = [...new Set(particles.map(p => p.dept))];
-      deptList.forEach(dept => {
-        const deptParticles = particles.filter(p => p.dept === dept);
-        const avgX = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
-        const avgY = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
-        const offset = deptLabelOffsetsRef.current[dept] || { x: 0, y: 0 };
-        const lx = tx(avgX) + offset.x;
-        const ly = ty(avgY - 85) + offset.y;
-        const color = DEPT_COLORS[dept] || '#888';
-        const icon = DEPT_ICONS[dept] || '';
-        ctx.font = `bold ${11 * zoom}px "JetBrains Mono", monospace`;
-        ctx.fillStyle = hexToRgba(color, 0.5);
-        ctx.textAlign = 'center';
-        ctx.fillText(`${icon} ${dept.toUpperCase()}`, lx, ly);
-      });
-
-      // ── Draw connection lines ──
-      particles.forEach((p) => {
-        particles.forEach((q) => {
-          if (q.id <= p.id) return;
-          if (q.dept !== p.dept) return;
-          const dx = tx(p.x) - tx(q.x);
-          const dy = ty(p.y) - ty(q.y);
-          const dist = Math.sqrt(dx * dx + dy * dy);
-          if (dist < 180 * zoom) {
-            const alpha = (1 - dist / 180) * 0.1;
-            ctx.strokeStyle = hexToRgba(DEPT_COLORS[p.dept] || '#888', alpha);
-            ctx.lineWidth = 0.5;
-            ctx.beginPath();
-            ctx.moveTo(tx(p.x), ty(p.y));
-            ctx.lineTo(tx(q.x), ty(q.y));
-            ctx.stroke();
-          }
-        });
-      });
-
-      // ── Draw flow particles (Director ↔ active agents) ──
-      const flowParticles = flowParticlesRef.current;
-      const directorParticle = particles.find(p => p.agent.dept === 'director');
-      const activeDeptAgents = particles.filter(
-        p => p.agent.dept !== 'director' && activeIdsRef.current.has(p.agent.name)
-      );
-
-      // Maintain flow particles: one per active agent, alternating direction
-      const activeSet = new Set(activeDeptAgents.map(p => p.id));
-      for (let i = flowParticles.length - 1; i >= 0; i--) {
-        if (!activeSet.has(flowParticles[i].agentId)) {
-          flowParticles.splice(i, 1);
-        }
-      }
-      for (const ap of activeDeptAgents) {
-        if (!flowParticles.find(fp => fp.agentId === ap.id)) {
-          flowParticles.push({
-            agentId: ap.id,
-            progress: Math.random(),
-            direction: Math.random() > 0.5 ? 'outgoing' : 'incoming',
-          });
-        }
-      }
-
-      if (directorParticle) {
-        const dx = tx(directorParticle.x);
-        const dy = ty(directorParticle.y);
-        flowParticles.forEach(fp => {
-          const ap = particles[fp.agentId];
-          if (!ap) return;
-          const ax = tx(ap.x);
-          const ay = ty(ap.y);
-          // Advance progress
-          fp.progress += 0.008;
-          if (fp.progress > 1) {
-            fp.progress = 0;
-            fp.direction = fp.direction === 'outgoing' ? 'incoming' : 'outgoing';
-          }
-          // Interpolate position
-          const t = fp.direction === 'outgoing' ? fp.progress : 1 - fp.progress;
-          const fx = dx + (ax - dx) * t;
-          const fy = dy + (ay - dy) * t;
-          // Draw flow dot with glow
-          const dotR = 2.5 * zoom;
-          ctx.fillStyle = 'rgba(255,255,255,0.9)';
-          ctx.shadowColor = '#00ffff';
-          ctx.shadowBlur = 6 * zoom;
-          ctx.beginPath();
-          ctx.arc(fx, fy, dotR, 0, Math.PI * 2);
-          ctx.fill();
-          ctx.shadowBlur = 0;
-          // Fading trail dot
-          const trailT = Math.max(0, t - 0.03);
-          const trailX = dx + (ax - dx) * trailT;
-          const trailY = dy + (ay - dy) * trailT;
-          ctx.fillStyle = 'rgba(0,255,255,0.3)';
-          ctx.beginPath();
-          ctx.arc(trailX, trailY, dotR * 0.7, 0, Math.PI * 2);
-          ctx.fill();
-        });
-      }
-
-      // ── Draw nodes ──
-      particles.forEach((p) => {
-        const active = activeIdsRef.current.has(p.agent.name);
-        const color = DEPT_COLORS[p.dept] || '#888';
-        const isDragged = dragNodeRef.current === p.id;
-        if (!isDragged) {
-          p.x += (p.baseX - p.x) * 0.08;
-          p.y += (p.baseY - p.y) * 0.08;
-        }
-
-        const sx = tx(p.x);
-        const sy = ty(p.y);
-        const sr = p.radius * zoom;
-
-        // Outer glow for active
-        if (active) {
-          const glow = ctx.createRadialGradient(sx, sy, sr * 0.5, sx, sy, sr * 2.5);
-          glow.addColorStop(0, hexToRgba(color, 0.4));
-          glow.addColorStop(1, 'rgba(0,0,0,0)');
-          ctx.fillStyle = glow;
-          ctx.beginPath();
-          ctx.arc(sx, sy, sr * 2.5, 0, Math.PI * 2);
-          ctx.fill();
-        }
-
-        // Node circle
-        ctx.fillStyle = hexToRgba(color, active ? 0.9 : 0.35);
-        ctx.strokeStyle = hexToRgba(color, active ? 0.8 : 0.3);
-        ctx.lineWidth = (active ? 1.5 : 0.8) * zoom;
-        ctx.beginPath();
-        ctx.arc(sx, sy, sr, 0, Math.PI * 2);
-        ctx.fill();
-        ctx.stroke();
-
-        // Inner dot for active
-        if (active) {
-          ctx.fillStyle = '#fff';
-          ctx.beginPath();
-          ctx.arc(sx, sy, 3 * zoom, 0, Math.PI * 2);
-          ctx.fill();
-        }
-
-        // Drag indicator
-        if (isDragged) {
-          ctx.strokeStyle = '#fff';
-          ctx.lineWidth = 2;
-          ctx.setLineDash([4, 4]);
-          ctx.beginPath();
-          ctx.arc(sx, sy, sr + 6, 0, Math.PI * 2);
-          ctx.stroke();
-          ctx.setLineDash([]);
-        }
-
-        // Label
-        const fontSize = (active ? 10 : 9) * zoom;
-        ctx.font = `${active ? 'bold ' : ''}${Math.max(7, fontSize)}px "JetBrains Mono", monospace`;
-        ctx.fillStyle = active ? '#fff' : '#666';
-        ctx.textAlign = 'center';
-        ctx.fillText(p.agent.name, sx, sy + sr + 12 * zoom);
-      });
-
-      // Check hover (use screen-space mouse coords)
-      const mx = mouseRef.current.x;
-      const my = mouseRef.current.y;
-      if (hoveredRef.current !== null) {
-        const p = particles[hoveredRef.current];
-        if (p) {
-          const dx = tx(p.x) - mx;
-          const dy = ty(p.y) - my;
-          if (Math.sqrt(dx * dx + dy * dy) > (activeIdsRef.current.has(p.agent.name) ? 22 : 14)) {
-            hoveredRef.current = null;
-            setTooltip(null);
-          }
-        }
-      } else {
-        // Check for new hover
-        for (let i = particles.length - 1; i >= 0; i--) {
-          const p = particles[i];
-          const dx = (p.x * zoomRef.current + panRef.current.x) - mx;
-          const dy = (p.y * zoomRef.current + panRef.current.y) - my;
-          const hitR = (activeIdsRef.current.has(p.agent.name) ? 22 : 14) * zoomRef.current;
-          if (Math.sqrt(dx * dx + dy * dy) < hitR) {
-            hoveredRef.current = i;
-            setTooltip({
-              name: p.agent.name,
-              status: p.agent.status,
-              task: p.agent.task || 'idle',
-              dept: p.agent.dept,
-              x: p.x,
-              y: p.y,
-            });
-            break;
-          }
-        }
-      }
-
-      animRef.current = requestAnimationFrame(animate);
-    };
-
-    animate();
-
-    return () => {
-      cancelAnimationFrame(animRef.current);
-      window.removeEventListener('resize', resize);
-    };
-  }, [initParticles, activeIds]);
-
-  const handleMouseMove = (e) => {
-    const rect = canvasRef.current.getBoundingClientRect();
-    const mx = e.clientX - rect.left;
-    const my = e.clientY - rect.top;
-    mouseRef.current.x = mx;
-    mouseRef.current.y = my;
-
-    if (isPanningRef.current) {
-      panRef.current.x = panStartRef.current.panX + (mx - panStartRef.current.x);
-      panRef.current.y = panStartRef.current.panY + (my - panStartRef.current.y);
-      return;
-    }
-
-    // Update dragged node or label position
-    if (dragNodeRef.current === -1) {
-      const dept = dragOffsetRef.current.dept;
-      deptLabelOffsetsRef.current[dept] = {
-        x: mx - dragOffsetRef.current.x - ((particles.filter(p => p.dept === dept).reduce((s, p) => s + p.baseX, 0) / (particles.filter(p => p.dept === dept).length || 1)) * zoomRef.current + panRef.current.x),
-        y: my - dragOffsetRef.current.y - (((particles.filter(p => p.dept === dept).reduce((s, p) => s + p.baseY, 0) / (particles.filter(p => p.dept === dept).length || 1)) - 85) * zoomRef.current + panRef.current.y),
-      };
-    } else if (dragNodeRef.current !== null) {
-      const particles = particlesRef.current;
-      const p = particles[dragNodeRef.current];
-      if (p) {
-        const z = zoomRef.current;
-        p.baseX = (mx - panRef.current.x) / z - dragOffsetRef.current.x;
-        p.baseY = (my - panRef.current.y) / z - dragOffsetRef.current.y;
-        p.x = p.baseX;
-        p.y = p.baseY;
-      }
-    }
-  };
-
-  const handleMouseLeave = () => {
-    mouseRef.current.x = -100;
-    mouseRef.current.y = -100;
-    hoveredRef.current = null;
-    setTooltip(null);
-  };
-
-  const handleMouseDown = (e) => {
-    const rect = canvasRef.current.getBoundingClientRect();
-    const mx = e.clientX - rect.left;
-    const my = e.clientY - rect.top;
-    const particles = particlesRef.current;
-
-    // Find clicked node (reverse to get topmost)
-    for (let i = particles.length - 1; i >= 0; i--) {
-      const p = particles[i];
-      const dx = (p.x * zoomRef.current + panRef.current.x) - mx;
-      const dy = (p.y * zoomRef.current + panRef.current.y) - my;
-      if (Math.sqrt(dx * dx + dy * dy) < p.radius * zoomRef.current + 8) {
-        dragNodeRef.current = i;
-        dragOffsetRef.current.x = (mx - panRef.current.x) / zoomRef.current - p.x;
-        dragOffsetRef.current.y = (my - panRef.current.y) / zoomRef.current - p.y;
-        setIsDragging(true);
-        return;
-      }
-    }
-    // Check dept label hit
-    const offsets = deptLabelOffsetsRef.current;
-    for (const dept of deptList) {
-      const deptParticles = particles.filter(p => p.dept === dept);
-      const ax = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
-      const ay = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
-      const off = offsets[dept] || { x: 0, y: 0 };
-      const lx = (ax * zoomRef.current + panRef.current.x) + off.x;
-      const ly = ((ay - 85) * zoomRef.current + panRef.current.y) + off.y;
-      if (Math.abs(lx - mx) < 80 && Math.abs(ly - my) < 14) {
-        dragNodeRef.current = -1;
-        dragOffsetRef.current.dept = dept;
-        dragOffsetRef.current.x = mx - lx;
-        dragOffsetRef.current.y = my - ly;
-        setIsDragging(true);
-        return;
-      }
-    }
-    // Start panning
-    isPanningRef.current = true;
-    panStartRef.current = { x: mx, y: my, panX: panRef.current.x, panY: panRef.current.y };
-  };
-
-  const handleMouseUp = useCallback(() => {
-    if (dragNodeRef.current === -1) {
-      try {
-        localStorage.setItem('trivance_dept_labels', JSON.stringify(deptLabelOffsetsRef.current));
-      } catch {}
-      dragNodeRef.current = null;
-      setIsDragging(false);
-    } else if (dragNodeRef.current !== null) {
-      // Save node positions to localStorage
-      try {
-        const positions = {};
-        particlesRef.current.forEach((p) => {
-          positions[p.agent.name] = { x: p.baseX, y: p.baseY };
-        });
-        localStorage.setItem('trivance_node_positions', JSON.stringify(positions));
-      } catch {}
-      dragNodeRef.current = null;
-      setIsDragging(false);
-    }
-    if (isPanningRef.current) {
-      isPanningRef.current = false;
-    }
-  }, []);
-
-  const handleWheel = useCallback((e) => {
-    e.preventDefault();
-    const rect = canvasRef.current.getBoundingClientRect();
-    const mx = e.clientX - rect.left;
-    const my = e.clientY - rect.top;
-    const delta = e.deltaY > 0 ? 0.9 : 1.1;
-    const newZoom = Math.max(0.3, Math.min(3, zoomRef.current * delta));
-    // Zoom toward mouse position
-    panRef.current.x = mx - (mx - panRef.current.x) * (newZoom / zoomRef.current);
-    panRef.current.y = my - (my - panRef.current.y) * (newZoom / zoomRef.current);
-    zoomRef.current = newZoom;
-  }, []);
-
-  // Global mouseup to catch drag release outside canvas
-  useEffect(() => {
-    window.addEventListener('mouseup', handleMouseUp);
-    return () => window.removeEventListener('mouseup', handleMouseUp);
-  }, [handleMouseUp]);
+function StatsHeader({ agents, active, depts, selectedDept, onSelectDept }) {
+  const activeCount = active.length;
+  const totalCount = agents.length;
+  const pct = totalCount > 0 ? Math.round((activeCount / totalCount) * 100) : 0;
 
   return (
-    <div className="relative w-full" style={{ height: '50vh', minHeight: '380px' }}>
-      <canvas
-        ref={canvasRef}
-        className="w-full h-full"
-        style={{ cursor: isDragging ? 'grabbing' : 'grab' }}
-        onMouseDown={handleMouseDown}
-        onMouseMove={handleMouseMove}
-        onMouseLeave={handleMouseLeave}
-        onWheel={handleWheel}
-      />
-      {tooltip && (
-        <div
-          className="absolute pointer-events-none z-10 px-3 py-2 bg-[#111] border border-[#333] rounded-lg text-xs font-mono shadow-lg"
-          style={{
-            left: Math.min(tooltip.x + 14, (canvasRef.current?.parentElement?.clientWidth || 400) - 180),
-            top: Math.max(0, tooltip.y - 40),
-            transition: 'opacity 0.15s',
-          }}
-        >
-          <div className="flex items-center gap-1.5">
-            <span
-              className="w-2 h-2 rounded-full"
+    <header className="sticky top-0 z-30 bg-[#0a0a0a]/95 backdrop-blur-sm border-b border-[#1a1a2e]">
+      <div className="flex items-center gap-3 px-5 py-3 max-w-[1600px] mx-auto">
+        {/* Brand */}
+        <div className="flex items-center gap-2 mr-4">
+          <span className="text-[#dc2626] font-bold text-sm tracking-tight">THE SWARM</span>
+          <span className="w-1 h-1 rounded-full bg-[#33ff33] animate-pulse" />
+        </div>
+
+        {/* Active count */}
+        <div className="flex items-center gap-2 px-3 py-1 bg-[#0d0d1a] rounded-lg border border-[#1a1a2e]">
+          <span className="text-[#33ff33] font-bold font-mono text-lg leading-none">
+            {activeCount}
+          </span>
+          <span className="text-gray-500 font-mono text-xs">/ {totalCount} active</span>
+        </div>
+
+        {/* Mini progress bar */}
+        <div className="hidden sm:flex items-center gap-2 flex-1 max-w-[200px]">
+          <div className="flex-1 h-1.5 bg-[#1a1a2e] rounded-full overflow-hidden">
+            <div
+              className="h-full rounded-full bg-[#33ff33] transition-all duration-700"
               style={{
-                backgroundColor:
-                  tooltip.status === 'running' || tooltip.status === 'busy' ? '#22c55e' : '#555',
-                boxShadow:
-                  tooltip.status === 'running' || tooltip.status === 'busy'
-                    ? '0 0 6px rgba(34,197,94,0.6)'
-                    : 'none',
+                width: `${pct}%`,
+                boxShadow: pct > 0 ? '0 0 8px rgba(51,255,51,0.3)' : 'none',
               }}
             />
-            <span className="text-white font-bold">{tooltip.name}</span>
           </div>
-          <div className="text-gray-400 mt-0.5">
-            {tooltip.status} &middot; {tooltip.dept}
-          </div>
-          {tooltip.task && <div className="text-gray-500 mt-0.5 truncate max-w-[140px]">{tooltip.task}</div>}
+          <span className="text-[10px] text-gray-600 font-mono">{pct}%</span>
         </div>
-      )}
-    </div>
+
+        {/* Spacer */}
+        <div className="flex-1" />
+
+        {/* Department filter chips */}
+        <div className="hidden md:flex items-center gap-1.5">
+          <button
+            onClick={() => onSelectDept(null)}
+            className={`px-2.5 py-1 rounded text-[10px] font-mono uppercase tracking-wider transition-all ${
+              selectedDept === null
+                ? 'bg-[#dc2626]/20 text-[#dc2626] border border-[#dc2626]/40'
+                : 'text-gray-500 hover:text-gray-300 border border-transparent hover:border-[#333]'
+            }`}
+          >
+            ALL
+          </button>
+          {depts.map((dept) => {
+            const color = DEPT_COLORS[dept] || '#888';
+            const deptActive = agents.filter(
+              (a) => a.dept === dept && (a.status === 'running' || a.status === 'busy')
+            ).length;
+            const isSelected = selectedDept === dept;
+            return (
+              <button
+                key={dept}
+                onClick={() => onSelectDept(isSelected ? null : dept)}
+                className="px-2.5 py-1 rounded text-[10px] font-mono uppercase tracking-wider transition-all border whitespace-nowrap"
+                style={{
+                  color: isSelected ? color : '#666',
+                  borderColor: isSelected ? color + '66' : 'transparent',
+                  backgroundColor: isSelected ? color + '10' : 'transparent',
+                }}
+              >
+                {dept}
+                {deptActive > 0 && (
+                  <span className="ml-1 text-[#33ff33]">{deptActive}</span>
+                )}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    </header>
   );
-}, (prev, next) => {
-  // Custom comparison: only re-render if agent count or active counts change.
-  // This prevents canvas flashing on every data poll when agents is a new array reference.
-  if (prev.agents.length !== next.agents.length) return false;
-  const prevActive = prev.activeIds.size;
-  const nextActive = next.activeIds.size;
-  return prevActive === nextActive;
-});
+}
 
-// ─── Stats Bar ──────────────────────────────────────────────────────────
+// ─── Agent Row ────────────────────────────────────────────────────────────
 
-function StatsBar({ agents, active, depts, scrollToDept }) {
+function AgentRow({ agent, color }) {
+  const isRunning = agent.status === 'running' || agent.status === 'busy';
+
   return (
-    <div className="flex flex-wrap items-center gap-2 md:gap-4 px-4 py-2.5 bg-[#0d0d1a] border-b border-[#1a1a2e] text-xs font-mono sticky top-0 z-30">
-      <div className="flex items-center gap-2">
-        <span className="text-[#33ff33] font-bold text-sm">
-          {active.length}
-          <span className="text-gray-600 font-normal">/{agents.length}</span>
-        </span>
-        <span className="text-gray-500 uppercase tracking-wider text-[10px]">ACTIVE</span>
-        <span className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse" />
-      </div>
+    <div
+      className={`flex items-center gap-2.5 px-3 py-2 text-xs border-b border-[#1a1a2e]/30 last:border-0 transition-colors hover:bg-[#0d0d1a] ${
+        isRunning ? 'bg-[#0a0f0a]' : ''
+      }`}
+    >
+      {/* Status dot */}
+      <span
+        className={`w-2 h-2 rounded-full flex-none ${
+          isRunning
+            ? 'bg-[#33ff33] shadow-[0_0_6px_rgba(51,255,51,0.5)] animate-pulse'
+            : 'bg-gray-700'
+        }`}
+      />
 
-      <div className="hidden sm:block text-gray-600 text-[10px]">
-        updated {new Date().toLocaleTimeString()}
-      </div>
+      {/* Agent name */}
+      <span
+        className={`font-mono truncate min-w-0 flex-1 ${
+          isRunning ? 'text-white font-semibold' : 'text-gray-500'
+        }`}
+      >
+        {agent.name}
+      </span>
 
-      <div className="flex-1" />
+      {/* Task */}
+      <span className="text-gray-600 text-[10px] truncate max-w-[140px] hidden sm:inline">
+        {agent.task || 'idle'}
+      </span>
 
-      <div className="flex flex-wrap gap-1.5">
-        {depts.map((dept) => {
-          const color = DEPT_COLORS[dept] || '#888';
-          const deptActive = agents.filter(
-            (a) =>
-              a.dept === dept && (a.status === 'running' || a.status === 'busy')
-          ).length;
-          const total = agents.filter((a) => a.dept === dept).length;
-          return (
-            <button
-              key={dept}
-              onClick={() => scrollToDept(dept)}
-              className="px-2 py-0.5 rounded text-[10px] uppercase tracking-wider border border-transparent hover:border-current transition-colors whitespace-nowrap"
-              style={{ color, borderColor: deptActive > 0 ? color + '33' : 'transparent' }}
-            >
-              {dept}
-              <span className="ml-1 opacity-60">
-                {deptActive}/{total}
-              </span>
-            </button>
-          );
-        })}
-      </div>
+      {/* Status badge */}
+      <span
+        className={`text-[9px] uppercase tracking-wider px-1.5 py-0.5 rounded font-mono flex-none ${
+          isRunning ? 'bg-[#33ff33]/15 text-[#33ff33]' : 'bg-[#1a1a2e] text-gray-600'
+        }`}
+      >
+        {agent.status}
+      </span>
     </div>
   );
 }
 
-// ─── Department Card ────────────────────────────────────────────────────
+// ─── Department Card ─────────────────────────────────────────────────────
 
 function DepartmentCard({ dept, agents, activeIds, defaultExpanded }) {
   const [expanded, setExpanded] = useState(defaultExpanded);
   const color = DEPT_COLORS[dept] || '#888';
-  const deptActive = agents.filter((a) =>
-    a.status === 'running' || a.status === 'busy'
-  );
-  const fillPct = agents.length > 0 ? (deptActive.length / agents.length) * 100 : 0;
+  const deptActive = agents.filter((a) => activeIds.has(a.name));
+  const fillPct = agents.length > 0 ? Math.round((deptActive.length / agents.length) * 100) : 0;
   const hasActive = deptActive.length > 0;
 
   return (
     <div
       id={`dept-${dept}`}
-      className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden transition-all duration-500"
+      className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden transition-all duration-500 group"
       style={{
-        boxShadow: hasActive
-          ? `0 0 20px ${color}11, inset 0 0 20px ${color}04`
-          : 'none',
         borderColor: hasActive ? `${color}33` : '#1a1a2e',
+        boxShadow: hasActive ? `0 0 24px ${color}08` : 'none',
       }}
     >
       {/* Header */}
       <button
         onClick={() => setExpanded(!expanded)}
-        className="w-full flex items-center gap-3 px-4 py-3.5 text-left hover:bg-[#0d0d1f] transition-colors"
+        className="w-full flex items-center gap-3 px-4 py-3 text-left hover:bg-[#0d0d1a] transition-colors"
       >
-        <span className="text-lg">{DEPT_ICONS[dept] || '?'}</span>
+        <span className="text-lg">{DEPT_ICONS[dept] || '\u2753'}</span>
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2">
-            <span
-              className="text-xs font-bold uppercase tracking-widest"
-              style={{ color }}
-            >
+            <span className="text-xs font-bold uppercase tracking-widest" style={{ color }}>
               {dept}
             </span>
-            <span className="text-[10px] text-gray-600 font-mono">
+            <span className="text-[10px] text-gray-500 font-mono tabular-nums">
               {deptActive.length}/{agents.length}
             </span>
           </div>
-          {/* Status bar */}
           <div className="mt-1.5 h-1 bg-[#1a1a2e] rounded-full overflow-hidden">
             <div
               className="h-full rounded-full transition-all duration-700"
@@ -641,7 +203,7 @@ function DepartmentCard({ dept, agents, activeIds, defaultExpanded }) {
           </div>
         </div>
         <svg
-          className={`w-4 h-4 text-gray-600 transition-transform duration-300 ${
+          className={`w-4 h-4 text-gray-600 transition-transform duration-300 flex-none ${
             expanded ? 'rotate-180' : ''
           }`}
           fill="none"
@@ -654,54 +216,23 @@ function DepartmentCard({ dept, agents, activeIds, defaultExpanded }) {
 
       {/* Agent list */}
       <div
-        className={`overflow-hidden transition-all duration-400 ${
-          expanded ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'
-        }`}
-        style={{ transitionProperty: 'max-height, opacity' }}
+        className="overflow-hidden transition-all duration-300"
+        style={{
+          maxHeight: expanded ? '600px' : '0px',
+          opacity: expanded ? 1 : 0,
+        }}
       >
         <div className="border-t border-[#1a1a2e]">
-          {agents.map((a) => {
-            const isRunning = a.status === 'running' || a.status === 'busy';
-            return (
-              <div
-                key={a.name}
-                className={`flex items-center gap-2.5 px-4 py-2 text-xs border-b border-[#1a1a2e]/50 last:border-0 transition-colors ${
-                  isRunning ? 'bg-[#0f0f1f]' : ''
-                }`}
-              >
-                <span
-                  className={`w-2 h-2 rounded-full flex-none ${
-                    isRunning
-                      ? 'bg-green-500 shadow-[0_0_6px_rgba(34,197,94,0.5)] animate-pulse'
-                      : 'bg-gray-700'
-                  }`}
-                />
-                <span
-                  className={`truncate min-w-0 flex-1 ${
-                    isRunning ? 'text-white font-semibold' : 'text-gray-500'
-                  }`}
-                >
-                  {a.name}
-                </span>
-                <span className="text-gray-600 truncate max-w-[120px] text-[10px]">
-                  {a.task || 'idle'}
-                </span>
-                <span
-                  className="text-[9px] uppercase tracking-wider px-1.5 py-0.5 rounded font-mono flex-none"
-                  style={{ color, backgroundColor: `${color}15` }}
-                >
-                  {a.dept}
-                </span>
-              </div>
-            );
-          })}
+          {agents.map((a) => (
+            <AgentRow key={a.name} agent={a} color={color} />
+          ))}
         </div>
       </div>
     </div>
   );
 }
 
-// ─── Live Feed ──────────────────────────────────────────────────────────
+// ─── Live Feed ────────────────────────────────────────────────────────────
 
 function LiveFeed({ events }) {
   const feedRef = useRef(null);
@@ -712,136 +243,169 @@ function LiveFeed({ events }) {
     }
   }, [events]);
 
+  const displayEvents = (events || []).slice(-50).reverse();
+
   return (
-    <div ref={feedRef} className="overflow-y-auto" style={{ maxHeight: 'calc(40vh - 44px)' }}>
-      {(!events || events.length === 0) && (
-        <div className="px-4 py-6 text-center text-gray-600 text-xs font-mono">
-          No events yet. Agents report on next tick.
-        </div>
-      )}
-      {(events || [])
-        .slice(-40)
-        .reverse()
-        .map((ev, i) => (
+    <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden flex flex-col h-full">
+      {/* Feed header */}
+      <div className="flex items-center gap-2 px-4 py-3 border-b border-[#1a1a2e]">
+        <span className="w-2 h-2 rounded-full bg-[#33ff33] animate-pulse" />
+        <span className="text-xs font-bold uppercase tracking-widest text-gray-400">
+          Live Feed
+        </span>
+        <span className="text-[10px] text-gray-600 font-mono ml-auto">
+          {displayEvents.length} events
+        </span>
+      </div>
+
+      {/* Feed content */}
+      <div ref={feedRef} className="flex-1 overflow-y-auto">
+        {displayEvents.length === 0 && (
+          <div className="px-4 py-8 text-center text-gray-600 text-xs font-mono">
+            Waiting for agent activity...
+          </div>
+        )}
+        {displayEvents.map((ev, i) => (
           <div
             key={i}
-            className={`flex items-center gap-2.5 px-4 py-1.5 text-[11px] font-mono border-b border-[#1a1a2e]/30 last:border-0 transition-colors hover:bg-[#0d0d1f] ${
-              i === 0 ? 'bg-[#0d0d1f]' : ''
+            className={`flex items-start gap-2 px-4 py-2 text-[11px] font-mono border-b border-[#1a1a2e]/30 last:border-0 transition-colors hover:bg-[#0d0d1f] ${
+              i === 0 ? 'bg-[#0d0d1f] border-l-2 border-l-[#33ff33]' : ''
             }`}
           >
-            <span className="text-gray-600 w-12 flex-none text-[10px]">{ev.time}</span>
+            <span className="text-gray-600 text-[10px] w-12 flex-none pt-px">{ev.time}</span>
             <span
-              className={`w-1.5 h-1.5 rounded-full flex-none ${
-                ev.status === 'running' ? 'bg-green-500' : 'bg-gray-600'
+              className={`w-1.5 h-1.5 rounded-full flex-none mt-1.5 ${
+                ev.status === 'running' ? 'bg-[#33ff33]' : 'bg-gray-600'
               }`}
             />
-            <span className="text-gray-300 truncate font-bold min-w-0 w-24 flex-none">
-              {ev.agent}
-            </span>
-            <span className="text-gray-500 truncate">{ev.msg}</span>
+            <div className="min-w-0 flex-1">
+              <span className="text-gray-300 font-bold">{ev.agent}</span>
+              <span className="text-gray-500 ml-1.5">{ev.msg}</span>
+            </div>
             {i === 0 && (
-              <span className="text-[#33ff33] text-[9px] animate-pulse flex-none ml-auto">
-                NEW
-              </span>
+              <span className="text-[#33ff33] text-[9px] animate-pulse flex-none">NOW</span>
             )}
           </div>
         ))}
+      </div>
     </div>
   );
 }
 
-// ─── Sliding Drawer Panel ───────────────────────────────────────────────
+// ─── All Agents Table ─────────────────────────────────────────────────────
 
-/**
- * Fixed-position drawer that slides in/out from the left or right edge.
- * State is persisted to localStorage.
- * When closed, shows a thin tab on the edge with a toggle arrow.
- */
-function SlidingDrawer({ side, storageKey, label, width, badge, children }) {
-  const [open, setOpen] = useState(() => {
-    if (typeof window !== 'undefined') {
-      const stored = localStorage.getItem(`sliding-drawer-${storageKey}`);
-      if (stored !== null) return stored === 'true';
-    }
-    return false;
-  });
+function AgentsTable({ agents, activeIds }) {
+  const [sortKey, setSortKey] = useState('name');
+  const [sortDir, setSortDir] = useState('asc');
 
-  const toggle = () => {
-    setOpen((prev) => {
-      const next = !prev;
-      localStorage.setItem(`sliding-drawer-${storageKey}`, String(next));
-      return next;
+  const sorted = useMemo(() => {
+    const sorted = [...agents].sort((a, b) => {
+      const aActive = activeIds.has(a.name);
+      const bActive = activeIds.has(b.name);
+      // Active always first
+      if (aActive && !bActive) return -1;
+      if (!aActive && bActive) return 1;
+      // Then by selected key
+      const va = (a[sortKey] || '').toLowerCase();
+      const vb = (b[sortKey] || '').toLowerCase();
+      if (va < vb) return sortDir === 'asc' ? -1 : 1;
+      if (va > vb) return sortDir === 'asc' ? 1 : -1;
+      return 0;
     });
+    return sorted;
+  }, [agents, activeIds, sortKey, sortDir]);
+
+  const toggleSort = (key) => {
+    if (sortKey === key) {
+      setSortDir(sortDir === 'asc' ? 'desc' : 'asc');
+    } else {
+      setSortKey(key);
+      setSortDir('asc');
+    }
   };
 
-  const isLeft = side === 'left';
-  const transformOpen = 'translateX(0)';
-  const transformClosed = isLeft ? 'translateX(-100%)' : 'translateX(100%)';
+  const SortArrow = ({ col }) => {
+    if (sortKey !== col) return <span className="text-gray-700 ml-1">{'\u2195'}</span>;
+    return (
+      <span className="text-[#33ff33] ml-1">{sortDir === 'asc' ? '\u2191' : '\u2193'}</span>
+    );
+  };
+
+  const cols = [
+    { key: 'name', label: 'Agent', w: 'w-32' },
+    { key: 'dept', label: 'Dept', w: 'w-24' },
+    { key: 'status', label: 'Status', w: 'w-20' },
+    { key: 'task', label: 'Task', w: 'flex-1' },
+  ];
 
   return (
-    <>
-      {/* Backdrop overlay (mobile) */}
-      {open && (
-        <div
-          className="fixed inset-0 z-40 bg-black/40 lg:hidden"
-          onClick={toggle}
-          aria-hidden="true"
-        />
-      )}
-
-      {/* Tab toggle (visible when closed) */}
-      {!open && (
-        <button
-          onClick={toggle}
-          className={`fixed top-1/2 -translate-y-1/2 z-50 px-1.5 py-6 bg-[#0d0d1a] border border-[#1a1a2e] text-[#33ff33] text-[10px] font-mono uppercase tracking-wider hover:bg-[#1a1a2e] transition-colors cursor-pointer ${
-            isLeft ? 'left-0 rounded-r-md' : 'right-0 rounded-l-md'
-          }`}
-          style={{ writingMode: 'vertical-rl' }}
-        >
-          {isLeft ? '\u25B6 Agents' : '\u25C0 Feed'}
-        </button>
-      )}
-
-      {/* Sliding panel */}
-      <div
-        className={`fixed top-0 ${isLeft ? 'left-0' : 'right-0'} h-full z-40 bg-[#0d0d1a] border-l border-r border-[#1a1a2e] overflow-y-auto shadow-2xl`}
-        style={{
-          width: `${width}px`,
-          transform: open ? transformOpen : transformClosed,
-          transition: 'transform 0.3s ease',
-        }}
-      >
-        {/* Header */}
-        <div className="flex items-center justify-between px-4 py-3 border-b border-[#1a1a2e] sticky top-0 bg-[#0d0d1a] z-20">
-          <span className="text-xs font-bold uppercase tracking-widest text-gray-400">
-            {label}
-          </span>
-          <div className="flex items-center gap-2">
-            {badge != null && (
-              <span className="text-[10px] text-gray-600 font-mono">{badge}</span>
-            )}
-            <button
-              onClick={toggle}
-              className="text-gray-500 hover:text-gray-300 transition-colors p-1"
-              aria-label={`Close ${label}`}
-            >
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                  d={isLeft ? 'M15 19l-7-7 7-7' : 'M9 5l7 7-7 7'} />
-              </svg>
-            </button>
-          </div>
-        </div>
-
-        {/* Content */}
-        <div className="p-3">
-          {children}
-        </div>
+    <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
+      {/* Header row */}
+      <div className="flex items-center px-4 py-2.5 border-b border-[#1a1a2e] bg-[#0d0d1a] text-[10px] font-mono uppercase tracking-wider text-gray-500">
+        {cols.map((col) => (
+          <button
+            key={col.key}
+            onClick={() => toggleSort(col.key)}
+            className={`${col.w} text-left hover:text-gray-300 transition-colors flex items-center`}
+          >
+            {col.label}
+            <SortArrow col={col.key} />
+          </button>
+        ))}
       </div>
-
-      {/* Spacer to prevent content shift */}
-      <div style={{ width: open ? `${width}px` : '0px', transition: 'width 0.3s ease', flexShrink: 0 }} />
-    </>
+      {/* Body */}
+      <div className="max-h-[400px] overflow-y-auto">
+        {sorted.map((a) => {
+          const isRunning = activeIds.has(a.name);
+          const color = DEPT_COLORS[a.dept] || '#888';
+          return (
+            <div
+              key={a.name}
+              className={`flex items-center px-4 py-2 text-xs border-b border-[#1a1a2e]/20 last:border-0 transition-colors hover:bg-[#0d0d1a] ${
+                isRunning ? 'bg-[#0a0f0a]/50' : ''
+              }`}
+            >
+              <div className="w-32 flex items-center gap-2 min-w-0">
+                <span
+                  className={`w-1.5 h-1.5 rounded-full flex-none ${
+                    isRunning
+                      ? 'bg-[#33ff33] shadow-[0_0_6px_rgba(51,255,51,0.5)] animate-pulse'
+                      : 'bg-gray-700'
+                  }`}
+                />
+                <span
+                  className={`font-mono truncate ${isRunning ? 'text-white font-semibold' : 'text-gray-500'}`}
+                >
+                  {a.name}
+                </span>
+              </div>
+              <div className="w-24">
+                <span
+                  className="text-[10px] uppercase tracking-wider font-mono px-1.5 py-0.5 rounded"
+                  style={{ color, backgroundColor: `${color}10` }}
+                >
+                  {a.dept}
+                </span>
+              </div>
+              <div className="w-20">
+                <span
+                  className={`text-[10px] uppercase tracking-wider font-mono ${
+                    isRunning ? 'text-[#33ff33]' : 'text-gray-600'
+                  }`}
+                >
+                  {a.status}
+                </span>
+              </div>
+              <div className="flex-1 min-w-0">
+                <span className="text-gray-600 text-[11px] truncate block">
+                  {a.task || '\u2014'}
+                </span>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
   );
 }
 
@@ -849,7 +413,8 @@ function SlidingDrawer({ side, storageKey, label, width, badge, children }) {
 
 function SwarmDashboard() {
   const [state, setState] = useState(null);
-  const [time, setTime] = useState(0);
+  const [selectedDept, setSelectedDept] = useState(null);
+  const [showTable, setShowTable] = useState(false);
 
   useEffect(() => {
     const fetchState = async () => {
@@ -860,19 +425,15 @@ function SwarmDashboard() {
     };
     fetchState();
     const i = setInterval(fetchState, 5000);
-    const t = setInterval(() => setTime((t) => t + 1), 1000);
-    return () => {
-      clearInterval(i);
-      clearInterval(t);
-    };
+    return () => clearInterval(i);
   }, []);
 
   if (!state)
     return (
-      <div className="min-h-screen bg-[#08081a] flex items-center justify-center">
+      <div className="min-h-screen bg-[#0a0a0a] flex items-center justify-center">
         <div className="text-center">
           <div className="inline-flex items-center gap-2 text-[#33ff33] font-mono text-sm mb-3">
-            <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
+            <span className="w-2 h-2 rounded-full bg-[#33ff33] animate-pulse" />
             initializing swarm...
           </div>
           <p className="text-gray-600 text-xs font-mono">connecting to agent bus</p>
@@ -881,56 +442,31 @@ function SwarmDashboard() {
     );
 
   const agents = state.agents || [];
-  const active = agents.filter(
-    (a) => a.status === 'running' || a.status === 'busy'
-  );
+  const active = agents.filter((a) => a.status === 'running' || a.status === 'busy');
   const activeIds = new Set(active.map((a) => a.name));
   const depts = [...new Set(agents.map((a) => a.dept))];
 
-  const scrollToDept = (dept) => {
-    const el = document.getElementById(`dept-${dept}`);
-    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  };
+  const filteredDepts = selectedDept
+    ? depts.filter((d) => d === selectedDept)
+    : depts;
 
   return (
-    <div className="min-h-screen bg-[#08081a] text-gray-200 font-sans relative">
-      {/* Scanlines overlay */}
-      <div
-        className="fixed inset-0 pointer-events-none z-50"
-        style={{
-          background:
-            'linear-gradient(transparent 50%, rgba(0,255,0,.012) 50%)',
-          backgroundSize: '100% 4px',
-        }}
-        aria-hidden="true"
+    <div className="min-h-screen bg-[#0a0a0a] text-gray-200 font-sans">
+      {/* Stats header */}
+      <StatsHeader
+        agents={agents}
+        active={active}
+        depts={depts}
+        selectedDept={selectedDept}
+        onSelectDept={setSelectedDept}
       />
 
-      <div className="relative z-10">
-        {/* Stats Bar */}
-        <StatsBar
-          agents={agents}
-          active={active}
-          depts={depts}
-          scrollToDept={scrollToDept}
-        />
-
-        {/* Canvas — always full width, drawers overlay on top */}
-        <div className="px-4 py-2">
-          <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-visible">
-            <ParticleSwarm agents={agents} activeIds={activeIds} />
-          </div>
-        </div>
-
-        {/* LEFT: Sliding Agent Drawer (overlay) */}
-        <SlidingDrawer
-          side="left"
-          storageKey="agent-list"
-          label="Agents"
-          width={320}
-          badge={`${depts.length} depts`}
-        >
-          <div className="space-y-3">
-            {depts.map((dept) => {
+      {/* Main content: Department cards + Live feed */}
+      <div className="flex gap-0 max-w-[1600px] mx-auto">
+        {/* Left: Department cards */}
+        <div className="flex-1 min-w-0 p-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+            {filteredDepts.map((dept) => {
               const deptAgents = agents.filter((a) => a.dept === dept);
               return (
                 <DepartmentCard
@@ -938,23 +474,49 @@ function SwarmDashboard() {
                   dept={dept}
                   agents={deptAgents}
                   activeIds={activeIds}
-                  defaultExpanded={depts.length <= 5}
+                  defaultExpanded={depts.length <= 5 || selectedDept !== null}
                 />
               );
             })}
           </div>
-        </SlidingDrawer>
 
-        {/* RIGHT: Sliding Feed Drawer (overlay) */}
-        <SlidingDrawer
-          side="right"
-          storageKey="live-feed"
-          label="Feed"
-          width={300}
-          badge={`${(state.events || []).length} events`}
-        >
+          {/* Agents table toggle */}
+          <div className="mt-6">
+            <button
+              onClick={() => setShowTable(!showTable)}
+              className="flex items-center gap-2 px-4 py-2 text-xs font-mono text-gray-500 hover:text-gray-300 transition-colors"
+            >
+              <svg
+                className={`w-3.5 h-3.5 transition-transform ${showTable ? 'rotate-90' : ''}`}
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+              {showTable ? 'Hide' : 'Show'} all agents table ({agents.length})
+            </button>
+            {showTable && (
+              <div className="mt-3">
+                <AgentsTable agents={agents} activeIds={activeIds} />
+              </div>
+            )}
+          </div>
+        </div>
+
+        {/* Right: Live feed sidebar (hidden on mobile via md:flex) */}
+        <div className="hidden lg:block w-80 flex-none p-4 pl-0">
+          <div className="sticky top-[57px]" style={{ height: 'calc(100vh - 73px)' }}>
+            <LiveFeed events={state.events} />
+          </div>
+        </div>
+      </div>
+
+      {/* Mobile: Live feed as bottom section */}
+      <div className="lg:hidden px-4 pb-6">
+        <div style={{ height: '350px' }}>
           <LiveFeed events={state.events} />
-        </SlidingDrawer>
+        </div>
       </div>
     </div>
   );
