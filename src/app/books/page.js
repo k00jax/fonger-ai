@@ -25,6 +25,8 @@ export default function BooksPage() {
               </h2>
             </div>
 
+            <p className="text-gray-500 text-sm mb-3 leading-relaxed">A History of Metaphysical Ideas, from Apocalypse to the Ground of Being</p>
+
             <span className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-5 font-medium tracking-wide">
               24th Draft
             </span>
