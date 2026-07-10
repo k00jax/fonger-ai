@@ -583,26 +583,29 @@ function SwarmDashboard() {
           scrollToDept={scrollToDept}
         />
 
-        {/* Department Cards */}
+        {/* Main Content: Agent List (Left) + Live Feed (Right) */}
         <div className="max-w-7xl mx-auto px-4 py-6">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {depts.map((dept) => {
-              const deptAgents = agents.filter((a) => a.dept === dept);
-              return (
-                <DepartmentCard
-                  key={dept}
-                  dept={dept}
-                  agents={deptAgents}
-                  activeIds={activeIds}
-                  defaultExpanded={depts.length <= 5}
-                />
-              );
-            })}
-          </div>
+          <div className="flex flex-col lg:flex-row gap-4">
+            {/* Left: Department Cards + Agent Lists */}
+            <div className="lg:w-2/3 space-y-4">
+              {depts.map((dept) => {
+                const deptAgents = agents.filter((a) => a.dept === dept);
+                return (
+                  <DepartmentCard
+                    key={dept}
+                    dept={dept}
+                    agents={deptAgents}
+                    activeIds={activeIds}
+                    defaultExpanded={depts.length <= 5}
+                  />
+                );
+              })}
+            </div>
 
-          {/* Live Feed */}
-          <div className="mt-6">
-            <LiveFeed events={state.events} />
+            {/* Right: Live Feed */}
+            <div className="lg:w-1/3 lg:sticky lg:top-4 lg:self-start">
+              <LiveFeed events={state.events} />
+            </div>
           </div>
         </div>
       </div>
