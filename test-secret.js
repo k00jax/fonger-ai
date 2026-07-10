@@ -1,1 +1,1 @@
-const API_KEY = 'sk-abc123def456ghi789';
+const API_KEY = 'sk-proj-abc123def456ghi789jkl012mno345pqr678';
