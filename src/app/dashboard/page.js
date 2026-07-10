@@ -156,8 +156,8 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       const deptList = [...new Set(particles.map(p => p.dept))];
       deptList.forEach(dept => {
         const deptParticles = particles.filter(p => p.dept === dept);
-        const baseCx = deptParticles.reduce((s, p) => s + p.x, 0) / deptParticles.length;
-        const baseCy = deptParticles.reduce((s, p) => s + p.y, 0) / deptParticles.length;
+        const baseCx = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
+        const baseCy = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
         const lx = tx(baseCx);
         const ly = ty(baseCy - 85);
         const color = DEPT_COLORS[dept] || '#888';
@@ -328,9 +328,9 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         // Check for new hover
         for (let i = particles.length - 1; i >= 0; i--) {
           const p = particles[i];
-          const dx = p.x - mx;
-          const dy = p.y - my;
-          const hitR = activeIdsRef.current.has(p.agent.name) ? 18 : 10;
+          const dx = (p.x * zoomRef.current + panRef.current.x) - mx;
+          const dy = (p.y * zoomRef.current + panRef.current.y) - my;
+          const hitR = (activeIdsRef.current.has(p.agent.name) ? 22 : 14) * zoomRef.current;
           if (Math.sqrt(dx * dx + dy * dy) < hitR) {
             hoveredRef.current = i;
             setTooltip({
@@ -400,9 +400,9 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
     // Find clicked node (reverse to get topmost)
     for (let i = particles.length - 1; i >= 0; i--) {
       const p = particles[i];
-      const dx = p.x - mx;
-      const dy = p.y - my;
-      if (Math.sqrt(dx * dx + dy * dy) < p.radius + 6) {
+      const dx = (p.x * zoomRef.current + panRef.current.x) - mx;
+      const dy = (p.y * zoomRef.current + panRef.current.y) - my;
+      if (Math.sqrt(dx * dx + dy * dy) < p.radius * zoomRef.current + 8) {
         dragNodeRef.current = i;
         dragOffsetRef.current.x = (mx - panRef.current.x) / zoomRef.current - p.x;
         dragOffsetRef.current.y = (my - panRef.current.y) / zoomRef.current - p.y;
