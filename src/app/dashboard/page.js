@@ -74,11 +74,11 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       return {
         id: i,
         agent,
-        x: center.x + (Math.random() - 0.5) * radius * 0.5,
-        y: center.y + (Math.random() - 0.5) * radius * 0.5,
+        x: center.x + (Math.random() - 0.5) * radius * 0.6,
+        y: center.y + (Math.random() - 0.5) * radius * 0.6,
         baseX: center.x,
         baseY: center.y,
-        radius: 3 + Math.random() * 2,
+        radius: 11 + Math.random() * 3,
         phase: Math.random() * Math.PI * 2,
         dept: agent.dept,
         active: activeIds.has(agent.name),
@@ -129,26 +129,33 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       const mx = mouseRef.current.x;
       const my = mouseRef.current.y;
 
-      // Update particles
+      // ── Draw department labels ──
+      const deptCenters = {};
+      const deptList = [...new Set(particles.map(p => p.dept))];
+      deptList.forEach(dept => {
+        const deptParticles = particles.filter(p => p.dept === dept);
+        const cx = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
+        const cy = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
+        const color = DEPT_COLORS[dept] || '#888';
+        const icon = DEPT_ICONS[dept] || '';
+        deptCenters[dept] = { x: cx, y: cy };
+        ctx.font = 'bold 11px \"JetBrains Mono\", monospace';
+        ctx.fillStyle = hexToRgba(color, 0.5);
+        ctx.textAlign = 'center';
+        ctx.fillText(`${icon} ${dept.toUpperCase()}`, cx, cy - 70);
+      });
+
+      // ── Draw connection lines ──
       particles.forEach((p) => {
-        const active = activeIdsRef.current.has(p.agent.name);
-        const color = DEPT_COLORS[p.dept] || '#888';
-
-        // Stable positions — snap to base (no mouse repulsion)
-        p.x += (p.baseX - p.x) * 0.08;
-        p.y += (p.baseY - p.y) * 0.08;
-
-        // Draw connection lines to nearby same-dept particles
-        const connDist = 130;
         particles.forEach((q) => {
           if (q.id <= p.id) return;
           if (q.dept !== p.dept) return;
-          const dx2 = p.x - q.x;
-          const dy2 = p.y - q.y;
-          const dist2 = Math.sqrt(dx2 * dx2 + dy2 * dy2);
-          if (dist2 < connDist) {
-            const alpha = (1 - dist2 / connDist) * (active ? 0.15 : 0.04);
-            ctx.strokeStyle = hexToRgba(color, alpha);
+          const dx = p.x - q.x;
+          const dy = p.y - q.y;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+          if (dist < 150) {
+            const alpha = (1 - dist / 150) * 0.1;
+            ctx.strokeStyle = hexToRgba(DEPT_COLORS[p.dept] || '#888', alpha);
             ctx.lineWidth = 0.5;
             ctx.beginPath();
             ctx.moveTo(p.x, p.y);
@@ -156,37 +163,49 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
             ctx.stroke();
           }
         });
+      });
 
-        // Draw particle with pulse
-        const pulse = active ? 1 + Math.sin(performance.now() * 0.003 + p.phase) * 0.3 : 1;
-        const r = p.radius * pulse;
-        const glow = active ? 8 : 2;
+      // ── Draw nodes ──
+      particles.forEach((p) => {
+        const active = activeIdsRef.current.has(p.agent.name);
+        const color = DEPT_COLORS[p.dept] || '#888';
+        p.x += (p.baseX - p.x) * 0.08;
+        p.y += (p.baseY - p.y) * 0.08;
 
-        // Outer glow
-        const glowGrad = ctx.createRadialGradient(p.x, p.y, r * 0.3, p.x, p.y, r + glow);
-        glowGrad.addColorStop(0, hexToRgba(color, active ? 0.9 : 0.5));
-        glowGrad.addColorStop(0.5, hexToRgba(color, 0.15));
-        glowGrad.addColorStop(1, 'rgba(0,0,0,0)');
-        ctx.fillStyle = glowGrad;
-        ctx.beginPath();
-        ctx.arc(p.x, p.y, r + glow, 0, Math.PI * 2);
-        ctx.fill();
-
-        // Core
-        ctx.fillStyle = color;
-        ctx.beginPath();
-        ctx.arc(p.x, p.y, r, 0, Math.PI * 2);
-        ctx.fill();
-
-        // Active pulse ring
+        // Outer glow for active
         if (active) {
-          const pulseR = r + glow * (0.5 + 0.5 * Math.sin(performance.now() * 0.004 + p.phase));
-          ctx.strokeStyle = color.replace(')', ', 0.4)').replace('rgb', 'rgba');
-          ctx.lineWidth = 1;
+          const glow = ctx.createRadialGradient(p.x, p.y, p.radius * 0.5, p.x, p.y, p.radius * 2.5);
+          glow.addColorStop(0, hexToRgba(color, 0.4));
+          glow.addColorStop(1, 'rgba(0,0,0,0)');
+          ctx.fillStyle = glow;
           ctx.beginPath();
-          ctx.arc(p.x, p.y, pulseR, 0, Math.PI * 2);
-          ctx.stroke();
+          ctx.arc(p.x, p.y, p.radius * 2.5, 0, Math.PI * 2);
+          ctx.fill();
         }
+
+        // Node circle
+        ctx.fillStyle = hexToRgba(color, active ? 0.9 : 0.35);
+        ctx.strokeStyle = hexToRgba(color, active ? 0.8 : 0.3);
+        ctx.lineWidth = active ? 1.5 : 0.8;
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.stroke();
+
+        // Inner dot for active
+        if (active) {
+          ctx.fillStyle = '#fff';
+          ctx.beginPath();
+          ctx.arc(p.x, p.y, 3, 0, Math.PI * 2);
+          ctx.fill();
+        }
+
+        // Label
+        const fontSize = active ? 10 : 9;
+        ctx.font = `${active ? 'bold ' : ''}${fontSize}px \"JetBrains Mono\", monospace`;
+        ctx.fillStyle = active ? '#fff' : '#666';
+        ctx.textAlign = 'center';
+        ctx.fillText(p.agent.name, p.x, p.y + p.radius + 14);
       });
 
       // Check hover
