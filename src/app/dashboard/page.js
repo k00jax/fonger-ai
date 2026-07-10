@@ -55,6 +55,7 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
   const zoomRef = useRef(1);
   const isPanningRef = useRef(false);
   const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
+  const deptLabelOffsetsRef = useRef({});
   const flowParticlesRef = useRef([]);
 
   const initParticles = useCallback(() => {
@@ -119,6 +120,12 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
 
     initParticles();
 
+    // Load saved dept label offsets
+    try {
+      const stored = localStorage.getItem('trivance_dept_labels');
+      if (stored) deptLabelOffsetsRef.current = JSON.parse(stored);
+    } catch {}
+
     const ctx = canvas.getContext('2d');
 
     const animate = () => {
@@ -156,10 +163,11 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       const deptList = [...new Set(particles.map(p => p.dept))];
       deptList.forEach(dept => {
         const deptParticles = particles.filter(p => p.dept === dept);
-        const baseCx = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
-        const baseCy = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
-        const lx = tx(baseCx);
-        const ly = ty(baseCy - 85);
+        const avgX = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
+        const avgY = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
+        const offset = deptLabelOffsetsRef.current[dept] || { x: 0, y: 0 };
+        const lx = tx(avgX) + offset.x;
+        const ly = ty(avgY - 85) + offset.y;
         const color = DEPT_COLORS[dept] || '#888';
         const icon = DEPT_ICONS[dept] || '';
         ctx.font = `bold ${11 * zoom}px "JetBrains Mono", monospace`;
@@ -370,8 +378,14 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       return;
     }
 
-    // Update dragged node position
-    if (dragNodeRef.current !== null) {
+    // Update dragged node or label position
+    if (dragNodeRef.current === -1) {
+      const dept = dragOffsetRef.current.dept;
+      deptLabelOffsetsRef.current[dept] = {
+        x: mx - dragOffsetRef.current.x - ((particles.filter(p => p.dept === dept).reduce((s, p) => s + p.baseX, 0) / (particles.filter(p => p.dept === dept).length || 1)) * zoomRef.current + panRef.current.x),
+        y: my - dragOffsetRef.current.y - (((particles.filter(p => p.dept === dept).reduce((s, p) => s + p.baseY, 0) / (particles.filter(p => p.dept === dept).length || 1)) - 85) * zoomRef.current + panRef.current.y),
+      };
+    } else if (dragNodeRef.current !== null) {
       const particles = particlesRef.current;
       const p = particles[dragNodeRef.current];
       if (p) {
@@ -410,13 +424,37 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         return;
       }
     }
+    // Check dept label hit
+    const offsets = deptLabelOffsetsRef.current;
+    for (const dept of deptList) {
+      const deptParticles = particles.filter(p => p.dept === dept);
+      const ax = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
+      const ay = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
+      const off = offsets[dept] || { x: 0, y: 0 };
+      const lx = (ax * zoomRef.current + panRef.current.x) + off.x;
+      const ly = ((ay - 85) * zoomRef.current + panRef.current.y) + off.y;
+      if (Math.abs(lx - mx) < 80 && Math.abs(ly - my) < 14) {
+        dragNodeRef.current = -1;
+        dragOffsetRef.current.dept = dept;
+        dragOffsetRef.current.x = mx - lx;
+        dragOffsetRef.current.y = my - ly;
+        setIsDragging(true);
+        return;
+      }
+    }
     // Start panning
     isPanningRef.current = true;
     panStartRef.current = { x: mx, y: my, panX: panRef.current.x, panY: panRef.current.y };
   };
 
   const handleMouseUp = useCallback(() => {
-    if (dragNodeRef.current !== null) {
+    if (dragNodeRef.current === -1) {
+      try {
+        localStorage.setItem('trivance_dept_labels', JSON.stringify(deptLabelOffsetsRef.current));
+      } catch {}
+      dragNodeRef.current = null;
+      setIsDragging(false);
+    } else if (dragNodeRef.current !== null) {
       // Save node positions to localStorage
       try {
         const positions = {};
@@ -878,7 +916,7 @@ function SwarmDashboard() {
 
         {/* Canvas — always full width, drawers overlay on top */}
         <div className="px-4 py-2">
-          <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-hidden">
+          <div className="bg-[#0a0a14] border border-[#1a1a2e] rounded-xl overflow-visible">
             <ParticleSwarm agents={agents} activeIds={activeIds} />
           </div>
         </div>
