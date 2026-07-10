@@ -44,6 +44,8 @@ function ParticleSwarm({ agents, activeIds }) {
   const animRef = useRef(null);
   const particlesRef = useRef([]);
   const mouseRef = useRef({ x: -100, y: -100 });
+  const activeIdsRef = useRef(activeIds);
+  activeIdsRef.current = activeIds; // Always current for animation loop
   const hoveredRef = useRef(null);
   const [tooltip, setTooltip] = useState(null);
 
@@ -83,7 +85,7 @@ function ParticleSwarm({ agents, activeIds }) {
       };
     });
     particlesRef.current = particles;
-  }, [agents, activeIds]);
+  }, []); // Only init once — active states update in animation loop
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -129,7 +131,7 @@ function ParticleSwarm({ agents, activeIds }) {
 
       // Update particles
       particles.forEach((p) => {
-        const active = activeIds.has(p.agent.name);
+        const active = activeIdsRef.current.has(p.agent.name);
         const color = DEPT_COLORS[p.dept] || '#888';
 
         // Stable positions — snap to base, gentle breathing only
@@ -203,7 +205,7 @@ function ParticleSwarm({ agents, activeIds }) {
         if (p) {
           const dx = p.x - mx;
           const dy = p.y - my;
-          if (Math.sqrt(dx * dx + dy * dy) > (activeIds.has(p.agent.name) ? 18 : 10)) {
+          if (Math.sqrt(dx * dx + dy * dy) > (activeIdsRef.current.has(p.agent.name) ? 18 : 10)) {
             hoveredRef.current = null;
             setTooltip(null);
           }
@@ -214,7 +216,7 @@ function ParticleSwarm({ agents, activeIds }) {
           const p = particles[i];
           const dx = p.x - mx;
           const dy = p.y - my;
-          const hitR = activeIds.has(p.agent.name) ? 18 : 10;
+          const hitR = activeIdsRef.current.has(p.agent.name) ? 18 : 10;
           if (Math.sqrt(dx * dx + dy * dy) < hitR) {
             hoveredRef.current = i;
             setTooltip({
