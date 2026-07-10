@@ -55,7 +55,7 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
   const zoomRef = useRef(1);
   const isPanningRef = useRef(false);
   const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
-  const deptLabelPosRef = useRef({});
+  const flowParticlesRef = useRef([]);
 
   const initParticles = useCallback(() => {
     const depts = [...new Set(agents.map((a) => a.dept))];
@@ -148,33 +148,24 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
       const panY = panRef.current.y;
       const zoom = zoomRef.current;
 
-      // Load saved dept label positions
-      try {
-        const stored = localStorage.getItem('trivance_dept_labels');
-        if (stored) deptLabelPosRef.current = JSON.parse(stored);
-      } catch {}
-
       // Transform helper
       const tx = (x) => x * zoom + panX;
       const ty = (y) => y * zoom + panY;
 
-      // ── Draw department labels ──
+      // ── Draw department labels (follow cluster centers) ──
       const deptList = [...new Set(particles.map(p => p.dept))];
       deptList.forEach(dept => {
         const deptParticles = particles.filter(p => p.dept === dept);
-        const baseCx = deptParticles.reduce((s, p) => s + p.baseX, 0) / deptParticles.length;
-        const baseCy = deptParticles.reduce((s, p) => s + p.baseY, 0) / deptParticles.length;
-        const saved = deptLabelPosRef.current[dept];
-        const lx = saved ? saved.x : tx(baseCx);
-        const ly = saved ? saved.y : ty(baseCy - 85);
+        const baseCx = deptParticles.reduce((s, p) => s + p.x, 0) / deptParticles.length;
+        const baseCy = deptParticles.reduce((s, p) => s + p.y, 0) / deptParticles.length;
+        const lx = tx(baseCx);
+        const ly = ty(baseCy - 85);
         const color = DEPT_COLORS[dept] || '#888';
         const icon = DEPT_ICONS[dept] || '';
         ctx.font = `bold ${11 * zoom}px "JetBrains Mono", monospace`;
         ctx.fillStyle = hexToRgba(color, 0.5);
         ctx.textAlign = 'center';
         ctx.fillText(`${icon} ${dept.toUpperCase()}`, lx, ly);
-        // Store for hit detection
-        deptLabelPosRef.current[dept] = { x: lx, y: ly };
       });
 
       // ── Draw connection lines ──
@@ -196,6 +187,68 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
           }
         });
       });
+
+      // ── Draw flow particles (Director ↔ active agents) ──
+      const flowParticles = flowParticlesRef.current;
+      const directorParticle = particles.find(p => p.agent.dept === 'director');
+      const activeDeptAgents = particles.filter(
+        p => p.agent.dept !== 'director' && activeIdsRef.current.has(p.agent.name)
+      );
+
+      // Maintain flow particles: one per active agent, alternating direction
+      const activeSet = new Set(activeDeptAgents.map(p => p.id));
+      for (let i = flowParticles.length - 1; i >= 0; i--) {
+        if (!activeSet.has(flowParticles[i].agentId)) {
+          flowParticles.splice(i, 1);
+        }
+      }
+      for (const ap of activeDeptAgents) {
+        if (!flowParticles.find(fp => fp.agentId === ap.id)) {
+          flowParticles.push({
+            agentId: ap.id,
+            progress: Math.random(),
+            direction: Math.random() > 0.5 ? 'outgoing' : 'incoming',
+          });
+        }
+      }
+
+      if (directorParticle) {
+        const dx = tx(directorParticle.x);
+        const dy = ty(directorParticle.y);
+        flowParticles.forEach(fp => {
+          const ap = particles[fp.agentId];
+          if (!ap) return;
+          const ax = tx(ap.x);
+          const ay = ty(ap.y);
+          // Advance progress
+          fp.progress += 0.008;
+          if (fp.progress > 1) {
+            fp.progress = 0;
+            fp.direction = fp.direction === 'outgoing' ? 'incoming' : 'outgoing';
+          }
+          // Interpolate position
+          const t = fp.direction === 'outgoing' ? fp.progress : 1 - fp.progress;
+          const fx = dx + (ax - dx) * t;
+          const fy = dy + (ay - dy) * t;
+          // Draw flow dot with glow
+          const dotR = 2.5 * zoom;
+          ctx.fillStyle = 'rgba(255,255,255,0.9)';
+          ctx.shadowColor = '#00ffff';
+          ctx.shadowBlur = 6 * zoom;
+          ctx.beginPath();
+          ctx.arc(fx, fy, dotR, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.shadowBlur = 0;
+          // Fading trail dot
+          const trailT = Math.max(0, t - 0.03);
+          const trailX = dx + (ax - dx) * trailT;
+          const trailY = dy + (ay - dy) * trailT;
+          ctx.fillStyle = 'rgba(0,255,255,0.3)';
+          ctx.beginPath();
+          ctx.arc(trailX, trailY, dotR * 0.7, 0, Math.PI * 2);
+          ctx.fill();
+        });
+      }
 
       // ── Draw nodes ──
       particles.forEach((p) => {
@@ -357,42 +410,13 @@ const ParticleSwarm = memo(function ParticleSwarm({ agents, activeIds }) {
         return;
       }
     }
-    // Check dept label hit
-    const deptList = [...new Set(particles.map(p => p.dept))];
-    const labelPositions = deptLabelPosRef.current;
-    for (const dept of deptList) {
-      const pos = labelPositions[dept];
-      if (!pos) continue;
-      const dx = pos.x - mx;
-      const dy = pos.y - my;
-      if (Math.abs(dx) < 80 && Math.abs(dy) < 14) {
-        dragNodeRef.current = -1; // special: dragging label
-        dragOffsetRef.current.dept = dept;
-        dragOffsetRef.current.x = mx - pos.x;
-        dragOffsetRef.current.y = my - pos.y;
-        setIsDragging(true);
-        return;
-      }
-    }
     // Start panning
     isPanningRef.current = true;
     panStartRef.current = { x: mx, y: my, panX: panRef.current.x, panY: panRef.current.y };
   };
 
   const handleMouseUp = useCallback(() => {
-    if (dragNodeRef.current === -1) {
-      // Save dept label position
-      const dept = dragOffsetRef.current.dept;
-      deptLabelPosRef.current[dept] = {
-        x: mouseRef.current.x - dragOffsetRef.current.x,
-        y: mouseRef.current.y - dragOffsetRef.current.y,
-      };
-      try {
-        localStorage.setItem('trivance_dept_labels', JSON.stringify(deptLabelPosRef.current));
-      } catch {}
-      dragNodeRef.current = null;
-      setIsDragging(false);
-    } else if (dragNodeRef.current !== null) {
+    if (dragNodeRef.current !== null) {
       // Save node positions to localStorage
       try {
         const positions = {};
