@@ -83,10 +83,11 @@ const projects = [
       'Turn manuscripts into audiobooks. Automated narration pipeline with voice synthesis, chapter segmentation, and audio mastering.',
     status: 'development',
     link: 'https://github.com/k00jax/audiobook-studio',
+    image: '/audiobook-preview.webp',
     tech: ['TypeScript', 'Python', 'ElevenLabs API'],
   },
   {
-    name: 'HERMES Desktop',
+    name: 'HERMES Offline Survival',
     description:
       'The agent framework that powers The Trivance. Multi-profile AI assistant with skills, plugins, cron scheduling, and Discord integration. Built on Nous Research\'s Hermes architecture.',
     status: 'live',
