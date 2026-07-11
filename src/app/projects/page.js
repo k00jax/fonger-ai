@@ -92,6 +92,7 @@ const projects = [
       'The agent framework that powers The Trivance. Multi-profile AI assistant with skills, plugins, cron scheduling, and Discord integration. Built on Nous Research\'s Hermes architecture.',
     status: 'live',
     link: 'https://github.com/k00jax/HERMES',
+    image: '/hermes-preview.webp',
     tech: ['Python', 'C++', 'Shell'],
   },
   {
