@@ -235,35 +235,41 @@ export default function Home() {
           <h2 className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-10">Explore</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             <NavigationCard
-              href="/dashboard/"
-              icon="⚡"
-              title="Dashboard"
-              description="Live swarm monitor. See the 40 agents running across 9 departments in real time."
+              href="/projects/"
+              icon="📂"
+              title="Projects"
+              description="Active builds and live demos. 11 projects spanning AI agents, web apps, and hardware."
             />
             <NavigationCard
               href="/trivance/"
               icon="🤖"
               title="Trivance AI"
-              description="A 40-agent swarm architecture with 9 autonomous departments. Building the future."
-            />
-            <NavigationCard
-              href="/books/"
-              icon="📚"
-              title="Books"
-              description="Philosophy, comparative religion, and conspiracy theory analysis. Two books in the works."
-              variant="orange"
+              description="AI strategy consulting for small and mid-sized businesses. Where thought becomes system."
             />
             <NavigationCard
               href="/swarm/"
               icon="⚡"
               title="The Swarm"
-              description="Live demos and portfolio: NakedLeadGen, Paylocity Sales Hub, The Questionarium."
+              description="45-agent autonomous swarm across 10 departments. Research, design, production, and more."
+            />
+            <NavigationCard
+              href="/arcadia/"
+              icon="📖"
+              title="Arcadia"
+              description="Homeschool learning environment for the Fonger kids. Lessons, assignments, and progress tracking."
+            />
+            <NavigationCard
+              href="/books/"
+              icon="📚"
+              title="Books"
+              description="Three books on philosophy, consciousness, and the ideas shaping our future."
+              variant="orange"
             />
             <NavigationCard
               href="/family/"
-              icon="🏠"
-              title="Family Portal"
-              description="Password-protected homeschool hub for the Fonger family."
+              icon="🔒"
+              title="Family"
+              description="Password-protected hub for the family. Arcadia portal, swarm dashboard, and more."
               variant="orange"
             />
           </div>
