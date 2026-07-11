@@ -44,6 +44,7 @@ const projects = [
       'A Shopify plus Printify print-on-demand pipeline covering 11 niches with roughly 29 products. Automated mockup refresh and order processing.',
     status: 'live',
     link: 'https://everyvoicematters.myshopify.com',
+    image: '/evm-preview.png',
     tech: ['Shopify', 'Printify', 'Python', 'Automation'],
   },
   {
