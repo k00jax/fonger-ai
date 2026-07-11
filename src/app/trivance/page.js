@@ -70,7 +70,7 @@ export default function TrivancePage() {
                 key={item.step}
                 className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 card-hover text-center"
               >
-                <span className="text-3xl font-bold text-gray-700 group-hover:text-brand-red transition-colors duration-300">
+                <span className="text-3xl font-bold text-gray-700 group-hover:text-[#64bc1a] transition-colors duration-300">
                   {item.step}
                 </span>
                 <h3 className="text-white font-semibold mt-3 mb-1.5">{item.label}</h3>
@@ -89,7 +89,7 @@ export default function TrivancePage() {
                 key={service.title}
                 className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 card-hover"
               >
-                <span className="w-10 h-10 rounded-xl bg-brand-red/10 text-brand-red flex items-center justify-center text-lg mb-4">
+                <span className="w-10 h-10 rounded-xl bg-[#64bc1a]/10 text-[#64bc1a] flex items-center justify-center text-lg mb-4">
                   {service.icon}
                 </span>
                 <h3 className="text-white font-semibold mb-2">{service.title}</h3>
@@ -131,7 +131,7 @@ export default function TrivancePage() {
               href="https://trivanceai.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-red hover:bg-red-700 text-white font-semibold rounded-xl transition-all duration-300 hover:shadow-[0_0_30px_rgba(220,38,38,0.3)] hover:-translate-y-0.5"
+              className="inline-flex items-center gap-2 px-8 py-3.5 bg-[#22c55e] hover:bg-[#16a34a] text-white font-semibold rounded-xl transition-all duration-300 hover:shadow-[0_0_30px_rgba(34,197,94,0.3)] hover:-translate-y-0.5"
             >
               Visit TrivanceAI.com
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
