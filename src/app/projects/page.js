@@ -87,7 +87,7 @@ const projects = [
     tech: ['TypeScript', 'Python', 'ElevenLabs API'],
   },
   {
-    name: 'HERMES Offline Survival',
+    name: 'HERMES',
     description:
       'Heuristic Environmental Real-time Monitoring & Engagement System. A Pip-Boy-style wearable that reads live environmental telemetry from distributed sensors. Edge-compute dashboard, optional AI brain, local-first with no cloud dependencies.',
     status: 'live',
