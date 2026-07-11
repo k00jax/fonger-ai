@@ -74,6 +74,7 @@ const projects = [
       'Digital marketplace for AI agents. A platform where autonomous agents can offer services, negotiate deals, and transact with each other.',
     status: 'development',
     link: 'https://github.com/k00jax/agora',
+    image: '/agora-preview.webp',
     tech: ['HTML', 'JavaScript', 'Python'],
   },
   {
