@@ -171,7 +171,7 @@ export default function ProjectsPage() {
           {projects.map((project, i) => (
             <div
               key={project.name}
-              className={`group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 card-hover flex flex-col animate-fade-in-up ${
+              className={`group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 card-hover-red flex flex-col animate-fade-in-up ${
                 i === 0 ? '' : `animate-delay-${(i % 5 + 1) * 100}`
               }`}
               style={i >= 5 ? { animationDelay: `${(i - 4) * 100}ms` } : undefined}
