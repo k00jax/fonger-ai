@@ -111,6 +111,13 @@ body::after {
     background-clip: text;
   }
 
+  .text-gradient-green {
+    background: linear-gradient(135deg, #22c55e 0%, #4ade80 40%, #f0fdf4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
   .text-gradient-subtle {
     background: linear-gradient(135deg, #f87171 0%, #f97316 100%);
     -webkit-background-clip: text;

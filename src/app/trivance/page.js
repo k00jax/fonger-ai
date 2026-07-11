@@ -47,7 +47,7 @@ export default function TrivancePage() {
         {/* Tagline */}
         <div className="mb-16 animate-fade-in-up animate-delay-100">
           <div className="bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 text-center card-hover">
-            <p className="text-2xl sm:text-3xl font-bold text-gradient">
+            <p className="text-2xl sm:text-3xl font-bold text-gradient-green">
               Where Thought Becomes System
             </p>
             <p className="text-gray-500 text-sm mt-3 max-w-lg mx-auto leading-relaxed">
