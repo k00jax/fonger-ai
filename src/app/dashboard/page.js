@@ -467,7 +467,7 @@ function AgentsTable({ agents, activeIds }) {
 function SwarmDashboard() {
   const [state, setState] = useState(null);
   const [selectedDept, setSelectedDept] = useState(null);
-  const [showTable, setShowTable] = useState(false);
+  const [showTable, setShowTable] = useState(true);
 
   useEffect(() => {
     const fetchState = async () => {
@@ -499,9 +499,13 @@ function SwarmDashboard() {
   const activeIds = new Set(active.map((a) => a.name));
   const depts = [...new Set(agents.map((a) => a.dept))];
 
-  const filteredDepts = selectedDept
+  const filteredDepts = (selectedDept
     ? depts.filter((d) => d === selectedDept)
-    : depts;
+    : depts).sort((a, b) => {
+      const aActive = agents.filter(x => x.dept === a && activeIds.has(x.name)).length;
+      const bActive = agents.filter(x => x.dept === b && activeIds.has(x.name)).length;
+      return bActive - aActive;
+    });
 
   return (
     <div className="min-h-screen bg-[#0a0a0a] text-gray-200 font-sans">
