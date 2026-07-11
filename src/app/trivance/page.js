@@ -35,12 +35,7 @@ export default function TrivancePage() {
         <div className="animate-fade-in-up mb-16">
           <p className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">Consulting</p>
           <div className="flex items-center gap-5 mb-4">
-            <img src="/trivance-logo.webp" alt="Trivance AI" className="h-12 w-auto" />
-          </div>
-
-          {/* Header image */}
-          <div className="mt-6 mb-2 rounded-2xl overflow-hidden border border-[#1f1f1f]">
-            <img src="/trivanceai-preview.png" alt="Trivance AI" className="w-full object-cover" />
+            <img src="/trivance-logo.webp" alt="Trivance AI" className="h-10 w-auto" />
           </div>
 
           <p className="text-lg text-gray-400 leading-relaxed max-w-xl">
