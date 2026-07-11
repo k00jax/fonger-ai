@@ -26,6 +26,13 @@ const tiles = [
     href: '/family/chat/',
     color: '#4da6ff',
   },
+  {
+    title: 'Parents',
+    desc: "View the kids' learning progress and AI chat activity",
+    icon: '👨‍👩‍👧‍👦',
+    href: '/family/parents/',
+    color: '#22c55e',
+  },
 ];
 
 export default function FamilyPage() {
