@@ -1,0 +1,256 @@
+{
+  "title": "Animals of the World",
+  "objective": "Students will explore animals of the world concepts including Biodiversity, Protecting Endangered Animals, Endangered & Extinct Species and more.",
+  "standards": [],
+  "skills_tested": [
+    "animals_of_the_world"
+  ],
+  "lessons": [
+    {
+      "title": "Biodiversity",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Biodiversity!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that biodiversity — the variety of different species in an ecosystem — is essential for healthy ecosystems, and that keystone species (like wolves in Yellowstone, sea otters in kelp forests, or bees as pollinators) have an outsized impact on their ecosystem, so that losing one key species can cause a cascade of changes affecting many others",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Defines biodiversity as the variety of species in an ecosystem",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you learns about how wolves were brought back to Yellowstone and the whole ecosystem changed, can they explain what a 'keystone species' is and why having many different species in an area matters?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Biodiversity. Defines biodiversity as the variety of species in an ecosystem Explains why biodiversity matters (stability, resilience, ecosystem services)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_01_lesson_01"
+    },
+    {
+      "title": "Protecting Endangered Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Protecting Endangered Animals. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know how people work to protect endangered animals — through national parks and marine reserves, captive breeding programmes (like those that saved the California condor and Arabian oryx), anti-poaching patrols, wildlife corridors connecting habitats, and laws banning trade in endangered species — and understand that children can contribute through habitat-friendly choices",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describes at least 3 conservation strategies with specific examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visits a zoo with a breeding programme, can they explain how zoos help save endangered species and describe at least two other ways people protect wildlife?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Protecting Endangered Animals. Describes at least 3 conservation strategies with specific examples Names an animal saved from near-extinction by conservation efforts",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_01_lesson_02"
+    },
+    {
+      "title": "Endangered & Extinct Species",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Endangered & Extinct Species. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand why some animal species become endangered or go extinct — habitat destruction, hunting/poaching, pollution, climate change, and invasive species — and know examples like the giant panda, mountain gorilla, Amur leopard, and the now-extinct dodo and thylacine, using the IUCN Red List as the system scientists use to track threatened species",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Defines endangered as a species at risk of extinction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a news story about an endangered animal, can they explain what 'endangered' means and describe at least three reasons why some animals are at risk of disappearing forever?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Endangered & Extinct Species. Defines endangered as a species at risk of extinction Names at least 3 causes of species becoming endangered",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_01_lesson_03"
+    },
+    {
+      "title": "Invasive Species",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Invasive Species!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that invasive species are animals (or plants) that have been introduced to a place where they don't naturally belong — like grey squirrels outcompeting red squirrels in the UK, cane toads poisoning native predators in Australia, or rabbits devastating ecosystems in Australia — and that they can cause serious harm to native wildlife by competing for food, spreading disease, or having no natural predators",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Defines invasive species as non-native animals introduced to a new environment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you learns that grey squirrels were brought to the UK from America, can they explain why introduced animals can be a problem for the animals that were already living there?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Invasive Species: Defines invasive species as non-native animals introduced to a new environment Names at least 2 examples of invasive species and their impacts",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_01_lesson_04"
+    },
+    {
+      "title": "Structural Adaptations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Structural Adaptations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that animals have structural adaptations (body features like the giraffe's long neck, eagle's talons, dolphin's streamlined shape), behavioural adaptations (migration, hibernation, tool use), and physiological adaptations (antifreeze in Arctic fish blood, echolocation in bats) — and that these developed over many generations through natural selection",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Defines adaptation as a feature or behaviour that helps an animal survive in its environment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a woodpecker pecking a tree, can they explain that its strong beak, long tongue, and shock-absorbing skull are all adaptations — and describe what the word 'adaptation' means with other examples?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Structural Adaptations. Defines adaptation as a feature or behaviour that helps an animal survive in its environment Gives examples of structural, behavioural, and physiological adaptations",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_01_lesson_05"
+    },
+    {
+      "title": "Symbiosis",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Symbiosis!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand symbiosis — close relationships between different species — including mutualism (both benefit, like clownfish and anemones), commensalism (one benefits without harming the other, like remora fish riding sharks), and parasitism (one benefits at the other's expense, like ticks on deer) — and recognise these relationships in nature",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Defines symbiosis as a close relationship between different species",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a nature programme showing a small bird picking insects off a buffalo's back, can they explain that both animals benefit from this relationship and name the type of symbiosis?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Symbiosis: Defines symbiosis as a close relationship between different species Distinguishes mutualism, commensalism, and parasitism with an example of each",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_01_lesson_06"
+    },
+    {
+      "title": "Animal Intelligence",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Animal Intelligence!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore animal intelligence and complex behaviour — chimpanzees and crows use tools, dolphins recognise themselves in mirrors, octopuses solve puzzles and escape enclosures, elephants mourn their dead, meerkats teach their young to handle scorpions — understanding that many animals think, learn, and have social lives more complex than once believed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Gives at least 4 examples of animal intelligence or complex behaviour",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watches a video of a crow using a stick to get food from a tube, can they explain that this shows animal intelligence and give other examples of animals that use tools, solve problems, or show complex behaviour?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animal Intelligence. Gives at least 4 examples of animal intelligence or complex behaviour Explains what 'tool use' means and names at least 2 tool-using animals",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_01_lesson_07"
+    }
+  ],
+  "id": "Science_unit_01"
+}

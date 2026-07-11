@@ -1,0 +1,301 @@
+{
+  "title": "Ecosystems & Habitats",
+  "objective": "Students will explore ecosystems & habitats concepts including Matter Cycling in Ecosystems, Food Webs & Interdependence, Evidence-Based Classification and more.",
+  "standards": [
+    "uk-nc-2013:KS3.Sci.Bio.Ecosystem.5",
+    "ngss-k5:5-LS2-1",
+    "ngss-k5:5-ESS3-1",
+    "ngss-ms:MS-LS2-1",
+    "uk-nc-2013:Y6.Sci.LTH.1",
+    "uk-nc-2013:Y6.Sci.LTH.2",
+    "uk-nc-2013:KS3.Sci.Bio.Ecosystem.2",
+    "uk-nc-2013:KS3.Sci.Bio.Ecosystem.1",
+    "ngss-ms:MS-LS2-4"
+  ],
+  "skills_tested": [
+    "ecosystems_habitats"
+  ],
+  "lessons": [
+    {
+      "title": "Matter Cycling in Ecosystems",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Matter Cycling in Ecosystems? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment in an ecosystem",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the role of decomposers (fungi, bacteria, worms) in breaking down dead matter",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what happens to a fallen leaf on the forest floor — how tiny organisms break it down and the nutrients go back into the soil to help new plants grow?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Matter Cycling in Ecosystems. Describe the role of decomposers (fungi, bacteria, worms) in breaking down dead matter Trace the movement of matter: plant grows using soil nutrients → animal eats plant → animal dies → decomposers return nutrients to soil",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_01"
+    },
+    {
+      "title": "Food Webs & Interdependence",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Food Webs & Interdependence! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct and interpret food webs showing the interdependence of organisms in an ecosystem, explaining how a change in one population affects others",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Draws a food web from given data with arrows showing energy flow direction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was shown a diagram with lots of animals connected by arrows, could they explain what it means — tracing what eats what — and predict what would happen if one animal disappeared from the web?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Food Webs & Interdependence. Draws a food web from given data with arrows showing energy flow direction Predicts how the population of one species would change if another species increased or decreased",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_02"
+    },
+    {
+      "title": "Evidence-Based Classification",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Evidence-Based Classification!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Give reasons for classifying plants and animals based on specific characteristics, using evidence to justify classification decisions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Classify an unfamiliar organism using specific observable characteristics with reasoning",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you finds an unusual creature, can they explain step by step how they'd work out what group it belongs to based on its features?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Evidence-Based Classification. Classify an unfamiliar organism using specific observable characteristics with reasoning Compare two similar organisms and explain which characteristics distinguish their classification",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_03"
+    },
+    {
+      "title": "Classifying Organisms",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Classifying Organisms! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how living things are classified into broad groups (micro-organisms, plants, animals) according to common observable characteristics, similarities, and differences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name the broad classification groups: micro-organisms, plants, animals (and fungi if known)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the big groups that scientists sort all living things into — like plants, animals, and tiny micro-organisms — and give examples of each?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Classifying Organisms. Name the broad classification groups: micro-organisms, plants, animals (and fungi if known) Describe observable characteristics used for classification (e.g. plants make own food, animals move and eat)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_04"
+    },
+    {
+      "title": "Pollination & Pollinator Decline",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Pollination & Pollinator Decline. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain the importance of insect pollination for plant reproduction and human food security, and discuss the consequences of pollinator decline",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains why many food crops depend on insect pollination to produce fruit and seeds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a news story about bees dying out, could they explain what that would actually mean for the food in your kitchen — which foods would be affected and why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Pollination & Pollinator Decline: Explains why many food crops depend on insect pollination to produce fruit and seeds Names examples of crops that require insect pollination (e.g. apples, almonds, oilseed rape)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_05"
+    },
+    {
+      "title": "Communities Protecting Resources",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Communities Protecting Resources? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Obtain and combine information about ways individual communities use science ideas to protect the Earth's resources and environment",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least three real-world examples of communities protecting resources or the environment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe real examples of how communities protect the environment — like using solar panels, creating nature reserves, or cleaning up rivers?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Communities Protecting Resources: Describe at least three real-world examples of communities protecting resources or the environment Explain the science ideas behind each example (e.g. solar panels convert sunlight to electricity, reducing fossil fuel use)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_06"
+    },
+    {
+      "title": "Energy Loss Between Levels",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Energy Loss Between Levels? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how energy is transferred between trophic levels in a food chain, why energy is lost at each stage, and use pyramids of biomass/numbers to represent this",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains that only about 10% of energy passes from one trophic level to the next",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked why there are so many more plants than foxes in a field, could they explain how energy gets lost at every step of a food chain and what that means for the size of each population?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Energy Loss Between Levels: Explains that only about 10% of energy passes from one trophic level to the next Constructs a pyramid of biomass from data and explains its shape",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_07"
+    },
+    {
+      "title": "The Water Cycle",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Water Cycle!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the water cycle, tracing water through evaporation, condensation, precipitation, surface runoff, and transpiration in plants, explaining how the sun drives the cycle",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Labels a water cycle diagram correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watched rain falling outside and was asked where that water had been before it fell, could they trace its journey through the water cycle from the sea to the clouds to the rain and back?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Water Cycle. Labels a water cycle diagram correctly Explains what drives each stage of the water cycle (e.g. solar energy drives evaporation)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_04_lesson_08"
+    }
+  ],
+  "id": "Science_unit_04"
+}

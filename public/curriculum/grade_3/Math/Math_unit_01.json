@@ -1,0 +1,156 @@
+{
+  "title": "Addition & Subtraction",
+  "objective": "Students will explore addition & subtraction concepts including Two-Step Equations, Adding and subtracting (age 8+), Two-step addition and subtraction problems and more.",
+  "standards": [
+    "uk-nc-2013:Ma/KS2/Y4/AS/3",
+    "ccss-math:3.OA.8",
+    "ccss-math:3.NBT.2",
+    "uk-nc-2013:Ma/KS2/Y4/AS/1"
+  ],
+  "skills_tested": [
+    "addition_subtraction"
+  ],
+  "lessons": [
+    {
+      "title": "Two-Step Equations",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Two-Step Equations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve two-step word problems using the four operations; represent problems using equations with a letter standing for the unknown quantity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve a two-step problem that combines addition/subtraction with multiplication/division",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write an equation like 'n + 25 = 60' to represent a word problem, and then solve it to find what n equals?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Two-Step Equations: Solve a two-step problem that combines addition/subtraction with multiplication/division Write an equation using a letter for the unknown (e.g. 3 × n + 5 = 26)",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_01_lesson_01"
+    },
+    {
+      "title": "Adding and subtracting (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Adding and subtracting (age 8+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract numbers with up to four digits using formal written methods of columnar addition and subtraction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Set out and solve a columnar addition with up to four-digit numbers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you line up a sum like '3,842 + 1,765' or '4,301 − 2,658' in columns and work through it correctly — carrying and borrowing across multiple columns?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Adding and subtracting (age 8+). Set out and solve a columnar addition with up to four-digit numbers Set out and solve a columnar subtraction with exchange across multiple columns",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_01_lesson_02"
+    },
+    {
+      "title": "Two-step addition and subtraction problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Two-step addition and subtraction problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve addition and subtraction two-step problems in contexts, deciding which operations and methods to use and why",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify the two steps needed to solve a contextual problem",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads a word problem with two steps — like working out change from a shopping trip with two items — can they plan which calculations to do and in what order?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Two-step addition and subtraction problems. Identify the two steps needed to solve a contextual problem Choose between mental and written methods for each step based on the numbers",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_01_lesson_03"
+    },
+    {
+      "title": "Fluent adding and subtracting within 1000",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Fluent adding and subtracting within 1000! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently add and subtract within 1000 using strategies and algorithms based on place value, properties of operations, and the relationship between addition and subtraction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Add two three-digit numbers fluently using an efficient method",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you add or subtract three-digit numbers like '672 − 348' reliably, choosing whichever method works best for them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fluent adding and subtracting within 1000: Add two three-digit numbers fluently using an efficient method Subtract three-digit numbers fluently, including with regrouping",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_01_lesson_04"
+    }
+  ],
+  "id": "Math_unit_01"
+}

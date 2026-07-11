@@ -1,0 +1,118 @@
+{
+  "title": "Responsible Decision-Making",
+  "objective": "Students will explore responsible decision-making concepts including Risk, Uncertainty, and Cognitive Bias.",
+  "standards": [],
+  "skills_tested": [
+    "responsible_decision-making",
+    "self-awareness",
+    "self-regulation_resilience"
+  ],
+  "lessons": [
+    {
+      "title": "Risk, Uncertainty, and Cognitive Bias",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Risk, Uncertainty, and Cognitive Bias. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between risk (decisions with known probabilities) and uncertainty (decisions with unknown outcomes); identify cognitive biases that distort risk assessment: availability heuristic (judging likelihood by how easily examples come to mind), present bias (overvaluing the immediate over the future), optimism bias (underestimating personal risk), and groupthink; understand why adolescent brains are biologically calibrated toward higher risk tolerance; apply a structured decision-making framework to real choices; understand the role of personal values in decisions where facts alone cannot determine the answer",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why taking a risk isn't always irrational — and describe one cognitive bias that causes people to misjudge risk in their everyday decisions, such as why teenagers tend to underestimate certain dangers?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Risk, Uncertainty, and Cognitive Bias. You now know more about Risk, Uncertainty, and Cognitive Bias!",
+          "media": {}
+        }
+      ],
+      "id": "5_SEL_unit_02_lesson_01"
+    },
+    {
+      "title": "Personal Growth Over Time",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "self-awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Personal Growth Over Time? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Reflect on your own growth over time — the things that challenge you now are not fixed, and noticing how you have already changed builds genuine self-knowledge",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. emotion vocabulary development continues to age 11 (PMC)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look back over the past year or two and point to something they used to find really difficult that they now handle better — and explain what changed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Personal Growth Over Time. emotion vocabulary development continues to age 11 (PMC) self-reflection importance in children research",
+          "media": {}
+        }
+      ],
+      "id": "5_SEL_unit_02_lesson_02"
+    },
+    {
+      "title": "Good Stress and Bad Stress",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Good Stress and Bad Stress! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between eustress (the productive, motivating kind of stress) and distress (harmful, overwhelming stress); explain the physiological stress response (fight-flight-freeze, HPA axis) and how chronic stress affects the body and mind; identify common adolescent stressors (academic pressure, social comparison, physical change, uncertainty about the future); evaluate evidence-based coping strategies (exercise, sleep, mindfulness, social support, expressive writing); recognise warning signs that stress has crossed into anxiety or depression and know where to get help",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is under pressure from exams or social situations, can they name two or three strategies that genuinely help them manage the stress — and explain why each one actually works, not just that it 'makes them feel better'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Good Stress and Bad Stress. You now know more about Good Stress and Bad Stress!",
+          "media": {}
+        }
+      ],
+      "id": "5_SEL_unit_02_lesson_03"
+    }
+  ],
+  "id": "SEL_unit_02"
+}

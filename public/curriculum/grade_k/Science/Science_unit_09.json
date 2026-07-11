@@ -1,0 +1,302 @@
+{
+  "title": "Organisms & Life Processes",
+  "objective": "Students will explore organisms & life processes concepts including Naming Common Animals, Common Plants & Trees, Living Things Vocabulary and more.",
+  "standards": [
+    "ngss-k5:K-LS1-1",
+    "uk-nc-2013:Y2.Sci.P.2",
+    "uk-nc-2013:Y1.Sci.A.4",
+    "uk-nc-2013:Y1.Sci.P.1",
+    "uk-nc-2013:Y1.Sci.A.3",
+    "uk-nc-2013:Y1.Sci.P.2",
+    "uk-nc-2013:Y1.Sci.A.1",
+    "uk-nc-2013:Y2.Sci.A.2",
+    "ngss-k5:1-LS1-1",
+    "uk-nc-2013:Y1.Sci.A.2"
+  ],
+  "skills_tested": [
+    "organisms_life_processes"
+  ],
+  "lessons": [
+    {
+      "title": "Naming Common Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Naming Common Animals. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and name common animals from major groups: fish, amphibians, reptiles, birds, and mammals",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least two animals from each group: fish, amphibians, reptiles, birds, mammals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you sees a frog, a robin, or a goldfish, can they tell you which animal group each belongs to?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Naming Common Animals. Name at least two animals from each group: fish, amphibians, reptiles, birds, mammals Sort a set of animal pictures into the five groups",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_01"
+    },
+    {
+      "title": "Common Plants & Trees",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Common Plants & Trees. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and name common wild and garden plants, including deciduous and evergreen trees",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least five common wild or garden plants from direct observation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you point to a tree in the park, can you tell you what kind it is and whether it keeps its leaves in winter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Common Plants & Trees. Name at least five common wild or garden plants from direct observation Sort trees into deciduous (loses leaves) and evergreen (keeps leaves) with examples",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_02"
+    },
+    {
+      "title": "Living Things Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Living Things Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and use vocabulary for what makes something living — alive, dead, never been alive, movement, nutrition, growth, reproduction, sensitivity, excretion — and apply these terms when classifying objects and explaining why plants and animals count as living things",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Correctly classify objects as living, dead, or never been alive and give a reason using one of the life process terms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a rock is not alive but a weed is — using a science word like 'nutrition' or 'growth' rather than just saying 'it moves'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Living Things Vocabulary: Correctly classify objects as living, dead, or never been alive and give a reason using one of the life process terms Name at least five life processes using the correct vocabulary",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_03"
+    },
+    {
+      "title": "What Living Things Need",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore What Living Things Need! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand what plants and animals (including humans) need to survive: water, food, air, and suitable conditions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. List the basic needs of animals: water, food, air, shelter",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you what a pet dog or a garden plant needs to stay alive, can they list the basic things like water, food, and air?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about What Living Things Need: List the basic needs of animals: water, food, air, shelter List the basic needs of plants: water, light, air, suitable temperature",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_04"
+    },
+    {
+      "title": "Herbivores, Carnivores & Omnivores",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Herbivores, Carnivores & Omnivores!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Classify common animals as carnivores (eat meat), herbivores (eat plants), or omnivores (eat both)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define carnivore, herbivore, and omnivore in own words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a cat is a carnivore, a rabbit is a herbivore, and a bear is an omnivore?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Herbivores, Carnivores & Omnivores: Define carnivore, herbivore, and omnivore in own words Sort at least six common animals into the three diet groups",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_05"
+    },
+    {
+      "title": "Parts of a Plant",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Parts of a Plant!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and describe the basic structure of common flowering plants (roots, stem, leaves, flowers) and trees (roots, trunk, branches, leaves)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Label roots, stem, leaves, and flowers on a diagram of a flowering plant",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you pick a flower from the garden, can you point to the roots, stem, leaves, and petals and say what each part does?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Parts of a Plant. Label roots, stem, leaves, and flowers on a diagram of a flowering plant Name the main parts of a tree: roots, trunk, branches, leaves",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_06"
+    },
+    {
+      "title": "Animal Body Groups",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Animal Body Groups. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe and compare the external body structure of common animals across groups (fish, amphibians, reptiles, birds, mammals)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe key structural features of at least three animal groups (e.g. scales, feathers, fur)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe how a fish's body is different from a bird's body and explain features like scales, feathers, or fins?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animal Body Groups. Describe key structural features of at least three animal groups (e.g. scales, feathers, fur) Compare two animals from different groups, noting at least two differences",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_07"
+    },
+    {
+      "title": "Body Parts & Senses",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Body Parts & Senses!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify, name, and locate basic parts of the human body and associate each body part with its sense",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Label eyes, ears, nose, mouth, and skin on a body outline",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you point to their eyes, ears, nose, tongue, and skin and tell you which sense each one is used for?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Body Parts & Senses: Label eyes, ears, nose, mouth, and skin on a body outline Match each sense organ to its sense: sight, hearing, smell, taste, touch",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_09_lesson_08"
+    }
+  ],
+  "id": "Science_unit_09"
+}

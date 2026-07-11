@@ -1,0 +1,477 @@
+{
+  "title": "Ratio & Proportion",
+  "objective": "Students will explore ratio & proportion concepts including Compound Units, Scale and similar shapes (age 11+), One Quantity as a Fraction and more.",
+  "standards": [
+    "uk-nc-2013:KS3.Maths.Ratio.10",
+    "uk-nc-2013:KS3.Maths.Ratio.4",
+    "uk-nc-2013:KS3.Maths.Ratio.2",
+    "ccss-math:7.RP.2b",
+    "ccss-math:6.RP.1",
+    "ccss-math:6.RP.3d",
+    "uk-nc-2013:KS3.Maths.Ratio.3",
+    "ccss-math:6.RP.3c",
+    "uk-nc-2013:KS3.Maths.Ratio.1",
+    "ccss-math:6.RP.3"
+  ],
+  "skills_tested": [
+    "ratio_proportion"
+  ],
+  "lessons": [
+    {
+      "title": "Compound Units",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Compound Units!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use compound units such as speed (distance ÷ time), unit pricing (cost ÷ quantity), and density (mass ÷ volume); solve problems involving compound units",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate average speed given distance and time, converting between km/h and m/s if needed",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a car travels 150 miles in 2.5 hours, can you work out its average speed — and use the same idea to solve problems about price per kilogram or density of a material?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Compound Units. Calculate average speed given distance and time, converting between km/h and m/s if needed Compare unit prices of two products sold in different quantities to find the better deal",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_01"
+    },
+    {
+      "title": "Scale and similar shapes (age 11+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Scale and similar shapes (age 11+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use scale factors to interpret and create scale diagrams and maps, calculating real-life distances from map measurements and vice versa",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate a real-life distance from a map measurement using a given scale (e.g. 1:25,000)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at a map where 1 cm = 50 km, can they work out the real distance between two cities that are 4.5 cm apart on the map?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Scale and similar shapes (age 11+). Calculate a real-life distance from a map measurement using a given scale (e.g. 1:25,000) Draw a scale diagram of a room using a chosen scale factor",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_02"
+    },
+    {
+      "title": "One Quantity as a Fraction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about One Quantity as a Fraction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Express one quantity as a fraction of another where the result may be less than 1 or greater than 1, and interpret the meaning in context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Express 45 minutes as a fraction of 2 hours (= 3/8)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If there are 15 boys and 20 girls in a class, can you express the number of boys as a fraction of the whole class and say whether that fraction is less than or greater than a half?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about One Quantity as a Fraction. Express 45 minutes as a fraction of 2 hours (= 3/8) Express a larger quantity as a fraction of a smaller one and explain why the result exceeds 1",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_03"
+    },
+    {
+      "title": "Calculating Percentages",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Calculating Percentages!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving the calculation of percentages of amounts (e.g. 15% of 360) and the use of percentages for comparison",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate 15% of 360 by finding 10% and 5% and combining",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a jumper originally costs £40 and is 15% off, can you work out how much the discount is and what the sale price would be?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Calculating Percentages: Calculate 15% of 360 by finding 10% and 5% and combining Compare two discounts given as percentages of different original prices",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_04"
+    },
+    {
+      "title": "Scale and similar shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Scale and similar shapes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving similar shapes where the scale factor is known or can be found",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Find the missing side of a similar rectangle given a scale factor of 3",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has a scale drawing where 1 cm represents 5 m, and a room measures 3.5 cm on the plan, can they work out the real length of the room?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Scale and similar shapes. Find the missing side of a similar rectangle given a scale factor of 3 Determine the scale factor between two similar triangles from given side lengths",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_05"
+    },
+    {
+      "title": "Percentages as Fractions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Percentages as Fractions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Define percentage as 'number of parts per hundred'; interpret percentages and percentage changes as a fraction or a decimal; express one quantity as a percentage of another; compare quantities using percentages; work with percentages greater than 100%",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Convert fluently between percentages, fractions, and decimals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a shop says a TV is 130% of its original price, does you understand what that means — and can they work out the new price from the original?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Percentages as Fractions. Convert fluently between percentages, fractions, and decimals Express one quantity as a percentage of another",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_06"
+    },
+    {
+      "title": "Unit Conversions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Unit Conversions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Convert freely between related standard units of measurement (time, length, area, volume/capacity, mass) using decimal notation to up to three decimal places where appropriate",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Convert between area units such as cm² and m² using the square of the linear scale factor",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you convert between units confidently — for example, changing kilometres to metres, kilograms to grams, or hours and minutes to just minutes — including multi-step problems?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Unit Conversions: Convert between area units such as cm² and m² using the square of the linear scale factor Perform multi-step conversions (e.g. convert 2.5 hours to seconds via minutes)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_07"
+    },
+    {
+      "title": "Ratio Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Ratio Problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving the relative sizes of two quantities where missing values can be found by using integer multiplication and division facts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. If the ratio of red to blue beads is 3:5 and there are 15 blue beads, find the number of red beads",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe uses 3 eggs for every 200g of flour, can you work out how many eggs would be needed for 600g of flour?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ratio Problems: If the ratio of red to blue beads is 3:5 and there are 15 blue beads, find the number of red beads Use multiplication facts to find the missing value: 'For every 2 apples there are 5 oranges; if there are 20 oranges, how many apples?'",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_08"
+    },
+    {
+      "title": "Ratio Notation",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ratio Notation. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use ratio notation to describe the relationship between two or more quantities, simplify ratios to their simplest form, and convert between ratio and fraction representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write a ratio from a word problem and simplify it (e.g. 12:8 = 3:2)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a smoothie recipe uses orange juice and mango juice in the ratio 3:2, can you simplify that ratio, express it as a fraction, and work out how much of each is needed for a given total amount?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ratio Notation. Write a ratio from a word problem and simplify it (e.g. 12:8 = 3:2) Convert a ratio to equivalent fractions of a whole (e.g. 3:2 means 3/5 and 2/5)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_09"
+    },
+    {
+      "title": "Understanding fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Understanding fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving unequal sharing and grouping using knowledge of fractions and multiples",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Share 40 sweets between two children in the ratio 3:5",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If three friends share a bag of 24 sweets so that one person gets twice as many as each of the others, can you work out how many each person receives?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Understanding fractions. Share 40 sweets between two children in the ratio 3:5 Solve: 'Tom gets twice as many as Sam and Sam gets three times as many as Jo. If there are 30 altogether, how many does each get?'",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_10"
+    },
+    {
+      "title": "Dividing Quantities by Ratio",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Dividing Quantities by Ratio? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Divide a given quantity into two parts in a given part:part or part:whole ratio, and express the division as a fraction of the whole",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Share £60 between two people in the ratio 2:3 by finding the value of one part",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If £60 is shared between two people in the ratio 2:3, can you work out how much each person gets?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Dividing Quantities by Ratio. Share £60 between two people in the ratio 2:3 by finding the value of one part Express the result of sharing 24 sweets as 10 and 14 in ratio form as 5:7",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_11"
+    },
+    {
+      "title": "Proportional Reasoning Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Proportional Reasoning Vocabulary! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use advanced vocabulary of multiplicative reasoning — direct proportion, inverse proportion, ratio, rate, unit rate, compound unit, scale factor — accurately in problem-solving contexts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Distinguish between 'direct proportion' and 'inverse proportion' with real-world examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is solving a problem about speed or density, can they explain what 'compound unit' means and tell the difference between direct proportion (more of one means more of the other) and inverse proportion (more of one means less of the other)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Proportional Reasoning Vocabulary: Distinguish between 'direct proportion' and 'inverse proportion' with real-world examples Use 'rate', 'speed', and 'density' correctly and explain what units they are measured in",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_12"
+    },
+    {
+      "title": "Proportion Graphs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Proportion Graphs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent proportional relationships using double number lines (two parallel number lines aligned at 0) and ratio tables; recognise that equivalent ratios generate straight lines through the origin when graphed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Plot pairs of proportional values on a coordinate grid and draw the straight line through the origin",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is comparing the cost of buying different numbers of cinema tickets, can they sketch a proportion graph — a straight line through zero — and use it to read off the cost of any number of tickets without recalculating each time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Proportion Graphs. Plot pairs of proportional values on a coordinate grid and draw the straight line through the origin Explain why a directly proportional relationship always passes through (0,0)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_13"
+    }
+  ],
+  "id": "Math_unit_11"
+}

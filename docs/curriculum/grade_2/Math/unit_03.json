@@ -1,0 +1,673 @@
+{
+  "title": "Addition & Subtraction with Regrouping",
+  "objective": "Solve two-digit addition and subtraction problems using regrouping strategies.",
+  "standards": [],
+  "skills_tested": [
+    "regrouping",
+    "equations",
+    "math vocabulary"
+  ],
+  "lessons": [
+    {
+      "title": "Understanding Repeating vs Growing Patterns",
+      "bloom_level": "Remember",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_01"
+    },
+    {
+      "title": "Skip Counting with Numbers and Pictures",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_02"
+    },
+    {
+      "title": "Identifying Patterns in Number Charts",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_03"
+    },
+    {
+      "title": "Using Rules to Extend Patterns",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_04"
+    },
+    {
+      "title": "Creating Patterns with Shapes and Numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_05"
+    },
+    {
+      "title": "Finding Errors in Number Patterns",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_06"
+    },
+    {
+      "title": "Exploring Even and Odd Patterns",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_07"
+    },
+    {
+      "title": "Patterns in Addition and Multiplication Tables",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_08"
+    },
+    {
+      "title": "Predicting the Next Step in a Pattern",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_09"
+    },
+    {
+      "title": "Describing Patterns Using Words and Numbers",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_10"
+    },
+    {
+      "title": "Solving Patterns with Missing Numbers",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_11"
+    },
+    {
+      "title": "Classifying Patterns by Type",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_12"
+    },
+    {
+      "title": "Designing Our Own Growing Pattern",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_13"
+    },
+    {
+      "title": "Patterns in the Real World",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_14"
+    },
+    {
+      "title": "Exploring Fibonacci and Fun Patterns",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_15"
+    },
+    {
+      "title": "Explaining a Pattern Strategy",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_16"
+    },
+    {
+      "title": "Creating Pattern Art",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_17"
+    },
+    {
+      "title": "Pattern Games and Review",
+      "bloom_level": "Evaluate",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_18"
+    },
+    {
+      "title": "Pattern Sort Challenges",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_19"
+    },
+    {
+      "title": "Presenting Our Pattern Projects",
+      "bloom_level": "Evaluate",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_20"
+    }
+  ],
+  "id": "2_Math_unit_03"
+}

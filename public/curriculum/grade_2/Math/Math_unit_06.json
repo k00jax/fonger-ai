@@ -1,0 +1,512 @@
+{
+  "title": "Measurement",
+  "objective": "Students will explore measurement concepts including Measuring length (age 7+), Calculating with measurements, Measuring Perimeters and more.",
+  "standards": [
+    "uk-nc-2013:Ma/KS2/Y3/M/6",
+    "ccss-math:2.MD.7",
+    "ccss-math:2.MD.4",
+    "ccss-math:2.MD.3",
+    "ccss-math:2.MD.8",
+    "uk-nc-2013:Ma/KS2/Y3/M/4",
+    "ccss-math:2.MD.9",
+    "uk-nc-2013:Ma/KS2/Y3/M/2",
+    "ccss-math:2.MD.5",
+    "uk-nc-2013:Ma/KS2/Y3/M/7"
+  ],
+  "skills_tested": [
+    "measurement"
+  ],
+  "lessons": [
+    {
+      "title": "Measuring length (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Measuring length (age 7+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure the length of an object by selecting and using appropriate tools such as rulers, yardsticks, metre sticks, and measuring tapes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Choose the most appropriate tool for measuring a given object",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to measure a piece of fabric about 80 cm long, can they pick the right tool — a short ruler or a tape measure — and use it accurately?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measuring length (age 7+). Choose the most appropriate tool for measuring a given object Align the zero mark of a ruler with the end of the object and read the measurement",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_01"
+    },
+    {
+      "title": "Calculating with measurements",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Calculating with measurements!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure, compare, add, and subtract lengths (m/cm/mm), mass (kg/g), and volume/capacity (l/ml) using standard units",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Measure a length in centimetres and millimetres",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you pours 350 ml into a jug and then adds another 275 ml, can they work out the total — and tell you how much more is needed to reach 1 litre?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Calculating with measurements. Measure a length in centimetres and millimetres Weigh an object using grams and kilograms",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_02"
+    },
+    {
+      "title": "Measuring Perimeters",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Measuring Perimeters!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure the perimeter of simple 2-D shapes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Measure each side of a rectangle and add the lengths to find the perimeter",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wants to put a decorative border around a rectangular picture frame 20 cm wide and 30 cm tall, can they work out the total length of border needed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Measuring Perimeters: Measure each side of a rectangle and add the lengths to find the perimeter Calculate the perimeter of a regular shape given the side length",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_03"
+    },
+    {
+      "title": "Time Units and Calendar Facts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Time Units and Calendar Facts!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the number of seconds in a minute and the number of days in each month, year, and leap year",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that there are 60 seconds in a minute",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you how many days are in September and whether this year is a leap year, can they answer both — and tell you how many seconds are in a minute?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Time Units and Calendar Facts. State that there are 60 seconds in a minute Name the months and state the number of days in each",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_04"
+    },
+    {
+      "title": "Comparing Time Durations",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Comparing Time Durations! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare durations of events and calculate the time taken by particular events or tasks",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate how long an activity lasted given start and end times",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you starts cooking at 4:15 p.m. and finishes at 5:00 p.m., can they work out how long the cooking took?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing Time Durations. Calculate how long an activity lasted given start and end times Compare the duration of two events and identify which was longer",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_05"
+    },
+    {
+      "title": "Telling time to the minute (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Telling time to the minute (age 7+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Tell and write time from analogue and digital clocks to the nearest five minutes, using a.m., p.m., and 12-hour and 24-hour notation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read the time to five minutes on an analogue clock face",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a clock shows 6:45 a.m., can you tell you what time that is in words — and write it in 24-hour notation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Telling time to the minute (age 7+): Read the time to five minutes on an analogue clock face Write the time using digital notation (e.g. 3:25)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_06"
+    },
+    {
+      "title": "Estimating answers (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Estimating answers (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Estimate and read time with increasing accuracy to the nearest minute; record and compare time in terms of seconds, minutes, and hours",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read an analogue clock to the nearest minute",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a TV show starts at 5:17 p.m. and ends at 5:43 p.m., can you work out how long it lasted — and express that in minutes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Estimating answers (age 7+). Read an analogue clock to the nearest minute Estimate how long an activity takes in minutes or seconds",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_07"
+    },
+    {
+      "title": "Addition and subtraction word problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Addition and subtraction word problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving lengths within 100, using addition and subtraction with drawings and equations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Solve 'The rope is 45 cm long. I cut off 18 cm. How long is it now?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has a piece of rope 75 cm long and cuts off 28 cm, can they work out how much rope is left — and draw a number-line diagram to show it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Addition and subtraction word problems: Solve 'The rope is 45 cm long. I cut off 18 cm. How long is it now?' Draw a diagram (e.g. a ruler drawing) to represent a length word problem",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_08"
+    },
+    {
+      "title": "Measuring & Plotting Lengths",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Measuring & Plotting Lengths!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Generate measurement data by measuring lengths to the nearest whole unit and display the data on a line plot",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Measure the lengths of several objects and record the data",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measures the length of ten leaves to the nearest cm and records the results, can they display the data on a simple number-line plot — grouping leaves of the same length?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measuring & Plotting Lengths. Measure the lengths of several objects and record the data Create a line plot with a horizontal scale marked in whole-number units",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_09"
+    },
+    {
+      "title": "Halves and quarters (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Halves and quarters (age 7+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving dollar bills, quarters, dimes, nickels, and pennies, using $ and ¢ symbols appropriately",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Determine the total value of a collection of coins",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has 2 quarters, 1 dime, and 3 pennies, can they work out the total — and tell you whether that's enough to buy something costing 65 cents?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Halves and quarters (age 7+): Determine the total value of a collection of coins Solve a word problem about making change with US currency",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_10"
+    },
+    {
+      "title": "Comparing lengths by measuring",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Comparing lengths by measuring. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Measure two objects and calculate the difference in length",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a pencil is 16 cm and a crayon is 9 cm, can you work out how much longer the pencil is — without measuring them side by side?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing lengths by measuring. Measure two objects and calculate the difference in length Express the difference using the correct unit (e.g. '7 cm longer')",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_11"
+    },
+    {
+      "title": "Giving Change",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Giving Change!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract amounts of money to give change, using both £ and p in practical contexts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate the total cost of two or three items priced in pounds and pence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you buys a book for £3.50 and a pencil for £1.25 with a £5 note, can they work out exactly how much change they should receive?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Giving Change. Calculate the total cost of two or three items priced in pounds and pence Work out the change from £5 or £10",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_12"
+    },
+    {
+      "title": "Estimating Lengths",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Estimating Lengths? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Estimate lengths using units of inches, feet, centimetres, and metres",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Estimate the length of a classroom object before measuring it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at a car parked outside, can they estimate roughly how many metres long it is — and then check whether their guess was reasonable?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Estimating Lengths. Estimate the length of a classroom object before measuring it Use a known reference (e.g. width of a finger ≈ 1 cm) to make reasonable estimates",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_13"
+    },
+    {
+      "title": "Measuring with different units",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Measuring with different units!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure the length of an object using two different length units and describe how the measurements relate to the size of the unit chosen",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Measure a desk in both centimetres and inches and compare the two numbers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measures the same book in centimetres and then in inches, can they explain why the numbers are different even though the book hasn't changed size?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measuring with different units. Measure a desk in both centimetres and inches and compare the two numbers Explain that measuring with a smaller unit gives a larger number",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_06_lesson_14"
+    }
+  ],
+  "id": "Math_unit_06"
+}

@@ -1,0 +1,256 @@
+{
+  "title": "Money & Finance",
+  "objective": "Students will explore money & finance concepts including What Money Is, Coins & Notes, Buying Things and more.",
+  "standards": [],
+  "skills_tested": [
+    "money_finance"
+  ],
+  "lessons": [
+    {
+      "title": "What Money Is",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore What Money Is! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What money is and why we use it; that money is exchanged for goods and services; brief history from barter to coins to digital payments",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that people use money to pay for things they need or want",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you why people use money instead of just swapping things, could they give you a sensible answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about What Money Is: Explain that people use money to pay for things they need or want Give an example of how buying worked before money existed (swapping or bartering)",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_02_lesson_01"
+    },
+    {
+      "title": "Coins & Notes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Coins & Notes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognising common coins and notes, knowing their values, and understanding that different combinations can make the same amount",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort a handful of mixed coins into groups by value",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you tipped out a jar of coins, could you sort them and tell you how much each type is worth?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Coins & Notes: Sort a handful of mixed coins into groups by value State the value of common coins and notes when shown them",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_02_lesson_02"
+    },
+    {
+      "title": "Buying Things",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Buying Things!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How buying and selling works: prices, paying for items, receiving change; the basic transaction process in shops and markets",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what happens when you buy something in a shop (choose, pay, get change)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had a £2 coin and wanted to buy a snack for 80p, could they work out roughly how much change they'd get back?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Buying Things. Explain what happens when you buy something in a shop (choose, pay, get change) Read a price label and say whether they have enough money to buy the item",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_02_lesson_03"
+    },
+    {
+      "title": "Needs & Wants",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Needs & Wants. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The difference between things we need (food, shelter, clothing) and things we want (toys, treats); that we sometimes have to choose because money is limited",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Sort a set of pictures into 'need' and 'want' categories and explain their choices",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you showed you pictures of a winter coat, a toy robot, and a loaf of bread, could they tell you which ones are needs and which is a want?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Needs & Wants. Sort a set of pictures into 'need' and 'want' categories and explain their choices Give an example of something everyone needs and something that is a want",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_02_lesson_04"
+    },
+    {
+      "title": "Looking After Money",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Looking After Money! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Keeping money safe; not losing coins or notes; understanding that money has real value and should be treated carefully; basic money responsibility",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe at least two ways to keep money safe (purse, wallet, money box, giving to a grown-up)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you gave you some coins to look after at a shop, would they keep them safe and know where they put them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Looking After Money: Describe at least two ways to keep money safe (purse, wallet, money box, giving to a grown-up) Explain why it matters if you lose money",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_02_lesson_05"
+    },
+    {
+      "title": "Saving Money",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Saving Money! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Why people save money; piggy banks and saving jars; setting a savings goal; the idea that not spending now means having more later",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why someone might save money instead of spending it straight away",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you received some birthday money, could they explain why it might be smart to save some of it rather than spending it all at once?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Saving Money. Explain why someone might save money instead of spending it straight away Describe a savings goal they could set and how they would work towards it",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_02_lesson_06"
+    },
+    {
+      "title": "Jobs People Do",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Jobs People Do! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Different kinds of work people do; that people earn money by working; how jobs help the community; linking personal interests to possible jobs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least five different jobs and describe what each person does",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you about different jobs people do in your community and explain that people get paid for their work?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Jobs People Do. Name at least five different jobs and describe what each person does Explain that people get paid money for the work they do",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_02_lesson_07"
+    }
+  ],
+  "id": "Life Skills_unit_02"
+}

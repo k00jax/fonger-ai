@@ -1,0 +1,328 @@
+{
+  "title": "Volcanoes & Earthquakes",
+  "objective": "Students will explore volcanoes & earthquakes concepts including Earthquake-Resistant Design, Plate Boundaries, Tectonic Plates and more.",
+  "standards": [
+    "ngss-k5:4-ESS3-2"
+  ],
+  "skills_tested": [
+    "volcanoes_earthquakes"
+  ],
+  "lessons": [
+    {
+      "title": "Earthquake-Resistant Design",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Earthquake-Resistant Design!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that buildings can be designed to resist earthquakes, tsunami warning systems alert coastal communities, and communities prepare through evacuation plans and drills",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least one feature that makes buildings more earthquake-resistant",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a documentary about earthquake-proof buildings in Japan, could they explain how engineers design buildings to withstand shaking and how tsunami warnings give people time to evacuate?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Earthquake-Resistant Design. Describe at least one feature that makes buildings more earthquake-resistant Explain how tsunami warning systems detect danger and alert communities",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_01"
+    },
+    {
+      "title": "Plate Boundaries",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Plate Boundaries! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how plate boundaries cause earthquakes and volcanoes: plates pushing together, pulling apart, or sliding past each other create the forces that trigger these events, and mountains form where plates collide",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe three types of plate boundary movement: convergent, divergent, and transform",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why most volcanoes and earthquakes happen at the edges of tectonic plates — where plates push together, pull apart, or slide past each other?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Plate Boundaries: Describe three types of plate boundary movement: convergent, divergent, and transform Explain that earthquakes occur when plates grind or collide at boundaries",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_02"
+    },
+    {
+      "title": "Tectonic Plates",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Tectonic Plates! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that Earth's crust is broken into large pieces called tectonic plates that float on hotter, softer rock beneath and move very slowly — a few centimetres per year",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe Earth's crust as broken into large plates",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you showed you a map of the tectonic plates, could they explain that Earth's surface is cracked into huge pieces that move very slowly — about as fast as their fingernails grow?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Tectonic Plates: Describe Earth's crust as broken into large plates Explain that the plates float on hotter, partially melted rock underneath",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_03"
+    },
+    {
+      "title": "Famous Eruptions & Pangaea",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Famous Eruptions & Pangaea!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know about famous eruptions and their global effects: Mount St Helens (1980), Eyjafjallajökull (2010), and how large eruptions can affect weather and climate worldwide; understand that continents were once joined (Pangaea) and have slowly drifted apart",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least one famous volcanic eruption and its key effects",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you about a famous volcanic eruption like Mount St Helens and explain how a really big eruption can send so much ash into the sky that it affects weather around the whole world?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Famous Eruptions & Pangaea: Describe at least one famous volcanic eruption and its key effects Explain how volcanic ash and gases in the atmosphere can cool global temperatures",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_04"
+    },
+    {
+      "title": "Eruption Types & Volcano Shape",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Eruption Types & Volcano Shape. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that not all volcanic eruptions are the same: some flow gently (effusive) and some explode violently (explosive), depending on the properties of the magma, and that volcano shape is related to eruption type",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Contrast effusive eruptions (gentle lava flows) with explosive eruptions (violent blasts of ash and rock)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you compared pictures of a gently oozing Hawaiian volcano and a violently erupting one like Mount St Helens, could they explain why eruptions look so different and how that relates to the volcano's shape?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Eruption Types & Volcano Shape. Contrast effusive eruptions (gentle lava flows) with explosive eruptions (violent blasts of ash and rock) Explain that eruption type depends on properties of the magma such as thickness and gas content",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_05"
+    },
+    {
+      "title": "Natural Disaster Solutions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Natural Disaster Solutions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans, such as earthquakes, floods, or volcanic eruptions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify at least two natural hazards and their impacts on human life and property",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you come up with different ideas for keeping people safe from earthquakes or floods, and compare which ones would work best?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Natural Disaster Solutions: Identify at least two natural hazards and their impacts on human life and property Generate multiple solutions for reducing impacts (e.g. earthquake-resistant buildings, flood barriers, early warning systems)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_06"
+    },
+    {
+      "title": "Monitoring Volcanoes",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Monitoring Volcanoes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how volcanologists monitor volcanoes by looking for warning signs — gas emissions, ground swelling, small earthquakes — and that prediction involves evidence and uncertainty, not certainty",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least two warning signs scientists look for before an eruption",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how scientists watch for signs that a volcano might erupt — like gas, ground bulging, or tiny earthquakes — and why they can warn people but can't predict the exact moment?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Monitoring Volcanoes. Name at least two warning signs scientists look for before an eruption Explain that volcanologists combine multiple types of evidence to assess risk",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_07"
+    },
+    {
+      "title": "Measuring Earthquake Strength",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Measuring Earthquake Strength? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that scientists measure earthquakes using seismometers, that earthquakes release energy that travels as waves through the ground, and that a magnitude scale describes their strength",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that a seismometer is an instrument that detects and records ground shaking",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard a news report about a magnitude 6 earthquake, could they explain what a seismometer is, that earthquakes send waves through the ground, and that higher numbers mean stronger quakes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Measuring Earthquake Strength: Explain that a seismometer is an instrument that detects and records ground shaking Describe earthquake energy as waves that travel outward from where rocks broke",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_08"
+    },
+    {
+      "title": "The Rock Cycle",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about The Rock Cycle. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the rock cycle: rocks slowly change from one type to another over millions of years — igneous rock weathers into sediment, sediment becomes sedimentary rock, heat and pressure create metamorphic rock, and melting starts the cycle again",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the rock cycle as a continuous process with no beginning or end",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw igneous rock, sandstone, and marble side by side, could they explain how each type forms and how rocks slowly transform from one type to another in a never-ending cycle?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Rock Cycle: Describe the rock cycle as a continuous process with no beginning or end Trace at least one complete path through the cycle from igneous to sedimentary to metamorphic and back",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_17_lesson_09"
+    }
+  ],
+  "id": "Science_unit_17"
+}

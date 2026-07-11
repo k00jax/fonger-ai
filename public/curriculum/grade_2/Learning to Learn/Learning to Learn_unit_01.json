@@ -1,0 +1,151 @@
+{
+  "title": "Learning to Learn",
+  "objective": "Students will explore learning to learn concepts including Teaching It Back, Connecting New & Old Ideas, Trying a New Approach and more.",
+  "standards": [],
+  "skills_tested": [
+    "learning_to_learn"
+  ],
+  "lessons": [
+    {
+      "title": "Teaching It Back",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Teaching It Back? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "After learning something new, explain it in your own words — to yourself, a family member, or even a toy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain a concept they've learned to someone else in their own words, not just repeating what the teacher said",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you learns something at school, can they explain it back to you in their own words — not just repeat what they were told?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Teaching It Back. Explain a concept they've learned to someone else in their own words, not just repeating what the teacher said After teaching something to a friend or sibling, identify a gap in their own understanding that they only noticed through explaining",
+          "media": {}
+        }
+      ],
+      "id": "2_Learning to Learn_unit_01_lesson_01"
+    },
+    {
+      "title": "Connecting New & Old Ideas",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Connecting New & Old Ideas!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Look for connections between new ideas and things you already know — how does this fit with what I've learned before?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. elaborative encoding",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you learns something new, do they ever say things like 'oh, that's like...' and connect it to something they already knew?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Connecting New & Old Ideas. elaborative encoding schema theory (Bartlett, Rumelhart)",
+          "media": {}
+        }
+      ],
+      "id": "2_Learning to Learn_unit_01_lesson_02"
+    },
+    {
+      "title": "Trying a New Approach",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Trying a New Approach. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "When your first approach isn't working, try a different one — being flexible about strategies is part of being a good learner",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: When stuck on a problem, try a completely different approach rather than repeating the same method — e.g. drawing a picture instead of writing equations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you tries one way to solve a problem and it isn't working, do they try a different approach rather than just repeating the same thing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Trying a New Approach: When stuck on a problem, try a completely different approach rather than repeating the same method — e.g. drawing a picture instead of writing equations Describe a time they changed strategy mid-task and explain why the new approach worked better",
+          "media": {}
+        }
+      ],
+      "id": "2_Learning to Learn_unit_01_lesson_03"
+    },
+    {
+      "title": "Spotting Patterns",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Spotting Patterns!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spot patterns and recurring structures — in numbers, words, nature, sounds, or events — and use them to make sense of new information",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Spot a pattern in a set of numbers, shapes, or facts without being told to look for one",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you notices a pattern — like a number pattern, a word ending, or something that keeps recurring — do they use it to figure out what comes next or predict something new?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Spotting Patterns: Spot a pattern in a set of numbers, shapes, or facts without being told to look for one Use a pattern they noticed to make a prediction — e.g. 'The next one should be 16 because it's doubling each time'",
+          "media": {}
+        }
+      ],
+      "id": "2_Learning to Learn_unit_01_lesson_04"
+    }
+  ],
+  "id": "Learning to Learn_unit_01"
+}

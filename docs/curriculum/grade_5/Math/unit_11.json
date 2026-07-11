@@ -1,0 +1,673 @@
+{
+  "title": "Geometry & Classification of Shapes",
+  "objective": "Classify 2D figures and understand attributes of triangles and quadrilaterals.",
+  "standards": [],
+  "skills_tested": [
+    "geometry",
+    "classification",
+    "symmetry"
+  ],
+  "lessons": [
+    {
+      "title": "Multiplying Fractions by Whole Numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_01"
+    },
+    {
+      "title": "Modeling Multiplication of Fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_02"
+    },
+    {
+      "title": "Using Area Models to Multiply Fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_03"
+    },
+    {
+      "title": "Simplifying Fraction Products",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_04"
+    },
+    {
+      "title": "Solving Word Problems with Fraction Multiplication",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_05"
+    },
+    {
+      "title": "Interpreting Fraction Results",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_06"
+    },
+    {
+      "title": "Using Benchmark Fractions for Estimation",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_07"
+    },
+    {
+      "title": "Connecting Fractions to Decimals",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_08"
+    },
+    {
+      "title": "Multiplying Mixed Numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_09"
+    },
+    {
+      "title": "Explaining Fraction Multiplication",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_10"
+    },
+    {
+      "title": "Identifying Errors in Fraction Work",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_11"
+    },
+    {
+      "title": "Designing Word Problems for Classmates",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_12"
+    },
+    {
+      "title": "Using Tools to Model Fractions",
+      "bloom_level": "Evaluate",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_13"
+    },
+    {
+      "title": "Reviewing All Fraction Operations",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_14"
+    },
+    {
+      "title": "Explaining Mixed Strategy Use",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_15"
+    },
+    {
+      "title": "Peer Evaluations and Corrections",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_16"
+    },
+    {
+      "title": "Designing a Fraction Reference Booklet",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_17"
+    },
+    {
+      "title": "Fraction Games and Puzzles",
+      "bloom_level": "Evaluate",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_18"
+    },
+    {
+      "title": "Final Fraction Practice Challenge",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_19"
+    },
+    {
+      "title": "Capstone: Fraction Project Presentations",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_11_lesson_20"
+    }
+  ],
+  "id": "5_Math_unit_11"
+}

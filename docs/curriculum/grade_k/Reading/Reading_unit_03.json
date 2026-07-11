@@ -1,0 +1,121 @@
+{
+  "title": "Handwriting & Transcription",
+  "objective": "Students will explore handwriting & transcription concepts including Writing digits 0-9, Forming Capital Letters, Letter Formation Families.",
+  "standards": [
+    "uk-nc-2013:Eng_Y1_WH_03",
+    "uk-nc-2013:Eng_Y1_WH_04",
+    "uk-nc-2013:Eng_Y1_WH_05",
+    "ccss-ela:L.K.1a"
+  ],
+  "skills_tested": [
+    "handwriting_transcription"
+  ],
+  "lessons": [
+    {
+      "title": "Writing digits 0-9",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "handwriting_transcription"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Writing digits 0-9!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form digits 0-9 correctly and legibly",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write all digits 0-9 clearly with correct starting points",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes numbers like 3, 5, and 7, are they formed the right way and clearly readable — not reversed or written in an unusual direction?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Writing digits 0-9: Write all digits 0-9 clearly with correct starting points Form digits the appropriate size relative to letter height",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_03_lesson_01"
+    },
+    {
+      "title": "Forming Capital Letters",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "handwriting_transcription"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Forming Capital Letters? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form capital letters correctly; print many upper- and lowercase letters legibly",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write all 26 capital letters with correct formation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write all the capital letters clearly and legibly so that someone reading their work can easily tell which letter is which?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Forming Capital Letters. Write all 26 capital letters with correct formation Distinguish between uppercase and lowercase forms in own writing",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_03_lesson_02"
+    },
+    {
+      "title": "Letter Formation Families",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "handwriting_transcription"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Letter Formation Families. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand which letters belong to which handwriting families based on similar formation patterns and practise letters in groups",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Group letters by similar strokes (e.g. c, a, d, g, o family — all start with a curve)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that certain letters are formed in similar ways — for example, \"c,\" \"a,\" \"d,\" and \"g\" all start with the same curved stroke — and practise those families together?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Letter Formation Families. Group letters by similar strokes (e.g. c, a, d, g, o family — all start with a curve) Explain why certain letters are practised together",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_03_lesson_03"
+    }
+  ],
+  "id": "Reading_unit_03"
+}

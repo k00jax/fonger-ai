@@ -1,0 +1,48 @@
+{
+  "title": "Space Systems & Earth's History",
+  "objective": "Students will explore space systems & earth's history concepts including Rapid earth changes.",
+  "standards": [
+    "ngss-k5:2-ESS1-1"
+  ],
+  "skills_tested": [
+    "space_systems_earth's_history"
+  ],
+  "lessons": [
+    {
+      "title": "Rapid earth changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Rapid earth changes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use information from several sources to provide evidence that Earth events can occur quickly (earthquakes, volcanic eruptions) or slowly (erosion, mountain building)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give at least two examples of rapid Earth events (earthquake, volcanic eruption, landslide, flood)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you give examples of things that change the Earth quickly, like an earthquake, and things that change it very slowly, like a river carving a valley?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rapid earth changes. Give at least two examples of rapid Earth events (earthquake, volcanic eruption, landslide, flood) Give at least two examples of slow Earth processes (erosion, mountain formation, canyon carving)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_14_lesson_01"
+    }
+  ],
+  "id": "Science_unit_14"
+}

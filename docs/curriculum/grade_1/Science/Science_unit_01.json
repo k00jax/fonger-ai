@@ -1,0 +1,192 @@
+{
+  "title": "Ecosystems & Habitats",
+  "objective": "Students will explore ecosystems & habitats concepts including Living, Dead & Never Alive, Habitats & Basic Needs, Simple Food Chains and more.",
+  "standards": [
+    "uk-nc-2013:Y2.Sci.LTH.2",
+    "uk-nc-2013:Y2.Sci.LTH.1",
+    "uk-nc-2013:Y2.Sci.LTH.4",
+    "uk-nc-2013:Y2.Sci.LTH.3",
+    "ngss-k5:2-LS4-1"
+  ],
+  "skills_tested": [
+    "ecosystems_habitats"
+  ],
+  "lessons": [
+    {
+      "title": "Living, Dead & Never Alive",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Living, Dead & Never Alive? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore and compare the differences between things that are living, dead, and things that have never been alive",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort a collection of objects into three groups: living, dead (was once alive), never alive",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you a rock, a fallen leaf, and a caterpillar, can they tell you which is alive, which was once alive, and which was never alive?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Living, Dead & Never Alive. Sort a collection of objects into three groups: living, dead (was once alive), never alive Give reasons for each sorting decision (e.g. 'the leaf was on a tree so it was alive once')",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_01_lesson_01"
+    },
+    {
+      "title": "Habitats & Basic Needs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Habitats & Basic Needs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify that most living things live in habitats to which they are suited and describe how habitats provide for basic needs and how organisms depend on each other",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define a habitat as a place where an organism lives that provides what it needs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a polar bear lives in the Arctic and not in a desert, and how the animals and plants in a habitat help each other?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Habitats & Basic Needs. Define a habitat as a place where an organism lives that provides what it needs Give examples of how specific habitats meet organisms' needs (e.g. pond provides water and food for frogs)",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_01_lesson_02"
+    },
+    {
+      "title": "Simple Food Chains",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Simple Food Chains!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how animals obtain their food from plants and other animals, using the idea of a simple food chain, and identify different sources of food",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw a simple food chain with at least three organisms using arrows to show energy flow",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw a food chain showing how a caterpillar eats a leaf and then a bird eats the caterpillar?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Simple Food Chains: Draw a simple food chain with at least three organisms using arrows to show energy flow Explain that food chains always start with a plant (producer) that makes its own food",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_01_lesson_03"
+    },
+    {
+      "title": "Habitat Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Habitat Vocabulary? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and use vocabulary for where living things are found — habitat, environment, microhabitat, conditions, woodland, ocean, desert, rainforest, pond — and use terms to describe what animals need to survive: food, water, shelter, space, and suitable conditions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Match animals to their habitats and explain the match using 'adapted to', 'conditions', or 'shelter'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a polar bear couldn't survive in a rainforest — using the word 'habitat' or 'conditions' rather than just 'it's too hot'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Habitat Vocabulary. Match animals to their habitats and explain the match using 'adapted to', 'conditions', or 'shelter' Correctly use 'habitat' and 'microhabitat' to describe different scales of environment with examples",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_01_lesson_04"
+    },
+    {
+      "title": "Local Plants & Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Local Plants & Animals!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and name a variety of plants and animals in their habitats, including microhabitats such as under a log or in a pond",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least three animals and plants found in a specific local habitat",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you turn over a log in the garden with you, can they name the little creatures they find and explain why they live there?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Local Plants & Animals. Name at least three animals and plants found in a specific local habitat Explain what a microhabitat is (a very small habitat within a larger one)",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_01_lesson_05"
+    }
+  ],
+  "id": "Science_unit_01"
+}

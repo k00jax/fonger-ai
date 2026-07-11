@@ -1,0 +1,256 @@
+{
+  "title": "The Human Body",
+  "objective": "Students will explore the human body concepts including Cells, Tissues & Organs, Balanced Diet & Food Groups, The Digestive Journey and more.",
+  "standards": [],
+  "skills_tested": [
+    "the_human_body"
+  ],
+  "lessons": [
+    {
+      "title": "Cells, Tissues & Organs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Cells, Tissues & Organs? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the body is organised in a hierarchy: tiny cells are the building blocks, groups of similar cells form tissues, tissues combine into organs (like the heart or stomach), and organs work together in organ systems (like the circulatory system)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that cells are the smallest building blocks of the body, too small to see without a microscope",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that the body is made of tiny cells, and that cells group together to make tissues, which make organs, which make whole systems?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Cells, Tissues & Organs: State that cells are the smallest building blocks of the body, too small to see without a microscope Describe the hierarchy: cells → tissues → organs → organ systems",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_15_lesson_01"
+    },
+    {
+      "title": "Balanced Diet & Food Groups",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Balanced Diet & Food Groups? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the main food groups (carbohydrates, proteins, fats, vitamins, minerals, fibre, water) and understand that a balanced diet includes the right amounts from each group to keep the body healthy and provide energy, growth materials, and protection from illness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least five food groups and give an example food for each (e.g. carbohydrates = bread, protein = chicken)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at their dinner plate, could they identify which foods give energy, which help muscles grow, and which keep them healthy?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Balanced Diet & Food Groups. Name at least five food groups and give an example food for each (e.g. carbohydrates = bread, protein = chicken) Explain what carbohydrates (energy), proteins (growth and repair), and fats (energy and warmth) do for the body",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_15_lesson_02"
+    },
+    {
+      "title": "The Digestive Journey",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about The Digestive Journey!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Trace the journey of food through the digestive system: food enters the mouth where teeth break it down and saliva begins digestion, travels down the oesophagus to the stomach, passes through the small intestine where nutrients are absorbed, and waste moves through the large intestine",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. List the organs in order: mouth, oesophagus, stomach, small intestine, large intestine",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ate a sandwich, could they describe the journey it takes through their body — from mouth to stomach to intestines?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Digestive Journey. List the organs in order: mouth, oesophagus, stomach, small intestine, large intestine Describe what happens at each stage (teeth chew, stomach churns with acid, small intestine absorbs nutrients)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_15_lesson_03"
+    },
+    {
+      "title": "How the Eye Works",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of How the Eye Works!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how the eye works: light enters through the pupil, the lens focuses it onto the retina at the back of the eye, and the retina sends signals along the optic nerve to the brain, which interprets the image",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name the main parts: pupil (lets light in), lens (focuses light), retina (detects light), optic nerve (sends signals to brain)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what happens inside their eye when they look at something — how light comes in through the pupil and the brain turns it into a picture?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How the Eye Works. Name the main parts: pupil (lets light in), lens (focuses light), retina (detects light), optic nerve (sends signals to brain) Describe the sequence: light enters → lens focuses → retina detects → nerve signals brain → brain interprets image",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_15_lesson_04"
+    },
+    {
+      "title": "Types of Teeth",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Types of Teeth!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the four types of human teeth (incisors for cutting, canines for tearing, premolars and molars for grinding) and understand that tooth shape is linked to function, just as in other animals — herbivores have flat teeth, carnivores have sharp teeth",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name the four tooth types and describe each one's job: incisors cut, canines tear, premolars/molars grind",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look in a mirror, point out their different types of teeth, and explain what each type is for?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Types of Teeth. Name the four tooth types and describe each one's job: incisors cut, canines tear, premolars/molars grind Compare human teeth to herbivore teeth (flat, for grinding plants) and carnivore teeth (sharp, for tearing meat)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_15_lesson_05"
+    },
+    {
+      "title": "How Muscles Move Bones",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore How Muscles Move Bones! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that muscles work in pairs to move bones: when one muscle contracts (gets shorter and pulls), the opposite muscle relaxes, and that some muscles are voluntary (we choose to use them) while others like the heart are involuntary (they work automatically)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Demonstrate or describe how biceps and triceps work as a pair to bend and straighten the arm",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you bend their arm and explain that one muscle is pulling while the other is relaxing — and that their heart muscle works without them thinking about it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Muscles Move Bones. Demonstrate or describe how biceps and triceps work as a pair to bend and straighten the arm Explain the difference between voluntary muscles (we control them) and involuntary muscles (they work automatically)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_15_lesson_06"
+    },
+    {
+      "title": "Naming Major Bones",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Naming Major Bones! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify major bones of the human skeleton by name (skull, spine/vertebrae, ribcage, pelvis, femur, humerus) and explain the skeleton’s three jobs: supporting the body’s shape, protecting organs, and enabling movement with muscles",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name and locate at least six major bones or bone groups on a diagram or their own body",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you point to different parts of their body and name the bones underneath — like the femur in the thigh or the vertebrae in the spine?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Naming Major Bones. Name and locate at least six major bones or bone groups on a diagram or their own body Explain the three functions: support (holds us upright), protection (skull protects brain, ribs protect heart/lungs), movement (bones work with muscles)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_15_lesson_07"
+    }
+  ],
+  "id": "Science_unit_15"
+}

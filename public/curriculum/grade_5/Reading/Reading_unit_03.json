@@ -1,0 +1,92 @@
+{
+  "title": "Grammar & Punctuation (Part 2)",
+  "objective": "Students will explore grammar & punctuation concepts including Grammar for Effect, Literary and Language Terminology, Grammar Terms: Voice and Punctuation and more.",
+  "standards": [
+    "ccss-ela:L.6.3b",
+    "ccss-ela:L.7.2a",
+    "ccss-ela:L.6.1e",
+    "uk-nc-2013:Eng.App2.Y6.Term.1",
+    "uk-nc-2013:KS3-ENG-GV-1f",
+    "ccss-ela:L.5.1a",
+    "ccss-ela:RL.7.5",
+    "uk-nc-2013:KS3-ENG-GV-1b",
+    "ccss-ela:L.7.1a",
+    "uk-nc-2013:Eng.UKS2.Write.VGP.1b"
+  ],
+  "skills_tested": [
+    "grammar_punctuation"
+  ],
+  "lessons": [
+    {
+      "title": "Colons and Semicolons in Lists",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Colons and Semicolons in Lists! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a colon to introduce a list and semi-colons to separate items within lists, particularly when list items contain internal commas or are complex phrases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Introduce a list with a colon after an independent clause such as 'You will need the following items:'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a list of things that are themselves quite long or contain commas — like a list of ingredients with measurements — do they use a colon to introduce it and semi-colons to separate the items?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Colons and Semicolons in Lists: Introduce a list with a colon after an independent clause such as 'You will need the following items:' Use semi-colons to separate list items that contain commas such as locations with city and country",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_03_lesson_01"
+    },
+    {
+      "title": "Bullet Point Punctuation",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Bullet Point Punctuation. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Punctuate bullet points consistently to list information clearly, applying conventions for capitalisation, end punctuation, and parallel structure across items",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Create bullet point lists with consistent capitalisation and punctuation throughout",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you uses bullet points to list information — like in a school project — are all the bullets punctuated the same way, with matching capitalisation and consistent end punctuation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Bullet Point Punctuation. Create bullet point lists with consistent capitalisation and punctuation throughout Use full stops for bullet points that are complete sentences and no punctuation for fragments",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_03_lesson_02"
+    }
+  ],
+  "id": "Reading_unit_03"
+}

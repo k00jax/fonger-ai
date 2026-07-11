@@ -1,0 +1,372 @@
+{
+  "title": "Phonics & Word Reading",
+  "objective": "Students will explore phonics & word reading concepts including Syllables, Reading High-Frequency Words by Sight, Reading fluently and more.",
+  "standards": [
+    "uk-nc-2013:Eng_App1_Y1_46",
+    "uk-nc-2013:Eng_App1_Y1_35",
+    "uk-nc-2013:Eng_App1_Y1_38",
+    "uk-nc-2013:Eng_App1_Y1_21",
+    "uk-nc-2013:Eng_Y1_RWR_09",
+    "uk-nc-2013:Eng_App1_Y1_40",
+    "uk-nc-2013:Eng_App1_Y1_22",
+    "uk-nc-2013:Eng_App1_Y1_43",
+    "uk-nc-2013:Eng_App1_Y1_27",
+    "uk-nc-2013:Eng_App1_Y1_36"
+  ],
+  "skills_tested": [
+    "phonics_word_reading"
+  ],
+  "lessons": [
+    {
+      "title": "Syllables",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Syllables! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count, blend, and segment syllables in spoken words; divide written words into syllables as an aid to reading and spelling",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Clap out syllables in spoken words (e.g. 'butterfly' = 3 claps)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you clap out the syllables in words — two claps for 'pen-cil' or three for 'com-pu-ter' — and split a spoken word into its parts?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Syllables: Clap out syllables in spoken words (e.g. 'butterfly' = 3 claps) Blend syllables to form words (e.g. 'rain' + 'bow' → 'rainbow')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_01"
+    },
+    {
+      "title": "Reading High-Frequency Words by Sight",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Reading High-Frequency Words by Sight? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read common high-frequency and exception words automatically by sight, including words with irregular spelling patterns",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read common exception words instantly without sounding out (e.g. 'the', 'said', 'was', 'you')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you instantly recognise everyday words like 'said', 'was', 'they', 'come', and 'because' without needing to sound them out every time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reading High-Frequency Words by Sight. Read common exception words instantly without sounding out (e.g. 'the', 'said', 'was', 'you') Note unusual correspondences between spelling and sound in exception words",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_02"
+    },
+    {
+      "title": "Reading fluently",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Reading fluently? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read aloud books matched to phonic ability accurately and with growing fluency; reread familiar texts to build confidence, speed, and expression",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read a phonically appropriate text with 90%+ accuracy",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a book aloud at their level, can they get through most words without stumbling — sounding less like they're decoding and more like they're telling a story?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reading fluently: Read a phonically appropriate text with 90%+ accuracy Reread familiar texts with improved pace and expression",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_03"
+    },
+    {
+      "title": "Reading Contractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reading Contractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and understand contractions with apostrophes, knowing the apostrophe represents omitted letters",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read common contractions in text (e.g. 'I'm', 'we'll', 'don't')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that 'can't' means 'cannot' and 'it's' means 'it is' — knowing the apostrophe stands for the missing letter or letters?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading Contractions. Read common contractions in text (e.g. 'I'm', 'we'll', 'don't') Match contractions to their expanded forms (e.g. 'I'm' = 'I am')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_04"
+    },
+    {
+      "title": "Compound Words",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Compound Words! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and spell compound words by identifying the two component words that combine to form a single word",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify the two words in a compound (e.g. 'sunshine' = 'sun' + 'shine')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at a word like 'sunshine' or 'football' and spot the two smaller words hiding inside it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Compound Words: Identify the two words in a compound (e.g. 'sunshine' = 'sun' + 'shine') Spell compound words by combining known words",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_05"
+    },
+    {
+      "title": "Reading Inflectional Endings",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Reading Inflectional Endings. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read words containing taught GPCs with common inflectional endings (-s, -es, -ing, -ed, -er, -est) and the prefix un-; read multi-syllable words with taught patterns",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read suffixed words fluently (e.g. 'jumping', 'wanted', 'faster')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you sees familiar words with different endings — like 'jumped', 'running', 'biggest', or 'unhappy' — can they spot the root word and read the whole thing correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading Inflectional Endings. Read suffixed words fluently (e.g. 'jumping', 'wanted', 'faster') Identify the root word when a suffix is added",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_06"
+    },
+    {
+      "title": "Trigraphs",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Trigraphs? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and spell words containing trigraphs — three-letter graphemes representing a single sound (igh, air, ear, are)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read words with trigraphs (e.g. 'night', 'chair', 'near')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you recognise three-letter combinations like 'igh' in 'night', 'air' in 'chair', and 'ear' in 'hear' — knowing that all three letters together make just one sound?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Trigraphs. Read words with trigraphs (e.g. 'night', 'chair', 'near') Distinguish between different sounds for 'ear' (e.g. 'hear' vs 'bear')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_07"
+    },
+    {
+      "title": "Diphthongs and complex vowels",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Diphthongs and complex vowels!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and spell words containing diphthongs and complex vowel patterns (ow, ou, ew, ue, ie, aw, au) and words ending in -y as a vowel sound",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read words with variable vowel sounds (e.g. 'ow' in 'cow' vs 'snow')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read words like 'town', 'cloud', 'flew', 'claw', or 'pie' — spotting the special vowel combinations and saying the right sound for each one?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Diphthongs and complex vowels: Read words with variable vowel sounds (e.g. 'ow' in 'cow' vs 'snow') Decode words with diphthongs (e.g. 'cloud', 'blue', 'pie')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_08"
+    },
+    {
+      "title": "Split Digraphs and Magic E",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Split Digraphs and Magic E!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and spell words containing split digraphs (a-e, e-e, i-e, o-e, u-e) where a final 'e' makes the preceding vowel long",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read words with split digraphs (e.g. 'cake', 'bike', 'home', 'cube')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that the 'e' at the end of words like 'cake', 'bike', or 'home' changes the vowel sound in the middle — making it say its name instead of its short sound?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Split Digraphs and Magic E. Read words with split digraphs (e.g. 'cake', 'bike', 'home', 'cube') Compare minimal pairs showing the effect of the split digraph (e.g. 'cap' vs 'cape')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_09"
+    },
+    {
+      "title": "R-Controlled Vowel Sounds",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of R-Controlled Vowel Sounds!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and spell words containing r-controlled vowels (ar, er, ir, ur, or, ore) and vowel-r patterns where 'r' modifies the vowel sound",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read words with r-controlled vowels (e.g. 'car', 'bird', 'fork', 'her')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads words like 'car', 'bird', 'nurse', or 'fork', can they recognise that the 'r' after the vowel changes its sound, and read the word correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about R-Controlled Vowel Sounds: Read words with r-controlled vowels (e.g. 'car', 'bird', 'fork', 'her') Recognise that 'r' changes the vowel sound (e.g. 'cat' vs 'cart')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_04_lesson_10"
+    }
+  ],
+  "id": "Reading_unit_04"
+}

@@ -1,0 +1,232 @@
+{
+  "title": "Spelling & Word Study",
+  "objective": "Students will explore spelling & word study concepts including Suffixes (age 7+), Spelling Word Lists (age 7+), Apostrophes for possession (age 7+) and more.",
+  "standards": [
+    "uk-nc-2013:Eng_App1_Sp_Y34_03",
+    "uk-nc-2013:Eng_App1_Sp_Y34_05",
+    "uk-nc-2013:Eng.App2.Y4.Punc.2",
+    "uk-nc-2013:Eng.UKS2.Write.Trans.Spell.1",
+    "ccss-ela:L.4.2d",
+    "uk-nc-2013:Eng_LKS2_Write_Trans_Spell_5",
+    "uk-nc-2013:Eng.App2.Y3.Word.1",
+    "ccss-ela:L.3.2g",
+    "uk-nc-2013:Eng_App1_Sp_Y34_15",
+    "uk-nc-2013:Eng.UKS2.Write.Trans.Spell.6"
+  ],
+  "skills_tested": [
+    "spelling_word_study"
+  ],
+  "lessons": [
+    {
+      "title": "Suffixes (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Suffixes (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words using productive suffixes (-ation, -ly, -ous) and less common sound-spelling correspondences (/ɪ/ as y, /ʌ/ as ou, endings sounding like /ʒə/, /tʃə/, /ʒən/, /ʃən/) introduced in the Year 3-4 programme",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Spell words with suffixes -ation (e.g., information, sensation), -ly (e.g., sadly, gently, happily), and -ous (e.g., famous, enormous, various)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spell words with endings like \"-tion,\" \"-ous,\" or \"-ly\" correctly — for example, \"nation,\" \"famous,\" or \"quietly\" — without needing to look them up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Suffixes (age 7+): Spell words with suffixes -ation (e.g., information, sensation), -ly (e.g., sadly, gently, happily), and -ous (e.g., famous, enormous, various) Spell words with less common vowel patterns: /ɪ/ as y (e.g., myth, gym), /ʌ/ as ou (e.g., young, touch, double)",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_06_lesson_01"
+    },
+    {
+      "title": "Spelling Word Lists (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Spelling Word Lists (age 7+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words from the statutory word list for Years 3 and 4, including commonly misspelt words that do not follow regular patterns",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Spell at least 20 words from the Y3-4 statutory list correctly (e.g., accident, believe, different, favourite, imagine)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spell the tricky words on their school's Year 3 and 4 word list — like \"enough,\" \"believe,\" or \"separate\" — from memory when writing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Spelling Word Lists (age 7+). Spell at least 20 words from the Y3-4 statutory list correctly (e.g., accident, believe, different, favourite, imagine) Identify tricky parts of statutory words and use a strategy to remember them (e.g., 'separate' has 'a rat' in the middle)",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_06_lesson_02"
+    },
+    {
+      "title": "Apostrophes for possession (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Apostrophes for possession (age 7+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the possessive apostrophe accurately with both regular and irregular plural nouns (e.g., the girls' bags, the children's toys), distinguishing singular from plural possession",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Place the apostrophe correctly in plural possessives: 'the dogs' kennel' vs 'the dog's kennel'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes about something belonging to a group — like \"the children's coats\" or \"the teachers' cars\" — do they put the apostrophe in the right place?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Apostrophes for possession (age 7+). Place the apostrophe correctly in plural possessives: 'the dogs' kennel' vs 'the dog's kennel' Write possessive forms of irregular plurals correctly (e.g. 'children's', 'women's', 'mice's')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_06_lesson_03"
+    },
+    {
+      "title": "Homophones",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Homophones!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish and correctly spell common homophones and near-homophones encountered at Y3-4 level (e.g., accept/except, affect/effect, brake/break, grate/great), including using the /eɪ/ sound spelt ei, eigh, or ey",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Spell pairs of homophones correctly in context (e.g., 'there/their/they're', 'brake/break', 'grate/great')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes, do they use the right spelling for words that sound the same but mean different things — like \"brake\" (on a bike) and \"break\" (snap something)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Homophones. Spell pairs of homophones correctly in context (e.g., 'there/their/they're', 'brake/break', 'grate/great') Choose the correct homophone to complete a sentence (e.g., 'The dog wagged its/it's tail')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_06_lesson_04"
+    },
+    {
+      "title": "Prefixes (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Prefixes (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words with a range of prefixes (dis-, mis-, un-, re-, pre-, anti-, auto-, super-) understanding how each prefix modifies the root word's meaning without changing its spelling",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Spell words with prefixes dis-, mis-, re- correctly without altering the root (e.g., disappoint, misspell, return)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a word starting with \"dis-,\" \"mis-,\" or \"pre-,\" can they work out what the word means and spell it correctly by thinking about the prefix?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Prefixes (age 7+): Spell words with prefixes dis-, mis-, re- correctly without altering the root (e.g., disappoint, misspell, return) Add prefixes un-, pre-, anti-, auto-, super- to root words and use the new word in a sentence (e.g., unhappy, preview, autograph)",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_06_lesson_05"
+    },
+    {
+      "title": "Using a Dictionary to Check Spellings",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Using a Dictionary to Check Spellings!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the first two or three letters of a word to check its spelling in a dictionary; consult reference materials including beginning dictionaries to verify and correct spellings",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Locate a word in a dictionary using its first two or three letters (e.g., find 'beautiful' by looking up 'be-')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you isn't sure how to spell a word, can they look it up in a dictionary by using the first two or three letters to find it quickly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Using a Dictionary to Check Spellings: Locate a word in a dictionary using its first two or three letters (e.g., find 'beautiful' by looking up 'be-') Check and correct a misspelling by comparing with the dictionary entry (e.g., look up 'freind' → 'friend')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_06_lesson_06"
+    }
+  ],
+  "id": "Reading_unit_06"
+}

@@ -1,0 +1,191 @@
+{
+  "title": "Matter & Materials",
+  "objective": "Students will explore matter & materials concepts including States of Matter Vocabulary, Describing Material Properties, Objects vs Materials and more.",
+  "standards": [
+    "uk-nc-2013:Y1.Sci.EM.1",
+    "uk-nc-2013:Y1.Sci.EM.2",
+    "uk-nc-2013:Y1.Sci.EM.3",
+    "uk-nc-2013:Y1.Sci.EM.4"
+  ],
+  "skills_tested": [
+    "matter_materials"
+  ],
+  "lessons": [
+    {
+      "title": "States of Matter Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore States of Matter Vocabulary! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and distinguish the three states of matter — solid, liquid, and gas — using properties vocabulary: hard, rigid, runny, flows, keeps its shape, fills its container; use 'change of state' to describe what happens when materials are heated or cooled",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Correctly sort a set of everyday materials as solid, liquid, or gas and give a reason for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you point to water, ice, and steam from a kettle, can you correctly call each one a liquid, solid, or gas — and use those words naturally?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about States of Matter Vocabulary. Correctly sort a set of everyday materials as solid, liquid, or gas and give a reason for each Use the terms solid, liquid, and gas accurately when describing everyday substances",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_07_lesson_01"
+    },
+    {
+      "title": "Describing Material Properties",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Describing Material Properties? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe simple physical properties of everyday materials such as hard/soft, stretchy/stiff, shiny/dull, rough/smooth, waterproof/absorbent, transparent/opaque",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use at least five property words correctly: hard, soft, stretchy, shiny, rough, smooth, transparent, waterproof",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you pick up different objects and describe their properties — like 'this is smooth and shiny' or 'this is rough and bendy'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Describing Material Properties: Use at least five property words correctly: hard, soft, stretchy, shiny, rough, smooth, transparent, waterproof Describe the properties of three different materials using at least two property words each",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_07_lesson_02"
+    },
+    {
+      "title": "Objects vs Materials",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Objects vs Materials? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between an object and the material from which it is made, understanding that objects can be made from different materials",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the difference between an object (e.g. a chair) and the material it is made from (e.g. wood)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hold up a wooden spoon and a metal spoon, can you explain that both are spoons (the object) but made from different materials?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Objects vs Materials. Explain the difference between an object (e.g. a chair) and the material it is made from (e.g. wood) Give examples of the same object made from different materials (e.g. plastic cup, glass cup)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_07_lesson_03"
+    },
+    {
+      "title": "Naming Everyday Materials",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Naming Everyday Materials!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and name a variety of everyday materials including wood, plastic, glass, metal, water, and rock",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least six everyday materials: wood, plastic, glass, metal, water, rock",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look around a room and correctly name the materials things are made of — like glass in the window, metal in the radiator, and plastic in a pen?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Naming Everyday Materials: Name at least six everyday materials: wood, plastic, glass, metal, water, rock Identify the material of at least ten different objects around the home or classroom",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_07_lesson_04"
+    },
+    {
+      "title": "Grouping Materials",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Grouping Materials. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and group everyday materials based on their simple physical properties",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort a set of materials into groups based on a chosen property (e.g. transparent vs opaque)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you sort a pile of objects into groups based on their properties, like all the waterproof ones together or all the transparent ones?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Grouping Materials: Sort a set of materials into groups based on a chosen property (e.g. transparent vs opaque) Compare two materials and state which properties they share and which differ",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_07_lesson_05"
+    }
+  ],
+  "id": "Science_unit_07"
+}

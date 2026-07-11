@@ -1,0 +1,232 @@
+{
+  "title": "Reading Comprehension",
+  "objective": "Students will explore reading comprehension concepts including Story Sequence and Central Message, Non-Fiction Text Features, Characters' Viewpoints and Responses and more.",
+  "standards": [
+    "uk-nc-2013:Eng/KS1/Y2/C/1g",
+    "ccss-ela:RI.2.8",
+    "ccss-ela:RL.2.5",
+    "ccss-ela:RL.3.4",
+    "ccss-ela:RI.1.2",
+    "ccss-ela:RL.1.3",
+    "uk-nc-2013:Eng/KS1/Y2/C/2c",
+    "ccss-ela:RL.1.2",
+    "uk-nc-2013:Eng/KS1/Y2/C/1b",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_2"
+  ],
+  "skills_tested": [
+    "reading_comprehension"
+  ],
+  "lessons": [
+    {
+      "title": "Story Sequence and Central Message",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Story Sequence and Central Message!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Discuss the sequence of events in narrative texts and how items of information are related in non-fiction, retelling stories including key details and demonstrating understanding of central message or lesson",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Retell a story in correct sequence with beginning, middle, and end",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you finishes a chapter book, can they explain the beginning, middle, and end in their own words — and describe what the story was really about at its heart?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Story Sequence and Central Message. Retell a story in correct sequence with beginning, middle, and end Identify the central message or lesson of a story",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_05_lesson_01"
+    },
+    {
+      "title": "Non-Fiction Text Features",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Non-Fiction Text Features!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise different non-fiction text structures and features (headings, contents, glossary, index), understanding how texts are organised to present information",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use a contents page to find information on a specific topic in a non-fiction book",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is using a non-fiction book for a school project, do they know how to use the headings, contents page, and index to find what they need quickly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Non-Fiction Text Features. Use a contents page to find information on a specific topic in a non-fiction book Identify the purpose of headings, glossary, and index in an information text",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_05_lesson_02"
+    },
+    {
+      "title": "Characters' Viewpoints and Responses",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Characters' Viewpoints and Responses!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and compare characters' points of view, recognise who is narrating a story, describe how characters respond to events and challenges, and compare characters' experiences across different stories or versions of the same story",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify who is telling a story and explain how you know (e.g. 'The wolf is telling the story because he says I')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a story told from one character's point of view, can they think about how a different character in the same story might have seen events differently?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Characters' Viewpoints and Responses: Identify who is telling a story and explain how you know (e.g. 'The wolf is telling the story because he says I') Describe how a character responds to a problem or challenge using evidence from the text (e.g. 'When the bridge broke, she decided to swim across')",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_05_lesson_03"
+    },
+    {
+      "title": "Retelling Stories with Structure",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Retelling Stories with Structure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Retell stories including key details in sequence, describe characters, settings, and major events using evidence from the text, and describe the overall structure of a story (beginning, middle, ending)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Retell a familiar story in order, including at least three key details from beginning, middle, and end",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a story, can you describe the main character — including what kind of person they are, what they wanted, and how they felt at the end — using details from the book?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Retelling Stories with Structure. Retell a familiar story in order, including at least three key details from beginning, middle, and end Describe a character's appearance, actions, or personality using details from the text",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_05_lesson_04"
+    },
+    {
+      "title": "Expressive and Sensory Language",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Expressive and Sensory Language! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise recurring literary language in stories and poetry, identify words and phrases that suggest feelings or appeal to the senses, and discuss favourite words and phrases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Spot recurring story language such as 'Once upon a time' and 'happily ever after'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a poem or a story with vivid language, can they pick out a phrase they really liked — and tell you why it works well or how it made them feel?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Expressive and Sensory Language. Spot recurring story language such as 'Once upon a time' and 'happily ever after' Identify sensory words and phrases in a poem: 'the icy wind howled'",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_05_lesson_05"
+    },
+    {
+      "title": "Main Topic & Key Details",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Main Topic & Key Details! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the main topic of a multi-paragraph informational text, determine the focus of specific paragraphs, and explain how key details support the main idea",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the main topic of a multi-paragraph informational text and state the focus of individual paragraphs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a multi-page article — like a school text about a historical event — can they tell you the main idea and then explain what each section was specifically about?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Main Topic & Key Details. Identify the main topic of a multi-paragraph informational text and state the focus of individual paragraphs Describe how specific details and facts in the text support the main idea",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_05_lesson_06"
+    }
+  ],
+  "id": "Reading_unit_05"
+}

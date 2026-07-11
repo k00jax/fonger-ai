@@ -1,0 +1,673 @@
+{
+  "title": "Multi-Step Real World Problems",
+  "objective": "Solve real-world problems using mixed operations and reasoning.",
+  "standards": [],
+  "skills_tested": [
+    "problem solving",
+    "strategy use",
+    "modeling"
+  ],
+  "lessons": [
+    {
+      "title": "Plotting Points in the Coordinate Plane",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_01"
+    },
+    {
+      "title": "Graphing Shapes with Ordered Pairs",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_02"
+    },
+    {
+      "title": "Understanding Reflections and Translations",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_03"
+    },
+    {
+      "title": "Analyzing Rotations",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_04"
+    },
+    {
+      "title": "Classifying Polygons by Attributes",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_05"
+    },
+    {
+      "title": "Exploring Triangles and Angle Sums",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_06"
+    },
+    {
+      "title": "Working with Regular and Irregular Polygons",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_07"
+    },
+    {
+      "title": "Using Coordinate Grids for Symmetry",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_08"
+    },
+    {
+      "title": "Creating Geometry Art with Reflections",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_09"
+    },
+    {
+      "title": "Identifying Patterns in Coordinates",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_10"
+    },
+    {
+      "title": "Solving Geometry Word Problems",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_11"
+    },
+    {
+      "title": "Explaining Strategy in Geometry Journals",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_12"
+    },
+    {
+      "title": "Designing Math Art with Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_13"
+    },
+    {
+      "title": "Calculating Area and Perimeter",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_14"
+    },
+    {
+      "title": "Applying Volume and Surface Area Concepts",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_15"
+    },
+    {
+      "title": "Using Geometry in Architecture",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_16"
+    },
+    {
+      "title": "Collaborating on Design Challenges",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_17"
+    },
+    {
+      "title": "Building a Geometry Toolkit",
+      "bloom_level": "Evaluate",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_18"
+    },
+    {
+      "title": "Graphing Real-World Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_19"
+    },
+    {
+      "title": "Capstone: Geometry Project Showcase",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_20"
+    }
+  ],
+  "id": "5_Math_unit_10"
+}

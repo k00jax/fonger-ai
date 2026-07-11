@@ -1,0 +1,266 @@
+{
+  "title": "Energy",
+  "objective": "Students will explore energy concepts including Energy stores and transfers, Energy can't be created or destroyed, Drawing circuits with proper symbols and more.",
+  "standards": [
+    "uk-nc-2013:Y6.Sci.E.2",
+    "uk-nc-2013:Y6.Sci.E.1",
+    "ngss-ms:MS-PS3-1",
+    "ngss-ms:MS-PS3-5",
+    "ngss-ms:MS-PS2-3",
+    "ngss-ms:MS-PS3-2",
+    "uk-nc-2013:KS3.Sci.Phys.Energy.1",
+    "uk-nc-2013:KS3.Sci.Phys.Energy.2",
+    "uk-nc-2013:Y6.Sci.E.3"
+  ],
+  "skills_tested": [
+    "energy"
+  ],
+  "lessons": [
+    {
+      "title": "Energy stores and transfers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Energy stores and transfers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the main energy stores (kinetic, gravitational potential, elastic potential, thermal, chemical, nuclear, electromagnetic) and the pathways by which energy is transferred between stores (mechanically, electrically, by heating, by radiation)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Names and describes at least five energy stores with a real-world example of each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watched a ball being thrown upward and then falling back down, could they describe what type of energy the ball has at the top of its arc and at the bottom — and explain what happened to the energy between those two points?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Energy stores and transfers. Names and describes at least five energy stores with a real-world example of each Identifies the energy stores at the start and end of a given process (e.g. a falling ball, a burning match)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_05_lesson_01"
+    },
+    {
+      "title": "Energy can't be created or destroyed",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Energy can't be created or destroyed!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain the principle of conservation of energy (energy cannot be created or destroyed, only transferred between stores), and describe how energy is dissipated as thermal energy to the surroundings in all real processes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. States the law of conservation of energy",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you charged their phone overnight and was asked where the electrical energy goes, could they explain what conservation of energy means — and why the charger gets warm even though that heat isn’t doing any useful work?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Energy can't be created or destroyed: States the law of conservation of energy Explains why the total energy in a closed system is always the same even though it changes form",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_05_lesson_02"
+    },
+    {
+      "title": "Drawing circuits with proper symbols",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Drawing circuits with proper symbols!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use recognised symbols when representing a simple circuit in a diagram, including cell, wire, bulb, switch, buzzer, and motor",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Draw a circuit diagram using standard symbols for at least five components",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw a circuit diagram using the proper symbols for batteries, bulbs, switches, and wires instead of drawing pictures?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Drawing circuits with proper symbols. Draw a circuit diagram using standard symbols for at least five components Interpret a circuit diagram drawn by someone else and describe what the circuit does",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_05_lesson_03"
+    },
+    {
+      "title": "More batteries, brighter bulb",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of More batteries, brighter bulb!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Associate the brightness of a lamp or volume of a buzzer with the number and voltage of cells used in a series circuit",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the pattern: more cells (or higher voltage) = brighter bulb / louder buzzer",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why adding a second battery makes the bulb brighter, and predict what happens with three batteries?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about More batteries, brighter bulb. Describe the pattern: more cells (or higher voltage) = brighter bulb / louder buzzer Explain that more cells provide more energy to the circuit",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_05_lesson_04"
+    },
+    {
+      "title": "Why circuit components behave differently",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Why circuit components behave differently? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and give reasons for variations in how circuit components function, including brightness of bulbs, loudness of buzzers, and switch positions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why adding more components in series reduces brightness/loudness (energy shared)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you adds a second bulb to a series circuit and it gets dimmer, can they explain why the energy is being shared between the two bulbs?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Why circuit components behave differently. Explain why adding more components in series reduces brightness/loudness (energy shared) Compare circuits with different configurations and predict component behaviour",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_05_lesson_05"
+    },
+    {
+      "title": "Current, voltage, and what they measure",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Current, voltage, and what they measure! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that electric current is the rate of flow of charge (measured in amperes using an ammeter), and that potential difference (voltage) is the energy transferred per unit charge (measured in volts using a voltmeter)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: States that current is measured in amperes (A) and is the rate at which charge flows around a circuit",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sets up a circuit with an ammeter and a voltmeter, can they explain what each one is measuring and describe the difference between current and voltage?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Current, voltage, and what they measure. States that current is measured in amperes (A) and is the rate at which charge flows around a circuit States that potential difference (voltage) is measured in volts (V) and represents energy transferred per unit charge",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_05_lesson_06"
+    },
+    {
+      "title": "Static electricity and sparks",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Static electricity and sparks. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain static electricity as the build-up of electric charge through friction, describe how charged objects attract or repel each other, and relate static discharge to everyday phenomena such as lightning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains that rubbing transfers electrons from one material to another, creating opposite charges",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a balloon rubbed on hair sticks to the wall, and connect this to the science of how lightning forms during a thunderstorm?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Static electricity and sparks: Explains that rubbing transfers electrons from one material to another, creating opposite charges States that like charges repel and unlike charges attract",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_05_lesson_07"
+    }
+  ],
+  "id": "Science_unit_05"
+}

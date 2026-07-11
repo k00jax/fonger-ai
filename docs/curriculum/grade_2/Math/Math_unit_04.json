@@ -1,0 +1,192 @@
+{
+  "title": "Geometry",
+  "objective": "Students will explore geometry concepts including Right Angles & Turns, Understanding angles, Parallel and perpendicular lines and more.",
+  "standards": [
+    "uk-nc-2013:Ma/KS2/Y3/GPS/4",
+    "uk-nc-2013:Ma/KS2/Y3/GPS/3",
+    "ccss-math:2.G.1",
+    "uk-nc-2013:Ma/KS2/Y3/GPS/1",
+    "uk-nc-2013:Ma/KS2/Y3/GPS/2"
+  ],
+  "skills_tested": [
+    "geometry"
+  ],
+  "lessons": [
+    {
+      "title": "Right Angles & Turns",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Right Angles & Turns? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify right angles; recognise that two right angles make a half-turn, three make three-quarters, and four make a complete turn",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use a right-angle checker to identify right angles in shapes and the environment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at the corner of a piece of paper, can they tell you that's a right angle — and that spinning all the way round takes four right angles?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Right Angles & Turns. Use a right-angle checker to identify right angles in shapes and the environment Classify angles as right angles, less than a right angle, or greater than a right angle",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_04_lesson_01"
+    },
+    {
+      "title": "Understanding angles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Understanding angles! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise angles as a property of shape or a description of a turn",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify angles at the corners of 2-D shapes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to point to an angle on the corner of a book or door frame, can they find it — and explain that swinging a door open is also a kind of turn (angle)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding angles: Identify angles at the corners of 2-D shapes Describe a turn (e.g. quarter turn, half turn) in terms of the angle made",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_04_lesson_02"
+    },
+    {
+      "title": "Parallel and perpendicular lines",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Parallel and perpendicular lines!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify horizontal and vertical lines and pairs of perpendicular and parallel lines",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Point out horizontal and vertical lines in shapes and real-world contexts",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at a set of railway tracks or a window frame, can they point to which lines are parallel (never crossing) and which are perpendicular (meeting at a right angle)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Parallel and perpendicular lines. Point out horizontal and vertical lines in shapes and real-world contexts Identify a pair of parallel lines (lines that never meet and are always the same distance apart)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_04_lesson_03"
+    },
+    {
+      "title": "Angles in triangles (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Angles in triangles (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and draw shapes having specified attributes (e.g. a given number of angles or equal faces); identify triangles, quadrilaterals, pentagons, hexagons, and cubes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Draw a shape with exactly 5 sides (pentagon)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given instructions like \"draw a shape with 5 sides\" or \"draw a shape with all equal angles,\" can they draw it correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Angles in triangles (age 7+). Draw a shape with exactly 5 sides (pentagon) Identify all quadrilaterals in a set of mixed shapes",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_04_lesson_04"
+    },
+    {
+      "title": "2-D shapes (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore 2-D shapes (age 7+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw 2-D shapes and make 3-D shapes using modelling materials; recognise 3-D shapes in different orientations and describe them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Draw a triangle, rectangle, pentagon, or hexagon accurately",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a cube to look at, can they draw it on paper — and then make a cube-shaped model from modelling clay or construction materials?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about 2-D shapes (age 7+): Draw a triangle, rectangle, pentagon, or hexagon accurately Construct a cube or cuboid from modelling materials (e.g. straws and connectors)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_04_lesson_05"
+    }
+  ],
+  "id": "Math_unit_04"
+}

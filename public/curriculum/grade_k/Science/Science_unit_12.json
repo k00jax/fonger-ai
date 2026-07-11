@@ -1,0 +1,231 @@
+{
+  "title": "Scientific Inquiry",
+  "objective": "Students will explore scientific inquiry concepts including Asking scientific questions, Observing with simple equipment, Simple tests and experiments and more.",
+  "standards": [
+    "uk-nc-2013:KS1.Sci.WS.4",
+    "uk-nc-2013:KS1.Sci.WS.1",
+    "uk-nc-2013:KS1.Sci.WS.3",
+    "uk-nc-2013:KS1.Sci.WS.2",
+    "ngss-k5:K-2-ETS1-3",
+    "ngss-k5:K-2-ETS1-2",
+    "uk-nc-2013:KS1.Sci.WS.5",
+    "ngss-k5:K-2-ETS1-1",
+    "uk-nc-2013:KS1.Sci.WS.6"
+  ],
+  "skills_tested": [
+    "scientific_inquiry"
+  ],
+  "lessons": [
+    {
+      "title": "Asking scientific questions",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Asking scientific questions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ask simple scientific questions and recognise that they can be answered in different ways including observation, testing, and research",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Ask at least three 'how' or 'why' questions about the natural world",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you wonders about something — like 'why do leaves change colour?' — can they suggest how to find the answer, whether by looking closely, doing a test, or looking it up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Asking scientific questions. Ask at least three 'how' or 'why' questions about the natural world Suggest different ways to answer a question: observing, testing, asking an expert, reading a book",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_12_lesson_01"
+    },
+    {
+      "title": "Observing with simple equipment",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Observing with simple equipment? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe closely using simple equipment such as hand lenses, and use observations to describe, compare, and identify things",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use a hand lens or other simple equipment to make detailed observations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use a magnifying glass to look carefully at something like a leaf or an insect and describe in detail what they see?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Observing with simple equipment: Use a hand lens or other simple equipment to make detailed observations Describe observations using specific vocabulary (colour, shape, size, texture, pattern)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_12_lesson_02"
+    },
+    {
+      "title": "Simple tests and experiments",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Simple tests and experiments! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Perform simple tests and use observations and ideas to suggest answers to questions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Carry out a simple test with one thing changing at a time",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you do a simple experiment — like testing which paper towel absorbs the most water — and use what they find out to answer the question?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Simple tests and experiments. Carry out a simple test with one thing changing at a time Observe what happens and describe the result",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_12_lesson_03"
+    },
+    {
+      "title": "Recording Data",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Recording Data!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Gather and record data using simple methods such as tables, tally charts, and drawings to help answer questions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Record observations and measurements in a simple table or tally chart",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you collect information during an experiment — like counting, measuring, or drawing — and put it into a simple table or chart?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Recording Data: Record observations and measurements in a simple table or tally chart Use drawings or labelled diagrams to record what was observed",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_12_lesson_04"
+    },
+    {
+      "title": "Comparing Design Solutions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparing Design Solutions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of each design",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Test two designs that address the same problem and collect data on their performance",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you tests two different paper aeroplane designs, can they compare the results and explain which one flew better and why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing Design Solutions. Test two designs that address the same problem and collect data on their performance Compare the results, identifying strengths and weaknesses of each design",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_12_lesson_05"
+    },
+    {
+      "title": "Modelling with Sketches",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Modelling with Sketches. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Create a sketch, drawing, or physical model of a design solution",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw or build a model to show how they'd design something — like a boat shape that floats well — and explain why the shape matters?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Modelling with Sketches. Create a sketch, drawing, or physical model of a design solution Explain how the shape or structure of the design helps solve the problem",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_12_lesson_06"
+    }
+  ],
+  "id": "Science_unit_12"
+}

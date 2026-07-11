@@ -1,0 +1,291 @@
+{
+  "title": "Ancient Egypt",
+  "objective": "Students will explore ancient egypt concepts including Egypt, the Nile, and the Desert, Vocabulary: ancient egypt, Pharaohs and Tutankhamun and more.",
+  "standards": [],
+  "skills_tested": [
+    "ancient_egypt"
+  ],
+  "lessons": [
+    {
+      "title": "Egypt, the Nile, and the Desert",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Egypt, the Nile, and the Desert!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Locate Egypt on a map of Africa and understand that it is a country in a very hot, dry desert, but the River Nile — the longest river in the world — flows through it, bringing water and rich soil that allowed people to grow food and build one of the earliest great civilisations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Point to Egypt on a map and identify the River Nile running through it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a picture of pyramids in a desert, can they tell you which country they're in and why a river made it possible for people to live there?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Egypt, the Nile, and the Desert. Point to Egypt on a map and identify the River Nile running through it Explain why the Nile was so important to the ancient Egyptians (water, food, transport)",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_01"
+    },
+    {
+      "title": "Vocabulary: ancient egypt",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Vocabulary: ancient egypt. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the key vocabulary of ancient Egypt — pharaoh, pyramid, tomb, mummy/mummification, hieroglyphs, papyrus, sarcophagus, canopic jar, natron, archaeologist, artefact, Nile, delta, irrigation, shaduf, scribe, vizier, obelisk, sphinx, cartouche — and apply these terms accurately when describing Egyptian society, religion, and material culture",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use 'pharaoh', 'pyramid', and 'hieroglyphs' correctly and naturally in a spoken or written account of ancient Egypt",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visited an ancient Egypt exhibition at a museum, could they read the labels and explain to you what a pharaoh was, why there were pyramids, and what hieroglyphs are?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Vocabulary: ancient egypt: Use 'pharaoh', 'pyramid', and 'hieroglyphs' correctly and naturally in a spoken or written account of ancient Egypt Explain what mummification is and why the Egyptians did it, using 'sarcophagus', 'canopic jar', and 'natron'",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_02"
+    },
+    {
+      "title": "Pharaohs and Tutankhamun",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Pharaohs and Tutankhamun! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that ancient Egypt was ruled by powerful kings and queens called pharaohs, who lived in grand palaces and made the laws — and that one of the most famous pharaohs is Tutankhamun, a boy who became pharaoh as a child and whose golden tomb was discovered thousands of years later",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that a pharaoh was the ruler of ancient Egypt, like a king or queen",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a picture of a golden Egyptian mask, can they tell you it belonged to a pharaoh called Tutankhamun and explain what a pharaoh was?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Pharaohs and Tutankhamun. Explain that a pharaoh was the ruler of ancient Egypt, like a king or queen Name Tutankhamun as a famous pharaoh and describe at least one fact about him",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_03"
+    },
+    {
+      "title": "Pyramids and the Great Sphinx",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Pyramids and the Great Sphinx!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the ancient Egyptians built enormous stone pyramids as tombs for the pharaohs, that the Great Pyramid at Giza was one of the Seven Wonders of the Ancient World and is still standing today, and that the Great Sphinx — a statue with a lion's body and a human head — guards the pyramids",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that pyramids were built as tombs to protect the pharaoh's body for the afterlife",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a photo of the pyramids, can they tell you why they were built and describe the Sphinx that sits near them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Pyramids and the Great Sphinx. Explain that pyramids were built as tombs to protect the pharaoh's body for the afterlife Describe the Great Pyramid as very large, very old, and still standing at Giza",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_04"
+    },
+    {
+      "title": "Egyptian Gods and the Afterlife",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Egyptian Gods and the Afterlife? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the ancient Egyptians believed in many gods and goddesses and believed that life continued after death in a wonderful afterlife — which is why they took great care to prepare bodies and fill tombs with food, jewellery, and precious objects for the dead person to use",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that ancient Egyptians worshipped many different gods and goddesses",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you learns that Egyptian tombs were filled with food, games, and gold, can they explain why the Egyptians put those things there?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Egyptian Gods and the Afterlife: Explain that ancient Egyptians worshipped many different gods and goddesses Describe the basic belief that Egyptians thought life continued after death",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_05"
+    },
+    {
+      "title": "Everyday Life in Ancient Egypt",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Everyday Life in Ancient Egypt! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe what everyday life was like for ordinary people in ancient Egypt: farmers grew wheat and barley near the Nile, families lived in mud-brick houses, children played games and had pets, and people ate bread, fish, fruit, and vegetables",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least two things ordinary Egyptian families did in their daily lives",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you what a child their age might have done on a normal day in ancient Egypt, could they describe some activities — like playing games, helping with farming, or eating bread and fish?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Everyday Life in Ancient Egypt: Describe at least two things ordinary Egyptian families did in their daily lives Name foods that ancient Egyptians ate or crops they grew",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_06"
+    },
+    {
+      "title": "Hieroglyphs and Papyrus",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Hieroglyphs and Papyrus. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the ancient Egyptians used a special writing system called hieroglyphs — pictures and symbols that stood for sounds and words — and that they wrote on a paper-like material called papyrus, which was made from a plant that grew along the Nile",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe hieroglyphs as a writing system that uses pictures and symbols",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees hieroglyphs on a museum artefact, can they tell you what they are and explain that the Egyptians wrote on a special paper called papyrus?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Hieroglyphs and Papyrus: Describe hieroglyphs as a writing system that uses pictures and symbols Explain that papyrus was a material like paper made from a river plant",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_07"
+    },
+    {
+      "title": "Discovering Tutankhamun's Tomb",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Discovering Tutankhamun's Tomb!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that we know about ancient Egypt because archaeologists have dug up and studied objects buried in the sand for thousands of years — and that one of the most exciting discoveries ever was when Howard Carter found the hidden tomb of Tutankhamun in 1922, filled with golden treasures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that archaeologists find and study old objects to learn about people who lived long ago",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watches a documentary about Howard Carter opening a tomb full of gold, can they explain who Carter was and why his discovery was so important?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Discovering Tutankhamun's Tomb. Explain that archaeologists find and study old objects to learn about people who lived long ago Retell the story of Howard Carter discovering Tutankhamun's tomb",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_01_lesson_08"
+    }
+  ],
+  "id": "Social Studies_unit_01"
+}

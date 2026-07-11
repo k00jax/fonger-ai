@@ -1,0 +1,155 @@
+{
+  "title": "Empathy & Social Awareness",
+  "objective": "Students will explore empathy & social awareness concepts including Vocabulary: understanding others, Other People's Feelings and Thoughts, Everyday Kindness and Care and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-CU-P1-5",
+    "ib-pyp-pspe:PSPE-ID-LO-P1-4",
+    "ib-pyp-pspe:PSPE-ID-LO-P1-6"
+  ],
+  "skills_tested": [
+    "empathy_social_awareness"
+  ],
+  "lessons": [
+    {
+      "title": "Vocabulary: understanding others",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Vocabulary: understanding others!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the key vocabulary for understanding others — empathy, perspective, kind, fair, community, similar, different, and care — and understand that these words describe real habits of thinking and feeling",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use the word 'empathy' correctly and distinguish it from 'sympathy' — e.g. 'Empathy means I try to feel what they feel'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you sees someone who seems sad or left out, can they describe what that person might be feeling using words like 'empathy' or 'perspective' — showing they're thinking about the other person, not just themselves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Vocabulary: understanding others: Use the word 'empathy' correctly and distinguish it from 'sympathy' — e.g. 'Empathy means I try to feel what they feel' Explain what 'perspective' and 'point of view' mean and demonstrate by describing how two people might see the same event differently",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_02_lesson_01"
+    },
+    {
+      "title": "Other People's Feelings and Thoughts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Other People's Feelings and Thoughts!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that other people have their own feelings and thoughts, and that these might be different from your own — a foundational awareness that not everyone sees or feels things the same way",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that other people can feel differently about the same thing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you loves dogs but their friend is scared of dogs, can you understand that their friend's fear is real even though they don't feel it themselves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Other People's Feelings and Thoughts: State that other people can feel differently about the same thing Give an example of a time someone felt differently from them about the same situation",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_02_lesson_02"
+    },
+    {
+      "title": "Everyday Kindness and Care",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Everyday Kindness and Care. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Show kindness and care towards others in simple everyday ways — comforting a friend who is upset, helping someone who has dropped their things, sharing without being asked, and saying kind words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Spontaneously offer comfort to someone who is visibly upset",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a younger child at school falls over in the playground, does you go over to help or comfort them without being told to by an adult?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Everyday Kindness and Care: Spontaneously offer comfort to someone who is visibly upset Help another person with a practical task without being asked",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_02_lesson_03"
+    },
+    {
+      "title": "Similarities & Differences",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Similarities & Differences. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice and appreciate ways that people are similar to and different from each other — including appearance, family structures, languages spoken, foods eaten, and celebrations observed — and understand that differences make communities interesting",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name several ways people in their class or community are different from each other",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you talk positively about how families in their class are different — some have two mums, some speak another language at home, some celebrate different holidays — and see this as interesting rather than strange?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Similarities & Differences. Name several ways people in their class or community are different from each other Describe at least one thing they have learned from someone who is different from them",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_02_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_02"
+}

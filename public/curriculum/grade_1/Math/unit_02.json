@@ -1,0 +1,673 @@
+{
+  "title": "Exploring Shapes & Attributes",
+  "objective": "Identify, name, and compare basic 2D and 3D shapes based on attributes.",
+  "standards": [],
+  "skills_tested": [
+    "geometry",
+    "shape recognition",
+    "classification"
+  ],
+  "lessons": [
+    {
+      "title": "Reviewing Basic Shapes",
+      "bloom_level": "Remember",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_01"
+    },
+    {
+      "title": "Sorting Shapes by Sides",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_02"
+    },
+    {
+      "title": "Identifying 2D Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_03"
+    },
+    {
+      "title": "Creating Shape Patterns",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_04"
+    },
+    {
+      "title": "Describing Shapes Using Attributes",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_05"
+    },
+    {
+      "title": "Exploring 3D Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_06"
+    },
+    {
+      "title": "Sorting 3D Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_07"
+    },
+    {
+      "title": "Building 3D Shapes with Tools",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_08"
+    },
+    {
+      "title": "Counting Faces and Vertices",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_09"
+    },
+    {
+      "title": "Recognizing Shapes in the Real World",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_10"
+    },
+    {
+      "title": "Identifying Symmetry in Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_11"
+    },
+    {
+      "title": "Comparing 2D and 3D Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_12"
+    },
+    {
+      "title": "Using Venn Diagrams to Classify Shapes",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_13"
+    },
+    {
+      "title": "Matching Nets to 3D Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_14"
+    },
+    {
+      "title": "Exploring Composite Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_15"
+    },
+    {
+      "title": "Drawing Shapes on Grid Paper",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_16"
+    },
+    {
+      "title": "Solving Shape Riddles",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_17"
+    },
+    {
+      "title": "Designing a Shape-Based Game",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_18"
+    },
+    {
+      "title": "Explaining Shape Sort Strategies",
+      "bloom_level": "Evaluate",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_19"
+    },
+    {
+      "title": "Shape Museum Showcase",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_20"
+    }
+  ],
+  "id": "1_Math_unit_02"
+}

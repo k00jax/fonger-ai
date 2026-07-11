@@ -1,0 +1,302 @@
+{
+  "title": "Number Representation & Place Value",
+  "objective": "Students will explore number representation & place value concepts including A Hundred Is Ten Tens, The three digits of a three-digit number, Ordering Numbers to 1000 and more.",
+  "standards": [
+    "ccss-math:2.NBT.1.a",
+    "ccss-math:2.NBT.1",
+    "ccss-math:2.NBT.4",
+    "uk-nc-2013:Ma/KS2/Y3/NPV/2",
+    "uk-nc-2013:Ma/KS2/Y3/NPV/6",
+    "ccss-math:2.OA.3",
+    "ccss-math:2.NBT.8",
+    "ccss-math:2.NBT.3",
+    "uk-nc-2013:Ma/KS2/Y3/NPV/3",
+    "ccss-math:2.NBT.1.b"
+  ],
+  "skills_tested": [
+    "number_representation_place_value"
+  ],
+  "lessons": [
+    {
+      "title": "A Hundred Is Ten Tens",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about A Hundred Is Ten Tens. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that 100 can be thought of as a bundle of ten tens — called a 'hundred'",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that 10 groups of 10 ones make 100",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that ten full tens stacked together make one hundred — and that this is why 100 has a 1 in the hundreds place and zeros in the rest?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about A Hundred Is Ten Tens: Explain that 10 groups of 10 ones make 100 Bundle ten tens sticks into one hundred and describe what happened",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_01"
+    },
+    {
+      "title": "The three digits of a three-digit number",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The three digits of a three-digit number!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State the value of each digit in a three-digit number (e.g. in 362, the 3 represents 3 hundreds)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees the number 348, can they tell you there are 3 hundreds, 4 tens, and 8 ones — rather than just reading the digits as 'three four eight'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The three digits of a three-digit number. State the value of each digit in a three-digit number (e.g. in 362, the 3 represents 3 hundreds) Partition a three-digit number into hundreds, tens, and ones (e.g. 485 = 400 + 80 + 5)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_02"
+    },
+    {
+      "title": "Ordering Numbers to 1000",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Ordering Numbers to 1000! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and order numbers up to 1000 using >, =, and < symbols, based on place-value understanding",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Compare two three-digit numbers by examining hundreds first, then tens, then ones",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you give you a set of three-digit numbers like 456, 231, and 789, can they put them in order and use > and < correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ordering Numbers to 1000: Compare two three-digit numbers by examining hundreds first, then tens, then ones Use >, =, and < correctly to record comparisons of three-digit numbers",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_03"
+    },
+    {
+      "title": "The multiples of 100",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about The multiples of 100. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the multiples of 100 (100–900) each represent a number of hundreds with 0 tens and 0 ones",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify that 300 means 3 hundreds, 0 tens, 0 ones",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that 700 means 7 hundreds with no tens and no ones — and show what that looks like using base-ten blocks or a drawing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The multiples of 100. Identify that 300 means 3 hundreds, 0 tens, 0 ones Place multiples of 100 on a number line to 1000",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_04"
+    },
+    {
+      "title": "Reading and writing numbers to 1000",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Reading and writing numbers to 1000!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and write numbers to 1000 in numerals, number names, and expanded form",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read a three-digit numeral aloud correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read and write numbers up to 1,000 — both as numerals and in words — like reading '642' as 'six hundred and forty-two'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading and writing numbers to 1000. Read a three-digit numeral aloud correctly Write a three-digit number in words (e.g. 'three hundred and forty-two')",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_05"
+    },
+    {
+      "title": "10 or 100 More or Less",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of 10 or 100 More or Less!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find 10 or 100 more or less than a given number up to 1000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Given a three-digit number, state what is 10 more and 10 less",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '10 more than 342' or '100 less than 875' in their head — knowing which digit changes and which stays the same?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about 10 or 100 More or Less. Given a three-digit number, state what is 10 more and 10 less Given a three-digit number, state what is 100 more and 100 less",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_06"
+    },
+    {
+      "title": "Place Value to 1000",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Place Value to 1000? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve number problems and practical problems involving place value of numbers up to 1000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve a problem that requires identifying how many hundreds, tens, or ones are in a number",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is told 'I have 4 hundreds, 3 tens, and 7 ones — what number is that?', can they put it together and tell you 437?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Place Value to 1000. Solve a problem that requires identifying how many hundreds, tens, or ones are in a number Apply place-value knowledge to a practical context (e.g. counting money in pounds)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_07"
+    },
+    {
+      "title": "Odd or Even",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Odd or Even!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine whether a group of objects (up to 20) has an odd or even number of members",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Pair objects and determine whether there is one left over (odd) or not (even)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has a group of 14 objects, can they tell you whether that number is odd or even — for example by pairing them up to see if any are left over?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Odd or Even. Pair objects and determine whether there is one left over (odd) or not (even) Count a group by 2s to determine if the total is even",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_08_lesson_08"
+    }
+  ],
+  "id": "Math_unit_08"
+}

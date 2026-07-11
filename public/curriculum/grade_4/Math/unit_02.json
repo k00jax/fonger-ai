@@ -1,0 +1,673 @@
+{
+  "title": "Division with Remainders",
+  "objective": "Divide multi-digit numbers using partial quotients and interpret remainders.",
+  "standards": [],
+  "skills_tested": [
+    "division",
+    "estimation",
+    "number sense"
+  ],
+  "lessons": [
+    {
+      "title": "Reviewing Properties of Shapes",
+      "bloom_level": "Remember",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_01"
+    },
+    {
+      "title": "Identifying Points, Lines, and Rays",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_02"
+    },
+    {
+      "title": "Understanding Types of Angles",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_03"
+    },
+    {
+      "title": "Measuring Angles with Protractors",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_04"
+    },
+    {
+      "title": "Exploring Angle Relationships",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_05"
+    },
+    {
+      "title": "Classifying Triangles and Quadrilaterals",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_06"
+    },
+    {
+      "title": "Creating a Geometry Notebook",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_07"
+    },
+    {
+      "title": "Analyzing Parallel and Perpendicular Lines",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_08"
+    },
+    {
+      "title": "Using Coordinate Grids to Draw Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_09"
+    },
+    {
+      "title": "Exploring Line Symmetry",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_10"
+    },
+    {
+      "title": "Identifying Rotational Symmetry",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_11"
+    },
+    {
+      "title": "Solving Geometry Word Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_12"
+    },
+    {
+      "title": "Estimating and Measuring Angles",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_13"
+    },
+    {
+      "title": "Explaining Angle Strategy",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_14"
+    },
+    {
+      "title": "Decomposing Figures into Triangles and Rectangles",
+      "bloom_level": "Understand",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_15"
+    },
+    {
+      "title": "Designing a Floor Plan",
+      "bloom_level": "Apply",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_16"
+    },
+    {
+      "title": "Exploring Nets of 3D Shapes",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_17"
+    },
+    {
+      "title": "Sketching Composite Figures",
+      "bloom_level": "Analyze",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_18"
+    },
+    {
+      "title": "Reviewing Geometry Vocabulary",
+      "bloom_level": "Evaluate",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_19"
+    },
+    {
+      "title": "Geometry Fair Presentations",
+      "bloom_level": "Create",
+      "skills_tested": [],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_20"
+    }
+  ],
+  "id": "4_Math_unit_02"
+}

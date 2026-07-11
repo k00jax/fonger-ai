@@ -1,0 +1,291 @@
+{
+  "title": "Mathematical Thinking",
+  "objective": "Students will explore mathematical thinking concepts including Mathematical Precision, Multi-Step Problem Solving, Justifying mathematical reasoning (age 8+) and more.",
+  "standards": [],
+  "skills_tested": [
+    "mathematical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Mathematical Precision",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Mathematical Precision? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Communicate with mathematical precision: use correct fraction/decimal vocabulary, name angle types accurately, specify units in measurement and money, and use notation (=, <, >, ÷, ×) correctly",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Distinguish between 'three fourths' and 'three quarters' and use both correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes up a maths answer involving angles, fractions, or money, do they use precise vocabulary and correct notation — like writing \"acute angle\", \"3/4\", or \"£2.50\" rather than vague descriptions?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Mathematical Precision: Distinguish between 'three fourths' and 'three quarters' and use both correctly State an answer in the correct unit: '63 square centimetres' not just '63'",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_01"
+    },
+    {
+      "title": "Multi-Step Problem Solving",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Multi-Step Problem Solving!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make sense of multi-step problems involving four operations, fractions, and area/volume by identifying sub-steps, choosing a strategy, and monitoring progress",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Break a two-step word problem into parts and explain a plan before calculating",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you tackles a complex maths problem involving area, fractions, and multiple steps, do they plan their approach — estimating roughly what the answer should be before calculating, and then checking it makes sense at the end?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multi-Step Problem Solving. Break a two-step word problem into parts and explain a plan before calculating Choose between drawing a diagram or writing equations for a perimeter problem",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_02"
+    },
+    {
+      "title": "Justifying mathematical reasoning (age 8+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Justifying mathematical reasoning (age 8+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct and present multi-step mathematical arguments; critique the reasoning of others and explain clearly why a method works or fails",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain why 1/3 > 1/5 using the idea that more parts means smaller pieces",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a classmate claims \"you can't multiply a fraction and get a bigger answer\", can you think through whether that's always true — and give an example to support or challenge the claim?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Justifying mathematical reasoning (age 8+). Explain why 1/3 > 1/5 using the idea that more parts means smaller pieces Find and explain an error in a peer's column subtraction with exchanges",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_03"
+    },
+    {
+      "title": "Choosing mathematical tools",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Choosing mathematical tools. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Select and use appropriate tools and representations strategically: choose between mental, written, and diagrammatic methods; use calculators for checking; select fraction models suited to the task",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Decide to use mental multiplication for 25×4 but a written method for 167×3",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is working on maths, do they choose the right method — doing simple calculations in their head, using written working for complex ones, and sketching a diagram when a problem involves shapes or fractions?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Choosing mathematical tools. Decide to use mental multiplication for 25×4 but a written method for 167×3 Choose fraction strips rather than a number line to compare 3/8 and 1/4",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_04"
+    },
+    {
+      "title": "Modelling with multiplication and fractions",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Modelling with multiplication and fractions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Model real-world problems involving multiplication, area, fractions, and unit conversion by choosing appropriate representations and interpreting mathematical results in context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Model a tiling/area problem with an array and write the corresponding multiplication",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is solving a real-life problem — like working out the area of a room in square metres — do they choose the right maths tool for the job and interpret the final number in terms of the real situation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Modelling with multiplication and fractions: Model a tiling/area problem with an array and write the corresponding multiplication Represent a recipe-scaling problem as a fraction calculation and interpret the answer in grams",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_05"
+    },
+    {
+      "title": "Times tables (age 8+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Times tables (age 8+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use repeated reasoning to generalise: extend patterns in times tables and equivalent fractions, derive unknown facts from known facts efficiently, describe general rules",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Notice that all fractions equivalent to 1/2 have a numerator that is half the denominator",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you notices a pattern — like that multiplying by 4 is the same as doubling twice — do they use that generalisation to solve similar problems more efficiently?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Times tables (age 8+): Notice that all fractions equivalent to 1/2 have a numerator that is half the denominator Use the pattern 3×4=12, 3×40=120, 3×400=1200 and explain the generalisation",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_06"
+    },
+    {
+      "title": "Fractions on a number line",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fractions on a number line. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Move fluently between real-world situations, diagrams, number lines, and symbolic equations involving multiplication, fractions, and decimals, explaining what each representation shows",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Represent a sharing problem as both a fraction diagram and a division equation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you works on a maths problem involving decimals or fractions, can they move between a fraction strip, a number line, and a written equation — explaining what each one is showing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fractions on a number line. Represent a sharing problem as both a fraction diagram and a division equation Explain how a bar model for 4 × 23 connects to the area model and the written method",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_07"
+    },
+    {
+      "title": "Using Mathematical Structure",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Using Mathematical Structure! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Look for and use mathematical structure: exploit place-value patterns for ×10/×100, use the distributive property to break apart multiplications, apply fraction equivalence to compare and compute, use shape properties to classify quadrilaterals",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Decompose 7×13 into 7×10 + 7×3 using the distributive property",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is comparing fractions or working out a percentage, do they look for underlying patterns — like spotting that 50% is always half, or that equivalent fractions all sit at the same point on a number line?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Using Mathematical Structure: Decompose 7×13 into 7×10 + 7×3 using the distributive property Explain why multiplying by 10 shifts digits one place left using place-value structure",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_05_lesson_08"
+    }
+  ],
+  "id": "Math_unit_05"
+}

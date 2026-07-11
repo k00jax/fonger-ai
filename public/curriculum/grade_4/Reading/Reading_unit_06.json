@@ -1,0 +1,161 @@
+{
+  "title": "Writing Composition",
+  "objective": "Students will explore writing composition concepts including Choosing Form and Tone for Your Audience, Evidence-Based Writing, Literary Evidence in Writing and more.",
+  "standards": [
+    "ccss-ela:W.4.4",
+    "ccss-ela:W.4.9b",
+    "ccss-ela:W.5.4",
+    "uk-nc-2013:Eng.UKS2.Write.Comp.1a",
+    "ccss-ela:W.5.9",
+    "ccss-ela:W.5.9a",
+    "ccss-ela:W.4.9a",
+    "ccss-ela:W.5.9b",
+    "ccss-ela:W.4.9"
+  ],
+  "skills_tested": [
+    "writing_composition"
+  ],
+  "lessons": [
+    {
+      "title": "Choosing Form and Tone for Your Audience",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Choosing Form and Tone for Your Audience!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the audience for and purpose of writing before beginning, selecting the appropriate form, tone, and register to match the intended reader and communicative goal",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Determine the audience (e.g., peers, teacher, younger children, a public audience) and purpose (to persuade, inform, entertain, or explain) before drafting and explain how these choices affect language and structure",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before you starts a piece of writing, do they think about who will read it and why — adjusting their tone, vocabulary, and format accordingly, like writing more formally for a teacher than for a friend?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Choosing Form and Tone for Your Audience. Determine the audience (e.g., peers, teacher, younger children, a public audience) and purpose (to persuade, inform, entertain, or explain) before drafting and explain how these choices affect language and structure Select an appropriate form for the writing task (letter, report, story, instructions, review) based on audience and purpose",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_06_lesson_01"
+    },
+    {
+      "title": "Evidence-Based Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Evidence-Based Writing. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw evidence from informational texts to support analysis, reflection, and research in writing, applying grade-level reading standards to non-fiction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write a research-based paragraph or short report that cites specific facts, details, and evidence from informational texts to support key points",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a non-fiction piece — like a report on climate change — do they draw on specific facts and evidence from things they've read, weaving that information into their own writing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Evidence-Based Writing. Write a research-based paragraph or short report that cites specific facts, details, and evidence from informational texts to support key points Synthesise information from two informational sources into a written summary that accurately represents both, noting areas of agreement and difference",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_06_lesson_02"
+    },
+    {
+      "title": "Literary Evidence in Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Literary Evidence in Writing!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw evidence from literary texts to support analysis, reflection, and research in writing, applying grade-level reading standards to literature",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write a response to a literary text that includes direct quotations and specific details from the text as evidence to support a claim or observation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes about a book they've read — like an essay about a character or a theme — do they support their ideas with specific quotes or details drawn directly from the text?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Literary Evidence in Writing: Write a response to a literary text that includes direct quotations and specific details from the text as evidence to support a claim or observation Explain how a character's actions or dialogue reveal their traits or motivations, citing specific passages from the story as evidence",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_06_lesson_03"
+    },
+    {
+      "title": "Writing for an audience",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Writing for an audience!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Produce clear and coherent writing in which the development and organisation are appropriate to the task, purpose, and audience, maintaining a consistent style and structure throughout",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify the task, purpose, and audience before writing and make deliberate choices about structure, tone, and vocabulary to suit them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes for school, does the piece feel well-organised and appropriate for its purpose — whether it's a formal essay, a creative story, or a persuasive argument — with a consistent tone throughout?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Writing for an audience. Identify the task, purpose, and audience before writing and make deliberate choices about structure, tone, and vocabulary to suit them Organise ideas logically so that the writing flows from introduction through development to conclusion, with each section serving a clear purpose",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_06_lesson_04"
+    }
+  ],
+  "id": "Reading_unit_06"
+}

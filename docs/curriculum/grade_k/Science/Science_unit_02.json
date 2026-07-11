@@ -1,0 +1,221 @@
+{
+  "title": "Dinosaurs & Paleontology",
+  "objective": "Students will explore dinosaurs & paleontology concepts including Dinosaurs Were Real, Fossils & Palaeontologists, Famous Dinosaur Species and more.",
+  "standards": [],
+  "skills_tested": [
+    "dinosaurs_paleontology"
+  ],
+  "lessons": [
+    {
+      "title": "Dinosaurs Were Real",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Dinosaurs Were Real!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that dinosaurs were real animals that lived on Earth a very long time ago and are now extinct — none are alive today",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that dinosaurs were real animals, not made up",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a dinosaur toy, can they tell you that real dinosaurs lived long ago but aren't alive any more?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Dinosaurs Were Real. State that dinosaurs were real animals, not made up Explain that 'extinct' means no living ones are left anywhere",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_02_lesson_01"
+    },
+    {
+      "title": "Fossils & Palaeontologists",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fossils & Palaeontologists. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that fossils are the remains of ancient living things preserved in rock, and that scientists called palaeontologists study fossils to learn about dinosaurs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe a fossil as the remains of a living thing preserved in rock",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you found a fossil-shaped rock on a beach or at a museum, could they explain what a fossil is and who studies them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fossils & Palaeontologists. Describe a fossil as the remains of a living thing preserved in rock Name the job of a palaeontologist as someone who studies fossils",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_02_lesson_02"
+    },
+    {
+      "title": "Famous Dinosaur Species",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Famous Dinosaur Species. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and name common well-known dinosaur species: Tyrannosaurus rex, Triceratops, Stegosaurus, and Brachiosaurus/Diplodocus, describing a basic feature of each",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least four common dinosaur species from pictures or models",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees pictures of different dinosaurs, can they name at least three — like T. rex, Triceratops, and Stegosaurus?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Famous Dinosaur Species. Name at least four common dinosaur species from pictures or models Describe one visible feature of each (e.g. T. rex has tiny arms, Triceratops has three horns)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_02_lesson_03"
+    },
+    {
+      "title": "Plant-Eaters vs Meat-Eaters",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Plant-Eaters vs Meat-Eaters. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Sort dinosaurs into plant-eaters (herbivores) and meat-eaters (carnivores) by looking at clues like tooth shape — flat teeth for plants, sharp teeth for meat",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort a set of dinosaur pictures or models into herbivore and carnivore groups",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you showed you a picture of a dinosaur's teeth, could they guess whether it ate plants or meat?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Plant-Eaters vs Meat-Eaters. Sort a set of dinosaur pictures or models into herbivore and carnivore groups Explain that sharp pointed teeth are for tearing meat and flat teeth are for grinding plants",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_02_lesson_04"
+    },
+    {
+      "title": "Dinosaur Sizes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Dinosaur Sizes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare dinosaur sizes to familiar things — some dinosaurs were as tall as a house, others were as small as a chicken — and understand that dinosaurs came in a huge range of sizes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compare the size of a large dinosaur to a familiar object like a bus or house",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you that some dinosaurs were enormous and others were tiny — maybe using comparisons like 'as tall as a building' or 'as small as a cat'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Dinosaur Sizes: Compare the size of a large dinosaur to a familiar object like a bus or house Name a very large dinosaur (e.g. Brachiosaurus) and a small one (e.g. Compsognathus)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_02_lesson_05"
+    },
+    {
+      "title": "Real Dinosaurs vs Fiction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Real Dinosaurs vs Fiction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish real dinosaurs from fictional or commonly confused creatures — pterosaurs (flying reptiles) and plesiosaurs (marine reptiles) were not dinosaurs, and movie dinosaurs are not always accurate",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that pterosaurs could fly but were not dinosaurs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a flying reptile in a dinosaur book, can they tell you it's actually not a dinosaur but a different kind of prehistoric animal?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Real Dinosaurs vs Fiction. State that pterosaurs could fly but were not dinosaurs State that plesiosaurs lived in the sea but were not dinosaurs",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_02_lesson_06"
+    }
+  ],
+  "id": "Science_unit_02"
+}

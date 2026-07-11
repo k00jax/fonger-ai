@@ -1,0 +1,232 @@
+{
+  "title": "Writing Composition",
+  "objective": "Students will explore writing composition concepts including Revising and editing, Building Writing Stamina, Planning Ideas Before Writing and more.",
+  "standards": [
+    "ccss-ela:W.5.2d",
+    "ccss-ela:W.3.2",
+    "ccss-ela:W.4.2d",
+    "ccss-ela:W.5.2e",
+    "uk-nc-2013:Eng/KS1/Y2/C/1h",
+    "uk-nc-2013:Eng_LKS2_Write_Comp_2",
+    "ccss-ela:W.4.2",
+    "ccss-ela:W.3.2d",
+    "ccss-ela:W.4.1",
+    "ccss-ela:W.5.1d"
+  ],
+  "skills_tested": [
+    "writing_composition"
+  ],
+  "lessons": [
+    {
+      "title": "Revising and editing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Revising and editing!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Proof-read own writing to check for errors in spelling, grammar, and punctuation; evaluate and revise writing with teacher/peer support, re-reading to ensure meaning is clear and tense is consistent",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Re-read own writing and spot a missing full stop or capital letter",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you finishes a piece of writing, do they proofread it for spelling mistakes, missing punctuation, and errors in grammar — and make corrections before handing it in?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Revising and editing: Re-read own writing and spot a missing full stop or capital letter Identify and correct a tense inconsistency in a piece of writing",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_09_lesson_01"
+    },
+    {
+      "title": "Building Writing Stamina",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Building Writing Stamina! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write about real events and for different purposes, developing stamina for sustained writing across genres beyond narrative (e.g., recounts, letters, instructions)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write a recount of a school trip using temporal connectives (first, then, after that)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write in different styles for different purposes — for example, writing a recount of a school trip, a letter to a friend, or a set of instructions for a game?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Building Writing Stamina. Write a recount of a school trip using temporal connectives (first, then, after that) Write a simple set of instructions with numbered steps",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_09_lesson_02"
+    },
+    {
+      "title": "Planning Ideas Before Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Planning Ideas Before Writing! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plan before writing by saying aloud or noting down what will be written, writing down ideas and key words, and encapsulating ideas sentence by sentence before composing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Verbally rehearse sentences before writing them down",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before you starts a piece of writing, do they spend a few minutes planning — jotting down ideas, key words, or a rough structure — rather than jumping straight into writing the first sentence?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Planning Ideas Before Writing. Verbally rehearse sentences before writing them down Jot key words or ideas in a planning format (e.g., story map) before drafting",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_09_lesson_03"
+    },
+    {
+      "title": "Writing Poetry",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Writing Poetry! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write poetry, exploring patterns of language, rhyme and rhythm, and learning poems by heart for recitation with appropriate intonation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write a simple poem using rhyming couplets or a repeated pattern",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you tried writing a poem — playing with rhyme, rhythm, or repeating patterns — and can they recite one they've learned or written with expression?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Writing Poetry. Write a simple poem using rhyming couplets or a repeated pattern Recite a poem from memory with expression and appropriate intonation",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_09_lesson_04"
+    },
+    {
+      "title": "Basic Informational Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Basic Informational Writing! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose informative or explanatory texts that introduce a topic, use facts and definitions to develop points, and provide a concluding statement or section",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write an informative text that introduces a topic clearly and groups related information together",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write an explanatory or informative piece — like \"How Volcanoes Work\" — that introduces the topic clearly, develops it with facts and definitions, and ends with a conclusion?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Basic Informational Writing. Write an informative text that introduces a topic clearly and groups related information together Use facts, definitions, and concrete details to develop and explain points about the topic",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_09_lesson_05"
+    },
+    {
+      "title": "Structured Opinion Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Structured Opinion Writing!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose opinion pieces that introduce a topic, state a clear point of view, provide organised reasons linked with connecting words, and include a concluding statement or section",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write an opinion piece that introduces the topic, states a clear opinion, and provides at least two reasons",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write a persuasive piece — like arguing for a longer lunch break or why dogs are better pets than cats — with a clear viewpoint, organised reasons, and a conclusion?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Structured Opinion Writing: Write an opinion piece that introduces the topic, states a clear opinion, and provides at least two reasons Use linking words (because, and, also, for example) to connect the opinion to supporting reasons",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_09_lesson_06"
+    }
+  ],
+  "id": "Reading_unit_09"
+}

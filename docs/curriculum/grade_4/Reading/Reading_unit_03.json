@@ -1,0 +1,84 @@
+{
+  "title": "Speaking & Listening",
+  "objective": "Students will explore speaking & listening concepts including Identifying Reasons Behind a Speaker's Points, Paraphrasing What You Hear.",
+  "standards": [
+    "ccss-ela:SL.4.2",
+    "ccss-ela:SL.4.3"
+  ],
+  "skills_tested": [
+    "speaking_listening"
+  ],
+  "lessons": [
+    {
+      "title": "Identifying Reasons Behind a Speaker's Points",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Identifying Reasons Behind a Speaker's Points! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the reasons and evidence a speaker provides to support particular points, evaluating whether the reasoning is logical and the evidence is relevant",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Listen to a speaker's argument or presentation and list the specific reasons and evidence provided to support each main point",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you listens to someone making an argument or giving reasons for something, can they tell you whether the reasons given actually support what the person is claiming?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Identifying Reasons Behind a Speaker's Points. Listen to a speaker's argument or presentation and list the specific reasons and evidence provided to support each main point Evaluate whether the reasons a speaker gives are logical and whether the evidence cited is relevant to the claim being made",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_03_lesson_01"
+    },
+    {
+      "title": "Paraphrasing What You Hear",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Paraphrasing What You Hear. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Paraphrase portions of a text read aloud or information presented in diverse media and formats, capturing the key ideas accurately in one's own words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Listen to a passage read aloud and restate the main idea and key details in own words without looking at the original text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you listens to a short talk or watches a video clip about a topic, can they explain the main points back to you in their own words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Paraphrasing What You Hear. Listen to a passage read aloud and restate the main idea and key details in own words without looking at the original text Paraphrase information from a short video, podcast, or presentation, identifying the central message and supporting details",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_03_lesson_02"
+    }
+  ],
+  "id": "Reading_unit_03"
+}

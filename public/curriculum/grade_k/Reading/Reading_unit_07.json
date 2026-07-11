@@ -1,0 +1,197 @@
+{
+  "title": "Vocabulary",
+  "objective": "Students will explore vocabulary concepts including Discussing and Questioning New Words, Sorting & Categorising Words, Shades of Meaning and more.",
+  "standards": [
+    "ccss-ela:L.2.4a",
+    "ccss-ela:L.3.5c",
+    "ccss-ela:L.4.4a",
+    "uk-nc-2013:Eng.App2.Y1.Word.3",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_3",
+    "ccss-ela:L.2.4c",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_10",
+    "ccss-ela:L.K.5c",
+    "ccss-ela:L.1.4",
+    "ccss-ela:RI.1.4"
+  ],
+  "skills_tested": [
+    "vocabulary"
+  ],
+  "lessons": [
+    {
+      "title": "Discussing and Questioning New Words",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Discussing and Questioning New Words? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ask and answer questions about unknown words in texts; discuss word meanings and link new vocabulary to words already known",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Ask 'What does ___ mean?' when meeting unfamiliar words during reading",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you comes across a word they don't know in a book, do they try to figure out what it means from the other words around it and connect it to words they already know?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Discussing and Questioning New Words. Ask 'What does ___ mean?' when meeting unfamiliar words during reading Use context and pictures to work out what a new word might mean",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_07_lesson_01"
+    },
+    {
+      "title": "Sorting & Categorising Words",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Sorting & Categorising Words! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Sort common objects and words into categories to understand how concepts relate; demonstrate understanding of opposites (antonyms) for common verbs and adjectives",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Group words or objects by category (e.g. animals, foods, colours)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you sort a group of words into categories — for example, separating fruits from vegetables — and tell you the opposite of common words like \"hot\" or \"fast\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Sorting & Categorising Words: Group words or objects by category (e.g. animals, foods, colours) Identify and produce opposite pairs (e.g. 'big/small', 'hot/cold', 'go/stop')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_07_lesson_02"
+    },
+    {
+      "title": "Shades of Meaning",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Shades of Meaning? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish shades of meaning among verbs describing similar actions and among adjectives differing in intensity; make real-life connections between words and their use",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare similar verbs by acting them out (e.g. 'walk', 'march', 'strut', 'prance')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you notice the difference between similar words — for example, knowing that \"scorching\" is stronger than \"warm,\" or that \"trotted\" is different from \"sprinted\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Shades of Meaning: Compare similar verbs by acting them out (e.g. 'walk', 'march', 'strut', 'prance') Order adjectives by intensity (e.g. big, huge, gigantic)",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_07_lesson_03"
+    },
+    {
+      "title": "Using New Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Using New Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use words and phrases acquired through conversations, being read to, and responding to texts in own speech and writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Incorporate new vocabulary from read-alouds into conversations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you learns a new word from a book or conversation, do they try to use it themselves — in their writing or when they're talking?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Using New Vocabulary. Incorporate new vocabulary from read-alouds into conversations Attempt to use interesting or topic-specific words in own writing",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_07_lesson_04"
+    },
+    {
+      "title": "Word Parts as Clues",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Word Parts as Clues!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use knowledge of common inflections and affixes (-ed, -s, un-, -er) as clues to the meaning of unknown words; understand how the prefix un- changes meaning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Recognise that -ed signals past tense (e.g. 'jumped' = already happened)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees an unfamiliar word like \"unhelpful\" or \"jumped,\" can they use the beginning or ending of the word to work out what it means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Word Parts as Clues. Recognise that -ed signals past tense (e.g. 'jumped' = already happened) Explain how un- makes a word mean the opposite (e.g. 'unhappy' = not happy)",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_07_lesson_05"
+    }
+  ],
+  "id": "Reading_unit_07"
+}

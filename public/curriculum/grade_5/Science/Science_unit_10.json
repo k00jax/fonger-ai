@@ -1,0 +1,158 @@
+{
+  "title": "Scientific Inquiry",
+  "objective": "Students will explore scientific inquiry concepts including Controlling variables (age 11+), Repeated tests for reliability.",
+  "standards": [
+    "uk-nc-2013:KS3.Sci.WS.SA.1",
+    "uk-nc-2013:KS3.Sci.WS.VUSN.2",
+    "uk-nc-2013:KS3.Sci.WS.SA.2",
+    "uk-nc-2013:KS3.Sci.WS.SA.5",
+    "uk-nc-2013:KS3.Sci.WS.VUSN.1"
+  ],
+  "skills_tested": [
+    "scientific_inquiry",
+    "space_exploration"
+  ],
+  "lessons": [
+    {
+      "title": "Controlling variables (age 11+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Controlling variables (age 11+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form a testable scientific hypothesis linking an independent variable to a predicted outcome, plan a full investigation identifying independent, dependent, and control variables, sample size, and risk assessment",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Writes a hypothesis in the form 'I predict that [IV] will affect [DV] because...' supported by scientific reasoning",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wanted to investigate whether temperature affects how quickly sugar dissolves, could they write a clear prediction, state exactly what they would change and measure, list three things to keep the same, and identify any safety steps?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Controlling variables (age 11+). Writes a hypothesis in the form 'I predict that [IV] will affect [DV] because...' supported by scientific reasoning Identifies and labels the independent variable, dependent variable, and at least three control variables",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_10_lesson_01"
+    },
+    {
+      "title": "Repeated tests for reliability",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Repeated tests for reliability. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between precision (consistency of repeated readings) and accuracy (closeness to true value), use significant figures and standard form correctly, and choose and use appropriate measuring instruments to minimise uncertainty",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains the distinction between precision and accuracy with examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you weighed the same stone five times and got very similar answers but they were all slightly too high, could they explain the difference between being precise and being accurate — and why having lots of repeats doesn’t always fix the problem?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Repeated tests for reliability: Explains the distinction between precision and accuracy with examples Rounds measurements to an appropriate number of significant figures",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_10_lesson_02"
+    },
+    {
+      "title": "Finding Exoplanets",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Finding Exoplanets? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how astronomers detect planets around other stars using transit photometry (dip in starlight as a planet crosses) and radial velocity (Doppler wobble of the star), explain the habitable zone concept, and discuss what atmospheric biosignatures — such as oxygen, methane, and water vapour detected together — would suggest about a planet",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explains transit photometry: the small, periodic dip in a star's brightness when a planet passes in front of it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard that a planet the size of Earth had been found in the habitable zone of a nearby star, could they explain how astronomers detected it, what the habitable zone means, and what they'd look for in its atmosphere to decide if life might exist there?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Finding Exoplanets. Explains transit photometry: the small, periodic dip in a star's brightness when a planet passes in front of it Explains the habitable zone as the range of distances from a star where liquid water could exist on a planet's surface",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_10_lesson_03"
+    },
+    {
+      "title": "Observing with Light Waves",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Observing with Light Waves!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how the electromagnetic spectrum is the primary tool of modern astronomy — different wavelengths (radio, infrared, visible, ultraviolet, X-ray, gamma-ray) reveal different phenomena, why some telescopes must be in space, and what specific discoveries each wavelength range has enabled (e.g. CMB in microwave, black hole jets in X-ray, cold gas clouds in radio)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Lists at least four regions of the EM spectrum and gives a specific astronomical object or phenomenon observed in each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was told that we can't see most of the universe with our eyes, could they explain why — and describe two types of telescope that detect something other than visible light, naming what they've helped us discover?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Observing with Light Waves: Lists at least four regions of the EM spectrum and gives a specific astronomical object or phenomenon observed in each Explains why some telescopes must be placed in space (Earth's atmosphere blocks X-ray, gamma-ray, and much infrared radiation)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_10_lesson_04"
+    }
+  ],
+  "id": "Science_unit_10"
+}

@@ -1,0 +1,156 @@
+{
+  "title": "Empathy & Social Awareness",
+  "objective": "Students will explore empathy & social awareness concepts including Seeing Someone Else's Point of View, Vocabulary: social awareness, Different Lives and Experiences and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-LO-P2-8",
+    "ib-pyp-pspe:PSPE-ID-CU-P2-2",
+    "ib-pyp-pspe:PSPE.INT.P2.CU.2",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-1"
+  ],
+  "skills_tested": [
+    "empathy_social_awareness"
+  ],
+  "lessons": [
+    {
+      "title": "Seeing Someone Else's Point of View",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Seeing Someone Else's Point of View. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Practise perspective-taking by imagining how someone else might feel in a given situation — using prompts like 'How would you feel if that happened to you?' and applying this when reading stories or during real interactions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe how a character in a story feels and give reasons based on the plot",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When reading a story together, can you pause and explain how a character might be feeling and why — putting themselves in the character's shoes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Seeing Someone Else's Point of View. Describe how a character in a story feels and give reasons based on the plot Predict how another child would feel in a described scenario",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_02_lesson_01"
+    },
+    {
+      "title": "Vocabulary: social awareness",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Vocabulary: social awareness!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of social awareness — including stereotype, prejudice, discrimination, equality, equity, bias, compassion, and fairness — and understand what distinguishes these closely related concepts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what 'stereotype' and 'prejudice' mean and give an example of each from everyday life",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hears a classmate say something that groups all people of a certain background together, can they explain why that's a stereotype and how it differs from a fact about an individual person?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Vocabulary: social awareness. Explain what 'stereotype' and 'prejudice' mean and give an example of each from everyday life Use words like 'equality', 'equity', and 'bias' correctly when discussing a scenario — e.g. 'That's not equity because not everyone got what they needed'",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_02_lesson_02"
+    },
+    {
+      "title": "Different Lives and Experiences",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Different Lives and Experiences? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that people's lives and experiences can be very different from their own — that some children face challenges like disability, poverty, family difficulties, or being new to a country — and develop compassion rather than judgement",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least two ways another child's life experience might differ significantly from their own",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a new child joins you's class who doesn't speak much English or whose family situation is very different, does you show understanding and try to include them rather than avoiding them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Different Lives and Experiences. Describe at least two ways another child's life experience might differ significantly from their own Explain why it's important not to judge someone based on their circumstances",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_02_lesson_03"
+    },
+    {
+      "title": "Fairness, Equality and Equity",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fairness, Equality and Equity!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand what fairness means and why it matters — recognising that fair doesn't always mean equal (everyone getting the same) but can mean equitable (everyone getting what they need), and applying this understanding in group situations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain the difference between treating everyone the same and treating everyone fairly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a child with a broken arm gets extra time to finish a task at school, can you explain why that's fair even though other children don't get extra time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fairness, Equality and Equity: Explain the difference between treating everyone the same and treating everyone fairly Give an example of a situation where equal treatment wouldn't be fair",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_02_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_02"
+}

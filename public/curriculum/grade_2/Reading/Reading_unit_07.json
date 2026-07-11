@@ -1,0 +1,89 @@
+{
+  "title": "Vocabulary",
+  "objective": "Students will explore vocabulary concepts including Formal and Informal English, Word Families and Root Words.",
+  "standards": [
+    "uk-nc-2013:Eng.App2.Y3.Word.3",
+    "ccss-ela:L.3.4c",
+    "ccss-ela:L.2.3",
+    "ccss-ela:L.3.3b",
+    "ccss-ela:L.2.3a",
+    "ccss-ela:L.4.3c",
+    "ccss-ela:SL.4.6"
+  ],
+  "skills_tested": [
+    "vocabulary"
+  ],
+  "lessons": [
+    {
+      "title": "Formal and Informal English",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Formal and Informal English!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and compare formal and informal uses of English, understanding that language choices vary based on audience, purpose and context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify whether a spoken or written example uses formal or informal language (e.g., 'Dear Sir' vs 'Hey mate')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand the difference between how they'd write a text to a friend versus a formal letter — and can they explain why the language would be different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Formal and Informal English. Identify whether a spoken or written example uses formal or informal language (e.g., 'Dear Sir' vs 'Hey mate') Rewrite an informal sentence in a more formal way (e.g., change 'Can I have some?' to 'May I please have some?')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_07_lesson_01"
+    },
+    {
+      "title": "Word Families and Root Words",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Word Families and Root Words!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore word families based on common root words, understanding how words are related in form and meaning through shared roots, prefixes and suffixes (e.g., solve → solution, solver, dissolve, insoluble)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Generate at least 4 words in a word family from a given root (e.g., from 'play': player, playful, replay, playground)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows the word \"cycle,\" can they work out what related words like \"recycle,\" \"bicycle,\" or \"cyclist\" mean by thinking about the shared root?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Word Families and Root Words. Generate at least 4 words in a word family from a given root (e.g., from 'play': player, playful, replay, playground) Explain how members of a word family are connected in meaning (e.g., 'solve, solution, dissolve all relate to finding answers or breaking apart')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_07_lesson_02"
+    }
+  ],
+  "id": "Reading_unit_07"
+}

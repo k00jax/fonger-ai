@@ -1,0 +1,302 @@
+{
+  "title": "Writing Composition",
+  "objective": "Students will explore writing composition concepts including Saying Sentences Before Writing Them, Writing Process Vocabulary, Simple Stories with Beginning and Ending and more.",
+  "standards": [
+    "ccss-ela:W.1.8",
+    "ccss-ela:RI.1.8",
+    "uk-nc-2013:Eng_Y1_WC_04",
+    "ccss-ela:W.K.6",
+    "ccss-ela:W.2.6",
+    "uk-nc-2013:Eng_Y1_WC_06",
+    "ccss-ela:W.1.7",
+    "uk-nc-2013:Eng.UKS2.Write.Comp.4",
+    "uk-nc-2013:Eng/KS1/Y2/WC/4",
+    "ccss-ela:W.3.6"
+  ],
+  "skills_tested": [
+    "writing_composition"
+  ],
+  "lessons": [
+    {
+      "title": "Saying Sentences Before Writing Them",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Saying Sentences Before Writing Them! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Say out loud what is going to be written; compose sentences orally before writing them down as preparation for independent writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Say a complete sentence aloud before attempting to write it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before you starts writing a sentence, do they say it out loud first — testing how it sounds — before putting pen to paper?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Saying Sentences Before Writing Them: Say a complete sentence aloud before attempting to write it Rehearse a sentence orally more than once to hold it in memory",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_01"
+    },
+    {
+      "title": "Writing Process Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Writing Process Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of the writing process — compose, plan, draft, revise, edit, proofread, genre, audience, purpose, narrative, recount, instruction, paragraph, sequence, and detail — and understand that these words describe distinct steps and decisions that all writers make, not just tasks to tick off",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use 'compose', 'revise', and 'edit' correctly when describing the stages of writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you to explain what they're doing when they write a story at school, could they walk you through each step using words like 'plan', 'draft', and 'revise' — showing they understand it's a process, not just one sitting?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Writing Process Vocabulary. Use 'compose', 'revise', and 'edit' correctly when describing the stages of writing Explain who the 'audience' is for a piece of writing and how that changes what they write",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_02"
+    },
+    {
+      "title": "Simple Stories with Beginning and Ending",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Simple Stories with Beginning and Ending!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write simple narratives by sequencing sentences to describe events in order; narrate a single event or linked events with a beginning, middle, and ending or reaction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write a short story with at least three sequenced sentences",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write a short story about something that happened — with a clear beginning, middle, and end — so that someone who wasn't there could follow what happened and in what order?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Simple Stories with Beginning and Ending. Write a short story with at least three sequenced sentences Use time words like 'first', 'then', 'next' to order events",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_03"
+    },
+    {
+      "title": "Responding to Writing Feedback",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Responding to Writing Feedback!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "With teacher guidance, re-read own writing aloud to check it sounds right; listen and respond to questions and suggestions from teacher or peers to add detail, clarify meaning, and strengthen writing — this is the scaffolded beginning of writing self-evaluation, not an independent skill",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Reread own writing and spot a missing word or unclear sentence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you's teacher asks them to read their own writing aloud and then asks \"does that bit make sense?\", can you listen to the feedback and make a simple change to improve it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Responding to Writing Feedback. Reread own writing and spot a missing word or unclear sentence Add a detail in response to a question (e.g. 'Can you tell me more about...?')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_04"
+    },
+    {
+      "title": "Writing to inform",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Writing to inform!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose informative or explanatory texts using drawing, dictating, or writing that name a topic and supply some information about it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write or dictate two or three facts about a familiar topic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write a few sentences explaining something they know about — like how butterflies grow or how to make a sandwich — naming the topic and sharing some facts?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Writing to inform: Write or dictate two or three facts about a familiar topic Label diagrams or drawings with informative details",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_05"
+    },
+    {
+      "title": "Writing opinions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Writing opinions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose opinion pieces using drawing, dictating, or writing that name a topic or book and state a preference or opinion about it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State an opinion clearly (e.g. 'My favourite animal is a dog because...')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write a sentence or two giving their opinion about something — like their favourite book or food — and explain why they feel that way?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Writing opinions. State an opinion clearly (e.g. 'My favourite animal is a dog because...') Give at least one reason for an opinion",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_06"
+    },
+    {
+      "title": "Shared Research Projects",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Shared Research Projects. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Participate in shared research and writing projects; recall information from experiences or gather information from sources to answer a question",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Contribute ideas and information to a class writing project",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is given a writing project that involves finding out about something — like an animal or a place — can they look up information and use what they find to write about the topic?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Shared Research Projects. Contribute ideas and information to a class writing project Draw or write facts learned from personal experience about a topic",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_07"
+    },
+    {
+      "title": "Sharing and Publishing Your Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Sharing and Publishing Your Writing!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read own writing aloud clearly enough to be heard by peers and the teacher; use digital tools to produce and publish writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read own sentences aloud with clear voice and appropriate expression",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read their own writing aloud to the class clearly enough for everyone to hear and follow along — and have they ever typed or published a piece of writing using a computer or tablet?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Sharing and Publishing Your Writing. Read own sentences aloud with clear voice and appropriate expression Share a piece of writing by reading it to the class",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_08_lesson_08"
+    }
+  ],
+  "id": "Reading_unit_08"
+}

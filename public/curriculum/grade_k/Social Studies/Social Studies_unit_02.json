@@ -1,0 +1,256 @@
+{
+  "title": "Ancient Greece & Rome",
+  "objective": "Students will explore ancient greece & rome concepts including Ancient Greece and Rome on the Map, Roman soldiers & builders, Romulus & Remus and more.",
+  "standards": [],
+  "skills_tested": [
+    "ancient_greece_rome"
+  ],
+  "lessons": [
+    {
+      "title": "Ancient Greece and Rome on the Map",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Ancient Greece and Rome on the Map!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Locate Greece and Italy on a map and know they are countries around the Mediterranean Sea where two great ancient civilisations — Ancient Greece and Ancient Rome — grew up thousands of years ago, long after the ancient Egyptians but long before our time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Point to Greece and Italy on a world map or globe",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you showed you a map, could they point to where Ancient Greece and Ancient Rome were and tell you those places are near the Mediterranean Sea?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ancient Greece and Rome on the Map: Point to Greece and Italy on a world map or globe Say that Ancient Greece and Ancient Rome were around the Mediterranean Sea",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_02_lesson_01"
+    },
+    {
+      "title": "Roman soldiers & builders",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Roman soldiers & builders! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that Roman soldiers marched across a huge empire building straight roads and strong walls, and that some Roman roads, walls, and buildings can still be seen today — showing that the Romans were powerful builders whose work has lasted thousands of years",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe Roman soldiers as part of a powerful army that marched across an empire",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If your family drove along a very straight old road or visited Roman ruins, could you tell you that the Romans built things so well they've lasted thousands of years?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Roman soldiers & builders. Describe Roman soldiers as part of a powerful army that marched across an empire Name something the Romans built that we can still see today such as roads or walls",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_02_lesson_02"
+    },
+    {
+      "title": "Romulus & Remus",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Romulus & Remus. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the Roman founding myth of Romulus and Remus — twin brothers abandoned as babies, raised by a she-wolf, who grew up to found the city of Rome — and understand that this is a legend the Romans told about how their city began",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Retell the story of Romulus and Remus being raised by a wolf",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a statue of a wolf feeding two babies, could they tell you it's the story of Romulus and Remus and how the Romans believed their city began?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Romulus & Remus. Retell the story of Romulus and Remus being raised by a wolf Say that Romulus founded the city of Rome",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_02_lesson_03"
+    },
+    {
+      "title": "Greek gods & Mount Olympus",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Greek gods & Mount Olympus! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the ancient Greeks believed in many gods and goddesses who lived on Mount Olympus — including Zeus (king of the gods, thunder), Athena (wisdom), Poseidon (the sea), Hermes (messages), and Aphrodite (love) — and that each god had special powers and a role in the world",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least three Greek gods and say what each one was god of",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a picture of Zeus with a thunderbolt or Poseidon with a trident, could they tell you who they are and what they were the god of?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Greek gods & Mount Olympus. Name at least three Greek gods and say what each one was god of Say that the Greek gods were believed to live on Mount Olympus",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_02_lesson_04"
+    },
+    {
+      "title": "Ancient life vs today",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Ancient life vs today! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare how children in ancient Greece or Rome lived with how children live today — including differences in school (writing on wax tablets, learning to fight in Sparta), food (olives, bread, grapes), games, and clothing (tunics and sandals) — and understand these civilisations existed thousands of years ago",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name two ways a child's life in ancient Greece or Rome was different from today",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you what it might have been like to be a child in ancient Greece or Rome — what they wore, ate, or did at school — and how it was different from today?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ancient life vs today. Name two ways a child's life in ancient Greece or Rome was different from today Describe what ancient Greek or Roman children might have eaten or worn",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_02_lesson_05"
+    },
+    {
+      "title": "Greek Myths and Heroes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Greek Myths and Heroes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Retell at least one Greek myth involving a hero and a monster — such as Theseus and the Minotaur in the labyrinth, Heracles (Hercules) and the lion, or Perseus and Medusa — and understand that these were stories ancient Greeks told to explain the world and teach lessons",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Retell a Greek myth naming the hero, the monster, and what happened",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you the story of a Greek hero like Theseus fighting the Minotaur or Heracles fighting the lion, and explain why the Greeks told these stories?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Greek Myths and Heroes: Retell a Greek myth naming the hero, the monster, and what happened Explain that myths were stories the ancient Greeks told to make sense of the world",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_02_lesson_06"
+    },
+    {
+      "title": "The first Olympics",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The first Olympics? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the Olympic Games began in ancient Greece at a place called Olympia as athletic competitions held in honour of Zeus, and that the modern Olympic Games we watch today were inspired by those ancient games",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Say that the Olympic Games started in ancient Greece at Olympia",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you watches the Olympics on TV, can they tell you that the Games originally started thousands of years ago in ancient Greece?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The first Olympics. Say that the Olympic Games started in ancient Greece at Olympia Name at least one sport or event from the ancient Olympics such as running or wrestling",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_02_lesson_07"
+    }
+  ],
+  "id": "Social Studies_unit_02"
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Ecosystems & Habitats",
+  "objective": "Students will explore ecosystems & habitats concepts including Animal Life Cycles, Plant & Animal Reproduction.",
+  "standards": [
+    "uk-nc-2013:Y5.Sci.LTH.1",
+    "uk-nc-2013:Y5.Sci.LTH.2"
+  ],
+  "skills_tested": [
+    "ecosystems_habitats"
+  ],
+  "lessons": [
+    {
+      "title": "Animal Life Cycles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Animal Life Cycles! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe differences in the life cycles of mammals, amphibians, insects, and birds, comparing metamorphosis with direct development",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the life cycle of a mammal, amphibian, insect, and bird with key stages for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a butterfly's life cycle (egg, caterpillar, chrysalis, butterfly) is completely different from how a puppy grows into a dog?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Animal Life Cycles: Describe the life cycle of a mammal, amphibian, insect, and bird with key stages for each Compare metamorphosis (complete change of form) with direct development (gradual growth)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_04_lesson_01"
+    },
+    {
+      "title": "Plant & Animal Reproduction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Plant & Animal Reproduction? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the life process of reproduction in some plants and animals, including sexual and asexual reproduction in plants",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe sexual reproduction in plants: pollination, fertilisation, seed production",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain different ways plants reproduce — not just from seeds but also from cuttings or runners — and how animals reproduce by having babies or laying eggs?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Plant & Animal Reproduction. Describe sexual reproduction in plants: pollination, fertilisation, seed production Give examples of asexual reproduction in plants: runners (strawberries), bulbs, cuttings",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_04_lesson_02"
+    }
+  ],
+  "id": "Science_unit_04"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Addition & Subtraction",
+  "objective": "Students will explore addition & subtraction concepts including Adding and subtracting (age 10+), Addition and subtraction strategies (age 10+), Positive and Negative Numbers.",
+  "standards": [
+    "ccss-math:6.NS.5",
+    "uk-nc-2013:KS3.Maths.Num.2",
+    "ccss-math:7.NS.1c",
+    "ccss-math:7.NS.1",
+    "ccss-math:7.NS.1b",
+    "ccss-math:7.NS.1a",
+    "ccss-math:6.NS.6a",
+    "ccss-math:6.NS.6",
+    "ccss-math:7.NS.1d"
+  ],
+  "skills_tested": [
+    "addition_subtraction"
+  ],
+  "lessons": [
+    {
+      "title": "Adding and subtracting (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Adding and subtracting (age 10+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve addition and subtraction multi-step problems in contexts, deciding which operations and methods to use and why, with numbers up to 10,000,000 and decimals",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve a two-step word problem involving addition and subtraction of numbers beyond 1,000,000",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a complicated word problem involving large numbers or decimals — like calculating the total cost of several items — can they plan and carry out all the steps correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding and subtracting (age 10+): Solve a two-step word problem involving addition and subtraction of numbers beyond 1,000,000 Choose between mental, written, and calculator methods for a multi-step problem and justify the choice",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_01_lesson_01"
+    },
+    {
+      "title": "Addition and subtraction strategies (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Addition and subtraction strategies (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract decimals to hundredths using strategies based on place value, properties of operations, and the relationship between addition and subtraction; relate strategies to written methods and explain reasoning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Correctly compute 3.45 + 2.78 and explain regrouping across decimal places",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you add or subtract decimal amounts like '4.73 + 2.68' or '10.00 − 3.47', lining up the decimal points and working through the columns correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Addition and subtraction strategies (age 10+). Correctly compute 3.45 + 2.78 and explain regrouping across decimal places Use a number line or base-ten blocks to model 5.03 − 2.67",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_01_lesson_02"
+    },
+    {
+      "title": "Positive and Negative Numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Positive and Negative Numbers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand positive and negative numbers as describing quantities with opposite directions or values; use them in context such as temperature, floors in a building, and bank balances",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Represent positive and negative numbers on a number line and explain what zero means in context",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees temperatures like −3°C and +5°C on a weather forecast, can they figure out how much warmer one day is than the other — even when the answer crosses zero?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Positive and Negative Numbers. Represent positive and negative numbers on a number line and explain what zero means in context Add a positive or negative number to any integer using number line reasoning",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_01_lesson_03"
+    }
+  ],
+  "id": "Math_unit_01"
+}

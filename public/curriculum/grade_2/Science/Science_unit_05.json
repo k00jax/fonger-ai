@@ -1,0 +1,195 @@
+{
+  "title": "Forces & Motion",
+  "objective": "Students will explore forces & motion concepts including Drawing Force Diagrams, Friction & Surfaces, Contact & Non-Contact Forces and more.",
+  "standards": [
+    "uk-nc-2013:Y3.Sci.FM.5",
+    "ngss-k5:3-PS2-4",
+    "uk-nc-2013:Y3.Sci.FM.6",
+    "ngss-k5:3-PS2-3",
+    "uk-nc-2013:Y3.Sci.FM.3",
+    "uk-nc-2013:Y3.Sci.FM.4",
+    "uk-nc-2013:Y3.Sci.FM.1",
+    "uk-nc-2013:Y3.Sci.FM.2"
+  ],
+  "skills_tested": [
+    "forces_motion"
+  ],
+  "lessons": [
+    {
+      "title": "Drawing Force Diagrams",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Drawing Force Diagrams? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw and interpret force diagrams showing forces as labelled arrows — where the arrow's length represents the force's magnitude and its direction shows which way the force acts; show multiple forces on one object; identify from the diagram whether forces are balanced (equal arrows in opposite directions, no resultant) or unbalanced (arrows of different sizes, producing a resultant); represent the resultant with a single arrow",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Draw a force diagram with labelled arrows showing direction and relative size for at least two forces acting on an object",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked to draw a diagram of all the forces acting on a stationary book on a table, can they draw two arrows — one pointing down for gravity and one pointing up from the table — and explain why, if they're balanced, the book doesn't move?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Drawing Force Diagrams: Draw a force diagram with labelled arrows showing direction and relative size for at least two forces acting on an object Use their diagram to explain whether forces are balanced or unbalanced and what will happen to the object",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_05_lesson_01"
+    },
+    {
+      "title": "Friction & Surfaces",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Friction & Surfaces! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare how things move on different surfaces, noticing that some surfaces create more friction than others",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Observe and compare how the same object moves on at least three different surfaces",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a toy car rolls further on a smooth wooden floor than on carpet?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Friction & Surfaces. Observe and compare how the same object moves on at least three different surfaces Describe that rough surfaces slow objects down more than smooth surfaces",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_05_lesson_02"
+    },
+    {
+      "title": "Contact & Non-Contact Forces",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Contact & Non-Contact Forces! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice that some forces need contact between two objects (contact forces) while magnetic forces can act at a distance (non-contact forces)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define contact forces as those needing objects to touch (e.g. push, pull, friction)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why you have to touch a ball to kick it, but a magnet can pull a paperclip without touching it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Contact & Non-Contact Forces: Define contact forces as those needing objects to touch (e.g. push, pull, friction) Define non-contact forces as those acting at a distance (e.g. magnetism)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_05_lesson_03"
+    },
+    {
+      "title": "Magnetic Materials",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Magnetic Materials! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe how magnets attract or repel each other and attract some materials and not others",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Demonstrate that magnets attract some materials (iron, steel, nickel) but not others (wood, plastic, copper)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you test a magnet on different objects around the house and predict which ones will stick?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Magnetic Materials. Demonstrate that magnets attract some materials (iron, steel, nickel) but not others (wood, plastic, copper) Show that two magnets can either attract (pull together) or repel (push apart)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_05_lesson_04"
+    },
+    {
+      "title": "Magnetic Poles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Magnetic Poles. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe magnets as having two poles (north and south) and predict whether two magnets will attract or repel based on which poles face each other",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify and label the north and south poles of a magnet",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you hold two magnets together and explain why they sometimes snap together and sometimes push apart, based on which ends are facing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Magnetic Poles: Identify and label the north and south poles of a magnet State the rule: like poles repel, opposite poles attract",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_05_lesson_05"
+    }
+  ],
+  "id": "Science_unit_05"
+}

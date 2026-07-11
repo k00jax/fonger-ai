@@ -1,0 +1,291 @@
+{
+  "title": "Mathematical Thinking",
+  "objective": "Students will explore mathematical thinking concepts including Multi-Step Problem Solving, Understanding fractions (age 7+), Justifying mathematical reasoning and more.",
+  "standards": [],
+  "skills_tested": [
+    "mathematical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Multi-Step Problem Solving",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Multi-Step Problem Solving! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "With teacher support, make sense of multi-step problems involving larger numbers or mixed operations by breaking them into parts, choosing strategies, and checking answers for reasonableness — children at this stage are developing the habit with guidance; independent strategy evaluation comes later",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Break a two-step word problem within 1000 into sub-problems and solve each part",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you gets an answer that seems way too big or too small for a maths problem, do they notice and go back to check, even without you pointing it out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multi-Step Problem Solving. Break a two-step word problem within 1000 into sub-problems and solve each part Estimate an answer before calculating to set a reasonableness benchmark",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_01"
+    },
+    {
+      "title": "Understanding fractions (age 7+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Understanding fractions (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Communicate with mathematical precision: use correct place-value and fraction vocabulary, specify units in measurement answers, and use notation accurately",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Consistently specify units in measurement answers (e.g. '35 cm' not '35')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you gives a maths answer involving measurements or fractions, do they include the correct units — like \"3½ metres\" or \"2.5 kg\" — and use the right symbols throughout?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Understanding fractions (age 7+). Consistently specify units in measurement answers (e.g. '35 cm' not '35') Use fraction vocabulary precisely (numerator, denominator, equivalent)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_02"
+    },
+    {
+      "title": "Justifying mathematical reasoning",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Justifying mathematical reasoning! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct and follow multi-step mathematical arguments; identify errors in reasoning and explain why a method works or does not work",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain step by step why a columnar addition method gives the correct answer",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hears another child's explanation for how they solved a maths problem, can you say whether the reasoning makes sense — and if not, point out exactly where the logic goes wrong?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Justifying mathematical reasoning. Explain step by step why a columnar addition method gives the correct answer Find and explain an error in a worked example (e.g. incorrect regrouping)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_03"
+    },
+    {
+      "title": "Working with money",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Working with money!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Model real-world problems involving measurement, money, and time by choosing appropriate representations and interpreting results in context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Choose whether to use a bar model, number line, or equation for a measurement problem",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you solves a real-life maths problem — like calculating how much fabric is needed for a project — can they choose the right representation (a diagram, a table, an equation) and explain what the answer means in the real situation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Working with money. Choose whether to use a bar model, number line, or equation for a measurement problem Model a multi-step money problem with equations and interpret the final answer as change or total cost",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_04"
+    },
+    {
+      "title": "Understanding fractions",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Understanding fractions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Move fluently between real-world situations, diagrams, and symbolic equations involving three-digit numbers and fractions, explaining what each part represents",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write an equation with three-digit numbers to match a measurement or money word problem",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you works through a maths problem involving fractions or three-digit numbers, can they switch between drawing a diagram, using a number line, and writing an equation — and explain what each one shows?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding fractions: Write an equation with three-digit numbers to match a measurement or money word problem Draw a bar model to represent a fraction problem and use it to solve",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_05"
+    },
+    {
+      "title": "Choosing the right strategy",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Choosing the right strategy!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Select and use appropriate tools and representations strategically, including choosing between mental methods, jottings, formal algorithms, and calculators for arithmetic with multi-digit numbers, decimals, and fractions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Choose a mental method for 345 + 200 but a written method for 345 + 278",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you faces a maths problem, do they think about which method suits it best — like doing easy ones in their head, using a written method for bigger calculations, or sketching a diagram for geometry?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Choosing the right strategy: Choose a mental method for 345 + 200 but a written method for 345 + 278 Select a ruler vs a metre stick based on the object being measured",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_06"
+    },
+    {
+      "title": "Shape patterns (age 7+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Shape patterns (age 7+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Look for and use mathematical structure: apply place-value patterns to three-digit operations, use multiplication/division relationships, and exploit shape properties to classify",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use the structure of place value to explain why adding hundreds only changes the hundreds digit",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is multiplying or working with larger numbers, do they use what they know about place value or number relationships to simplify the calculation — like breaking 24 × 3 into 20 × 3 + 4 × 3?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Shape patterns (age 7+). Use the structure of place value to explain why adding hundreds only changes the hundreds digit Use commutativity and the relationship between multiplication and division to derive unknown facts",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_07"
+    },
+    {
+      "title": "Extending Table Patterns",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Extending Table Patterns!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use repeated reasoning to generalise: extend multiplication table patterns, derive unknown facts from known ones, and describe rules for sequences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Notice that all multiples of 4 are even and use this to check answers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is learning their times tables, do they use known facts to figure out ones they're not sure of — for example, using 5 × 6 = 30 to work out that 6 × 6 = 36?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Extending Table Patterns. Notice that all multiples of 4 are even and use this to check answers Derive 8 × 7 from 8 × 5 + 8 × 2 by spotting the pattern",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_05_lesson_08"
+    }
+  ],
+  "id": "Math_unit_05"
+}

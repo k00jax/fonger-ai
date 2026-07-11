@@ -1,0 +1,120 @@
+{
+  "title": "Dinosaurs & Paleontology",
+  "objective": "Students will explore dinosaurs & paleontology concepts including Fossils as Evidence.",
+  "standards": [
+    "ngss-k5:3-LS4-1",
+    "uk-nc-2013:Y6.Sci.EI.1"
+  ],
+  "skills_tested": [
+    "dinosaurs_paleontology",
+    "earth's_systems"
+  ],
+  "lessons": [
+    {
+      "title": "Fossils as Evidence",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fossils as Evidence. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse and interpret data from fossils to provide evidence of organisms and environments that existed long ago",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that fossils are preserved remains or traces of organisms that lived long ago",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a fossil of a fish in a rock on a hillside, can they explain that the area must have been underwater millions of years ago?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fossils as Evidence: Explain that fossils are preserved remains or traces of organisms that lived long ago Use fossil evidence to make inferences about past organisms and their environments",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_01_lesson_01"
+    },
+    {
+      "title": "Weather vs climate",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Weather vs climate!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Obtain and combine information to describe climates in different regions of the world, distinguishing between weather and climate",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define weather as day-to-day conditions and climate as the long-term pattern of weather in an area",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the difference between weather and climate, and describe why the Arctic is always cold while tropical areas are always warm?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Weather vs climate: Define weather as day-to-day conditions and climate as the long-term pattern of weather in an area Describe at least three different climate types (tropical, temperate, polar, desert) with examples",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_01_lesson_02"
+    },
+    {
+      "title": "Seasonal changes (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Seasonal changes (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent data in tables and graphical displays to describe typical weather conditions expected during a particular season",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Collect and organise weather data in a table (temperature, precipitation, cloud cover)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you collect weather data over several weeks, put it in a chart, and use it to describe what weather is typical for that time of year?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Seasonal changes (age 8+). Collect and organise weather data in a table (temperature, precipitation, cloud cover) Create a graphical display (bar chart, pictogram) showing weather patterns for a season",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_01_lesson_03"
+    }
+  ],
+  "id": "Science_unit_01"
+}

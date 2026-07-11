@@ -1,0 +1,46 @@
+{
+  "title": "English Thinking",
+  "objective": "Students will explore english thinking concepts including Monitoring Comprehension.",
+  "standards": [],
+  "skills_tested": [
+    "english_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Monitoring Comprehension",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "english_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Monitoring Comprehension!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice the difference between decoding words and actually understanding them — recognise when you've read the words but not grasped the meaning, and do something about it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: comprehension monitoring research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you reads a paragraph or listens to an explanation, do they notice when they haven't really understood it — rather than just carrying on as if they had?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Monitoring Comprehension. comprehension monitoring research Metacognitive Monitoring in Reading Comprehension (MDPI 2024)",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_01_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_01"
+}

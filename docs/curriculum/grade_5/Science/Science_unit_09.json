@@ -1,0 +1,722 @@
+{
+  "title": "Organisms & Life Processes",
+  "objective": "Students will explore organisms & life processes concepts including Cells Under the Microscope, Evolution vocabulary, Diet, Exercise & Lifestyle and more.",
+  "standards": [
+    "uk-nc-2013:KS3.Sci.WS.SA.4",
+    "ngss-ms:MS-LS1-1",
+    "ngss-k5:5-PS3-1",
+    "uk-nc-2013:KS3.Sci.Bio.Cells.2",
+    "uk-nc-2013:Y6.Sci.A.3",
+    "ngss-ms:MS-LS1-7",
+    "ngss-k5:5-LS1-1",
+    "uk-nc-2013:KS3.Sci.Bio.Cells.5",
+    "uk-nc-2013:KS3.Sci.Bio.Nutrition.2",
+    "uk-nc-2013:KS3.Sci.Bio.Cells.4"
+  ],
+  "skills_tested": [
+    "organisms_life_processes"
+  ],
+  "lessons": [
+    {
+      "title": "Cells Under the Microscope",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Cells Under the Microscope. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that all living organisms are made of cells and use a light microscope to observe, interpret, and record cell structure",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. States that all living things are made of cells",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you prepared a slide of onion skin and looked at it through a school microscope, could they identify what they were seeing and explain that all living things are made of these tiny units?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Cells Under the Microscope. States that all living things are made of cells Prepares or examines a slide of cells (e.g. onion skin, cheek cells) under a microscope",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_01"
+    },
+    {
+      "title": "Evolution vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Evolution vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use technical vocabulary for evolution and natural selection — adaptation, evolution, natural selection, extinct, extinction, fossil record, species, common ancestor, mutation, variation — and explain the mechanism of natural selection using these terms in the correct sequence",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use 'adaptation' correctly to describe a feature that helps an organism survive in its environment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain in their own words why giraffes have long necks — using words like 'adaptation' or 'natural selection' rather than just 'so they can reach leaves'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Evolution vocabulary: Use 'adaptation' correctly to describe a feature that helps an organism survive in its environment Explain natural selection using 'variation', 'selection pressure', and 'reproduction' correctly in sequence",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_02"
+    },
+    {
+      "title": "Diet, Exercise & Lifestyle",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Diet, Exercise & Lifestyle!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise the impact of diet, exercise, drugs, and lifestyle on the way human bodies function",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe how a balanced diet provides energy and nutrients the body needs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why eating well and exercising regularly helps the body stay healthy, and why drugs and smoking are harmful?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Diet, Exercise & Lifestyle. Describe how a balanced diet provides energy and nutrients the body needs Explain the positive effects of regular exercise on the heart, muscles, and mental health",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_03"
+    },
+    {
+      "title": "Parts of Plant and Animal Cells",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Parts of Plant and Animal Cells. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the functions of the main components of plant and animal cells: cell wall, cell membrane, cytoplasm, nucleus, vacuole, mitochondria, ribosomes, and chloroplasts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Names the main organelles in plant and animal cells",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was shown a diagram of a plant cell, could they point to parts like the nucleus, chloroplasts, and cell wall and explain in plain words what each one does?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Parts of Plant and Animal Cells. Names the main organelles in plant and animal cells Explains the function of each organelle in their own words",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_04"
+    },
+    {
+      "title": "The Circulatory System",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The Circulatory System? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and name the main parts of the human circulatory system and describe the functions of the heart, blood vessels, and blood",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the main components: heart, arteries, veins, capillaries, blood",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what the heart does, why we have blood vessels throughout the body, and what blood actually carries?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Circulatory System. Name the main components: heart, arteries, veins, capillaries, blood Describe the heart as a pump that pushes blood around the body in a continuous loop",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_05"
+    },
+    {
+      "title": "Photosynthesis",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Photosynthesis? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain photosynthesis as the process by which plants use light energy to convert carbon dioxide and water into glucose and oxygen, and describe how mineral nutrients are absorbed through roots",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Writes and explains the word equation for photosynthesis",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked why plants don't need to eat food like animals do, could they explain how plants make their own food using sunlight, water, and carbon dioxide — and write the equation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Photosynthesis. Writes and explains the word equation for photosynthesis Identifies the raw materials needed and the products made",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_06"
+    },
+    {
+      "title": "Plant Cells vs Animal Cells",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Plant Cells vs Animal Cells!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare plant and animal cells, identifying shared features and structures unique to plant cells (cell wall, vacuole, chloroplasts)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Lists features common to plant and animal cells",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was shown unlabelled diagrams of a plant cell and an animal cell side by side, could they spot which features are shared and which ones only appear in plant cells — and say why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Plant Cells vs Animal Cells. Lists features common to plant and animal cells Identifies structures found only in plant cells and explains why",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_07"
+    },
+    {
+      "title": "Nutrient Transport in Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Nutrient Transport in Animals? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how nutrients and water are transported within animals, including the role of the circulatory system in delivering nutrients from digestion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe how nutrients from digested food pass through the wall of the small intestine into the blood",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how the sandwich they ate at lunch actually gets to their muscles — from the stomach into the blood and then around the body?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Nutrient Transport in Animals. Describe how nutrients from digested food pass through the wall of the small intestine into the blood Explain that blood transports dissolved nutrients and water to all parts of the body",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_08"
+    },
+    {
+      "title": "Cells to Organ Systems",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Cells to Organ Systems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the hierarchical organisation of multicellular organisms: cells → tissues → organs → organ systems → organism",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Places cells, tissues, organs, and organ systems in the correct order of organisation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked to explain how the body is built up from the smallest parts to the whole, could they describe the levels from individual cells all the way up to organ systems — with a real example at each level?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Cells to Organ Systems: Places cells, tissues, organs, and organ systems in the correct order of organisation Gives a specific example of each level (e.g. muscle cell → muscle tissue → heart → circulatory system → human)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_09"
+    },
+    {
+      "title": "Energy from Food & the Sun",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Energy from Food & the Sun!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use models to describe that energy in animals' food was once energy from the sun, transferred through plants or other organisms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that plants capture energy from sunlight to make food (photosynthesis)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you trace the energy in their breakfast cereal all the way back to the sun, explaining each step?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Energy from Food & the Sun. Explain that plants capture energy from sunlight to make food (photosynthesis) Trace an energy pathway: sun → plant → animal → another animal",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_10"
+    },
+    {
+      "title": "Digestion & Enzymes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Digestion & Enzymes. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the organs of the human digestive system and how food is physically and chemically digested, including the role of enzymes as biological catalysts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Traces the journey of food from mouth to large intestine, naming each organ and its role",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ate a meal with you, could they describe what happens to the food step by step as it travels through the body — naming the organs it passes through and what each one does?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Digestion & Enzymes. Traces the journey of food from mouth to large intestine, naming each organ and its role Explains what enzymes do and names where they are produced (salivary glands, stomach, small intestine)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_11"
+    },
+    {
+      "title": "Plants Grow from Air & Water",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Plants Grow from Air & Water. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Support an argument that plants get the materials they need for growth chiefly from air and water, not from the soil",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that plants take in carbon dioxide from air and water from soil to make food (photosynthesis)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows plants need water and sunlight, can they also explain that most of a plant's 'building material' actually comes from air and water rather than dirt?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Plants Grow from Air & Water. Explain that plants take in carbon dioxide from air and water from soil to make food (photosynthesis) Argue that most of a plant's mass comes from air (CO₂) and water, not soil minerals",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_12"
+    },
+    {
+      "title": "Joints, Tendons & Ligaments",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Joints, Tendons & Ligaments!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain biomechanics — the interaction between skeleton and muscles at joints, including the roles of tendons (attach muscle to bone) and ligaments (attach bone to bone)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Distinguishes between tendons and ligaments and gives the function of each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hurt their knee playing sport, could they explain what a ligament and a tendon are, where each is found, and what would happen if one got damaged?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Joints, Tendons & Ligaments: Distinguishes between tendons and ligaments and gives the function of each Describes how a synovial joint works (e.g. the knee or elbow)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_13"
+    },
+    {
+      "title": "Muscles Work in Pairs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Muscles Work in Pairs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain that muscles work in antagonistic pairs — one contracts while the other relaxes — to produce movement, using the bicep and tricep as a key example",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains why muscles can only pull, not push",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you bent and straightened their arm, could they explain why two different muscles are needed — one to bend and one to straighten — and which muscle is which?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Muscles Work in Pairs. Explains why muscles can only pull, not push Describes what happens to the bicep and tricep when the arm is bent and straightened",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_14"
+    },
+    {
+      "title": "Nutrients in a Healthy Diet",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Nutrients in a Healthy Diet!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the seven components of a healthy diet — carbohydrates, lipids, proteins, vitamins, minerals, dietary fibre, and water — and explain the role of each in the body",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Names all seven dietary components and a food source for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was planning a packed lunch, could they explain what each food group does for the body — why we need protein, carbohydrates, fats, vitamins, and minerals?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Nutrients in a Healthy Diet: Names all seven dietary components and a food source for each Explains what each nutrient does in the body (e.g. proteins for growth and repair)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_15"
+    },
+    {
+      "title": "The Human Skeleton",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The Human Skeleton? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the structure and four main functions of the human skeleton: support, protection, movement, and production of blood cells in bone marrow",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Lists and explains the four functions of the skeleton with examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked why we have bones, could they explain that bones do more than just hold us up — describing at least three different things the skeleton does for the body?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Human Skeleton. Lists and explains the four functions of the skeleton with examples Names key bones and identifies which organs they protect (e.g. ribcage protects heart and lungs)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_16"
+    },
+    {
+      "title": "Calculating Dietary Energy",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Calculating Dietary Energy!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Calculate and evaluate energy intake and requirements in a healthy daily diet, interpreting food labels and nutritional data",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Reads and interprets a nutritional information label (kJ and kcal)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was reading food labels at the supermarket with you, could they work out roughly whether a meal gives too much, too little, or about the right amount of energy for a day?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Calculating Dietary Energy. Reads and interprets a nutritional information label (kJ and kcal) Estimates daily energy requirements for a person of a given age/activity level",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_17"
+    },
+    {
+      "title": "Diet Imbalance & Deficiency",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Diet Imbalance & Deficiency!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain the health consequences of an imbalanced diet including obesity (excess energy), starvation (severe energy deficit), and deficiency diseases (lack of specific nutrients, e.g. scurvy, rickets)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Defines obesity, starvation, and deficiency disease and links each to dietary imbalance",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard about conditions like obesity or vitamin deficiency diseases, could they explain how eating too much, too little, or the wrong mix of foods leads to those health problems?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Diet Imbalance & Deficiency. Defines obesity, starvation, and deficiency disease and links each to dietary imbalance Identifies at least two specific deficiency diseases and the missing nutrient causing each",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_18"
+    },
+    {
+      "title": "Single-Celled Organisms",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Single-Celled Organisms!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how unicellular organisms such as bacteria and Amoeba carry out all the functions of life within a single cell",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Names examples of unicellular organisms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you learned that bacteria are made of just one cell, could they explain how that single cell still manages to feed, grow, and reproduce — doing everything a whole body does?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Single-Celled Organisms. Names examples of unicellular organisms Lists the seven life processes (MRS NERG) and explains how a single cell performs each one",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_19"
+    },
+    {
+      "title": "Using a Microscope",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Using a Microscope. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a light microscope correctly to prepare, focus, and examine biological specimens, including making accurate labelled drawings at an appropriate magnification",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Sets up a light microscope safely and correctly (course focus then fine focus)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had to use a school microscope to study a biological specimen, could they set it up correctly, find what they're looking for, and produce a labelled scientific drawing of what they see?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Using a Microscope. Sets up a light microscope safely and correctly (course focus then fine focus) Prepares a wet mount slide with a biological specimen (e.g. onion skin)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_09_lesson_20"
+    }
+  ],
+  "id": "Science_unit_09"
+}

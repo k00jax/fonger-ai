@@ -1,0 +1,56 @@
+{
+  "title": "Handwriting & Transcription",
+  "objective": "Students will explore handwriting & transcription concepts including Joining Letters.",
+  "standards": [
+    "uk-nc-2013:Eng_LKS2_Write_Trans_Hand_2",
+    "uk-nc-2013:Eng/KS1/Y2/H/1",
+    "uk-nc-2013:Eng/KS1/Y2/H/2",
+    "uk-nc-2013:Eng_LKS2_Write_Trans_Hand_1",
+    "uk-nc-2013:Eng/KS1/Y2/H/3",
+    "uk-nc-2013:Eng.UKS2.Write.Trans.Hand.1a",
+    "uk-nc-2013:Eng.UKS2.Write.Trans.Hand.1b",
+    "ccss-ela:L.1.1a",
+    "uk-nc-2013:Eng/KS1/Y2/H/4"
+  ],
+  "skills_tested": [
+    "handwriting_transcription"
+  ],
+  "lessons": [
+    {
+      "title": "Joining Letters",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "handwriting_transcription"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Joining Letters. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Begin to join letters using diagonal and horizontal strokes, understanding which letter pairs are best left unjoined, forming letters of correct size relative to one another",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Join 'in', 'un', 'it' with a diagonal stroke connecting the letters",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Is you starting to join up their letters when writing, so that their handwriting flows more smoothly rather than each letter standing completely separate?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Joining Letters: Join 'in', 'un', 'it' with a diagonal stroke connecting the letters Leave letters like 'b' unjoined when followed by certain letters, explaining why",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_03_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_03"
+}

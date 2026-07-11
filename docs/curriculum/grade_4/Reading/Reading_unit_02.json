@@ -1,0 +1,512 @@
+{
+  "title": "Reading Comprehension",
+  "objective": "Students will explore reading comprehension concepts including In-Depth Character and Setting Analysis, Narrator's Point of View, Recommending Books and more.",
+  "standards": [
+    "ccss-ela:RL.4.9",
+    "ccss-ela:RL.4.4",
+    "ccss-ela:RL.4.2",
+    "ccss-ela:RL.4.7",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.1d",
+    "ccss-ela:RI.4.8",
+    "ccss-ela:RL.4.6",
+    "ccss-ela:RL.4.5",
+    "ccss-ela:RI.4.5",
+    "ccss-ela:RI.4.7"
+  ],
+  "skills_tested": [
+    "reading_comprehension"
+  ],
+  "lessons": [
+    {
+      "title": "In-Depth Character and Setting Analysis",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about In-Depth Character and Setting Analysis!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe in depth a character, setting, or event in a story or drama, drawing on specific details from the text such as a character's thoughts, words, actions, and interactions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write a detailed character description drawing on evidence from multiple points in the text, including what the character says, does, thinks, and how others respond to them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you reads a chapter where an important event happens, can they write or talk about it in detail — describing what the character thought, said, and did, using specific words and moments from the text?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about In-Depth Character and Setting Analysis. Write a detailed character description drawing on evidence from multiple points in the text, including what the character says, does, thinks, and how others respond to them Describe a setting in depth by citing specific sensory details, figurative language, and mood clues the author provides",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_01"
+    },
+    {
+      "title": "Narrator's Point of View",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Narrator's Point of View. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast the point of view from which different stories are narrated, including distinguishing between first-person and third-person narration and explaining how the narrator's perspective shapes the reader's understanding",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify whether a story is told in first person (I/we) or third person (he/she/they) and explain how this affects what the reader knows about characters' thoughts and feelings",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a story written in first person, can you explain how the story might feel different if it were told by a different character or by a narrator watching from the outside?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Narrator's Point of View. Identify whether a story is told in first person (I/we) or third person (he/she/they) and explain how this affects what the reader knows about characters' thoughts and feelings Compare two versions of a story or event told from different points of view and explain how each narrator's perspective changes what is emphasised, omitted, or revealed",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_02"
+    },
+    {
+      "title": "Recommending Books",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Recommending Books!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recommend books to peers, giving reasons for choices based on knowledge of a wide range of genres, authors, and themes, and making comparisons within and across books",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Recommend a book to a peer by explaining its genre, theme, and what makes it engaging, comparing it to other books the peer has enjoyed",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you recommends a book to a friend, can they explain clearly why they think that person would enjoy it — mentioning the genre, characters, and themes rather than just saying \"it's good\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Recommending Books. Recommend a book to a peer by explaining its genre, theme, and what makes it engaging, comparing it to other books the peer has enjoyed Justify a book recommendation by referring to specific features such as the author's style, the plot structure, or how a theme is developed",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_03"
+    },
+    {
+      "title": "Poems, Drama & Prose",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Poems, Drama & Prose!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain major differences between poems, drama, and prose, identifying structural elements unique to each form: verse, rhythm, and meter in poetry; cast of characters, dialogue, and stage directions in drama; chapters and paragraphs in prose",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare a poem, a play script, and a prose passage on a similar theme, identifying the structural features unique to each form (e.g. stanzas vs scenes vs chapters)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at a poem, a play, and a chapter from a novel and explain how each is laid out differently — for example, that a play has stage directions and a poem has verses?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Poems, Drama & Prose: Compare a poem, a play script, and a prose passage on a similar theme, identifying the structural features unique to each form (e.g. stanzas vs scenes vs chapters) Identify and explain the function of structural elements in drama: cast list, stage directions (in italics or brackets), dialogue format, and scene divisions",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_04"
+    },
+    {
+      "title": "Finding Theme and Summarising",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Finding Theme and Summarising!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine the theme of a story, drama, or poem from details in the text, and provide an objective summary that captures the key events without personal opinions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the theme of a story (e.g. courage, friendship, overcoming adversity) by examining what characters learn, how they change, and what the author emphasises across the whole text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a novel or a poem, can you explain the theme — like \"it's about not giving up\" — and then write a brief summary of the plot without mixing it up with their own opinions?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Finding Theme and Summarising. Identify the theme of a story (e.g. courage, friendship, overcoming adversity) by examining what characters learn, how they change, and what the author emphasises across the whole text Distinguish theme from topic: explain that a topic might be 'war' while the theme is 'the cost of conflict on families'",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_05"
+    },
+    {
+      "title": "Structure of information texts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Structure of information texts. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the overall structure of an informational text (chronology, comparison, cause/effect, problem/solution) and explain how the author's chosen structure helps convey information and ideas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify which organisational structure an informational text uses (chronological order, compare/contrast, cause/effect, or problem/solution) and cite textual features that signal it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a non-fiction text, can they identify how it's organised — for example, \"this one is structured as a problem and solution\" or \"this one goes through events in time order\" — and explain why that structure works?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Structure of information texts: Identify which organisational structure an informational text uses (chronological order, compare/contrast, cause/effect, or problem/solution) and cite textual features that signal it Explain how signal words (first, then, finally for chronology; however, similarly for comparison; because, as a result for cause/effect; the solution was for problem/solution) reveal text structure",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_06"
+    },
+    {
+      "title": "Themes Across Cultures and Traditions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Themes Across Cultures and Traditions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast the treatment of similar themes, topics, and story patterns (e.g., good vs evil, quest narratives, trickster tales) in stories, myths, and traditional literature from different cultures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare how two myths or folk tales from different cultures treat a similar theme (e.g., creation, heroism, the importance of honesty) and explain both similarities and differences",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has read two quest stories from different cultures — like a Greek myth and a West African folktale — can they compare how each treats the hero's journey and what values each story prizes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Themes Across Cultures and Traditions: Compare how two myths or folk tales from different cultures treat a similar theme (e.g., creation, heroism, the importance of honesty) and explain both similarities and differences Identify recurring story patterns across cultures such as the trickster figure, the quest, or the transformation, providing specific examples from texts read",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_07"
+    },
+    {
+      "title": "Combining information from texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Combining information from texts. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably, combining and comparing what each source contributes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read two informational texts on the same topic and identify information that appears in both, information unique to each, and any contradictions between them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is researching a topic using two different books or articles, can they combine the information they've gathered from both to talk or write about the subject more fully than either source alone?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Combining information from texts. Read two informational texts on the same topic and identify information that appears in both, information unique to each, and any contradictions between them Combine key details from two sources into a coherent summary or short report that draws on both texts",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_08"
+    },
+    {
+      "title": "Explaining Events & Ideas",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Explaining Events & Ideas. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain events, procedures, ideas, or concepts in an informational text, including what happened and why, by citing specific textual evidence about causes, effects, and steps in a process",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain a historical event described in an informational text by identifying both what happened and the causes leading to it, using specific details from the text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a non-fiction article that explains how something works — like how volcanoes form — can you write down the main steps or causes in their own words, citing the specific evidence the author used?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Explaining Events & Ideas. Explain a historical event described in an informational text by identifying both what happened and the causes leading to it, using specific details from the text Describe the steps in a procedure or process presented in an informational text, explaining why each step is necessary based on information in the text",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_09"
+    },
+    {
+      "title": "Interpreting visual information in texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Interpreting visual information in texts. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret information presented visually, orally, or quantitatively in informational texts (e.g., charts, graphs, diagrams, timelines, animations) and explain how it contributes to understanding the text",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read and interpret data from a chart, graph, or table included in an informational text and explain how it supports or extends the written information",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a non-fiction article that includes a chart or timeline, can they explain what extra information those visuals add — beyond what the written text says?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Interpreting visual information in texts. Read and interpret data from a chart, graph, or table included in an informational text and explain how it supports or extends the written information Explain how a diagram, map, or timeline in an informational text helps the reader understand the topic in ways that words alone might not",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_10"
+    },
+    {
+      "title": "Cultural Allusions and Word Meaning",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Cultural Allusions and Word Meaning? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine the meaning of words and phrases as used in literary texts, including understanding references to mythology and cultural allusions (e.g., Herculean, Achilles' heel)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain the meaning of an allusion drawn from mythology when encountered in a text, e.g. identify that 'Herculean task' means an extremely difficult task, referencing Hercules' legendary labours",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a story that mentions something like \"a Herculean task\" or \"an Achilles heel\", can they work out what it means — or look it up and explain the mythological reference behind it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Cultural Allusions and Word Meaning: Explain the meaning of an allusion drawn from mythology when encountered in a text, e.g. identify that 'Herculean task' means an extremely difficult task, referencing Hercules' legendary labours Use context and knowledge of word parts to determine the meaning of unfamiliar words in a poem or story, explaining how the word contributes to tone or meaning",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_11"
+    },
+    {
+      "title": "Firsthand and Secondhand Accounts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Firsthand and Secondhand Accounts! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast a firsthand account (autobiography, diary, letter) with a secondhand account (biography, textbook, news report) of the same event or topic, identifying differences in focus and information provided",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the difference between a firsthand account (written by someone who experienced the event) and a secondhand account (written by someone who researched it), using specific examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads both a diary entry by someone who was at a historical event and a textbook account of the same event, can they explain what's different about the two — like what details each one includes and why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Firsthand and Secondhand Accounts. Explain the difference between a firsthand account (written by someone who experienced the event) and a secondhand account (written by someone who researched it), using specific examples Compare a diary entry and a textbook passage about the same historical event, identifying what each account includes, omits, and emphasises",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_12"
+    },
+    {
+      "title": "How authors support their points",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of How authors support their points!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how an author of an informational text uses reasons and evidence to support particular points, evaluating whether the reasoning is sound and the evidence is relevant and sufficient",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the key points an author makes in an informational text and list the specific reasons and evidence provided to support each point",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a persuasive article — like one arguing for or against something — can you identify the reasons the author gives and say whether each one is convincing and well-supported?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How authors support their points. Identify the key points an author makes in an informational text and list the specific reasons and evidence provided to support each point Evaluate whether the evidence an author uses (facts, statistics, examples, expert opinions) is relevant to the point being made and sufficient to be convincing",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_13"
+    },
+    {
+      "title": "Text & Media Connections",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Text & Media Connections. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make connections between the text of a story or drama and a visual or oral presentation of the text, identifying where each version reflects specific descriptions and directions from the text",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare a passage from a book with a film or audio adaptation, identifying specific moments where the visual or oral version matches or departs from the written text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has read a book and then seen a film version, can they compare the two — pointing out moments where the film showed something differently from how the book described it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Text & Media Connections. Compare a passage from a book with a film or audio adaptation, identifying specific moments where the visual or oral version matches or departs from the written text Explain how a film, illustration, or dramatic performance interprets a scene from a story, citing specific textual descriptions the adaptation reflects",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_02_lesson_14"
+    }
+  ],
+  "id": "Reading_unit_02"
+}

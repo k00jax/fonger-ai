@@ -1,0 +1,194 @@
+{
+  "title": "Addition & Subtraction",
+  "objective": "Students will explore addition & subtraction concepts including Reading +, −, and = symbols, Fluent adding and subtracting within 5, Number bonds and more.",
+  "standards": [
+    "uk-nc-2013:Maths/Y1/AS/3",
+    "uk-nc-2013:Maths/Y1/AS/1",
+    "ccss-math:K.OA.1",
+    "uk-nc-2013:Maths/Y1/AS/4",
+    "uk-nc-2013:Maths/Y1/AS/2",
+    "ccss-math:1.OA.1",
+    "ccss-math:K.OA.5"
+  ],
+  "skills_tested": [
+    "addition_subtraction"
+  ],
+  "lessons": [
+    {
+      "title": "Reading +, −, and = symbols",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Reading +, −, and = symbols. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, and interpret the symbols +, −, and = in number sentences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read 3 + 2 = 5 aloud as 'three plus two equals five'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you write '4 + 3 = 7' on paper, can you tell you what the plus sign, minus sign, and equals sign each mean?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading +, −, and = symbols. Read 3 + 2 = 5 aloud as 'three plus two equals five' Write a number sentence to match a concrete addition situation",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_01_lesson_01"
+    },
+    {
+      "title": "Fluent adding and subtracting within 5",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fluent adding and subtracting within 5. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently add and subtract within 5",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Answer 2 + 3 quickly without counting on fingers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you give you the answer to sums like '2 + 3' or '5 − 2' straight away, without needing to count on their fingers every time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fluent adding and subtracting within 5: Answer 2 + 3 quickly without counting on fingers Answer 5 – 2 from recall or with minimal counting",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_01_lesson_02"
+    },
+    {
+      "title": "Number bonds",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Number bonds!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recall number bonds (addition and related subtraction facts) within 20",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Quickly recall that 8 + 5 = 13",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly recall facts like '8 + 7 = 15' and immediately know that '15 − 7 = 8' — without having to work out the subtraction from scratch?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Number bonds. Quickly recall that 8 + 5 = 13 Given 13 – 5, respond 8 using knowledge of related addition fact",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_01_lesson_03"
+    },
+    {
+      "title": "Adding and subtracting",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Adding and subtracting!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract one-digit and two-digit numbers to 20, including zero",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 14 + 5 = 19",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out sums like '14 + 5' or '18 − 6' in their head or on paper, and do they know that adding or taking away zero leaves the number unchanged?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Adding and subtracting. Calculate 14 + 5 = 19 Calculate 17 – 3 = 14",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_01_lesson_04"
+    },
+    {
+      "title": "Early Word Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Early Word Problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve one-step word problems involving addition and subtraction to 20, including missing-number problems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve 'I have 12 sweets and eat 4, how many left?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you say 'I had some sweets, ate 5, and now have 9 left — how many did I start with?', can you figure out the missing number?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Early Word Problems: Solve 'I have 12 sweets and eat 4, how many left?' Solve missing number: 7 = [ ] – 9",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_01_lesson_05"
+    }
+  ],
+  "id": "Math_unit_01"
+}

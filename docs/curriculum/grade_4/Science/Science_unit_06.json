@@ -1,0 +1,156 @@
+{
+  "title": "Forces & Motion",
+  "objective": "Students will explore forces & motion concepts including Gravity & Falling Objects, Air Resistance & Friction, Levers, Pulleys & Gears and more.",
+  "standards": [
+    "uk-nc-2013:Y5.Sci.F.2",
+    "uk-nc-2013:Y5.Sci.F.1",
+    "uk-nc-2013:Y5.Sci.F.3",
+    "ngss-k5:5-PS2-1"
+  ],
+  "skills_tested": [
+    "forces_motion"
+  ],
+  "lessons": [
+    {
+      "title": "Gravity & Falling Objects",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Gravity & Falling Objects!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain that unsupported objects fall towards the Earth because of the force of gravity acting between the Earth and the falling object",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define gravity as a force of attraction between the Earth and objects",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why everything falls downwards when you let go of it, and name the force that causes this?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Gravity & Falling Objects: Define gravity as a force of attraction between the Earth and objects Explain that unsupported objects fall because gravity pulls them towards the Earth",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_06_lesson_01"
+    },
+    {
+      "title": "Air Resistance & Friction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Air Resistance & Friction! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the effects of air resistance, water resistance, and friction, and understand that these forces act between moving surfaces to oppose motion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define air resistance, water resistance, and friction as forces that oppose motion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a parachute slows you down, why swimming is harder than walking, and why bike brakes use rubber pads?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Air Resistance & Friction: Define air resistance, water resistance, and friction as forces that oppose motion Give everyday examples of each force and explain how they slow things down",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_06_lesson_02"
+    },
+    {
+      "title": "Levers, Pulleys & Gears",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Levers, Pulleys & Gears? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that some mechanisms including levers, pulleys, and gears allow a smaller force to have a greater effect",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe how a lever works: effort at one end moves a load at the other, with a pivot in between",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a see-saw, a pulley on a flagpole, or the gears on a bicycle make it easier to move heavy things with less effort?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Levers, Pulleys & Gears. Describe how a lever works: effort at one end moves a load at the other, with a pivot in between Explain how a pulley changes the direction of a force and can make lifting easier",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_06_lesson_03"
+    },
+    {
+      "title": "Force & Motion Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Force & Motion Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use technical vocabulary for force and motion — balanced forces, unbalanced forces, resultant force, acceleration, deceleration, speed, moment, lever, fulcrum, mechanical advantage — and apply these when explaining and predicting how forces affect the motion and position of objects",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Distinguish between balanced and unbalanced forces and describe the effect of each on an object's motion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a seesaw stays level when two people of different weights sit at different distances — using words like 'balanced forces' or 'moment'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Force & Motion Vocabulary: Distinguish between balanced and unbalanced forces and describe the effect of each on an object's motion Use 'resultant force' correctly when describing the net effect of two or more forces acting on an object",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_06_lesson_04"
+    }
+  ],
+  "id": "Science_unit_06"
+}

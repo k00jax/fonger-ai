@@ -1,0 +1,158 @@
+{
+  "title": "Self-Regulation & Resilience",
+  "objective": "Students will explore self-regulation & resilience concepts including Personal Coping Toolkit, Resilience and Bouncing Back, Personal Goal-Setting and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-CU-P4-8",
+    "ib-pyp-pspe:PSPE-ID-LO-P3-12",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-5",
+    "ib-pyp-pspe:PSPE-ID-CU-P3-6",
+    "ib-pyp-pspe:PSPE-ID-CU-P4-7",
+    "ib-pyp-pspe:PSPE-ID-LO-P4-7"
+  ],
+  "skills_tested": [
+    "self-regulation_resilience"
+  ],
+  "lessons": [
+    {
+      "title": "Personal Coping Toolkit",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Personal Coping Toolkit! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Reflect on which self-regulation and coping strategies work best for them personally, building a 'toolkit' of approaches they can draw on in different situations and sharing what works with others",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe at least three personal coping strategies and when each is most effective",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you 'When I'm stressed about exams I go for a walk and that helps, but when I'm sad I need to talk to someone' — showing they know their own coping toolkit?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Personal Coping Toolkit. Describe at least three personal coping strategies and when each is most effective Recommend a strategy to a friend based on the friend's specific situation",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_06_lesson_01"
+    },
+    {
+      "title": "Resilience and Bouncing Back",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Resilience and Bouncing Back. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand resilience as the ability to recover from setbacks, adapt to difficult circumstances, and keep going — recognising that resilience is a skill that develops through experience, not a trait you either have or don't",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define resilience in their own words and explain why it matters",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After a real disappointment — like not getting a part in the school play or failing a test they studied for — can you feel upset but then pick themselves up and figure out what to do next?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Resilience and Bouncing Back: Define resilience in their own words and explain why it matters Describe a time they bounced back from a setback and what helped them recover",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_06_lesson_02"
+    },
+    {
+      "title": "Personal Goal-Setting",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Personal Goal-Setting!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Set realistic personal goals, create a simple plan to achieve them, monitor their own progress, and adjust their approach when things aren't working",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write or state a specific, achievable personal goal with a timeframe",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you set themselves a goal — like improving their swimming or finishing a book series — and actually work towards it step by step, adjusting their plan if needed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Personal Goal-Setting. Write or state a specific, achievable personal goal with a timeframe Describe the steps they will take to reach the goal",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_06_lesson_03"
+    },
+    {
+      "title": "Time and Attention Management",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Time and Attention Management! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Manage their own time and attention effectively — prioritising tasks, minimising distractions, and maintaining focus on important work even when it's not the most exciting option",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Create a simple plan for completing multiple tasks in a sensible order",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you has homework to finish but also wants to play a game, can they manage their time — doing the homework first or setting a timer — rather than always needing you to enforce it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Time and Attention Management: Create a simple plan for completing multiple tasks in a sensible order Identify their own common distractions and describe strategies to manage them",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_06_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_06"
+}

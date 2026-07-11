@@ -1,0 +1,155 @@
+{
+  "title": "Organisms & Life Processes",
+  "objective": "Students will explore organisms & life processes concepts including Human Life Stages, Senses, Brain & Responses, Structures for Survival and more.",
+  "standards": [
+    "ngss-k5:4-LS1-1",
+    "uk-nc-2013:Y5.Sci.A.1",
+    "ngss-k5:4-LS1-2"
+  ],
+  "skills_tested": [
+    "organisms_life_processes"
+  ],
+  "lessons": [
+    {
+      "title": "Human Life Stages",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Human Life Stages! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the changes as humans develop to old age, including the stages of the human life cycle",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name the main stages of human development: baby, toddler, child, teenager, adult, elderly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe the main stages of a human life — from baby to toddler to child to teenager to adult to old age — and some changes at each stage?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Human Life Stages: Name the main stages of human development: baby, toddler, child, teenager, adult, elderly Describe key changes at puberty (growth spurt, body changes)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_10_lesson_01"
+    },
+    {
+      "title": "Senses, Brain & Responses",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Senses, Brain & Responses? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a model to describe that animals receive information through their senses, process it in their brain, and respond in different ways",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the pathway: sense organ detects stimulus → brain processes information → body responds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a dog uses its senses to detect a squirrel and then decides to chase it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Senses, Brain & Responses. Describe the pathway: sense organ detects stimulus → brain processes information → body responds Give examples of different animal senses (sight, smell, hearing, echolocation, vibration)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_10_lesson_02"
+    },
+    {
+      "title": "Structures for Survival",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Structures for Survival!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behaviour, and reproduction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Give examples of external structures and their survival functions (e.g. thorns for protection, claws for catching prey)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a cactus's thick stem helps it survive in a desert, or how a bird's wings help it find food?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Structures for Survival. Give examples of external structures and their survival functions (e.g. thorns for protection, claws for catching prey) Give examples of internal structures and their functions (e.g. heart pumps blood, lungs take in air)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_10_lesson_03"
+    },
+    {
+      "title": "Organ Systems Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Organ Systems Vocabulary? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use technical vocabulary for the major organ systems — organ, organ system, circulatory system, digestive system, respiratory system, skeletal system, muscular system, nutrient, oxygen, carbon dioxide, blood vessel, artery, vein, capillary, enzyme — and describe the function of each system using these terms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name the main organs in at least two body systems and state their functions using the correct vocabulary",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what the circulatory system does — not just 'the heart pumps blood', but using words like 'oxygen', 'artery', and 'blood vessel'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Organ Systems Vocabulary. Name the main organs in at least two body systems and state their functions using the correct vocabulary Use 'circulatory', 'digestive', and 'respiratory' correctly in written descriptions of the body",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_10_lesson_04"
+    }
+  ],
+  "id": "Science_unit_10"
+}

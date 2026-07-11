@@ -1,0 +1,232 @@
+{
+  "title": "Forces & Motion",
+  "objective": "Students will explore forces & motion concepts including Reading Distance-Time Graphs, Relative Motion, Speed & Distance-Time Graphs and more.",
+  "standards": [
+    "ngss-ms:MS-PS2-1",
+    "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.2",
+    "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.3",
+    "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.1",
+    "ngss-ms:MS-PS2-2",
+    "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.10",
+    "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.8",
+    "ngss-ms:MS-PS2-4",
+    "ngss-ms:MS-PS2-5",
+    "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.4"
+  ],
+  "skills_tested": [
+    "forces_motion"
+  ],
+  "lessons": [
+    {
+      "title": "Reading Distance-Time Graphs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reading Distance-Time Graphs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and plot distance-time graphs for moving objects; interpret the gradient (steepness) of a line as speed; identify stationary periods (horizontal sections), constant speed (straight diagonal lines), and relative speeds by comparing gradients; calculate average speed from the gradient of a straight-line segment using speed = distance ÷ time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read a distance-time graph and describe what is happening at each stage — moving, stopped, returning",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a distance-time graph of a journey with a flat section in the middle, can they explain what was happening then — and point to which part of the graph shows the fastest speed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reading Distance-Time Graphs: Read a distance-time graph and describe what is happening at each stage — moving, stopped, returning Calculate speed from the gradient of a straight section of a distance-time graph",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_06_lesson_01"
+    },
+    {
+      "title": "Relative Motion",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Relative Motion! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain relative motion — how the apparent speed and direction of an object depends on the observer's own motion — using everyday examples such as trains and cars passing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explains why a train moving at the same speed in the same direction as another appears stationary to passengers on that train",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was on a train and another train passed going the same direction but faster, could they explain why it looks slow even if it's actually travelling at high speed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Relative Motion: Explains why a train moving at the same speed in the same direction as another appears stationary to passengers on that train Calculates relative speed when two objects move towards or away from each other",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_06_lesson_02"
+    },
+    {
+      "title": "Speed & Distance-Time Graphs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Speed & Distance-Time Graphs. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Calculate average speed using the equation speed = distance ÷ time, represent journeys on distance-time graphs, and interpret gradient as speed and flat sections as stationary periods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Uses speed = distance ÷ time to calculate average speed with correct units (m/s, km/h)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you tracked a cycle ride on a map and knew how far they went and how long it took, could they calculate the average speed — and then sketch a rough graph showing the journey including a stop for lunch?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Speed & Distance-Time Graphs. Uses speed = distance ÷ time to calculate average speed with correct units (m/s, km/h) Draws a distance-time graph for a given journey with correct axes and labels",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_06_lesson_03"
+    },
+    {
+      "title": "Mass vs Weight",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Mass vs Weight! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between mass (amount of matter, measured in kg) and weight (gravitational force, measured in N), use the equation weight = mass × gravitational field strength, and explain why g differs on other planets and stars",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explains the difference between mass and weight with correct units for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you weighed themselves on bathroom scales and was then asked what they would weigh on the Moon, could they explain the difference between mass and weight and work out a rough answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Mass vs Weight: Explains the difference between mass and weight with correct units for each Calculates weight using W = mg with g = 10 N/kg on Earth",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_06_lesson_04"
+    },
+    {
+      "title": "Resultant Forces",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Resultant Forces. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe forces as vector quantities with both magnitude and direction, distinguish between balanced forces (zero resultant, no change in motion) and unbalanced forces (non-zero resultant, causes acceleration or deceleration)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explains what a vector quantity is and why force is a vector",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was pushing a heavy box along the floor but it wasn't moving, could they explain all the forces acting on it and why it stays still even though you're pushing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Resultant Forces: Explains what a vector quantity is and why force is a vector Calculates the resultant force when two forces act in the same or opposite directions on an object",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_06_lesson_05"
+    },
+    {
+      "title": "Magnetic Fields",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Magnetic Fields? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe magnetic poles (north and south), explain attraction and repulsion between poles, describe magnetic field lines plotted using a compass, and explain the Earth's magnetic field and its practical uses",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. States the rule for attraction and repulsion of magnetic poles",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you used a compass and iron filings to map the magnetic field around a bar magnet, could they describe what pattern the field lines make and explain why a compass needle always points roughly north?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Magnetic Fields. States the rule for attraction and repulsion of magnetic poles Draws the magnetic field pattern around a bar magnet from memory or compass readings",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_06_lesson_06"
+    }
+  ],
+  "id": "Science_unit_06"
+}

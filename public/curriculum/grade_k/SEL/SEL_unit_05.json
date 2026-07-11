@@ -1,0 +1,81 @@
+{
+  "title": "Self-Awareness",
+  "objective": "Students will explore self-awareness concepts including Naming Your Feelings, Vocabulary: self.",
+  "standards": [],
+  "skills_tested": [
+    "self-awareness"
+  ],
+  "lessons": [
+    {
+      "title": "Naming Your Feelings",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "self-awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Naming Your Feelings! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice what you are feeling and put a name to it — being able to label an emotion is the first step to understanding and managing it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: emotional literacy research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you seems upset, excited, or frustrated, can they stop and tell you what emotion they're feeling — even if they can't fully explain why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Naming Your Feelings. emotional literacy research Fostering Emotional Literacy in Young Children (HeadStart.gov)",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_05_lesson_01"
+    },
+    {
+      "title": "Vocabulary: self",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "self-awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Vocabulary: self? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of self-reflection — self-awareness, reflect, pattern, trigger, assumption, impact, perspective, and notice — and understand that having precise words for these inner experiences makes them easier to understand and talk about",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use words like 'reflect', 'pattern', and 'trigger' accurately when describing their own behaviour — e.g. 'I notice a pattern: I get frustrated when I rush'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After a difficult moment — a falling-out with a friend or a frustrating task — can you talk about what happened using words like 'trigger' or 'reflect', showing they're thinking about their own reactions rather than just what the other person did?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Vocabulary: self: Use words like 'reflect', 'pattern', and 'trigger' accurately when describing their own behaviour — e.g. 'I notice a pattern: I get frustrated when I rush' Explain what 'self-awareness' means in their own words and give a personal example",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_05_lesson_02"
+    }
+  ],
+  "id": "SEL_unit_05"
+}

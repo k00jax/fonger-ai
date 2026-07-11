@@ -1,0 +1,329 @@
+{
+  "title": "Grammar & Punctuation",
+  "objective": "Students will explore grammar & punctuation concepts including Simple Past, Present and Future, Standard English Verbs, Grammar Terms: Pronouns and Determiners and more.",
+  "standards": [
+    "ccss-ela:L.4.2a",
+    "uk-nc-2013:Eng.UKS2.Write.VGP.1d"
+  ],
+  "skills_tested": [
+    "grammar_punctuation"
+  ],
+  "lessons": [
+    {
+      "title": "Simple Past, Present and Future",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Simple Past, Present and Future!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form and use the simple past, present, and future verb tenses consistently in writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Rewrite 'I walk to school' in past tense ('I walked') and future tense ('I will walk')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes about something that happened yesterday, something happening now, and something that will happen tomorrow, do they change the verb correctly for each time — like \"I walked\", \"I walk\", and \"I will walk\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Simple Past, Present and Future. Rewrite 'I walk to school' in past tense ('I walked') and future tense ('I will walk') Identify and correct inconsistent tense in 'Yesterday she walks to the shop and bought milk'",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_01"
+    },
+    {
+      "title": "Standard English Verbs",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Standard English Verbs? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use Standard English verb inflections in place of non-standard local forms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Correct 'we was playing' to 'we were playing' and explain why the standard form is needed in writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sometimes says \"we was\" or \"they done it\" in conversation, do they know to write \"we were\" and \"they did it\" in their schoolwork — using standard written English?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Standard English Verbs. Correct 'we was playing' to 'we were playing' and explain why the standard form is needed in writing Choose the standard form in pairs such as 'I did / I done', 'she has / she have', 'they were / they was'",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_02"
+    },
+    {
+      "title": "Grammar Terms: Pronouns and Determiners",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Grammar Terms: Pronouns and Determiners! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use Year 4 grammar terminology including determiner, pronoun, possessive pronoun, and adverbial",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Label the determiner, pronoun, and adverbial in 'She quickly opened her present on the table'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to find a \"determiner\" or a \"possessive pronoun\" in a sentence, can they point one out and explain what job it does?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Grammar Terms: Pronouns and Determiners. Label the determiner, pronoun, and adverbial in 'She quickly opened her present on the table' Explain the difference between a possessive pronoun ('mine', 'theirs') and other pronouns ('I', 'they')",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_03"
+    },
+    {
+      "title": "Fronted Adverbials and Commas",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Fronted Adverbials and Commas? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use fronted adverbials to vary sentence openings and punctuate them with commas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write a sentence beginning with a time adverbial, e.g. 'Later that day, the children ran home'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a story or a report, do they sometimes start a sentence with a phrase like \"After lunch,\" or \"Quietly, the fox moved closer,\" — and put a comma after that opening phrase?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fronted Adverbials and Commas. Write a sentence beginning with a time adverbial, e.g. 'Later that day, the children ran home' Rewrite 'The fox crept through the garden at midnight' with the adverbial fronted and a comma placed correctly",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_04"
+    },
+    {
+      "title": "Plural vs Possessive in Nouns",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Plural vs Possessive in Nouns? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between the plural -s suffix and the possessive -'s suffix in nouns",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort words like 'dogs', 'dog's', and 'dogs'' into plural, singular possessive, and plural possessive categories",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell the difference between \"the girls' coats\" (belonging to many girls) and \"the girls are coming\" (just a plural) — and write each one correctly without mixing up the apostrophe?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Plural vs Possessive in Nouns. Sort words like 'dogs', 'dog's', and 'dogs'' into plural, singular possessive, and plural possessive categories Explain why 'the cats bowl' is incorrect and supply the correct form ('the cat's bowl' or 'the cats' bowl') for a given meaning",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_05"
+    },
+    {
+      "title": "Expanded noun phrases (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Expanded noun phrases (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Expand noun phrases with modifying adjectives, nouns, and preposition phrases to add detail",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Expand 'the teacher' to 'the strict maths teacher with curly hair' using adjective, noun, and preposition phrase",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you describes something in a piece of writing, do they build up a rich description — like \"the tall man with the grey coat\" rather than just \"the man\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Expanded noun phrases (age 8+). Expand 'the teacher' to 'the strict maths teacher with curly hair' using adjective, noun, and preposition phrase Write a sentence containing a noun phrase with at least three modifiers, e.g. 'the old stone bridge over the river'",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_06"
+    },
+    {
+      "title": "Comparatives & Superlatives",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparatives & Superlatives? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form and use comparative and superlative adjectives and adverbs, choosing correctly between them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Form comparatives and superlatives for 'big' (bigger/biggest), 'beautiful' (more/most beautiful), and 'good' (better/best)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is comparing three things — like three books they've read — can they correctly say one is \"good\", another is \"better\", and the best one is \"the best\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Comparatives & Superlatives. Form comparatives and superlatives for 'big' (bigger/biggest), 'beautiful' (more/most beautiful), and 'good' (better/best) Choose the correct form in 'She runs _____ (faster/more fast) than her brother' and explain the rule",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_07"
+    },
+    {
+      "title": "Agreement in sentences",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Agreement in sentences. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ensure subject-verb agreement and pronoun-antecedent agreement within and across sentences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Correct 'The group of children were laughing' to 'The group of children was laughing' and explain the singular subject",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you writes \"Each of the players have their own locker\", can they spot the error and fix it to \"has their own locker\" — making sure the verb matches the subject?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Agreement in sentences: Correct 'The group of children were laughing' to 'The group of children was laughing' and explain the singular subject Choose the correct pronoun in 'Each student must bring ____ (his or her / their) book' and explain the antecedent link",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_08"
+    },
+    {
+      "title": "Abstract nouns",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Abstract nouns!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and use abstract nouns to name ideas, qualities, and states that cannot be perceived by the senses",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Sort words like 'freedom', 'table', 'courage', 'pencil', 'childhood' into abstract and concrete noun categories",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write a sentence using an abstract word like \"kindness\", \"freedom\", or \"happiness\" — knowing these are nouns even though you can't touch or see them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Abstract nouns. Sort words like 'freedom', 'table', 'courage', 'pencil', 'childhood' into abstract and concrete noun categories Complete sentences using appropriate abstract nouns: 'Her _____ (brave → bravery) inspired the whole team'",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_02_lesson_09"
+    }
+  ],
+  "id": "Reading_unit_02"
+}

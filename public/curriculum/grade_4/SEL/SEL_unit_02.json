@@ -1,0 +1,157 @@
+{
+  "title": "Empathy & Social Awareness",
+  "objective": "Students will explore empathy & social awareness concepts including Questioning Your Own Biases, Prejudice and Discrimination, Stereotypes and Individual Differences and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE.INT.P3.CU.3",
+    "ib-pyp-pspe:PSPE-ID-LO-P4-8",
+    "ib-pyp-pspe:PSPE-ID-LO-P3-7",
+    "ib-pyp-pspe:PSPE-ID-LO-P4-6",
+    "ib-pyp-pspe:PSPE-ID-CU-P4-3"
+  ],
+  "skills_tested": [
+    "empathy_social_awareness"
+  ],
+  "lessons": [
+    {
+      "title": "Questioning Your Own Biases",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Questioning Your Own Biases. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Reflect on their own assumptions and biases — recognising that everyone carries unconscious assumptions about others, and that actively questioning these assumptions is an ongoing practice that leads to greater fairness and empathy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe a time they made an assumption about someone that turned out to be wrong",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you catch themselves making an assumption about someone — like assuming a quiet child is unfriendly — and then question whether that assumption is fair?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Questioning Your Own Biases: Describe a time they made an assumption about someone that turned out to be wrong Explain what unconscious bias means in simple terms",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_02_lesson_01"
+    },
+    {
+      "title": "Prejudice and Discrimination",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Prejudice and Discrimination!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the impact of prejudice and discrimination on individuals and communities — that treating people unfairly because of their identity causes real harm — and recognise their own responsibility to stand against it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define prejudice and discrimination in their own words with examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees someone at school being excluded or teased because of their race, religion, or disability, can they explain why that's wrong and describe what they could do about it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Prejudice and Discrimination. Define prejudice and discrimination in their own words with examples Describe the emotional and social impact of discrimination on the person experiencing it",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_02_lesson_02"
+    },
+    {
+      "title": "Stereotypes and Individual Differences",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Stereotypes and Individual Differences!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise stereotypes — oversimplified beliefs about groups of people based on gender, race, age, or other characteristics — and understand that stereotypes are unfair because they ignore individual differences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define what a stereotype is in their own words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If someone says 'boys don't cry' or 'girls aren't good at maths', can you explain why those statements are unfair stereotypes that don't apply to everyone?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Stereotypes and Individual Differences. Define what a stereotype is in their own words Identify a common stereotype and explain why it is inaccurate",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_02_lesson_03"
+    },
+    {
+      "title": "The world contains many cultures, traditions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The world contains many cultures, traditions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the world contains many cultures, traditions, and belief systems, and that learning about others' perspectives enriches our own understanding — developing genuine curiosity about and respect for cultural diversity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe a cultural practice different from their own and explain what they find interesting about it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you show genuine interest when learning about how families from different cultures celebrate, eat, or worship — asking questions respectfully rather than dismissing things that are unfamiliar?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The world contains many cultures, traditions: Describe a cultural practice different from their own and explain what they find interesting about it Ask respectful questions to learn about someone else's traditions or beliefs",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_02_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_02"
+}

@@ -1,0 +1,326 @@
+{
+  "title": "Medieval Times",
+  "objective": "Students will explore medieval times concepts including Battle of Hastings and 1066, Medieval Pyramid of Power, The Medieval Church and more.",
+  "standards": [],
+  "skills_tested": [
+    "medieval_times"
+  ],
+  "lessons": [
+    {
+      "title": "Battle of Hastings and 1066",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Battle of Hastings and 1066!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The events of 1066: the death of Edward the Confessor, three claimants to the throne, the Battle of Hastings, William the Conqueror, and the Bayeux Tapestry as a historical source",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain why there was a crisis when Edward the Confessor died in 1066",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you what happened in 1066, why it mattered, and what the Bayeux Tapestry shows us about those events?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Battle of Hastings and 1066: Explain why there was a crisis when Edward the Confessor died in 1066 Describe the Battle of Hastings and its outcome",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_01"
+    },
+    {
+      "title": "Medieval Pyramid of Power",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Medieval Pyramid of Power! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How medieval society was organised: king at the top, then lords, then knights, then peasants/serfs; who owed what to whom; the pyramid of power and mutual obligations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw or describe the feudal pyramid showing king, lords, knights, and peasants",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain the medieval class system — who was at the top, who was at the bottom, and what each group had to do for the others?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Medieval Pyramid of Power. Draw or describe the feudal pyramid showing king, lords, knights, and peasants Explain what each level owed to the level above (loyalty, military service, labour)",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_02"
+    },
+    {
+      "title": "The Medieval Church",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The Medieval Church! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The enormous power of the medieval Church: monasteries and the daily life of monks and nuns; building great cathedrals; pilgrimage as a religious journey; the Church's influence over everyday life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain why the Church was so powerful in medieval times (owned land, controlled education, people feared God's punishment)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why the Church was such a big part of everyone's life in medieval times and what monks and nuns actually did all day?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Medieval Church. Explain why the Church was so powerful in medieval times (owned land, controlled education, people feared God's punishment) Describe what daily life was like for a monk or nun",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_03"
+    },
+    {
+      "title": "The Crusades",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The Crusades! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "A simplified account of the Crusades: why Europeans travelled to the Holy Land, what they found there, the cultural exchange between Christian Europe and the Islamic world",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain in simple terms why European armies travelled to the Holy Land",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain what the Crusades were and describe something that Europeans learned about the wider world through these journeys?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Crusades: Explain in simple terms why European armies travelled to the Holy Land Describe at least one thing Europeans learned from the Islamic world during the Crusades",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_04"
+    },
+    {
+      "title": "Castle Design Through the Ages",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Castle Design Through the Ages! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How castles were built and evolved: from wooden motte-and-bailey to stone keeps to concentric castles; rooms and their uses; how castle design responded to new attack methods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the difference between an early motte-and-bailey castle and a later stone castle",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain how castles changed over time and describe what different rooms inside a castle were used for?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Castle Design Through the Ages: Describe the difference between an early motte-and-bailey castle and a later stone castle Name at least three rooms or areas in a medieval castle and their purpose",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_05"
+    },
+    {
+      "title": "Anglo-Saxon Britain",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Anglo-Saxon Britain! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Who the Anglo-Saxons were: Germanic peoples who settled in Britain after the Romans left; their kingdoms, villages, place names, art, and eventual conversion to Christianity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain who the Anglo-Saxons were and when they came to Britain (after the Romans left)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain who the Anglo-Saxons were and point out that many English place names come from Anglo-Saxon words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Anglo-Saxon Britain: Explain who the Anglo-Saxons were and when they came to Britain (after the Romans left) Name at least two Anglo-Saxon kingdoms (e.g. Wessex, Mercia, Northumbria)",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_06"
+    },
+    {
+      "title": "Siege Warfare",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Siege Warfare!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How castles were attacked and defended: siege weapons (trebuchets, battering rams, siege towers), boiling liquids, arrow slits, murder holes; the drama of a medieval siege",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three siege weapons or attack methods",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was reading about a medieval siege, could they explain the weapons used to attack a castle and the clever ways defenders fought back?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Siege Warfare. Name at least three siege weapons or attack methods Describe at least two ways a castle was designed to resist attack",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_07"
+    },
+    {
+      "title": "The Black Death",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about The Black Death. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The Black Death of 1348-49: what the plague was, how it spread, its devastating death toll; how it changed society by giving surviving workers more power and higher wages",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe what the Black Death was and at least two symptoms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you what the Black Death was, how it spread, and why it actually ended up changing society in unexpected ways?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Black Death: Describe what the Black Death was and at least two symptoms Explain how the plague spread (fleas on rats, person to person)",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_08"
+    },
+    {
+      "title": "Vikings vs Anglo-Saxons",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Vikings vs Anglo-Saxons? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The conflict between Vikings and Anglo-Saxons for control of England: Viking raids, Alfred the Great's resistance, the Danelaw, Athelstan as first king of all England, Edward the Confessor",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the Viking raids on Anglo-Saxon England and their impact",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you about the struggle between the Vikings and Anglo-Saxons for control of England, and who Alfred the Great was?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Vikings vs Anglo-Saxons. Describe the Viking raids on Anglo-Saxon England and their impact Explain who Alfred the Great was and why he was important",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_03_lesson_09"
+    }
+  ],
+  "id": "Social Studies_unit_03"
+}

@@ -1,0 +1,614 @@
+{
+  "title": "Fractions",
+  "objective": "Students will explore fractions concepts including Decimals and fractions (age 10+), Fractions of a whole (age 10+), Multiplying fractions (age 11+) and more.",
+  "standards": [
+    "ccss-math:6.NS.3",
+    "ccss-math:6.NS.1",
+    "uk-nc-2013:KS3.Maths.Num.9",
+    "uk-nc-2013:KS3.Maths.Num.11",
+    "ccss-math:7.NS.3",
+    "ccss-math:7.NS.2d",
+    "uk-nc-2013:KS3.Maths.Num.4"
+  ],
+  "skills_tested": [
+    "fractions"
+  ],
+  "lessons": [
+    {
+      "title": "Decimals and fractions (age 10+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Decimals and fractions (age 10+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Associate a fraction with division and calculate decimal fraction equivalents for simple fractions (e.g. 3/8 = 0.375); recall and use equivalences between simple fractions, decimals, and percentages in different contexts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Convert 3/8 to 0.375 by dividing 3 ÷ 8",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees 3/8 written on a worksheet, can they convert it to a decimal — and also say roughly what percentage that is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Decimals and fractions (age 10+). Convert 3/8 to 0.375 by dividing 3 ÷ 8 State that 1/5 = 0.2 = 20% from memory",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_01"
+    },
+    {
+      "title": "Fractions of a whole (age 10+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fractions of a whole (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b); solve word problems involving division of whole numbers leading to fractional or mixed-number answers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that 3/4 means 3 ÷ 4 and verify by showing 3/4 × 4 = 3",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you shares 3 pizzas equally among 4 friends, can they work out what fraction each person gets — and explain why 3 ÷ 4 gives the same answer as 3/4?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fractions of a whole (age 10+). Explain that 3/4 means 3 ÷ 4 and verify by showing 3/4 × 4 = 3 Solve: '9 people share a 50-pound sack equally — how many pounds each?' and express the answer as 5 5/9",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_02"
+    },
+    {
+      "title": "Multiplying fractions (age 11+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Multiplying fractions (age 11+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret fractions and percentages as operators — find a fraction or percentage of an amount by multiplying, understanding that 'of' means multiply (e.g., 3/4 of 200 = 3/4 × 200 = 150)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate a fraction of a given amount by multiplying",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a £120 jacket is reduced by 35%, can you work out the sale price — by first calculating 35% of £120 and then subtracting?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Multiplying fractions (age 11+): Calculate a fraction of a given amount by multiplying Calculate a percentage of a given amount by converting to a decimal and multiplying",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_03"
+    },
+    {
+      "title": "Mixed & Improper Fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Mixed & Improper Fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the four operations with formal written methods applied to integers, decimals, proper and improper fractions, and mixed numbers, all both positive and negative",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Add, subtract, multiply, and divide with positive and negative integers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to work out −1/2 + 3/4 − 1 and 1/4 as part of a longer problem, can they do it using written methods — showing each step clearly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Mixed & Improper Fractions. Add, subtract, multiply, and divide with positive and negative integers Apply formal written methods to calculations with decimals of any size",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_04"
+    },
+    {
+      "title": "Simplifying Fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Simplifying Fractions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use common factors to simplify fractions to their simplest form; use common multiples to express fractions with a common denominator",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Simplify 18/24 to 3/4 by identifying the HCF of 18 and 24",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has the fraction 12/16, can they simplify it to its lowest terms — and explain what they divided the top and bottom by?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Simplifying Fractions: Simplify 18/24 to 3/4 by identifying the HCF of 18 and 24 Express 2/3 and 5/8 with a common denominator of 24",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_05"
+    },
+    {
+      "title": "Dividing fractions (unit fractions)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Dividing fractions (unit fractions)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret and compute division of a unit fraction by a non-zero whole number (e.g. 1/3 ÷ 4 = 1/12); use visual models and the relationship between multiplication and division to explain the result",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compute (1/3) ÷ 4 = 1/12 and explain using a visual model of splitting 1/3 into 4 equal parts",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has 1/3 of a bag of rice and splits it into 4 equal portions, can they work out what fraction of the whole bag each portion is — and explain why the answer is smaller than 1/3?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Dividing fractions (unit fractions). Compute (1/3) ÷ 4 = 1/12 and explain using a visual model of splitting 1/3 into 4 equal parts Create a story context for (1/6) ÷ 3 and solve it",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_06"
+    },
+    {
+      "title": "Decimals and fractions (age 11+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Decimals and fractions (age 11+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Work interchangeably with terminating decimals and their corresponding fractions (such as 3.5 and 7/2 or 0.375 and 3/8); convert fluently between the two forms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Convert any terminating decimal to a fraction in simplest form",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees 0.375 on a calculator display, can they convert it to a fraction in its simplest form — without using the calculator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Decimals and fractions (age 11+). Convert any terminating decimal to a fraction in simplest form Convert any fraction with a denominator whose prime factors are only 2 and 5 to a terminating decimal",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_07"
+    },
+    {
+      "title": "Area with Fractions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Area with Fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find the area of a rectangle with fractional side lengths by tiling with unit-fraction squares; show that the area equals the product of the side lengths",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Tile a 2/3 × 3/4 rectangle with 1/12 squares and count to find area = 6/12 = 1/2",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a piece of fabric is 2/3 m long and 3/4 m wide, can you work out its area — and explain how tiling it with tiny fraction-squares shows the same answer as multiplying?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Area with Fractions. Tile a 2/3 × 3/4 rectangle with 1/12 squares and count to find area = 6/12 = 1/2 Explain why the number of unit-fraction tiles equals the product of the two fractions",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_08"
+    },
+    {
+      "title": "Dividing unit fractions and whole numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Dividing unit fractions and whole numbers? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve real-world problems involving division of unit fractions by whole numbers and whole numbers by unit fractions, using visual models and equations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve: '3 people share 1/2 lb of chocolate equally — how much each?' (1/6 lb)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has half a pizza to share equally among 3 people, can they work out what fraction of the whole pizza each person gets — and explain the steps they took?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Dividing unit fractions and whole numbers. Solve: '3 people share 1/2 lb of chocolate equally — how much each?' (1/6 lb) Solve: 'How many 1/3-cup servings in 2 cups of raisins?' (6 servings)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_09"
+    },
+    {
+      "title": "Multiplication as scaling",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Multiplication as scaling? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret multiplication as scaling (resizing): compare the size of a product to a factor based on the size of the other factor without computing; explain the effect of multiplying by fractions greater than, equal to, or less than 1",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Predict without calculating whether 3/4 × 7 is greater or less than 7",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you multiplies 20 by 1/4, can they predict whether the answer will be bigger or smaller than 20 — and explain why, before doing the calculation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Multiplication as scaling. Predict without calculating whether 3/4 × 7 is greater or less than 7 Explain why multiplying by 5/3 makes a number larger and multiplying by 2/5 makes it smaller",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_10"
+    },
+    {
+      "title": "Dividing by Fractions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Dividing by Fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret and compute division of a whole number by a unit fraction (e.g. 4 ÷ 1/5 = 20); use visual models and the relationship between multiplication and division to explain why the quotient is larger than the dividend",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compute 4 ÷ (1/5) = 20 and explain: 'How many fifths fit in 4 wholes?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you have 4 metres of ribbon and each bow needs 1/5 of a metre, can you work out how many bows you can make — and explain why the answer is bigger than 4?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Dividing by Fractions. Compute 4 ÷ (1/5) = 20 and explain: 'How many fifths fit in 4 wholes?' Create a story context for 6 ÷ (1/4) and solve it",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_11"
+    },
+    {
+      "title": "Real-world fraction multiplication",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Real-world fraction multiplication! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve real-world problems involving multiplication of fractions and mixed numbers, using visual fraction models or equations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve: 'A recipe needs 2 1/3 cups of flour; you want to make 1 1/2 batches. How much flour?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe makes 12 biscuits using 1 and 1/2 cups of sugar, and you wants to make only 2/3 of the recipe, can they work out how much sugar they need?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Real-world fraction multiplication. Solve: 'A recipe needs 2 1/3 cups of flour; you want to make 1 1/2 batches. How much flour?' Draw a fraction model to represent and solve a multiplication word problem",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_12"
+    },
+    {
+      "title": "Dividing fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Dividing fractions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Divide a fraction by a fraction using the 'keep-change-flip' method and visual models; interpret and solve word problems involving division of fractions by fractions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Divide a fraction by a fraction using the reciprocal method",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has 3/4 of a litre of juice and each glass holds 3/8 of a litre, can they work out how many glasses they can fill — using fraction division?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Dividing fractions. Divide a fraction by a fraction using the reciprocal method Use visual fraction models to represent and explain fraction division",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_13"
+    },
+    {
+      "title": "Multiplying fractions (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Multiplying fractions (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply a fraction or whole number by a fraction, including proper fractions by proper fractions; interpret (a/b) × q as a parts of q partitioned into b equal parts; write answers in simplest form",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compute (2/3) × (4/5) = 8/15 and show with an area model",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe uses 2/3 of a bag of flour and you only wants to make 3/4 of the recipe, can they multiply those fractions to find out how much flour they need?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multiplying fractions (age 10+). Compute (2/3) × (4/5) = 8/15 and show with an area model Use a visual model to demonstrate (2/3) × 4 = 8/3 = 2 2/3",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_14"
+    },
+    {
+      "title": "Adding Fractions (Unlike Denominators)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Adding Fractions (Unlike Denominators)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions to produce a common denominator",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compute 2/3 + 5/4 by converting to twelfths: 8/12 + 15/12 = 23/12",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe uses 2/3 of a cup of one ingredient and 3/4 of another, can you add those fractions together — even though the denominators are different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding Fractions (Unlike Denominators): Compute 2/3 + 5/4 by converting to twelfths: 8/12 + 15/12 = 23/12 Subtract 1 3/5 from 3 1/4 using a common denominator",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_15"
+    },
+    {
+      "title": "Fraction Word Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Fraction Word Problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving addition and subtraction of fractions with unlike denominators, using visual models and benchmark fractions to estimate and assess reasonableness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Solve: 'Tara ate 2/5 of a pizza and Sam ate 1/3. How much did they eat together?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you walks 1 and 1/2 miles to school and 3/4 of a mile to a friend's house, can they work out the total distance — and check whether their answer makes sense?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fraction Word Problems: Solve: 'Tara ate 2/5 of a pizza and Sam ate 1/3. How much did they eat together?' Recognise that 2/5 + 1/2 ≠ 3/7 because 3/7 < 1/2 but the sum should exceed 1/2",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_16"
+    },
+    {
+      "title": "Comparing fractions (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparing fractions (age 10+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and order fractions including fractions greater than 1, by converting to common denominators or using benchmarks",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Order 3/4, 7/8, 5/6, and 11/12 from smallest to largest",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to sort 5/3, 7/4, and 2/1 in order from smallest to biggest, can they convert them to a common denominator and order them correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing fractions (age 10+). Order 3/4, 7/8, 5/6, and 11/12 from smallest to largest Compare 7/5 and 4/3 using common denominators",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_04_lesson_17"
+    }
+  ],
+  "id": "Math_unit_04"
+}

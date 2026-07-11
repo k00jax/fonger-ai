@@ -1,0 +1,191 @@
+{
+  "title": "Responsible Decision-Making",
+  "objective": "Students will explore responsible decision-making concepts including Vocabulary: making decisions and keeping safe, Actions and Their Consequences, Right and Wrong Choices and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE.INT.P3.CU.5",
+    "ib-pyp-pspe:PSPE.INT.P2.CU.2",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-9",
+    "ib-pyp-pspe:PSPE.INT.P1.LO.8"
+  ],
+  "skills_tested": [
+    "responsible_decision-making"
+  ],
+  "lessons": [
+    {
+      "title": "Vocabulary: making decisions and keeping safe",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Vocabulary: making decisions and keeping safe. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of making decisions and keeping safe — choice, consequence, rule, safe, fair, honest, trusted adult, and right and wrong — and understand that naming these ideas clearly helps make better choices",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain what 'consequence' means and give an example of a positive and a negative consequence of a choice",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you faces a situation where they need to make a choice — like whether to tell the truth about something that went wrong — can they talk through what might happen using words like 'consequence' and 'fair'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Vocabulary: making decisions and keeping safe. Explain what 'consequence' means and give an example of a positive and a negative consequence of a choice Use 'responsible' and 'safe' correctly when talking about everyday decisions — e.g. 'The responsible choice is to tell an adult'",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_04_lesson_01"
+    },
+    {
+      "title": "Actions and Their Consequences",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Actions and Their Consequences!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that actions have consequences — that what you choose to do affects both yourself and other people — and begin to think about what might happen before they act",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe what happened as a consequence of a specific action they took",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before you does something — like taking a toy from a sibling or running in the corridor — can they stop and think about what might happen as a result?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Actions and Their Consequences: Describe what happened as a consequence of a specific action they took Predict what might happen if they choose a particular action before doing it",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_04_lesson_02"
+    },
+    {
+      "title": "Right and Wrong Choices",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Right and Wrong Choices? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the difference between right and wrong in familiar everyday situations — understanding basic rules about honesty, not hurting others, respecting others' property, and being fair — and choose to do the right thing even when it's harder",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the right and wrong choice in a simple moral scenario",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you accidentally breaks something at a friend's house, do they tell the truth about it rather than hiding it or blaming someone else?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Right and Wrong Choices. Identify the right and wrong choice in a simple moral scenario Choose to be honest even when lying would avoid trouble",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_04_lesson_03"
+    },
+    {
+      "title": "Rules and agreements exist",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Rules and agreements exist. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand why rules and agreements exist — that they help keep people safe, make things fair, and help groups work well together — and follow agreed rules willingly rather than only when being watched",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain the reason behind at least two rules at home or school",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you follow the class rules or family agreements even when no adult is watching — not because they're scared of punishment but because they understand why the rules matter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rules and agreements exist: Explain the reason behind at least two rules at home or school Follow a rule consistently without needing to be reminded or monitored",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_04_lesson_04"
+    },
+    {
+      "title": "Everyday Safety Awareness",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Everyday Safety Awareness. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Keep themselves safe in everyday situations — knowing basic safety rules about roads, strangers, water, and the internet — and understanding who their trusted adults are and when to tell them something",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State at least three basic safety rules and explain why each matters",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know their basic safety rules — like not going off with someone they don't know, looking both ways before crossing, and telling you if something online makes them uncomfortable?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Everyday Safety Awareness. State at least three basic safety rules and explain why each matters Name their trusted adults and describe when they should tell them something",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_04_lesson_05"
+    }
+  ],
+  "id": "SEL_unit_04"
+}

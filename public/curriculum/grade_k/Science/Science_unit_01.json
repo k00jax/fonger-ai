@@ -1,0 +1,256 @@
+{
+  "title": "Animals of the World",
+  "objective": "Students will explore animals of the world concepts including Animals Everywhere, Animal Homes, How Animals Have Babies and more.",
+  "standards": [],
+  "skills_tested": [
+    "animals_of_the_world"
+  ],
+  "lessons": [
+    {
+      "title": "Animals Everywhere",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Animals Everywhere. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that animals live all over the world — on land, in water, and in the air — and that every continent, even icy Antarctica, is home to animals, each suited to the conditions where they live",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Names at least 3 animals from different environments (e.g., forest, ocean, desert)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you pictures of a polar bear, a parrot, a camel, and a penguin, can they tell you that animals live in all sorts of different places around the world?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animals Everywhere. Names at least 3 animals from different environments (e.g., forest, ocean, desert) States that animals live on land, in water, and some can fly",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_01_lesson_01"
+    },
+    {
+      "title": "Animal Homes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Animal Homes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that animals make or find many different kinds of homes — birds build nests, rabbits dig burrows, bees live in hives, hermit crabs use empty shells, spiders spin webs — and that these shelters protect them and their young",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Names at least 4 different types of animal homes (nest, burrow, hive, web, shell, den, lodge)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you where different animals live, can they describe several animal homes — like a bird's nest, a rabbit's burrow, or a bee's hive — and say why animals need shelter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Animal Homes: Names at least 4 different types of animal homes (nest, burrow, hive, web, shell, den, lodge) Explains that animals need homes for shelter and to keep their babies safe",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_01_lesson_02"
+    },
+    {
+      "title": "How Animals Have Babies",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore How Animals Have Babies! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that different animals have their babies in different ways — some lay eggs (birds, reptiles, fish, insects), some give birth to live young (most mammals) — and that babies may look like miniature adults or look very different from their parents",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Gives examples of animals that lay eggs and animals that give birth to live young",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a nest with eggs in a nature programme, can they explain that birds lay eggs and the babies hatch out, but dogs and cats have their babies born alive?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How Animals Have Babies. Gives examples of animals that lay eggs and animals that give birth to live young Describes at least one example of a baby that looks different from its parent (e.g., tadpole/frog, caterpillar/butterfly)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_01_lesson_03"
+    },
+    {
+      "title": "Wild, Farm & Pet Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Wild, Farm & Pet Animals!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the difference between wild animals, farm animals, and pets — wild animals find their own food and shelter in nature; farm animals are kept by people for food, wool, or eggs; pets are animals people keep for companionship — and know that wild animals should be observed from a distance",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sorts animals into wild, farm, and pet categories with examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a fox in the garden, can they explain that it's a wild animal — different from their pet cat or a farm sheep — and that wild animals look after themselves and shouldn't be touched?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Wild, Farm & Pet Animals. Sorts animals into wild, farm, and pet categories with examples Explains one key difference between each category",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_01_lesson_04"
+    },
+    {
+      "title": "Nocturnal Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Nocturnal Animals!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that some animals are nocturnal — active at night and sleeping during the day — and that nocturnal animals often have special features like big eyes (owls, tarsiers), large ears (bats, fennec foxes), or sensitive whiskers to help them find food in the dark",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explains what 'nocturnal' means",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hears an owl hooting at bedtime, can they explain that owls are nocturnal — meaning they sleep during the day and come out at night — and that their big eyes help them see in the dark?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Nocturnal Animals: Explains what 'nocturnal' means Names at least 3 nocturnal animals (e.g., owl, bat, fox, hedgehog, moth)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_01_lesson_05"
+    },
+    {
+      "title": "Animal Camouflage",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Animal Camouflage! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that many animals use camouflage — colours and patterns that help them blend into their surroundings — to hide from predators or to sneak up on prey, like a leaf insect that looks like a leaf or an Arctic hare that turns white in winter",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains that camouflage means blending in with surroundings",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you tries to spot a grasshopper in the garden, can they explain that it's hard to see because its green colour helps it hide in the grass — and give other examples of animals that use camouflage?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animal Camouflage. Explains that camouflage means blending in with surroundings Gives at least 3 examples of camouflaged animals",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_01_lesson_06"
+    },
+    {
+      "title": "Animal Record-Holders",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Animal Record-Holders!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know some of the world's animal record-holders — the blue whale is the largest animal ever, the cheetah is the fastest land animal, the bee hummingbird is the smallest bird, the giraffe is the tallest — and compare their sizes to familiar objects",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Names at least 4 animal record-holders with their record (fastest, biggest, tallest, smallest, etc.)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you which animal is the fastest or the biggest in the world, can they name some record-holders like the cheetah or blue whale and compare their size to something familiar, like 'a blue whale is as long as three buses'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animal Record-Holders. Names at least 4 animal record-holders with their record (fastest, biggest, tallest, smallest, etc.) Compares an animal's size or ability to a familiar reference",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_01_lesson_07"
+    }
+  ],
+  "id": "Science_unit_01"
+}

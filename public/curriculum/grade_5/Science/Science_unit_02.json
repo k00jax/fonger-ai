@@ -1,0 +1,118 @@
+{
+  "title": "Dinosaurs & Paleontology",
+  "objective": "Students will explore dinosaurs & paleontology concepts including Dinosaur-to-Bird Transition, Life Changed Over Time, Radiometric Dating.",
+  "standards": [
+    "uk-nc-2013:Y6.Sci.EI.1"
+  ],
+  "skills_tested": [
+    "dinosaurs_paleontology"
+  ],
+  "lessons": [
+    {
+      "title": "Dinosaur-to-Bird Transition",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Dinosaur-to-Bird Transition. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Trace the evidence for the dinosaur-to-bird transition in depth: feathered theropods from the Liaoning Formation (China), the mix of dinosaur and bird features in Archaeopteryx, and the competing ground-up versus trees-down hypotheses for the origin of flight",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describes at least three specific feathered theropod fossils (e.g. Microraptor, Anchiornis, Sinosauropteryx) and what each tells us",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was told that a sparrow is technically a living dinosaur, could they explain the chain of fossil evidence that supports this — naming at least one key transitional fossil and describing what makes it part dinosaur, part bird?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Dinosaur-to-Bird Transition: Describes at least three specific feathered theropod fossils (e.g. Microraptor, Anchiornis, Sinosauropteryx) and what each tells us Describes Archaeopteryx as showing a mix of bird features (feathers, wishbone) and dinosaur features (teeth, clawed wings, long bony tail)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_02_lesson_01"
+    },
+    {
+      "title": "Life Changed Over Time",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Life Changed Over Time? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that living things have changed over time and that fossils provide information about organisms that inhabited the Earth millions of years ago",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that living things have changed (evolved) over millions of years",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that the animals and plants alive today are different from those that lived millions of years ago, and that we know this from fossils?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Life Changed Over Time. State that living things have changed (evolved) over millions of years Describe how fossils form and what information they provide about the past",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_02_lesson_02"
+    },
+    {
+      "title": "Radiometric Dating",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Radiometric Dating? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how radiometric dating works — radioactive isotopes decay at a known rate (half-life), so measuring the ratio of parent to daughter isotope in a rock or fossil gives an absolute age; distinguish between carbon-14 (useful up to ~50,000 years) and uranium-lead (useful for millions to billions of years)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Defines half-life as the time for half the radioactive parent isotope to decay to the daughter isotope",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was told a dinosaur bone was dated using uranium-lead radiometric dating, could they explain what that means — what is decaying, why the rate of decay is useful, and roughly why scientists don't use carbon-14 for 70-million-year-old bones?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Radiometric Dating. Defines half-life as the time for half the radioactive parent isotope to decay to the daughter isotope Explains that the parent:daughter ratio in a sample gives an estimate of absolute age",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_02_lesson_03"
+    }
+  ],
+  "id": "Science_unit_02"
+}

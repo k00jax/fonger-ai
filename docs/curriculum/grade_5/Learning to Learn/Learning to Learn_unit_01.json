@@ -1,0 +1,81 @@
+{
+  "title": "Learning to Learn",
+  "objective": "Students will explore learning to learn concepts including Finding Knowledge Gaps, Setting Learning Goals.",
+  "standards": [],
+  "skills_tested": [
+    "learning_to_learn"
+  ],
+  "lessons": [
+    {
+      "title": "Finding Knowledge Gaps",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Finding Knowledge Gaps!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Survey your own understanding of a whole topic — identify where your knowledge is solid, where it is shaky, and what still needs work",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. metacognitive monitoring research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you how well they understand a whole topic, can they tell you honestly which parts they feel confident on and which parts need more work?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Finding Knowledge Gaps. metacognitive monitoring research Flavell metacognition framework",
+          "media": {}
+        }
+      ],
+      "id": "5_Learning to Learn_unit_01_lesson_01"
+    },
+    {
+      "title": "Setting Learning Goals",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Setting Learning Goals. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Set a specific learning goal, work towards it with a deliberate plan, then honestly assess whether you achieved it and what you would change",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Set a specific, achievable learning goal for themselves — e.g. 'By Friday I want to know all my 7-times tables' rather than just 'get better at maths'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you ever set themselves a specific learning goal — like 'I want to get better at times tables by the end of the week' — and then honestly judge whether they met it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Setting Learning Goals: Set a specific, achievable learning goal for themselves — e.g. 'By Friday I want to know all my 7-times tables' rather than just 'get better at maths' Make a simple plan for how to reach their goal and follow through on it over several days",
+          "media": {}
+        }
+      ],
+      "id": "5_Learning to Learn_unit_01_lesson_02"
+    }
+  ],
+  "id": "Learning to Learn_unit_01"
+}

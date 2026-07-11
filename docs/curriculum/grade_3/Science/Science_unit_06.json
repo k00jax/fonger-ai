@@ -1,0 +1,155 @@
+{
+  "title": "Scientific Inquiry",
+  "objective": "Students will explore scientific inquiry concepts including Correlation vs Causation, Comparing Possible Solutions, Fair testing (age 8+) and more.",
+  "standards": [
+    "ngss-k5:3-5-ETS1-3",
+    "ngss-k5:3-5-ETS1-1",
+    "ngss-k5:3-5-ETS1-2"
+  ],
+  "skills_tested": [
+    "scientific_inquiry"
+  ],
+  "lessons": [
+    {
+      "title": "Correlation vs Causation",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Correlation vs Causation. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Two things happening together doesn't mean one caused the other — recognise the difference between correlation and causation before drawing conclusions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: developmental changes in children's recognition of evidence relevance to causal explanations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you noticed that children who eat breakfast tend to do better at school, would they understand that breakfast might not be the cause — there could be another reason both things are true?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Correlation vs Causation: developmental changes in children's recognition of evidence relevance to causal explanations causal learning research",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_06_lesson_01"
+    },
+    {
+      "title": "Comparing Possible Solutions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Comparing Possible Solutions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Generate at least three possible solutions to a defined design problem",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you brainstorm several different solutions to a design challenge and then compare them to decide which one best meets the requirements?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing Possible Solutions. Generate at least three possible solutions to a defined design problem Compare solutions against the specified criteria and constraints",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_06_lesson_02"
+    },
+    {
+      "title": "Fair testing (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Fair testing (age 8+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Plan a fair test of a prototype with clearly identified variables to control",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you builds and tests a prototype, can they run a fair test, find what didn't work, and figure out how to make it better?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fair testing (age 8+): Plan a fair test of a prototype with clearly identified variables to control Carry out the test and identify failure points or weaknesses in the design",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_06_lesson_03"
+    },
+    {
+      "title": "Simple Design Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Simple Design Problems? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Define a simple design problem reflecting a need or want that includes specified criteria for success and constraints on materials, time, or cost",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define a design problem by describing the need or want it addresses",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you clearly state what problem they're trying to solve with a design, what would make it successful, and what limits they have on materials or time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Simple Design Problems. Define a design problem by describing the need or want it addresses Specify at least two criteria for a successful solution (e.g. must hold X weight, must cost less than Y)",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_06_lesson_04"
+    }
+  ],
+  "id": "Science_unit_06"
+}

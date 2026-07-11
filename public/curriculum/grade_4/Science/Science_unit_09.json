@@ -1,0 +1,256 @@
+{
+  "title": "Ocean Life",
+  "objective": "Students will explore ocean life concepts including Oceans & Climate, Ocean Ecosystems, Protecting the Ocean and more.",
+  "standards": [],
+  "skills_tested": [
+    "ocean_life"
+  ],
+  "lessons": [
+    {
+      "title": "Oceans & Climate",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Oceans & Climate? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the connection between the ocean and climate: the ocean absorbs heat and carbon dioxide, drives weather patterns through evaporation, and ocean currents distribute warmth around the planet — making the ocean Earth's climate engine",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that the ocean absorbs a large amount of the Sun's heat and atmospheric carbon dioxide",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why the ocean is sometimes called Earth's climate engine — that it absorbs heat, drives rain through evaporation, and moves warmth around the world through currents?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Oceans & Climate. Explain that the ocean absorbs a large amount of the Sun's heat and atmospheric carbon dioxide Describe the ocean's role in the water cycle through evaporation",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_09_lesson_01"
+    },
+    {
+      "title": "Ocean Ecosystems",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Ocean Ecosystems! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand ocean ecosystems as interconnected systems where living things (producers, consumers, decomposers) and non-living factors (temperature, salinity, light, currents) all interact, and that changes to one part affect the whole system",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe an ocean ecosystem as a system of living and non-living parts that interact",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why warmer ocean temperatures don't just affect one species — they change the whole ecosystem, from the plankton at the bottom of the food web to the whales at the top?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ocean Ecosystems: Describe an ocean ecosystem as a system of living and non-living parts that interact Name key non-living factors that affect ocean life: temperature, salinity, light, currents",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_09_lesson_02"
+    },
+    {
+      "title": "Protecting the Ocean",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Protecting the Ocean!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how people protect the ocean: marine protected areas limit fishing and pollution, sustainable fishing prevents overharvesting, beach clean-ups reduce plastic, and international agreements aim to reduce carbon emissions that cause ocean acidification",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain what a marine protected area is and why it helps",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard about a marine protected area where fishing is banned, could they explain why it helps — and name other ways people are working to protect the ocean from pollution, overfishing, and climate change?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Protecting the Ocean: Explain what a marine protected area is and why it helps Describe sustainable fishing as taking only what the ocean can replace",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_09_lesson_03"
+    },
+    {
+      "title": "Ocean Pollution & Harm",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Ocean Pollution & Harm!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify ways humans harm the ocean — plastic pollution, overfishing, oil spills, and ocean acidification from carbon dioxide — and understand that most ocean pollution comes from land-based activities, not just ships",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least three ways humans harm the ocean",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw plastic washed up on a beach, could they explain where it came from, how it harms sea life, and name other ways humans damage the ocean like overfishing and pollution from factories?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Ocean Pollution & Harm. Name at least three ways humans harm the ocean Explain that most ocean pollution originates on land, not from ships",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_09_lesson_04"
+    },
+    {
+      "title": "Ocean Animal Migrations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Ocean Animal Migrations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that many ocean animals undertake remarkable migrations — humpback whales travel thousands of miles between feeding and breeding grounds, sea turtles return to the same beach where they hatched to lay eggs — and understand these journeys are linked to seasonal food supplies and reproduction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe at least one example of marine animal migration in detail",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard that a humpback whale swims from Antarctica to the tropics every year, could they explain why — that it's following food in summer and heading to warmer waters to have its baby?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ocean Animal Migrations. Describe at least one example of marine animal migration in detail Explain that migrations are driven by seasonal food availability and breeding needs",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_09_lesson_05"
+    },
+    {
+      "title": "Deep-Sea Creatures",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Deep-Sea Creatures!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore life in the deep sea: animals that make their own light (bioluminescence), creatures adapted to crushing pressure and total darkness, and hydrothermal vents where life thrives without sunlight",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define bioluminescence as the ability of some deep-sea creatures to produce their own light",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw footage of glowing deep-sea creatures, could they explain how some animals make their own light and why life can exist even in the deepest, darkest parts of the ocean?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Deep-Sea Creatures. Define bioluminescence as the ability of some deep-sea creatures to produce their own light Describe at least two adaptations deep-sea animals have for life in darkness and pressure",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_09_lesson_06"
+    },
+    {
+      "title": "Exploring the Ocean",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Exploring the Ocean? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that oceanographers and marine biologists study the ocean using submarines, remotely operated vehicles (ROVs), satellites, and diving, and that much of the ocean remains unexplored — we know more about the Moon's surface than the deep ocean floor",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least two tools scientists use to explore the ocean: submarines, ROVs, satellites",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how scientists explore the deep ocean using robots and submarines, and why we've still only explored a small fraction of the ocean floor — less than we know about the Moon?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Exploring the Ocean: Name at least two tools scientists use to explore the ocean: submarines, ROVs, satellites State that most of the deep ocean remains unexplored",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_09_lesson_07"
+    }
+  ],
+  "id": "Science_unit_09"
+}

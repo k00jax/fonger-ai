@@ -1,0 +1,121 @@
+{
+  "title": "Earth's Systems",
+  "objective": "Students will explore earth's systems concepts including Seasonal changes, Local weather patterns, How Organisms Shape Habitats.",
+  "standards": [
+    "uk-nc-2013:Y1.Sci.SC.2",
+    "ngss-k5:K-ESS2-2",
+    "uk-nc-2013:Y1.Sci.SC.1",
+    "ngss-k5:K-ESS2-1"
+  ],
+  "skills_tested": [
+    "earth's_systems"
+  ],
+  "lessons": [
+    {
+      "title": "Seasonal changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Seasonal changes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe changes across the four seasons and describe weather associated with each season, including how day length varies",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the four seasons and describe typical weather for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe what happens in each season — like leaves falling in autumn, snow in winter — and notice that days are shorter in winter and longer in summer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Seasonal changes: Name the four seasons and describe typical weather for each Describe how day length changes through the year (longer in summer, shorter in winter)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_03_lesson_01"
+    },
+    {
+      "title": "Local weather patterns",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Local weather patterns! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use and share observations of local weather conditions to describe patterns over time, recording temperature, rainfall, and other conditions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Observe and record daily weather conditions (temperature, cloud cover, precipitation, wind)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you kept a weather diary for a week or more, recording whether it was sunny, rainy, or windy, and noticed any patterns?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Local weather patterns. Observe and record daily weather conditions (temperature, cloud cover, precipitation, wind) Identify patterns in weather data over days or weeks",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_03_lesson_02"
+    },
+    {
+      "title": "How Organisms Shape Habitats",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about How Organisms Shape Habitats. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct an argument supported by evidence for how plants and animals can change the environment to meet their needs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give at least three examples of organisms changing their environment (beaver dams, bird nests, plant roots breaking rock)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a beaver builds a dam that changes a river into a pond, or how tree roots can crack rocks apart?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Organisms Shape Habitats. Give at least three examples of organisms changing their environment (beaver dams, bird nests, plant roots breaking rock) Explain why organisms change their environment (to meet needs for shelter, food, water)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_03_lesson_03"
+    }
+  ],
+  "id": "Science_unit_03"
+}

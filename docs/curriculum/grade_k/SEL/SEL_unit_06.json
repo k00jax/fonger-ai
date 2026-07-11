@@ -1,0 +1,192 @@
+{
+  "title": "Self-Regulation & Resilience",
+  "objective": "Students will explore self-regulation & resilience concepts including Words for Big Feelings, Simple Calming Strategies, Learning from Mistakes and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-LO-P2-7",
+    "ib-pyp-pspe:PSPE-ID-LO-P1-7",
+    "ib-pyp-pspe:PSPE-ID-CU-P1-2",
+    "ib-pyp-pspe:PSPE-ID-LO-P1-9",
+    "ib-pyp-pspe:PSPE-ID-LO-P1-11"
+  ],
+  "skills_tested": [
+    "self-regulation_resilience"
+  ],
+  "lessons": [
+    {
+      "title": "Words for Big Feelings",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Words for Big Feelings. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the key words for managing big feelings — calm, strategy, cope, settle, patience, overwhelmed, and breathe — and understand that having words for these ideas is the first step to using them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use words like 'frustrated', 'anxious', 'overwhelmed', and 'disappointed' accurately to describe how they feel in difficult moments",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is feeling really upset or frustrated, can they use words like 'I need to calm down' or 'I'm feeling overwhelmed' instead of just acting out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Words for Big Feelings. Use words like 'frustrated', 'anxious', 'overwhelmed', and 'disappointed' accurately to describe how they feel in difficult moments Explain what 'calm down' strategies are in their own words and name at least two they have tried (e.g. deep breaths, counting, walking away)",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_06_lesson_01"
+    },
+    {
+      "title": "Simple Calming Strategies",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Simple Calming Strategies!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use simple calming strategies when feeling upset or overwhelmed — such as taking deep breaths, counting to ten, or going to a quiet space — and understand that these help the body and mind settle down",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Demonstrate at least two calming strategies when prompted",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you gets really upset — say they lose a game or argue with a sibling — can they use a strategy like deep breaths to calm themselves down rather than staying in meltdown mode?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Simple Calming Strategies: Demonstrate at least two calming strategies when prompted Choose to use a calming strategy independently during a real upset",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_06_lesson_02"
+    },
+    {
+      "title": "Learning from Mistakes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Learning from Mistakes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that making mistakes is a normal part of learning and that everyone — including adults — makes mistakes, and begin to see mistakes as opportunities to learn rather than reasons to give up",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe a time they made a mistake and what they learned from it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you gets an answer wrong in class or messes up during a game, do they bounce back and keep trying rather than shutting down or saying 'I can't do it'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Learning from Mistakes. Describe a time they made a mistake and what they learned from it Respond to a mistake by trying again rather than giving up",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_06_lesson_03"
+    },
+    {
+      "title": "Coping with Life Changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Coping with Life Changes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that change is a normal part of life — such as starting school, getting a new teacher, a new baby arriving, or moving house — and identify simple strategies that help them cope with changes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least two changes they have experienced and how they felt",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When something changes in you's life — like getting a new teacher at school — can they talk about how it makes them feel and think of ways to help themselves adjust?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Coping with Life Changes. Name at least two changes they have experienced and how they felt Identify a person they can talk to when a change feels hard",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_06_lesson_04"
+    },
+    {
+      "title": "Patience and Delayed Gratification",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Patience and Delayed Gratification! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Wait for things they want without becoming very distressed — practising patience and delayed gratification in everyday situations like waiting their turn, waiting for a treat, or waiting for help",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Wait for their turn in a game or activity without constant complaints",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has to wait their turn for something they really want — like a go on the iPad or being served dinner — can they wait without a big fuss?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Patience and Delayed Gratification. Wait for their turn in a game or activity without constant complaints Describe what they do to help themselves wait, such as thinking about something else",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_06_lesson_05"
+    }
+  ],
+  "id": "SEL_unit_06"
+}

@@ -1,0 +1,192 @@
+{
+  "title": "Energy",
+  "objective": "Students will explore energy concepts including Building a simple circuit, What uses electricity at home, How switches work and more.",
+  "standards": [
+    "uk-nc-2013:Y4.Sci.E.2",
+    "uk-nc-2013:Y4.Sci.E.5",
+    "uk-nc-2013:Y4.Sci.E.4",
+    "uk-nc-2013:Y4.Sci.E.1",
+    "uk-nc-2013:Y4.Sci.E.3"
+  ],
+  "skills_tested": [
+    "energy"
+  ],
+  "lessons": [
+    {
+      "title": "Building a simple circuit",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Building a simple circuit!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct a simple series electrical circuit, identifying and naming its basic parts: cells, wires, bulbs, switches, and buzzers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Build a complete series circuit that lights a bulb or sounds a buzzer",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you build a working circuit with a battery, wires, and a light bulb, and name each part they're using?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Building a simple circuit. Build a complete series circuit that lights a bulb or sounds a buzzer Name each component: cell (battery), wire, bulb, switch, buzzer",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_03_lesson_01"
+    },
+    {
+      "title": "What uses electricity at home",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of What uses electricity at home!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify common appliances that run on electricity and understand that electricity is a form of energy that powers devices in everyday life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least ten common appliances that run on electricity",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you walk around the house and point out which things use electricity to work, like the fridge, TV, and lights?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What uses electricity at home. Name at least ten common appliances that run on electricity Distinguish between mains-powered and battery-powered appliances",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_03_lesson_02"
+    },
+    {
+      "title": "How switches work",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about How switches work!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that a switch opens and closes a circuit, controlling whether a lamp lights or a buzzer sounds",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that a closed switch completes the circuit (current flows) and an open switch breaks it (current stops)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what happens inside the wall when they flip a light switch — that it completes or breaks the electrical loop?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How switches work. Explain that a closed switch completes the circuit (current flows) and an open switch breaks it (current stops) Demonstrate adding a switch to a circuit and using it to control a bulb or buzzer",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_03_lesson_03"
+    },
+    {
+      "title": "Will the bulb light up?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Will the bulb light up?? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify whether or not a lamp will light in a simple series circuit, based on whether the lamp is part of a complete loop with a battery",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Predict whether a lamp will light by tracing the circuit for a complete loop",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at a circuit diagram, can they tell you whether the bulb will light up or not, based on whether there's a complete loop?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Will the bulb light up?. Predict whether a lamp will light by tracing the circuit for a complete loop Explain that a gap anywhere in the circuit breaks the loop and the bulb won't light",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_03_lesson_04"
+    },
+    {
+      "title": "Conductors and insulators",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Conductors and insulators. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise some common conductors and insulators, and associate metals with being good conductors of electricity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define conductors (allow electricity to flow through) and insulators (block electricity)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you test objects in a circuit and explain why metal objects let electricity through but rubber and plastic don't?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Conductors and insulators. Define conductors (allow electricity to flow through) and insulators (block electricity) Test at least six materials and correctly classify them as conductors or insulators",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_03_lesson_05"
+    }
+  ],
+  "id": "Science_unit_03"
+}

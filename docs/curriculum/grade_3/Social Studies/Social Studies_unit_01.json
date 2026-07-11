@@ -1,0 +1,116 @@
+{
+  "title": "Historical Thinking",
+  "objective": "Students will explore historical thinking concepts including Checking Sources Against Each Other, Questioning Historical Sources, Understanding People in Their Own Time.",
+  "standards": [],
+  "skills_tested": [
+    "historical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Checking Sources Against Each Other",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "historical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Checking Sources Against Each Other! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Corroborate: check whether multiple sources agree on the same facts — and investigate why they might not",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Wineburg corroboration heuristic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was trying to find out what really happened in a historical event, would they know to look at more than one source and compare what they say?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Checking Sources Against Each Other: Wineburg corroboration heuristic Historical Thinking in the Elementary Years (ERIC)",
+          "media": {}
+        }
+      ],
+      "id": "3_Social Studies_unit_01_lesson_01"
+    },
+    {
+      "title": "Questioning Historical Sources",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "historical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Questioning Historical Sources? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Before trusting a historical source, ask: who made this, when, and why? — the answers shape how much weight the source should carry",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Wineburg sourcing heuristic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you looks at a historical document, photograph, or account, do they ask who created it and what that person's reasons or point of view might have been?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Questioning Historical Sources. Wineburg sourcing heuristic Teaching Historical Thinking Using Primary Sources (Library of Congress)",
+          "media": {}
+        }
+      ],
+      "id": "3_Social Studies_unit_01_lesson_02"
+    },
+    {
+      "title": "Understanding People in Their Own Time",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "historical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Understanding People in Their Own Time? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that people in the past saw the world very differently from us — judge their actions by the context they lived in, not only by today's values",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Historical Empathy: A Cognitive-Affective Theory (ERIC)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you learns that people in the past did something that seems wrong today, can they think about why those people might have believed it was normal or right at the time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Understanding People in Their Own Time. Historical Empathy: A Cognitive-Affective Theory (ERIC) Year 4-6 historical empathy research",
+          "media": {}
+        }
+      ],
+      "id": "3_Social Studies_unit_01_lesson_03"
+    }
+  ],
+  "id": "Social Studies_unit_01"
+}

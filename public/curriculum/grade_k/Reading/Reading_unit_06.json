@@ -1,0 +1,162 @@
+{
+  "title": "Spelling & Word Study",
+  "objective": "Students will explore spelling & word study concepts including Spelling Verb Endings, The Prefix un-, Tricky words and more.",
+  "standards": [
+    "uk-nc-2013:Eng_App1_Y1_14",
+    "uk-nc-2013:Eng_LKS2_Write_Trans_Spell_6",
+    "uk-nc-2013:Eng_Y1_WT_03",
+    "uk-nc-2013:Eng_App1_Y2_26",
+    "uk-nc-2013:Eng_Y1_WT_02",
+    "uk-nc-2013:Eng_App1_Y1_53",
+    "uk-nc-2013:Eng_LKS2_Write_Trans_Spell_3",
+    "uk-nc-2013:Eng_Y1_WT_10",
+    "uk-nc-2013:Eng_Y1_WT_06",
+    "uk-nc-2013:Eng_Y1_WT_08"
+  ],
+  "skills_tested": [
+    "spelling_word_study"
+  ],
+  "lessons": [
+    {
+      "title": "Spelling Verb Endings",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Spelling Verb Endings!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words with common suffixes (-s/-es for plurals and third person verbs, -ing, -ed, -er, -est) where no change to the root word is needed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Add -s or -es correctly to make plurals (e.g. 'cats', 'boxes')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes about more than one dog or talks about something that is happening now, do they add the right ending — like \"dogs\" or \"jumping\" — without making spelling mistakes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Spelling Verb Endings. Add -s or -es correctly to make plurals (e.g. 'cats', 'boxes') Spell words with -ing and -ed endings (e.g. 'jumping', 'helped')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_06_lesson_01"
+    },
+    {
+      "title": "The Prefix un-",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Prefix un-!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words using the prefix un- to change meaning; understand that un- creates opposites or reverses actions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Spell words with un- prefix correctly (e.g. 'unhappy', 'unfair', 'undo')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that adding \"un-\" to the front of a word like \"happy\" or \"lock\" flips its meaning, and can they spell those words correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Prefix un-. Spell words with un- prefix correctly (e.g. 'unhappy', 'unfair', 'undo') Explain how un- changes the meaning of a word",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_06_lesson_02"
+    },
+    {
+      "title": "Tricky words",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Tricky words!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell common exception words from memory that do not follow regular phonic patterns, including the days of the week",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Correctly spell high-frequency irregular words (e.g. 'said', 'the', 'was')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spell tricky everyday words like \"said,\" \"were,\" \"come,\" and the days of the week from memory without needing to sound them out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Tricky words. Correctly spell high-frequency irregular words (e.g. 'said', 'the', 'was') Write all seven days of the week correctly",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_06_lesson_03"
+    },
+    {
+      "title": "Spelling from Dictation",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Spelling from Dictation!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write simple sentences from memory when dictated by the teacher, applying taught GPCs, spelling rules, and common exception words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write a dictated sentence using phonically plausible spellings",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you read a sentence out loud to you and ask them to write it down, can they spell the words correctly and put the letters in the right order?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Spelling from Dictation. Write a dictated sentence using phonically plausible spellings Include correct spelling of taught exception words in dictation",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_06_lesson_04"
+    }
+  ],
+  "id": "Reading_unit_06"
+}

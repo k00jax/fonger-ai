@@ -1,0 +1,117 @@
+{
+  "title": "Scientific Inquiry",
+  "objective": "Students will explore scientific inquiry concepts including Observation vs Interpretation, Changing Your Mind with Evidence.",
+  "standards": [],
+  "skills_tested": [
+    "scientific_inquiry",
+    "space_systems_earth's_history"
+  ],
+  "lessons": [
+    {
+      "title": "Observation vs Interpretation",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Observation vs Interpretation? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice the difference between what you observed and what you think it means — 'the ice melted' is an observation; 'the ice melted because of the heat' is an interpretation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! observation vs interpretation in primary science",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you does a science activity, can they tell the difference between what they actually saw or measured — and what they think caused it or what it means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Observation vs Interpretation. observation vs interpretation in primary science BERA: children's observation skills in nature",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_04_lesson_01"
+    },
+    {
+      "title": "Changing Your Mind with Evidence",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Changing Your Mind with Evidence? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Be willing to change your mind when evidence doesn't support your prediction — a result that surprises you is more valuable than one that confirms what you already thought",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. belief revision in children research (PMC 2020)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you predicts what will happen in an experiment and gets a different result, do they accept the evidence rather than deciding the experiment must have gone wrong?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Changing Your Mind with Evidence. belief revision in children research (PMC 2020) hypothesis testing and argumentation from evidence in young children",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_04_lesson_02"
+    },
+    {
+      "title": "Sun, Moon, and stars",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Sun, Moon, and stars!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use observations of the sun, moon, and stars to describe predictable patterns such as the sun rising and setting, the moon changing shape, and stars appearing at night",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the daily pattern of sunrise and sunset",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe patterns they've noticed in the sky — like the sun rising in the east, the moon changing shape over weeks, and stars coming out at night?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Sun, Moon, and stars: Describe the daily pattern of sunrise and sunset Describe the pattern of the moon's shape changing over about a month",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_04_lesson_03"
+    }
+  ],
+  "id": "Science_unit_04"
+}

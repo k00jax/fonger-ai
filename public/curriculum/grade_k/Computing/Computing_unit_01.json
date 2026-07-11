@@ -1,0 +1,221 @@
+{
+  "title": "Artificial Intelligence",
+  "objective": "Students will explore artificial intelligence concepts including Computers in Everyday Life, AI in Daily Life, Voice Assistants and How They Work and more.",
+  "standards": [],
+  "skills_tested": [
+    "artificial_intelligence"
+  ],
+  "lessons": [
+    {
+      "title": "Computers in Everyday Life",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Computers in Everyday Life. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identifying computers in everyday life — not just laptops but phones, tablets, smart speakers, traffic lights, washing machines; what makes something a computer",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Point out at least five everyday objects that contain computers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you look around your home and point out at least five things that have a computer inside them, including ones that don't look like traditional computers?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Computers in Everyday Life. Point out at least five everyday objects that contain computers Explain what all computers have in common (they follow instructions and process information)",
+          "media": {}
+        }
+      ],
+      "id": "k_Computing_unit_01_lesson_01"
+    },
+    {
+      "title": "AI in Daily Life",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore AI in Daily Life! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spotting AI in daily life: face unlock on a phone, video recommendations, spelling auto-correct, automatic doors that detect people; technology that seems to 'know' things",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify at least five examples of AI in their daily life",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you point out several things they use every day — like auto-correct or face unlock — and explain that these are examples of AI?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about AI in Daily Life: Identify at least five examples of AI in their daily life Explain that these technologies use patterns and data, not magic or real thinking",
+          "media": {}
+        }
+      ],
+      "id": "k_Computing_unit_01_lesson_02"
+    },
+    {
+      "title": "Voice Assistants and How They Work",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Voice Assistants and How They Work!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What happens when you talk to Alexa, Siri, or Google Assistant; they listen, try to understand, look up answers; sometimes they get it wrong; they are tools, not alive",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the steps that happen when you ask a voice assistant a question (it listens, processes words, finds an answer, speaks back)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked Alexa or Siri a question and got a wrong answer, could they explain why the voice assistant sometimes makes mistakes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Voice Assistants and How They Work: Describe the steps that happen when you ask a voice assistant a question (it listens, processes words, finds an answer, speaks back) Give an example of a time a voice assistant might get something wrong",
+          "media": {}
+        }
+      ],
+      "id": "k_Computing_unit_01_lesson_03"
+    },
+    {
+      "title": "Smart Versus Not-Smart Devices",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Smart Versus Not-Smart Devices! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Sorting objects into 'smart' (can sense and respond) and 'not smart' (just sits there); a toaster vs a smart speaker; introduction to the idea that some machines can sense and respond to the world",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Sort a set of objects into 'smart' (responds to input) and 'not smart' (does the same thing every time)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain the difference between a normal light switch and one that turns on automatically when you walk into a room?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Smart Versus Not-Smart Devices: Sort a set of objects into 'smart' (responds to input) and 'not smart' (does the same thing every time) Explain what makes a smart speaker different from a regular radio",
+          "media": {}
+        }
+      ],
+      "id": "k_Computing_unit_01_lesson_04"
+    },
+    {
+      "title": "Step-by-Step Instructions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Step-by-Step Instructions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Step-by-step instructions for everyday tasks (making a sandwich, brushing teeth); that if instructions are wrong or missing, things go wrong; computers follow instructions exactly",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write or describe step-by-step instructions for a simple everyday task",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had to write instructions for making a jam sandwich so precise that even a robot could follow them, could they include every single step?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Step-by-Step Instructions. Write or describe step-by-step instructions for a simple everyday task Predict what goes wrong if a step is missing or in the wrong order",
+          "media": {}
+        }
+      ],
+      "id": "k_Computing_unit_01_lesson_05"
+    },
+    {
+      "title": "Real-World Robots",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Real-World Robots? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What a robot really is — not the sci-fi version; robots in factories, robot vacuum cleaners, robot arms in surgery; that robots follow instructions given by people",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe what a robot is (a machine that follows instructions to do a task)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a robot vacuum cleaner, could they explain how it's different from a person cleaning — that it follows instructions rather than thinking for itself?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Real-World Robots: Describe what a robot is (a machine that follows instructions to do a task) Name at least three real robots and what they do",
+          "media": {}
+        }
+      ],
+      "id": "k_Computing_unit_01_lesson_06"
+    }
+  ],
+  "id": "Computing_unit_01"
+}

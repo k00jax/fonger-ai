@@ -1,0 +1,256 @@
+{
+  "title": "Money & Finance",
+  "objective": "Students will explore money & finance concepts including Budgeting Pocket Money, Making Change, Advertising & Spending and more.",
+  "standards": [],
+  "skills_tested": [
+    "money_finance"
+  ],
+  "lessons": [
+    {
+      "title": "Budgeting Pocket Money",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Budgeting Pocket Money!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What a budget is; planning how to spend a fixed amount of pocket money or allowance; making trade-offs between different things you want to buy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Create a simple spending plan for £10 showing what they would buy and how much is left",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had £10 to spend at a school fair, could they plan in advance what to spend it on so the money lasts?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Budgeting Pocket Money. Create a simple spending plan for £10 showing what they would buy and how much is left Explain what a budget is and why it helps to plan spending",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_02_lesson_01"
+    },
+    {
+      "title": "Making Change",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Making Change. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Calculating change from a purchase; working confidently with pounds and pence together; solving practical money problems involving addition and subtraction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate the change from £5 when buying items costing pounds and pence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you bought a comic for £2.75 and paid with a £5 note, could they work out they should get £2.25 back?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Making Change. Calculate the change from £5 when buying items costing pounds and pence Add two or three prices together to find a total cost",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_02_lesson_02"
+    },
+    {
+      "title": "Advertising & Spending",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Advertising & Spending? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How advertising tries to influence what we buy; being a critical consumer; understanding 'value for money'; the difference between emotional and rational spending",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Spot at least two persuasion techniques in a real advert (bright colours, celebrity, special offer)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you sees an advert for a toy or game, can they recognise that the advert is trying to make them want to buy it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Advertising & Spending. Spot at least two persuasion techniques in a real advert (bright colours, celebrity, special offer) Explain what 'value for money' means and compare two similar products at different prices",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_02_lesson_03"
+    },
+    {
+      "title": "Banks & Saving",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Banks & Saving! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What banks do and why people use them; bank accounts as safe places for money; that savings in a bank can earn interest; children's savings accounts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what a bank does in simple terms (keeps money safe, lets you save)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain what a bank does and why people put their money there instead of keeping it all at home?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Banks & Saving. Explain what a bank does in simple terms (keeps money safe, lets you save) Describe what interest means (the bank pays you a little extra for keeping money there)",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_02_lesson_04"
+    },
+    {
+      "title": "Fair Trade & Ethics",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fair Trade & Ethics. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Where products come from and who makes them; that people around the world produce what we buy; fair pay for workers; making ethical choices as consumers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that the things we buy are made by real people, sometimes in other countries",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a Fairtrade logo on a chocolate bar, could they explain what it means and why it matters?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fair Trade & Ethics. Explain that the things we buy are made by real people, sometimes in other countries Describe what 'fair trade' means in simple terms (workers get paid fairly)",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_02_lesson_05"
+    },
+    {
+      "title": "Ways to Pay",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Ways to Pay? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Different ways to pay: cash, debit cards, contactless, online payments, mobile payments; that digital payments still use real money; keeping payment details safe",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least four different ways people can pay for things",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that when you tap a card or use a phone to pay, real money leaves your bank account even though you can't see coins changing hands?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ways to Pay: Name at least four different ways people can pay for things Explain that tapping a card or phone still spends real money from a bank account",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_02_lesson_06"
+    },
+    {
+      "title": "Earning Money",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Earning Money!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ways that children and adults earn money; the connection between work, skills and pay; that harder or more skilled work often pays more",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three different ways people can earn money",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why some jobs pay more than others and describe a way they might earn some money themselves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Earning Money. Name at least three different ways people can earn money Explain why a doctor might earn more than a shop assistant (training, skills, responsibility)",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_02_lesson_07"
+    }
+  ],
+  "id": "Life Skills_unit_02"
+}

@@ -1,0 +1,257 @@
+{
+  "title": "Probability",
+  "objective": "Students will explore probability concepts including Probability as a Fraction, Simple Chance Experiments, Likelihood Language and more.",
+  "standards": [],
+  "skills_tested": [
+    "probability",
+    "ratio_proportion"
+  ],
+  "lessons": [
+    {
+      "title": "Probability as a Fraction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Probability as a Fraction! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the probability of simple equally-likely outcomes using unit fractions: the probability of rolling a 6 on a fair die is 1/6, flipping heads is 1/2, picking one specific colour from three equally represented colours is 1/3; place these fractional probabilities on a 0-to-1 probability scale",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that the probability of rolling a 6 on a fair die is 1/6 and explain why",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you flips a fair coin, do they know the probability of getting heads is 1/2 — and can they express similar simple probabilities as fractions and place them on a 0-to-1 scale?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Probability as a Fraction. State that the probability of rolling a 6 on a fair die is 1/6 and explain why Express the probability of picking a red card from a standard deck as 26/52 or 1/2",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_09_lesson_01"
+    },
+    {
+      "title": "Simple Chance Experiments",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Simple Chance Experiments! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Conduct simple probability experiments — flipping a coin, rolling a die, pulling coloured counters from a bag — record results, and compare experimental outcomes with expected theoretical outcomes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Flip a coin 20 times, record heads and tails in a tally chart, and describe what they notice about the results",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you ever done an experiment like flipping a coin or rolling a die lots of times, recorded the results in a tally chart, and noticed any patterns in what came up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Simple Chance Experiments. Flip a coin 20 times, record heads and tails in a tally chart, and describe what they notice about the results Roll a die 30 times and compare how often each number came up with what they expected",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_09_lesson_02"
+    },
+    {
+      "title": "Likelihood Language",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Likelihood Language! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use probability language to describe and compare the likelihood of everyday events using words such as certain, likely, even chance, unlikely, impossible",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Place five everyday events (e.g. 'the sun will rise tomorrow', 'it will snow in July', 'I'll flip heads') on a scale from impossible to certain",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you use words like \"certain,\" \"likely,\" \"unlikely,\" and \"impossible\" correctly — for example, knowing that rolling a 7 on a normal die is impossible but rolling an even number is likely?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Likelihood Language: Place five everyday events (e.g. 'the sun will rise tomorrow', 'it will snow in July', 'I'll flip heads') on a scale from impossible to certain Use 'likely', 'unlikely', 'certain', 'impossible', and 'even chance' correctly to describe different events",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_09_lesson_03"
+    },
+    {
+      "title": "Equally Likely Outcomes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Equally Likely Outcomes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that 'equally likely' means every outcome has exactly the same chance of occurring; identify whether a given situation has equally likely outcomes (a fair coin, a fair die, a spinner with equal sections) or unequally likely outcomes (a bag with more of one colour, a spinner with unequal sections)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that a fair coin has equally likely outcomes because heads and tails each have the same chance",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell the difference between a fair situation — like rolling a normal die where every number has the same chance — and an unfair one, like a bag with many more of one colour than another?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Equally Likely Outcomes: Explain that a fair coin has equally likely outcomes because heads and tails each have the same chance Identify whether a spinner with unequal sections has equally likely outcomes or not, and explain why",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_09_lesson_04"
+    },
+    {
+      "title": "Ordering Likelihoods",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Ordering Likelihoods! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare the likelihood of different events and order them from least to most likely — including situations with unequal outcomes such as a bag with more of one colour than another, or a spinner with sections of different sizes — and explain reasoning using informal language",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Order four or more events from least likely to most likely and justify each placement",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a bag has 8 red counters and 2 blue ones, does you understand that picking red is much more likely than picking blue — and can they put different events in order from least to most likely?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ordering Likelihoods. Order four or more events from least likely to most likely and justify each placement Compare likelihoods when outcomes are not equally likely — e.g. 'Drawing red from a bag with 7 red and 3 blue is more likely than drawing blue'",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_09_lesson_05"
+    },
+    {
+      "title": "Bar Models for Ratios",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Bar Models for Ratios!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent ratio and proportion problems using bar models (rectangular strips divided into equal parts labelled with quantities) and tape diagrams (segmented strips showing part-to-part and part-to-whole relationships); use these visual models to set up and solve unequal sharing, scaling, and percentage problems — drawing the diagram first, then reading off the answer",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Draw a bar model to represent a ratio problem — e.g. sharing £20 in the ratio 3:2 by drawing 5 equal blocks",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to share 30 stickers between two friends in a 2:3 ratio, can they draw a bar model — splitting a strip into 5 equal boxes — and use it to work out each share without just guessing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Bar Models for Ratios. Draw a bar model to represent a ratio problem — e.g. sharing £20 in the ratio 3:2 by drawing 5 equal blocks Use a bar model to solve a proportion problem and explain each step",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_09_lesson_06"
+    },
+    {
+      "title": "Percentages (age 9+)",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "ratio_proportion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Percentages (age 9+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of ratio and proportion — ratio, proportion, percentage, scale, equivalent, unequal, relative size, part-to-part, part-to-whole, and out of — and understand the difference between ratio (comparing parts to parts) and proportion (comparing a part to the whole)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain the difference between a 'ratio' and a 'proportion' using a concrete example like mixing paint",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is sharing something 3 ways and 2 ways, can they explain the difference between a ratio (like 3:2) and a proportion (like 3 out of 5) — showing they know what each word means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Percentages (age 9+). Explain the difference between a 'ratio' and a 'proportion' using a concrete example like mixing paint Use 'per cent' correctly and convert between fractions, decimals, and percentages in context",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_09_lesson_07"
+    }
+  ],
+  "id": "Math_unit_09"
+}

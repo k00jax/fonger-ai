@@ -1,0 +1,617 @@
+{
+  "title": "Multiplication & Division",
+  "objective": "Students will explore multiplication & division concepts including Long multiplication (age 10+), Division with remainders (age 10+), Rounding Answers and more.",
+  "standards": [
+    "uk-nc-2013:KS3.Maths.Num.6",
+    "uk-nc-2013:KS3.Maths.Num.5",
+    "uk-nc-2013:Ma6/2.2f",
+    "ccss-math:7.NS.2a",
+    "uk-nc-2013:KS3.Maths.Num.3",
+    "ccss-math:6.NS.4",
+    "ccss-math:5.OA.1",
+    "uk-nc-2013:Ma6/2.3g",
+    "ccss-math:7.NS.2",
+    "ccss-math:7.NS.2c"
+  ],
+  "skills_tested": [
+    "multiplication_division"
+  ],
+  "lessons": [
+    {
+      "title": "Long multiplication (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Long multiplication (age 10+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently multiply multi-digit whole numbers (up to 4 digits by 2 digits) using the formal written method of long multiplication",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Correctly compute 2,463 × 37 using long multiplication",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use long multiplication to work out something like '2,347 × 24' — setting it out in two rows, one for the units and one for the tens, then adding the results?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Long multiplication (age 10+). Correctly compute 2,463 × 37 using long multiplication Explain each partial product in a long multiplication and why they are added",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_01"
+    },
+    {
+      "title": "Division with remainders (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Division with remainders (age 10+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Divide numbers up to 4 digits by a two-digit divisor using formal written long division, interpreting remainders as whole numbers, fractions, or by rounding as appropriate",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compute 4,752 ÷ 13 using long division and express the remainder as a fraction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use long division to work out something like '1,848 ÷ 24' — going through the steps of divide, multiply, subtract, and bring down until they reach the answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Division with remainders (age 10+). Compute 4,752 ÷ 13 using long division and express the remainder as a fraction Decide whether to round up or down a division remainder in a real-life context (e.g. buses needed)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_02"
+    },
+    {
+      "title": "Rounding Answers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Rounding Answers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems which require answers to be rounded to specified degrees of accuracy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compute a division and round the result to one decimal place as specified",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you calculates an answer of 8.63 but the question asks for it to the nearest whole number, can they round it correctly to 9 — and explain why that level of precision matters in context?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rounding Answers. Compute a division and round the result to one decimal place as specified Determine the appropriate degree of accuracy for a measurement context (e.g. round to nearest penny)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_03"
+    },
+    {
+      "title": "Brackets in Expressions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Brackets in Expressions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use parentheses, brackets, or braces in numerical expressions and evaluate expressions containing these grouping symbols",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Evaluate 3 × (4 + 5) by computing inside the parentheses first",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at '3 × (4 + 5)' and work out the brackets first — getting '3 × 9 = 27' — rather than just multiplying left to right?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Brackets in Expressions. Evaluate 3 × (4 + 5) by computing inside the parentheses first Evaluate {2 × [3 + (7 − 1)]} with nested grouping symbols",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_04"
+    },
+    {
+      "title": "Order of operations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Order of operations! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and apply the conventional order of operations (PEMDAS/BODMAS) to carry out calculations involving the four operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain why 8 + 2 × 5 = 18 (not 50) by referencing multiplication before addition",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees '8 + 4 × 3', do they get 20 — not 36 — because they know to do the multiplication before the addition?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Order of operations. Explain why 8 + 2 × 5 = 18 (not 50) by referencing multiplication before addition Evaluate a multi-step expression like 12 ÷ 3 + 4 × 2 correctly as 12",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_05"
+    },
+    {
+      "title": "Writing Number Sentences",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Writing Number Sentences! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write simple numerical expressions that record calculations with numbers, and interpret numerical expressions without evaluating them (e.g. recognise that 3 × (18932 + 921) is three times as large as 18932 + 921)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write an expression for 'add 8 and 7, then multiply by 2' using parentheses",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at '4 × (5 + 3)' and say 'that's 4 times the result of adding 5 and 3' — reading the expression as a description of a calculation, without having to work it out first?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Writing Number Sentences. Write an expression for 'add 8 and 7, then multiply by 2' using parentheses Explain what 4 × (365 − 12) represents without computing it",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_06"
+    },
+    {
+      "title": "Decimal place value",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Decimal place value!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply one-digit numbers with up to two decimal places by whole numbers (e.g. 3.47 × 6)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Correctly compute 4.56 × 7 using a written method",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out '3.47 × 6' — keeping the decimal point in the right place and carrying correctly through each column?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Decimal place value. Correctly compute 4.56 × 7 using a written method Use place-value reasoning to explain why 3.2 × 5 = 16.0",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_07"
+    },
+    {
+      "title": "Division with Decimals",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Division with Decimals!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use written division methods in cases where the answer has up to two decimal places; divide decimals to hundredths by whole numbers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compute 14.76 ÷ 4 using a written method to get 3.69",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use a written method to calculate something like '17 ÷ 4 = 4.25' — carrying the division past the decimal point to get a decimal answer rather than a remainder?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Division with Decimals: Compute 14.76 ÷ 4 using a written method to get 3.69 Explain how to continue long division past the decimal point to obtain a decimal quotient",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_08"
+    },
+    {
+      "title": "Multi-step problems: choosing operations",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Multi-step problems: choosing operations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving addition, subtraction, multiplication, and division, deciding which operations and methods to use and why; solve multi-step problems in contexts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve a three-step word problem involving a mix of all four operations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a multi-step problem mixing different operations — like working out the total cost of several items at different prices — can they plan and carry out each step correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Multi-step problems: choosing operations: Solve a three-step word problem involving a mix of all four operations Explain why particular operations were chosen for each step of a multi-step problem",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_09"
+    },
+    {
+      "title": "Using inverse operations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Using inverse operations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use relationships between operations including inverse operations; use these relationships to check answers and simplify calculations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use addition and subtraction as inverse operations to check and solve problems",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you works out '252 ÷ 7 = 36', can they immediately use the inverse to check — '36 × 7 = 252' — without having to redo the division?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Using inverse operations. Use addition and subtraction as inverse operations to check and solve problems Use multiplication and division as inverse operations to check and solve problems",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_10"
+    },
+    {
+      "title": "Multiplying and dividing (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Multiplying and dividing (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply and divide numbers by 10, 100, and 1000 giving answers up to three decimal places, understanding that digits shift position in the place-value chart",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compute 3.456 × 100 = 345.6 correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out '4.6 ÷ 1,000 = 0.0046' — knowing that each division by 10 shifts digits one place to the right, even past the decimal point?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multiplying and dividing (age 10+). Compute 3.456 × 100 = 345.6 correctly Compute 45.2 ÷ 1000 = 0.0452 correctly",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_11"
+    },
+    {
+      "title": "Estimation to check answers to calculations",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Estimation to check answers to calculations? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use estimation to check answers to calculations and determine, in the context of a problem, an appropriate degree of accuracy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Estimate 487 × 23 by rounding to 500 × 20 and use this to check a calculated answer",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before you works out a large multiplication or division, can they estimate what the answer should be roughly — and then check whether their final answer is in the right ballpark?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Estimation to check answers to calculations. Estimate 487 × 23 by rounding to 500 × 20 and use this to check a calculated answer Determine whether an exact answer or an estimate is more appropriate in a given context",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_12"
+    },
+    {
+      "title": "Ratio (age 11+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ratio (age 11+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use conventional notation for the priority of operations including brackets, powers, roots, and reciprocals; apply BIDMAS/BODMAS consistently to evaluate complex numerical expressions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Evaluate expressions involving brackets, indices, and all four operations in the correct order",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you evaluate a complex expression like '5 + 2³ ÷ 4' correctly — applying the right order of operations, handling the power before the division and division before the addition?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Ratio (age 11+). Evaluate expressions involving brackets, indices, and all four operations in the correct order Explain why the order of operations is necessary to avoid ambiguity",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_13"
+    },
+    {
+      "title": "Ratio (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Ratio (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Perform mental calculations including with mixed operations and large numbers, using strategies such as partitioning, compensation, and derived facts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Mentally compute 45 × 8 by partitioning into 40 × 8 + 5 × 8",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out a mixed calculation like '(200 × 6) + 350 − 75' entirely in their head — keeping track of each step without writing anything down?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ratio (age 10+): Mentally compute 45 × 8 by partitioning into 40 × 8 + 5 × 8 Use known facts to derive 6.5 × 4 mentally",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_14"
+    },
+    {
+      "title": "Dividing by two-digit numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Dividing by two-digit numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Divide numbers up to 4 digits by a two-digit number using formal written short division where appropriate, interpreting remainders according to context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use short division to compute 3,648 ÷ 16 efficiently",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use short division to work out something like '2,184 ÷ 12' — keeping track of each digit and carrying any remainders into the next column?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Dividing by two-digit numbers: Use short division to compute 3,648 ÷ 16 efficiently Explain when short division is more appropriate than long division",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_15"
+    },
+    {
+      "title": "Factors, multiples, and primes (age 11+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Factors, multiples, and primes (age 11+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the concepts and vocabulary of prime numbers, factors, multiples, common factors, common multiples, highest common factor (HCF), lowest common multiple (LCM), and prime factorisation including product notation and the unique factorisation property",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Express any integer as a product of its prime factors using index notation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you find the highest common factor of two numbers like 24 and 36 — working out the biggest number that divides exactly into both — and explain how they found it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Factors, multiples, and primes (age 11+). Express any integer as a product of its prime factors using index notation Find the HCF and LCM of two numbers using prime factorisation",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_16"
+    },
+    {
+      "title": "Sign Rules for Multiplication",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Sign Rules for Multiplication! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply and divide with positive and negative integers and rational numbers, understanding the rules for the sign of the product or quotient",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Apply the sign rules when multiplying two integers (positive × negative, negative × negative)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows that a negative times a negative makes a positive, can they use that rule to work out calculations like '−3 × −4 = 12' — and explain why it makes sense?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Sign Rules for Multiplication. Apply the sign rules when multiplying two integers (positive × negative, negative × negative) Apply the sign rules when dividing two integers",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_08_lesson_17"
+    }
+  ],
+  "id": "Math_unit_08"
+}

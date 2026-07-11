@@ -1,0 +1,337 @@
+{
+  "title": "Number Representation & Place Value",
+  "objective": "Students will explore number representation & place value concepts including A Ten Is Ten Ones, The two digits of a two-digit number, Comparing and ordering numbers and more.",
+  "standards": [
+    "uk-nc-2013:Maths/Y2/NPV/5",
+    "uk-nc-2013:Maths/Y2/NPV/6",
+    "uk-nc-2013:Maths/Y2/NPV/3",
+    "ccss-math:1.NBT.2.c",
+    "ccss-math:1.NBT.5",
+    "ccss-math:1.NBT.1",
+    "ccss-math:1.NBT.2.a",
+    "ccss-math:1.NBT.2",
+    "uk-nc-2013:Maths/Y2/NPV/2",
+    "ccss-math:1.NBT.3"
+  ],
+  "skills_tested": [
+    "number_representation_place_value"
+  ],
+  "lessons": [
+    {
+      "title": "A Ten Is Ten Ones",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about A Ten Is Ten Ones!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that 10 can be thought of as a bundle of ten ones — called a 'ten'",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Group 10 single cubes into one rod of 10 and explains why",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that ten single objects bundled together make 'one ten' — and that this is why we write 10 with a 1 in the tens place and a 0 in the ones place?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about A Ten Is Ten Ones. Group 10 single cubes into one rod of 10 and explains why Explain that 10 ones is the same as 1 ten",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_01"
+    },
+    {
+      "title": "The two digits of a two-digit number",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The two digits of a two-digit number? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the two digits of a two-digit number represent amounts of tens and ones",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that in 47, the 4 represents 4 tens (40) and the 7 represents 7 ones",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees the number 47, can they tell you there are 4 tens (forty) and 7 ones — rather than just reading the digits as 'four seven'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The two digits of a two-digit number. Explain that in 47, the 4 represents 4 tens (40) and the 7 represents 7 ones Use base-ten blocks to show a two-digit number as tens and ones",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_02"
+    },
+    {
+      "title": "Comparing and ordering numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Comparing and ordering numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and order two-digit numbers using the symbols >, =, and <, based on place value understanding",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Correctly place > or < between 34 and 43",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you the numbers 34, 67, and 21, can they put them in order from smallest to largest — and use the symbols > or < correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Comparing and ordering numbers: Correctly place > or < between 34 and 43 Order a set of two-digit numbers from smallest to largest",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_03"
+    },
+    {
+      "title": "Representing Numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Representing Numbers! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify, represent, and estimate numbers using different representations including the number line",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Place a two-digit number on a 0–100 number line in approximately the right position",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you show a number like 346 in different ways — as base-ten blocks, on a number line, or as a drawing — and explain what each representation shows?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Representing Numbers. Place a two-digit number on a 0–100 number line in approximately the right position Estimate 'about how many' objects are in a set of 30–50 without counting",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_04"
+    },
+    {
+      "title": "10 More or 10 Less",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore 10 More or 10 Less! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Mentally find 10 more or 10 less than a given two-digit number without counting",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Given 56, quickly say 66 is 10 more and 46 is 10 less",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly tell you what is 10 more than 43 or 10 less than 71 — without counting up or down one at a time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about 10 More or 10 Less. Given 56, quickly say 66 is 10 more and 46 is 10 less Explain that adding 10 increases the tens digit by 1",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_05"
+    },
+    {
+      "title": "Number Words to 100",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Number Words to 100!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and write numbers to at least 100 in words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read 'fifty-seven' and write the numeral 57",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write 'seventy-four' or 'one hundred and three' as number words — and read them correctly when they appear in a book or on a sign?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Number Words to 100: Read 'fifty-seven' and write the numeral 57 Write 'eighty-three' when shown the numeral 83",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_06"
+    },
+    {
+      "title": "Place value understanding and number facts",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Place value understanding and number facts!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use place value understanding and number facts to solve problems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use knowledge that 34 = 30 + 4 to help add 34 + 20 = 54",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked 'which number is closest to 50 — 47 or 54?', can they use their number knowledge to answer quickly and explain why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Place value understanding and number facts. Use knowledge that 34 = 30 + 4 to help add 34 + 20 = 54 Solve 'I think of a number, add 10, and get 45. What was my number?'",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_07"
+    },
+    {
+      "title": "The multiples of 10",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The multiples of 10!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the multiples of 10 (10, 20, 30 … 90) represent one to nine tens and 0 ones",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that 30 means 3 tens and 0 ones",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that 60 means 6 tens and no ones — and that this is why the ones column has a zero as a placeholder?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The multiples of 10. Explain that 30 means 3 tens and 0 ones Represent 50 using 5 tens rods and no unit cubes",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_08"
+    },
+    {
+      "title": "Reading and writing numbers to 120",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reading and writing numbers to 120! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count to 120 starting at any number less than 120; read and write numerals to 120",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Count from 47 to 120 without errors",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you start counting from any number up to 120 — for example, starting at 87 and counting up to 120 without losing track?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reading and writing numbers to 120. Count from 47 to 120 without errors Read the numeral 108 correctly",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_09_lesson_09"
+    }
+  ],
+  "id": "Math_unit_09"
+}

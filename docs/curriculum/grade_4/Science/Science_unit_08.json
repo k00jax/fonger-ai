@@ -1,0 +1,229 @@
+{
+  "title": "Matter & Materials",
+  "objective": "Students will explore matter & materials concepts including Dissolving & Solutions, Irreversible Changes, Reversible Changes and more.",
+  "standards": [
+    "uk-nc-2013:Y5.Sci.PCM.6",
+    "uk-nc-2013:Y5.Sci.PCM.3",
+    "uk-nc-2013:Y5.Sci.PCM.5",
+    "ngss-k5:5-PS1-4",
+    "uk-nc-2013:Y5.Sci.PCM.1",
+    "uk-nc-2013:Y5.Sci.PCM.2",
+    "ngss-k5:5-PS1-3"
+  ],
+  "skills_tested": [
+    "matter_materials"
+  ],
+  "lessons": [
+    {
+      "title": "Dissolving & Solutions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Dissolving & Solutions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that some materials dissolve in liquid to form a solution, and describe how to recover a substance from a solution by evaporation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that dissolving means a solid mixes completely into a liquid to form a solution",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what happens when sugar dissolves in tea, and figure out how to get the salt back from salty water?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Dissolving & Solutions: Explain that dissolving means a solid mixes completely into a liquid to form a solution Describe how to recover a dissolved substance by evaporating the liquid",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_08_lesson_01"
+    },
+    {
+      "title": "Irreversible Changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Irreversible Changes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain that some changes result in the formation of new materials and are not usually reversible, such as burning, rusting, and reactions with acid",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define an irreversible change as one that creates new materials that cannot be changed back",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why you can't un-burn a piece of toast or turn rust back into shiny iron, because a completely new material has been made?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Irreversible Changes. Define an irreversible change as one that creates new materials that cannot be changed back Give at least three examples: burning, rusting, mixing bicarbonate of soda with vinegar",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_08_lesson_02"
+    },
+    {
+      "title": "Reversible Changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reversible Changes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Demonstrate that dissolving, mixing, and changes of state are reversible changes where no new materials are formed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define a reversible change as one where the original materials can be recovered",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that melting chocolate or dissolving sugar can be undone — you can get the original material back — because these are reversible changes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reversible Changes. Define a reversible change as one where the original materials can be recovered Give at least three examples of reversible changes: melting, freezing, dissolving, evaporating",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_08_lesson_03"
+    },
+    {
+      "title": "Separating Mixtures",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Separating Mixtures! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use knowledge of solids, liquids, and gases to decide how mixtures might be separated through filtering, sieving, and evaporating",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Choose the correct separation method for a given mixture (sieving for large particles, filtering for small, evaporating for dissolved)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has a mixture of sand, salt, and water, can they figure out a step-by-step plan to separate all three using a sieve, filter, and evaporation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Separating Mixtures: Choose the correct separation method for a given mixture (sieving for large particles, filtering for small, evaporating for dissolved) Describe a multi-step separation plan for a complex mixture like sand, salt, and water",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_08_lesson_04"
+    },
+    {
+      "title": "Advanced Material Properties",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Advanced Material Properties!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and group everyday materials based on advanced properties: hardness, solubility, transparency, electrical and thermal conductivity, and response to magnets",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define and test for at least four properties: hardness, solubility, conductivity, magnetism",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you test materials and sort them by whether they dissolve in water, conduct electricity, or are attracted to a magnet?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Advanced Material Properties. Define and test for at least four properties: hardness, solubility, conductivity, magnetism Group a set of materials based on test results for each property",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_08_lesson_05"
+    },
+    {
+      "title": "Material Properties Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Material Properties Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use technical vocabulary to describe and compare material properties — conductor, insulator, thermal, electrical, transparent, opaque, translucent, soluble, insoluble, magnetic, flexible, rigid, density — and apply these terms precisely when selecting and justifying materials for particular purposes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Classify a set of materials as electrical conductors or insulators and explain why using the correct terms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had to choose a material to make a window, could they use words like 'transparent' and 'insulator' to explain their choice — not just say 'you can see through it'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Material Properties Vocabulary: Classify a set of materials as electrical conductors or insulators and explain why using the correct terms Use 'transparent', 'translucent', and 'opaque' correctly and distinctly in descriptions",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_08_lesson_06"
+    }
+  ],
+  "id": "Science_unit_08"
+}

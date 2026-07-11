@@ -1,0 +1,116 @@
+{
+  "title": "Learning to Learn",
+  "objective": "Students will explore learning to learn concepts including Asking for Help, Persisting When It's Hard, Checking Your Own Work.",
+  "standards": [],
+  "skills_tested": [
+    "learning_to_learn"
+  ],
+  "lessons": [
+    {
+      "title": "Asking for Help",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Asking for Help!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ask for help when you've had a go yourself and are still stuck — knowing when to ask is a skill in itself",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Hattie visible learning",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has tried something and is still stuck, do they come and ask for help rather than sitting frustrated or giving up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Asking for Help. Hattie visible learning self-regulated learning research",
+          "media": {}
+        }
+      ],
+      "id": "k_Learning to Learn_unit_01_lesson_01"
+    },
+    {
+      "title": "Persisting When It's Hard",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Persisting When It's Hard. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Keep trying when something feels hard — making mistakes and trying again is how learning happens",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Keep working on a difficult task for a sustained period without giving up or asking someone else to do it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you finds a puzzle or activity really tricky, do they keep trying different ways rather than giving up straight away?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Persisting When It's Hard. Keep working on a difficult task for a sustained period without giving up or asking someone else to do it After making a mistake, try again with a different approach rather than saying 'I can't do it'",
+          "media": {}
+        }
+      ],
+      "id": "k_Learning to Learn_unit_01_lesson_02"
+    },
+    {
+      "title": "Checking Your Own Work",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Checking Your Own Work? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "After finishing a task, look back at what you did and ask yourself: does this seem right?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. After finishing a piece of work, re-read or review it without being asked to",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you finishes a piece of work or activity, do they look it over themselves to check it seems right before saying they're done?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Checking Your Own Work. After finishing a piece of work, re-read or review it without being asked to Spot and correct at least one error in their own work by checking back through it",
+          "media": {}
+        }
+      ],
+      "id": "k_Learning to Learn_unit_01_lesson_03"
+    }
+  ],
+  "id": "Learning to Learn_unit_01"
+}

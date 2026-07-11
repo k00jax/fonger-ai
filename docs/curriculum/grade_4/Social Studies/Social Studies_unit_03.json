@@ -1,0 +1,291 @@
+{
+  "title": "Medieval Times",
+  "objective": "Students will explore medieval times concepts including Medieval Legacy in Modern Life, Medieval Worlds Beyond Europe, Printing Press & Renaissance and more.",
+  "standards": [],
+  "skills_tested": [
+    "medieval_times"
+  ],
+  "lessons": [
+    {
+      "title": "Medieval Legacy in Modern Life",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Medieval Legacy in Modern Life. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What the Middle Ages gave us: Parliament, universities, common law, Gothic architecture, the English language (Anglo-Saxon + Norman French), place names, surnames; why we are still fascinated by the medieval world",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three things from the Middle Ages that still affect our lives today",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you name several things we still have today — from Parliament to English words to university degrees — that actually began in the Middle Ages?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Medieval Legacy in Modern Life. Name at least three things from the Middle Ages that still affect our lives today Explain how the English language was shaped by Anglo-Saxon and Norman French",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_01"
+    },
+    {
+      "title": "Medieval Worlds Beyond Europe",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Medieval Worlds Beyond Europe!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The medieval world beyond Europe: the Islamic Golden Age (maths, medicine, architecture), the Mali Empire and Mansa Musa, Song Dynasty China; how the medieval world was connected through trade routes like the Silk Road",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least two achievements of the Islamic Golden Age (algebra, hospitals, architecture)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you about important civilisations outside Europe during the Middle Ages and explain how the Silk Road connected different parts of the world?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Medieval Worlds Beyond Europe: Name at least two achievements of the Islamic Golden Age (algebra, hospitals, architecture) Describe who Mansa Musa was and why he is remembered",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_02"
+    },
+    {
+      "title": "Printing Press & Renaissance",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Printing Press & Renaissance? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The invention of the printing press by Gutenberg and its arrival in England with William Caxton; how printed books changed everything; the transition from the Middle Ages to the Renaissance",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain what the printing press was and why it was revolutionary",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why the invention of the printing press was one of the most important moments in history and how it changed the world?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Printing Press & Renaissance. Explain what the printing press was and why it was revolutionary Describe William Caxton's role in bringing printing to England",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_03"
+    },
+    {
+      "title": "Art & Architecture",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Art & Architecture. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Medieval cultural achievements: illuminated manuscripts, Gothic cathedrals (flying buttresses, stained glass), Gregorian chant, the Bayeux Tapestry; art and architecture as expressions of faith and power",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe what an illuminated manuscript is and who made them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visited a Gothic cathedral, could they point out features like stained glass windows and flying buttresses and explain why medieval people built such impressive buildings?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Art & Architecture. Describe what an illuminated manuscript is and who made them Name at least two features of Gothic cathedral architecture (pointed arches, flying buttresses, stained glass)",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_04"
+    },
+    {
+      "title": "Magna Carta and Limiting Royal Power",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Magna Carta and Limiting Royal Power. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "King John, the barons' revolt, and the sealing of the Magna Carta in 1215; what the Magna Carta said about limiting the king's power; its lasting importance for democracy and rights",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why the barons rebelled against King John",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you what the Magna Carta is and why a document from 1215 is still considered important today?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Magna Carta and Limiting Royal Power. Explain why the barons rebelled against King John Describe what the Magna Carta said (the king must follow the law too, fair trial rights)",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_05"
+    },
+    {
+      "title": "Towns & Trade",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Towns & Trade! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The growth of medieval towns: markets, guilds, the merchant class; how towns won charters of self-governance; the shift from purely rural to partly urban life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe how medieval towns were different from villages (markets, walls, guilds, more people)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why medieval towns grew and how the rise of markets and guilds changed the way people lived and worked?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Towns & Trade. Describe how medieval towns were different from villages (markets, walls, guilds, more people) Explain what a guild was and why it mattered for tradespeople",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_06"
+    },
+    {
+      "title": "Crime & Punishment",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Crime & Punishment!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How justice worked in medieval times: trial by ordeal, trial by combat, the role of the sheriff; punishments including stocks, pillory, and dungeons; how different it was from modern justice",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe at least two medieval methods of deciding guilt (trial by ordeal, trial by combat)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you describe how criminals were caught and punished in medieval times and explain what seems unfair by today's standards?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Crime & Punishment. Describe at least two medieval methods of deciding guilt (trial by ordeal, trial by combat) Name at least two medieval punishments and explain what they involved",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_07"
+    },
+    {
+      "title": "Women in the Middle Ages",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Women in the Middle Ages. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The lives of medieval women: noblewomen managing estates, peasant women's hard daily work, nuns and abbesses, notable figures like Eleanor of Aquitaine and Joan of Arc",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the different lives of noblewomen, peasant women, and nuns",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you about what life was like for women in medieval times and name a famous medieval woman who made her mark on history?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Women in the Middle Ages. Describe the different lives of noblewomen, peasant women, and nuns Name at least one notable medieval woman and explain what she did",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_03_lesson_08"
+    }
+  ],
+  "id": "Social Studies_unit_03"
+}

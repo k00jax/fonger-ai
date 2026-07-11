@@ -1,0 +1,372 @@
+{
+  "title": "Grammar & Punctuation",
+  "objective": "Students will explore grammar & punctuation concepts including Past, Present and Progressive Tense, Four Types of Sentences, Commas in lists and more.",
+  "standards": [
+    "ccss-ela:L.1.1g",
+    "uk-nc-2013:Eng/KS1/Y2/VGP/2d",
+    "ccss-ela:L.3.1h",
+    "ccss-ela:L.2.1f",
+    "ccss-ela:RF.1.1.a",
+    "uk-nc-2013:Eng.App2.Y2.Sent.3",
+    "uk-nc-2013:Eng.App2.Y2.Term.1",
+    "uk-nc-2013:Eng/KS1/Y2/VGP/3",
+    "ccss-ela:L.1.1h",
+    "ccss-ela:L.5.2a"
+  ],
+  "skills_tested": [
+    "grammar_punctuation"
+  ],
+  "lessons": [
+    {
+      "title": "Past, Present and Progressive Tense",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Past, Present and Progressive Tense? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use verbs to convey past and present tense correctly and consistently, including the progressive form (e.g., she is drumming, he was shouting), understanding how tense indicates time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write a passage consistently in past tense without switching to present",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is writing about something that happened yesterday versus something happening right now, do they change the verb — for example, writing \"she jumped\" for the past and \"she is jumping\" for right now?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Past, Present and Progressive Tense. Write a passage consistently in past tense without switching to present Use progressive forms correctly: 'was running', 'is jumping' to show ongoing actions",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_01"
+    },
+    {
+      "title": "Four Types of Sentences",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Four Types of Sentences? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and use the four sentence types — statement, question, exclamation, and command — recognising how grammatical patterns indicate sentence function",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write or identify a statement, question, exclamation, and command from a set of sentences",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spot the difference between a question (\"Are you hungry?\") and a command (\"Eat your dinner!\") — and write each type of sentence using the right punctuation at the end?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Four Types of Sentences. Write or identify a statement, question, exclamation, and command from a set of sentences Match each sentence type to its correct end punctuation mark",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_02"
+    },
+    {
+      "title": "Commas in lists",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Commas in lists? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use commas to separate items in a list within a sentence (e.g., 'I bought apples, bananas, and oranges')",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write a sentence containing a list of 3+ items separated by commas: 'I bought apples, bananas, and oranges'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you writes a sentence listing three or more things — like the items they'd pack for a picnic — do they put commas between each item in the list?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Commas in lists. Write a sentence containing a list of 3+ items separated by commas: 'I bought apples, bananas, and oranges' Identify where commas should go in an unpunctuated list sentence",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_03"
+    },
+    {
+      "title": "Grammar Terms: Nouns, Verbs and Tense",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Grammar Terms: Nouns, Verbs and Tense! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use and understand Year 2 grammatical terminology in discussion: noun, noun phrase, statement, question, exclamation, command, compound, suffix, adjective, adverb, verb, tense (past/present), apostrophe, comma",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use the term 'noun phrase' when discussing expanded noun phrases in own writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to point out a noun, a verb, or an adjective in a sentence from their reading book, can they find one and explain what it does in the sentence?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Grammar Terms: Nouns, Verbs and Tense: Use the term 'noun phrase' when discussing expanded noun phrases in own writing Identify adjectives, adverbs, and verbs in sentences using correct terminology",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_04"
+    },
+    {
+      "title": "Subordinate clauses",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Subordinate clauses!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use subordination (when, if, that, because) and co-ordination (or, and, but) to join clauses and create compound and complex sentences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write 'I stayed inside because it was raining' using a subordinating conjunction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a story or a message, can they join two ideas with words like \"because\", \"but\", \"when\", or \"if\" — rather than writing every thought as a short separate sentence?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Subordinate clauses: Write 'I stayed inside because it was raining' using a subordinating conjunction Use 'but' and 'or' to join ideas: 'I wanted to play but it was raining'",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_05"
+    },
+    {
+      "title": "Apostrophes: Contraction and Possession",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Apostrophes: Contraction and Possession. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use apostrophes in writing for both contraction (marking omitted letters) and singular possession, distinguishing the two uses",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use apostrophes correctly in both 'don't' and 'Sam's bag' within the same piece of writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a word like \"don't\" or \"it's\", do they put the apostrophe in the right place — and can they also write something like \"the dog's bowl\" to show the bowl belongs to the dog?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Apostrophes: Contraction and Possession. Use apostrophes correctly in both 'don't' and 'Sam's bag' within the same piece of writing Explain the difference between apostrophe for contraction and apostrophe for possession",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_06"
+    },
+    {
+      "title": "Expanded noun phrases",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Expanded noun phrases!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use expanded noun phrases to describe and specify, adding adjectives and other modifiers before a noun (e.g., 'the blue butterfly', 'the old, creaky door')",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Expand 'the cat' into 'the fluffy black cat' by adding adjectives",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you describes something in writing — like a pet or a toy — do they add extra describing words, such as \"the small, fluffy rabbit\" rather than just \"the rabbit\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Expanded noun phrases. Expand 'the cat' into 'the fluffy black cat' by adding adjectives Use noun phrases with two or more modifiers in independent writing",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_07"
+    },
+    {
+      "title": "Pronouns",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Pronouns! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use personal, possessive, and indefinite pronouns correctly (e.g., I/me/my, they/them/their, anyone/everything), replacing nouns to avoid repetition",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Replace a repeated noun with a pronoun: 'The dog was happy. He wagged his tail.'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you retells a story or describes what a friend did, do they use words like \"he\", \"she\", \"they\", or \"his\" correctly — instead of repeating the person's name every single time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Pronouns. Replace a repeated noun with a pronoun: 'The dog was happy. He wagged his tail.' Use I/me correctly in subject and object position in a sentence",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_08"
+    },
+    {
+      "title": "Subject-verb agreement",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Subject-verb agreement!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use singular and plural nouns with matching verbs in sentences, maintaining subject-verb agreement (e.g., 'He hops' vs 'We hop')",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write 'The dog runs' (singular) and 'The dogs run' (plural) with correct verb agreement",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you writes \"she hop\" or \"we hops\", do they catch the mistake — and can they fix it to \"she hops\" and \"we hop\" so the subject and verb match?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Subject-verb agreement: Write 'The dog runs' (singular) and 'The dogs run' (plural) with correct verb agreement Correct subject-verb agreement errors in sentences: fix 'The children plays' to 'The children play'",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_09"
+    },
+    {
+      "title": "Determiners and articles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Determiners and articles!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use determiners (articles a/an/the and demonstratives this/that/these/those) correctly before nouns",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use 'a' before consonant sounds and 'an' before vowel sounds correctly: 'a ball', 'an apple'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes about something nearby versus something far away, do they use the right word — saying \"this book\" for one in their hand and \"that book\" for one across the room?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Determiners and articles: Use 'a' before consonant sounds and 'an' before vowel sounds correctly: 'a ball', 'an apple' Distinguish 'this/these' (near) from 'that/those' (far) when pointing to objects",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_02_lesson_10"
+    }
+  ],
+  "id": "Reading_unit_02"
+}

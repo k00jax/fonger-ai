@@ -1,0 +1,119 @@
+{
+  "title": "Earth's Systems",
+  "objective": "Students will explore earth's systems concepts including Earth's atmosphere, Salt Water vs Fresh Water, Rock layers and Earth's history.",
+  "standards": [
+    "ngss-k5:5-ESS2-2",
+    "ngss-k5:5-ESS2-1"
+  ],
+  "skills_tested": [
+    "earth's_systems"
+  ],
+  "lessons": [
+    {
+      "title": "Earth's atmosphere",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Earth's atmosphere!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop a model to describe ways the geosphere, biosphere, hydrosphere, and atmosphere interact as connected Earth systems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name the four Earth systems: geosphere (rock/land), hydrosphere (water), atmosphere (air), biosphere (living things)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how rain (atmosphere) falls on mountains (geosphere), flows into rivers (hydrosphere), and provides water for plants and animals (biosphere)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Earth's atmosphere: Name the four Earth systems: geosphere (rock/land), hydrosphere (water), atmosphere (air), biosphere (living things) Describe at least two interactions between different Earth systems with examples",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_03_lesson_01"
+    },
+    {
+      "title": "Salt Water vs Fresh Water",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Salt Water vs Fresh Water! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe and graph the amounts of salt water and fresh water in various reservoirs to provide evidence about the distribution of water on Earth",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that about 97% of Earth's water is salt water in the oceans",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that most of Earth's water is salty ocean water, and only a tiny fraction is the fresh water we drink, and show this on a graph?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Salt Water vs Fresh Water. State that about 97% of Earth's water is salt water in the oceans Describe where fresh water is found: glaciers/ice caps, groundwater, rivers, lakes",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_03_lesson_02"
+    },
+    {
+      "title": "Rock layers and Earth's history",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Rock layers and Earth's history! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret cross-section diagrams of the Earth's interior, geological strata, and rock cycle; read and label layers (crust, mantle, outer core, inner core); understand that deeper layers in sedimentary sequences are older",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Label the four layers of the Earth on a cross-section diagram using the correct terms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a cut-away diagram of the Earth, can they point to and name the different layers — and if shown stacked rock layers, can they say which layer formed first?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Rock layers and Earth's history. Label the four layers of the Earth on a cross-section diagram using the correct terms Interpret a diagram of sedimentary rock layers and identify which layer was deposited first",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_03_lesson_03"
+    }
+  ],
+  "id": "Science_unit_03"
+}

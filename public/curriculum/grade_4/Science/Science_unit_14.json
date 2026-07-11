@@ -1,0 +1,291 @@
+{
+  "title": "Space Exploration",
+  "objective": "Students will explore space exploration concepts including Why the Sun Looks Brightest, Gravity Pulls Things Down, Space Exploration Milestones and more.",
+  "standards": [],
+  "skills_tested": [
+    "space_exploration"
+  ],
+  "lessons": [
+    {
+      "title": "Why the Sun Looks Brightest",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Why the Sun Looks Brightest!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain why the Sun appears much brighter than other stars: it is the nearest star to Earth, not the biggest or brightest star in the universe — understanding the difference between apparent brightness (how bright something looks) and actual brightness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that the Sun is a medium-sized star that appears brightest because it is the closest star to Earth",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that the Sun looks so bright because it’s close, not because it’s the biggest star — and that some faraway stars are actually much larger?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Why the Sun Looks Brightest. State that the Sun is a medium-sized star that appears brightest because it is the closest star to Earth Explain the difference between apparent brightness (how bright it looks) and actual brightness (how much light it gives off)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_01"
+    },
+    {
+      "title": "Gravity Pulls Things Down",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Gravity Pulls Things Down!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand gravity as a force that pulls objects towards the centre of the Earth, that 'down' means towards Earth’s centre regardless of where you stand on the sphere, and that gravity keeps the Moon orbiting Earth and planets orbiting the Sun",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define gravity as a pulling force that attracts objects towards the centre of the Earth",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why things fall 'down' and that gravity is the same force keeping the Moon going around the Earth?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Gravity Pulls Things Down. Define gravity as a pulling force that attracts objects towards the centre of the Earth Explain that 'down' points towards Earth's centre, so people on opposite sides of the globe both feel pulled 'down'",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_02"
+    },
+    {
+      "title": "Space Exploration Milestones",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Space Exploration Milestones! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe key milestones in human space exploration: the Space Race (Sputnik, Yuri Gagarin, Apollo 11 Moon landing), the Space Shuttle era, the International Space Station, and current missions (Artemis programme, Mars exploration plans, commercial spaceflight)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name Sputnik as the first satellite (1957) and Yuri Gagarin as the first person in space (1961)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you about the history of space exploration — from the first satellite to the Moon landing to what’s happening now?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Space Exploration Milestones. Name Sputnik as the first satellite (1957) and Yuri Gagarin as the first person in space (1961) Describe the Apollo 11 Moon landing (1969) with Neil Armstrong and Buzz Aldrin",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_03"
+    },
+    {
+      "title": "Seasonal Constellations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Seasonal Constellations! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise named constellations visible in different seasons and understand why we see different constellations at different times of year — because Earth’s orbit around the Sun changes which part of the sky we face at night",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least three constellations (e.g. Orion, Ursa Major/Big Dipper, Leo, Cassiopeia)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that you can see different constellations in winter than in summer, and can they explain why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Seasonal Constellations: Name at least three constellations (e.g. Orion, Ursa Major/Big Dipper, Leo, Cassiopeia) State that different constellations are visible in different seasons",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_04"
+    },
+    {
+      "title": "Changing Ideas About Space",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Changing Ideas About Space! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that ideas about the solar system changed over time: ancient people believed Earth was at the centre (geocentric model, Ptolemy), until Copernicus proposed the Sun was at the centre (heliocentric model), later confirmed by Galileo’s telescope observations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the geocentric model (Earth at the centre) and name Ptolemy as its main proponent",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you that people used to think the Sun went around the Earth, and explain how scientists like Copernicus and Galileo changed our understanding?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Changing Ideas About Space: Describe the geocentric model (Earth at the centre) and name Ptolemy as its main proponent Describe the heliocentric model (Sun at the centre) and name Copernicus as the person who proposed it",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_05"
+    },
+    {
+      "title": "The Vast Scale of Space",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The Vast Scale of Space? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the scale of the universe in nested layers: Earth is one planet in our solar system, the Sun is one star among billions in the Milky Way galaxy, and the Milky Way is one galaxy among billions in the universe",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that the Milky Way is our galaxy and it contains billions of stars",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe how our place in the universe works — that we’re on a planet in a solar system in a galaxy among billions of galaxies?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Vast Scale of Space: State that the Milky Way is our galaxy and it contains billions of stars Explain the hierarchy: planet → solar system → galaxy → universe",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_06"
+    },
+    {
+      "title": "Life Cycle of Stars",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Life Cycle of Stars! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the basics of a star’s life cycle: stars are born in clouds of gas and dust (nebulae), shine for millions or billions of years by fusing hydrogen, and eventually die — massive stars explode as supernovae while smaller stars fade into white dwarfs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe that stars form from clouds of gas and dust called nebulae",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that stars are born, live for a very long time, and eventually die — and that really big stars can explode at the end?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Life Cycle of Stars. Describe that stars form from clouds of gas and dust called nebulae State that stars produce energy by fusing hydrogen into helium in their cores",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_07"
+    },
+    {
+      "title": "Scale of the Solar System",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Scale of the Solar System. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use scale models, diagrams, or calculations to represent the relative sizes and distances of objects in the solar system, understanding that the distances between planets are enormously larger than the planets themselves",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that if the Sun were the size of a beach ball, Earth would be a pea about 26 metres away",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you ever built or looked at a scale model of the solar system? Can they explain why the planets would need to be spread across a whole playing field to be the right distance apart?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Scale of the Solar System. Explain that if the Sun were the size of a beach ball, Earth would be a pea about 26 metres away State that the distances between planets are much greater than the sizes of the planets themselves",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_14_lesson_08"
+    }
+  ],
+  "id": "Science_unit_14"
+}

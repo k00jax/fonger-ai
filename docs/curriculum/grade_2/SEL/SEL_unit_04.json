@@ -1,0 +1,191 @@
+{
+  "title": "Responsible Decision-Making",
+  "objective": "Students will explore responsible decision-making concepts including Stop, Think, Then Choose, Vocabulary: ethics and citizenship, Bystanders and Upstanders and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE.INT.P1.CU.5",
+    "ib-pyp-pspe:PSPE.INT.P2.CU.5",
+    "ib-pyp-pspe:PSPE.INT.P2.LO.11",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-6"
+  ],
+  "skills_tested": [
+    "responsible_decision-making"
+  ],
+  "lessons": [
+    {
+      "title": "Stop, Think, Then Choose",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Stop, Think, Then Choose. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a simple decision-making process when faced with a choice — stopping to think, identifying the options, considering the consequences of each option, and then choosing — rather than acting impulsively",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe at least two options when facing a decision",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you faces a tricky choice — like whether to tell the teacher that a friend cheated — can they think through their options and the consequences rather than just reacting?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Stop, Think, Then Choose: Describe at least two options when facing a decision Predict a likely consequence for each option",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_04_lesson_01"
+    },
+    {
+      "title": "Vocabulary: ethics and citizenship",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Vocabulary: ethics and citizenship! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of ethics and citizenship — bullying, cyberbullying, bystander, upstander, peer pressure, digital citizenship, rights, responsibility, and ethical — and understand the distinctions between these closely related terms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain what 'ethics' means in their own words and give an example of an ethical dilemma",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw someone being treated unkindly online and you asked them about it, could they explain the difference between being a bystander and an upstander — and what 'digital citizenship' means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Vocabulary: ethics and citizenship. Explain what 'ethics' means in their own words and give an example of an ethical dilemma Use 'citizen', 'rights', and 'responsibilities' correctly — e.g. 'A citizen has the right to vote and the responsibility to follow laws'",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_04_lesson_02"
+    },
+    {
+      "title": "Bystanders and Upstanders",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Bystanders and Upstanders! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the bystander role — that when someone witnesses unkind or unfair behaviour, they have a choice: they can be a passive bystander (doing nothing), join in, or be an upstander (speaking up or getting help) — and develop the confidence to be an upstander",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the difference between a bystander and an upstander",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a group of children being mean to someone at school, do they have the courage to say something, walk away with the person being targeted, or tell a teacher — rather than just watching?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Bystanders and Upstanders. Explain the difference between a bystander and an upstander Describe at least two safe actions an upstander can take",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_04_lesson_03"
+    },
+    {
+      "title": "Understanding Bullying",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Understanding Bullying. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand what bullying is — repeated behaviour intended to hurt someone, including physical, verbal, social (exclusion, spreading rumours), and cyberbullying — and know that it is always wrong and what to do if they experience or witness it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define bullying and distinguish it from a one-off conflict",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand the difference between a one-off argument and bullying, and do they know what to do if they see someone being bullied — rather than just ignoring it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding Bullying: Define bullying and distinguish it from a one-off conflict Name at least three forms of bullying including cyberbullying",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_04_lesson_04"
+    },
+    {
+      "title": "Basic digital citizenship",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Basic digital citizenship!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand basic digital citizenship — being kind online, protecting personal information, recognising that people behind screens are real people with real feelings, and knowing what to do if something online makes them uncomfortable",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State at least three rules for staying safe and being kind online",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is chatting with friends online or playing multiplayer games, do they treat people kindly and know not to share personal details like their address or school name?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Basic digital citizenship. State at least three rules for staying safe and being kind online Explain why hurtful messages online are just as harmful as saying them in person",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_04_lesson_05"
+    }
+  ],
+  "id": "SEL_unit_04"
+}

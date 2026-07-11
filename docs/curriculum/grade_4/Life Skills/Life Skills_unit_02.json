@@ -1,0 +1,221 @@
+{
+  "title": "Money & Finance",
+  "objective": "Students will explore money & finance concepts including Scams & Online Safety, Global Trade, How the Economy Works and more.",
+  "standards": [],
+  "skills_tested": [
+    "money_finance"
+  ],
+  "lessons": [
+    {
+      "title": "Scams & Online Safety",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Scams & Online Safety! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognising financial scams and tricks; phishing emails and fake websites; protecting personal and financial information online; 'if it seems too good to be true, it probably is'",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify at least two warning signs of a scam (asking for personal details, too-good-to-be-true offers, urgency)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you received a message saying they'd won a prize and just needed to enter their details, would they know it's probably a scam?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Scams & Online Safety. Identify at least two warning signs of a scam (asking for personal details, too-good-to-be-true offers, urgency) Explain why you should never share passwords or bank details online",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_02_lesson_01"
+    },
+    {
+      "title": "Global Trade",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Global Trade! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Why countries trade with each other; imports and exports; how goods travel around the world; that different countries use different currencies",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain why countries buy goods from other countries (they can't make everything themselves)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at the labels on items in your kitchen, could they explain why so many things come from different countries?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Global Trade. Explain why countries buy goods from other countries (they can't make everything themselves) Give examples of imported and exported products from their own country",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_02_lesson_02"
+    },
+    {
+      "title": "How the Economy Works",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of How the Economy Works!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What an economy is; producers and consumers; supply and demand; why prices change; the basics of how markets work",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain what 'supply and demand' means using a simple example (ice cream on a hot day)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why ice cream might cost more at the beach in summer than at a supermarket in winter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How the Economy Works. Explain what 'supply and demand' means using a simple example (ice cream on a hot day) Describe the difference between a producer and a consumer",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_02_lesson_03"
+    },
+    {
+      "title": "Financial Planning",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Financial Planning!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Setting longer-term financial goals; planning and prioritising spending; how saving regularly adds up over time; the value of thinking ahead with money",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Set a realistic savings goal and calculate how long it would take saving a fixed amount each week",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wanted to save up for something costing £30, could they work out a realistic plan for how long it would take?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Financial Planning. Set a realistic savings goal and calculate how long it would take saving a fixed amount each week Create a simple financial plan for a specific purpose (birthday party, school trip, gift)",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_02_lesson_04"
+    },
+    {
+      "title": "Borrowing & Debt",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Borrowing & Debt. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What borrowing money means; that loans must be repaid with interest; what credit is; why too much debt can be risky; responsible borrowing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain what a loan is and that borrowed money must be paid back with extra (interest)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why borrowing money costs more than the amount you borrow, and why that matters?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Borrowing & Debt: Explain what a loan is and that borrowed money must be paid back with extra (interest) Give an example of when borrowing might be sensible (buying a house) versus risky (buying luxuries you can't afford)",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_02_lesson_05"
+    },
+    {
+      "title": "Taxes & Public Services",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "money_finance"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Taxes & Public Services!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What taxes are and why people pay them; how taxes fund schools, hospitals, roads, and emergency services; that governments decide how to spend tax money",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what tax is and that most working adults pay it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain where the money comes from to pay for things like schools and hospitals that everyone uses?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Taxes & Public Services. Explain what tax is and that most working adults pay it Name at least three things that taxes pay for (schools, hospitals, roads, police, fire service)",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_02_lesson_06"
+    }
+  ],
+  "id": "Life Skills_unit_02"
+}

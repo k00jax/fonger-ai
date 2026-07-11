@@ -1,0 +1,57 @@
+{
+  "title": "Speaking & Listening",
+  "objective": "Students will explore speaking & listening concepts including Reciting Poetry.",
+  "standards": [
+    "uk-nc-2013:Eng/KS1/Y2/C/1h",
+    "ccss-ela:SL.1.4",
+    "uk-nc-2013:Eng.SL.10",
+    "ccss-ela:SL.1.6",
+    "ccss-ela:SL.1.5",
+    "ccss-ela:SL.2.6",
+    "ccss-ela:SL.3.6",
+    "ccss-ela:SL.2.5",
+    "uk-nc-2013:Eng.SL.9",
+    "ccss-ela:SL.3.5"
+  ],
+  "skills_tested": [
+    "speaking_listening"
+  ],
+  "lessons": [
+    {
+      "title": "Reciting Poetry",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Reciting Poetry!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Learn poems by heart and recite with appropriate intonation, adding visual displays to descriptions when appropriate, and producing complete sentences in spoken presentations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Recite a poem from memory with expression and clear enunciation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you memorise a short poem and recite it with expression — changing their voice to match the mood of the words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reciting Poetry. Recite a poem from memory with expression and clear enunciation Add a drawing or visual display to support an oral description or presentation",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_06_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_06"
+}

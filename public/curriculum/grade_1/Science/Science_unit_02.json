@@ -1,0 +1,85 @@
+{
+  "title": "Matter & Materials",
+  "objective": "Students will explore matter & materials concepts including Changing Shapes of Solids, Choosing the Right Material.",
+  "standards": [
+    "uk-nc-2013:Y2.Sci.UEM.2",
+    "ngss-k5:2-PS1-2",
+    "uk-nc-2013:Y2.Sci.UEM.1"
+  ],
+  "skills_tested": [
+    "matter_materials"
+  ],
+  "lessons": [
+    {
+      "title": "Changing Shapes of Solids",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Changing Shapes of Solids. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Investigate how the shapes of solid objects can be changed by squashing, bending, twisting, and stretching",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Demonstrate four ways to change the shape of a solid: squashing, bending, twisting, stretching",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you show you how to change the shape of clay by squashing it, twist a pipe cleaner, and explain that some materials bend while others snap?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Changing Shapes of Solids. Demonstrate four ways to change the shape of a solid: squashing, bending, twisting, stretching Compare how different materials respond to these forces (e.g. clay squashes easily, wood does not)",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_02_lesson_01"
+    },
+    {
+      "title": "Choosing the Right Material",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Choosing the Right Material!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and compare the suitability of everyday materials for particular uses, explaining why specific materials are chosen for specific purposes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why a specific material is chosen for a purpose based on its properties (e.g. glass for windows because it's transparent)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why windows are made of glass and not wood, or why wellies are made of rubber and not paper?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Choosing the Right Material. Explain why a specific material is chosen for a purpose based on its properties (e.g. glass for windows because it's transparent) Compare two materials and decide which is more suitable for a given use with reasoning",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_02_lesson_02"
+    }
+  ],
+  "id": "Science_unit_02"
+}

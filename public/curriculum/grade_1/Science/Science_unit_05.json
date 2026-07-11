@@ -1,0 +1,193 @@
+{
+  "title": "Waves, Light & Sound",
+  "objective": "Students will explore waves, light & sound concepts including Light & Seeing in the Dark, Light & Sound Vocabulary, Communication with Light & Sound and more.",
+  "standards": [
+    "ngss-k5:1-PS4-3",
+    "ngss-k5:1-PS4-2",
+    "ngss-k5:1-PS4-1",
+    "ngss-k5:1-PS4-4",
+    "uk-nc-2013:Y3.Sci.L.1",
+    "uk-nc-2013:Y4.Sci.Snd.1"
+  ],
+  "skills_tested": [
+    "waves,_light_sound"
+  ],
+  "lessons": [
+    {
+      "title": "Light & Seeing in the Dark",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Light & Seeing in the Dark!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe that objects in darkness can be seen only when illuminated by a light source",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that we need light to see objects — without any light source, it is completely dark",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you go into a completely dark room with you, can they explain why they can't see anything until a torch is switched on?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Light & Seeing in the Dark: Explain that we need light to see objects — without any light source, it is completely dark Describe an observation showing objects become visible only when light reaches them",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_05_lesson_01"
+    },
+    {
+      "title": "Light & Sound Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Light & Sound Vocabulary! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and use vocabulary for how light and sound behave — light source, transparent, translucent, opaque, shadow, reflect, vibration, pitch, volume — and apply these terms correctly when describing observations about how light travels and how sounds are made and changed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Correctly classify a set of materials as transparent, translucent, or opaque and explain each term",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you held up a piece of frosted glass, could you say whether it's transparent, translucent, or opaque — and explain what that word means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Light & Sound Vocabulary. Correctly classify a set of materials as transparent, translucent, or opaque and explain each term Explain what causes a shadow using the words 'opaque' and 'light source' correctly",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_05_lesson_02"
+    },
+    {
+      "title": "Communication with Light & Sound",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Communication with Light & Sound. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Design and build a device that uses light or sound to solve the problem of communicating over a distance",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Design a device that uses light or sound to communicate over a distance (e.g. string telephone, torch signals)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you design a simple device — like a string telephone or a mirror signalling system — to send a message to someone far away?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Communication with Light & Sound: Design a device that uses light or sound to communicate over a distance (e.g. string telephone, torch signals) Build and test the device, identifying what works and what could be improved",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_05_lesson_03"
+    },
+    {
+      "title": "Vibrations & Sound",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Vibrations & Sound? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that vibrating materials can make sound, and that sound can make materials vibrate",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe that sounds are made when objects vibrate (move back and forth quickly)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you pluck a rubber band and explain that the vibrating band makes the sound, and then hold a ruler on a speaker and see it shake from the music?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Vibrations & Sound: Describe that sounds are made when objects vibrate (move back and forth quickly) Give at least three examples of vibrating objects making sound (drum skin, guitar string, voice box)",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_05_lesson_04"
+    },
+    {
+      "title": "Transparent, Translucent & Opaque",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Transparent, Translucent & Opaque!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Investigate the effect of placing objects made of different materials in the path of a beam of light, discovering transparent, translucent, and opaque materials",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Test at least six materials and classify them as transparent, translucent, or opaque",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you test different materials with a torch and sort them into ones light goes through, ones that block light, and ones in between?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Transparent, Translucent & Opaque: Test at least six materials and classify them as transparent, translucent, or opaque Define transparent (light passes through clearly), translucent (some light passes, blurry), opaque (no light passes)",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_05_lesson_05"
+    }
+  ],
+  "id": "Science_unit_05"
+}

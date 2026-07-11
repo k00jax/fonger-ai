@@ -1,0 +1,232 @@
+{
+  "title": "Vocabulary",
+  "objective": "Students will explore vocabulary concepts including Advanced Figurative Language, Academic Vocabulary, Vocabulary Strategies and more.",
+  "standards": [
+    "ccss-ela:L.6.4",
+    "ccss-ela:L.6.4b",
+    "ccss-ela:L.6.5",
+    "ccss-ela:L.5.3b",
+    "ccss-ela:L.6.5c",
+    "uk-nc-2013:Eng.UKS2.Write.Trans.Spell.7",
+    "ccss-ela:L.8.5",
+    "ccss-ela:L.8.6",
+    "ccss-ela:L.7.4a",
+    "ccss-ela:L.8.4a"
+  ],
+  "skills_tested": [
+    "vocabulary"
+  ],
+  "lessons": [
+    {
+      "title": "Advanced Figurative Language",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Advanced Figurative Language. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and interpret figurative language, word relationships, and nuances in word meaning — including allusion, irony, pun, oxymoron, and extended metaphor — and distinguish between connotation and denotation when analysing or choosing words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain the connotative difference between words with similar denotations (e.g., thrifty vs. stingy vs. economical)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a poem or novel and the author uses irony, a pun, or an unexpected comparison, can they explain what effect it creates and why the author chose those words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Advanced Figurative Language. Explain the connotative difference between words with similar denotations (e.g., thrifty vs. stingy vs. economical) Identify irony or an allusion in a text and explain what it adds to the meaning",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_08_lesson_01"
+    },
+    {
+      "title": "Academic Vocabulary",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Academic Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Acquire and use accurately a broad range of general academic vocabulary and domain-specific words — drawing new vocabulary from reading and listening and deploying it consciously in writing and speech to achieve particular effects",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use academic vocabulary (e.g., analyse, evaluate, justify, convey, imply) accurately and appropriately in essay writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you pick up new words from books and lessons and actually use them in their own writing and conversation — not just understand them when someone else uses them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Academic Vocabulary. Use academic vocabulary (e.g., analyse, evaluate, justify, convey, imply) accurately and appropriately in essay writing Incorporate domain-specific terms from a subject studied (e.g., 'photosynthesis', 'legislature') into explanatory writing",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_08_lesson_02"
+    },
+    {
+      "title": "Vocabulary Strategies",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Vocabulary Strategies? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine the meaning of unknown and multiple-meaning words and phrases using a flexible range of strategies — including context clues, Greek and Latin affixes and roots, reference materials, and verification of inferred meaning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use context clues (the overall meaning of a sentence, a word’s position or function) to infer the meaning of an unfamiliar word",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you encounters an unfamiliar word in a book or article, can they work out its meaning using context clues, word roots, or a dictionary — and then check whether their guess was right?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Vocabulary Strategies. Use context clues (the overall meaning of a sentence, a word’s position or function) to infer the meaning of an unfamiliar word Break down a word using known Greek or Latin roots and affixes to deduce its meaning (e.g., 'malevolent' = mal- (bad) + volent (wishing))",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_08_lesson_03"
+    },
+    {
+      "title": "Choosing Formal Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Choosing Formal Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between formal and informal vocabulary, selecting words appropriate for formal speech and writing such as 'discover' instead of 'find out' and 'request' instead of 'ask for'",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Replace informal words with formal equivalents in a given text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is writing something formal — like a letter or a report — do they choose more sophisticated words, like \"enquire\" instead of \"ask\" or \"sufficient\" instead of \"enough\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Choosing Formal Vocabulary: Replace informal words with formal equivalents in a given text Identify formal vocabulary choices in official letters and reports",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_08_lesson_04"
+    },
+    {
+      "title": "Using a Thesaurus to Choose Words",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Using a Thesaurus to Choose Words. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a thesaurus to find synonyms and extend vocabulary choices, selecting the most appropriate word based on context, connotation, and register",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use a thesaurus to find three alternatives for overused words in own writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is writing and wants a better word than the one they first thought of, can they use a thesaurus and pick the right synonym for the context — not just any word that means something similar?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Using a Thesaurus to Choose Words. Use a thesaurus to find three alternatives for overused words in own writing Select the most appropriate synonym from thesaurus options based on context and tone",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_08_lesson_05"
+    },
+    {
+      "title": "Dialects & Registers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Dialects & Registers! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast the varieties of English used in stories, dramas, or poems, including dialects and registers, understanding how language varies by region, context, and purpose",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify dialect features in character dialogue and explain their effect",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a story with characters who speak in dialect or old-fashioned language, can they understand it and explain how it differs from the way we speak today?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Dialects & Registers. Identify dialect features in character dialogue and explain their effect Compare formal and informal registers in different types of texts",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_08_lesson_06"
+    }
+  ],
+  "id": "Reading_unit_08"
+}

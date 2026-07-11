@@ -1,0 +1,83 @@
+{
+  "title": "Counting & Cardinality",
+  "objective": "Students will explore counting & cardinality concepts including Counting forwards and backwards (age 6+), Counting forwards and backwards.",
+  "standards": [
+    "uk-nc-2013:Maths/Y2/NPV/1"
+  ],
+  "skills_tested": [
+    "counting_cardinality"
+  ],
+  "lessons": [
+    {
+      "title": "Counting forwards and backwards (age 6+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Counting forwards and backwards (age 6+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count forwards and backwards in tens from any number (not just multiples of 10)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Count 7, 17, 27, 37 … from a non-multiple starting point",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you starts at 37 and you ask them to count up in tens, can they say 37, 47, 57, 67 — crossing over into the next hundred without getting stuck?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Counting forwards and backwards (age 6+). Count 7, 17, 27, 37 … from a non-multiple starting point Count backwards in tens from 83",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_01"
+    },
+    {
+      "title": "Counting forwards and backwards",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Counting forwards and backwards!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count forwards and backwards in steps of 3 from 0",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Count 3, 6, 9, 12, 15 … up to at least 30",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count in threes — 3, 6, 9, 12, 15 — far enough to reach 30 without losing track or needing to start over?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Counting forwards and backwards: Count 3, 6, 9, 12, 15 … up to at least 30 Count backwards in 3s from 30",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_02_lesson_02"
+    }
+  ],
+  "id": "Math_unit_02"
+}

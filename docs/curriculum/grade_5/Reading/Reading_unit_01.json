@@ -1,0 +1,46 @@
+{
+  "title": "English Thinking",
+  "objective": "Students will explore english thinking concepts including Reflecting on Your Language Use.",
+  "standards": [],
+  "skills_tested": [
+    "english_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Reflecting on Your Language Use",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "english_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reflecting on Your Language Use!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Reflect on yourself as a language user — how your reading, writing, and speaking shift across audiences, purposes, and contexts, and where you want to develop further",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! metalinguistic awareness development",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you notice how they communicate differently in different situations — writing for school versus texting a friend, or speaking in a debate versus chatting at home — and can they explain why those differences matter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reflecting on Your Language Use: metalinguistic awareness development register and audience awareness research",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_01_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_01"
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Phonics & Word Reading",
+  "objective": "Students will explore phonics & word reading concepts including Alternative Spellings for Known Sounds, Reading with Expression and Accuracy, Syllables (age 6+).",
+  "standards": [
+    "uk-nc-2013:Eng_App1_Y2_08",
+    "uk-nc-2013:Eng_App1_Y2_09",
+    "ccss-ela:RI.4.10",
+    "ccss-ela:RL.4.10",
+    "uk-nc-2013:Eng/KS1/Y2/WR/2",
+    "uk-nc-2013:Eng_App1_Y2_07",
+    "uk-nc-2013:Eng_App1_Y2_20",
+    "ccss-ela:RF.2.3.b",
+    "uk-nc-2013:Eng_App1_Y2_03",
+    "uk-nc-2013:Eng/KS1/Y2/WR/6"
+  ],
+  "skills_tested": [
+    "phonics_word_reading"
+  ],
+  "lessons": [
+    {
+      "title": "Alternative Spellings for Known Sounds",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Alternative Spellings for Known Sounds!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise alternative grapheme-phoneme correspondences for known phonemes (e.g., /dʒ/ as ge/dge/g, /s/ as c, /n/ as kn/gn, /r/ as wr, /ʒ/ as s), reading words with less common spellings for familiar sounds",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read words with less common spellings for familiar sounds: 'badge', 'giraffe', 'city', 'knock', 'gnaw', 'write', 'treasure'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that the /j/ sound can be spelled different ways — like in 'jump', 'cage', and 'bridge' — and can they read words with these less common spellings?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Alternative Spellings for Known Sounds: Read words with less common spellings for familiar sounds: 'badge', 'giraffe', 'city', 'knock', 'gnaw', 'write', 'treasure' Identify that the same phoneme can be represented by different graphemes (e.g., /dʒ/ spelled g, ge, dge)",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_04_lesson_01"
+    },
+    {
+      "title": "Reading with Expression and Accuracy",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Reading with Expression and Accuracy. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read aloud with accuracy, appropriate rate, and expression (prosody), re-reading familiar texts to build fluency and confidence, and using context to self-correct",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read a grade-level passage aloud with expression and appropriate pacing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a story aloud, do they vary their voice to match the mood — pausing at punctuation, slowing for sad parts, speeding up for excitement?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading with Expression and Accuracy. Read a grade-level passage aloud with expression and appropriate pacing Self-correct miscues during oral reading by re-reading or using context cues",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_04_lesson_02"
+    },
+    {
+      "title": "Syllables (age 6+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Syllables (age 6+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Decode words of two or more syllables by breaking them into syllable chunks, applying knowledge that every syllable must contain a vowel sound, and blending the parts together",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read 'rabbit', 'thunder', 'fantastic' by breaking into syllable chunks and blending",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you encounters a long word like 'fantastic' or 'umbrella', can they break it into syllables and blend the parts together to read the whole word?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Syllables (age 6+): Read 'rabbit', 'thunder', 'fantastic' by breaking into syllable chunks and blending Clap or tap syllables in a multi-syllable word, then read each chunk before blending",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_04_lesson_03"
+    }
+  ],
+  "id": "Reading_unit_04"
+}

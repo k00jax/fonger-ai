@@ -1,0 +1,337 @@
+{
+  "title": "Grammar & Punctuation",
+  "objective": "Students will explore grammar & punctuation concepts including The Present Perfect Tense, Irregular past tense verbs, Grammar Terms: Clauses and Conjunctions and more.",
+  "standards": [
+    "uk-nc-2013:Eng.App2.Y3.Text.3",
+    "ccss-ela:L.4.2b",
+    "ccss-ela:L.2.1a",
+    "uk-nc-2013:Eng_LKS2_Write_VGP_9",
+    "uk-nc-2013:Eng.App2.Y3.Sent.1",
+    "ccss-ela:L.3.1a",
+    "uk-nc-2013:Eng.App2.Y4.Punc.1",
+    "uk-nc-2013:Eng_LKS2_Write_VGP_6",
+    "uk-nc-2013:Eng_LKS2_Write_VGP_3",
+    "uk-nc-2013:Eng_LKS2_Write_VGP_10"
+  ],
+  "skills_tested": [
+    "grammar_punctuation"
+  ],
+  "lessons": [
+    {
+      "title": "The Present Perfect Tense",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Present Perfect Tense!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the present perfect form of verbs in contrast to the simple past tense, understanding how the present perfect indicates an action completed at an unspecified time or with ongoing relevance (e.g., 'He has gone out' vs 'He went out')",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Form the present perfect using 'has/have' + past participle (e.g., 'She has eaten', 'They have finished')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the difference between \"I ate breakfast\" (simple past) and \"I have eaten breakfast\" (present perfect) — knowing one means a finished action and the other links the past to right now?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Present Perfect Tense. Form the present perfect using 'has/have' + past participle (e.g., 'She has eaten', 'They have finished') Choose between simple past and present perfect to match the intended meaning (e.g., 'I ate lunch' vs 'I have eaten lunch')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_01"
+    },
+    {
+      "title": "Irregular past tense verbs",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Irregular past tense verbs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form and use the past tense of frequently occurring irregular verbs correctly (e.g., sat, hid, told, went, came, ran), recognising that these do not follow the regular -ed pattern",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Supply the correct past tense of common irregular verbs: go→went, see→saw, run→ran, tell→told",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes about something that happened in the past with an irregular verb — like \"run\" or \"sit\" — do they write \"ran\" and \"sat\" rather than \"runned\" and \"sitted\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Irregular past tense verbs. Supply the correct past tense of common irregular verbs: go→went, see→saw, run→ran, tell→told Correct over-regularised forms in writing (e.g. change 'goed' to 'went', 'hided' to 'hid')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_02"
+    },
+    {
+      "title": "Grammar Terms: Clauses and Conjunctions",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Grammar Terms: Clauses and Conjunctions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use and understand Year 3 grammatical terminology accurately when discussing reading and writing: preposition, conjunction, word family, prefix, clause, subordinate clause, direct speech, consonant letter, vowel letter, inverted commas/speech marks",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use the terms 'clause' and 'subordinate clause' to identify parts of a multi-clause sentence (e.g., point to the subordinate clause in 'I stayed inside because it rained')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to find a \"subordinate clause\" or a \"preposition\" in a sentence from their book, can they point one out and explain what it means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Grammar Terms: Clauses and Conjunctions. Use the terms 'clause' and 'subordinate clause' to identify parts of a multi-clause sentence (e.g., point to the subordinate clause in 'I stayed inside because it rained') Use the terms 'conjunction', 'preposition', and 'prefix' correctly when explaining word/sentence choices in own writing",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_03"
+    },
+    {
+      "title": "Expressing Time, Place and Cause",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Expressing Time, Place and Cause. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use conjunctions (when, before, after, while, so, because), adverbs (then, next, soon, therefore) and prepositions (before, after, during, in, because of) to express time, place and cause within and across sentences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use time conjunctions to connect clauses (e.g., 'We went inside because it was raining', 'After the bell rang, we lined up')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a story, do they use time words like \"after\", \"while\", or \"soon\" to show the order things happened — rather than starting every sentence with \"then\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Expressing Time, Place and Cause. Use time conjunctions to connect clauses (e.g., 'We went inside because it was raining', 'After the bell rang, we lined up') Use adverbs of time and cause within sentences (e.g., 'First, she opened the door. Then, she stepped outside. Therefore, she got wet.')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_04"
+    },
+    {
+      "title": "Pronouns for clarity",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Pronouns for clarity!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Choose pronouns for clarity and cohesion, avoiding ambiguity and repetition; use reflexive pronouns correctly (e.g., myself, ourselves, himself)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Replace repeated nouns with pronouns to improve cohesion: rewrite 'Sam picked up Sam's bag' as 'Sam picked up his bag'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a paragraph about two people — like two characters in a story — do they use \"he\", \"she\", and \"they\" clearly enough that you always know who is being talked about?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Pronouns for clarity. Replace repeated nouns with pronouns to improve cohesion: rewrite 'Sam picked up Sam's bag' as 'Sam picked up his bag' Use reflexive pronouns correctly in sentences (e.g. 'I made it myself', 'They helped themselves')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_05"
+    },
+    {
+      "title": "Punctuating Direct Speech",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Punctuating Direct Speech! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Punctuate direct speech using inverted commas (speech marks), understanding that direct speech records the exact words spoken and must be enclosed in punctuation marks",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Place inverted commas around the spoken words in a sentence (e.g., \"Let's go!\" shouted Tom.)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes down something a character said in a story, do they put speech marks around the exact words — like \"Come here,\" she called — and use the correct punctuation inside?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Punctuating Direct Speech. Place inverted commas around the spoken words in a sentence (e.g., \"Let's go!\" shouted Tom.) Write a sentence containing direct speech with correct punctuation including a reporting clause (e.g., Mum said, \"Time for bed.\")",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_06"
+    },
+    {
+      "title": "Adjectives vs adverbs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Adjectives vs adverbs? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use adjectives and adverbs correctly, choosing between them depending on whether a noun or verb/adjective is being modified (e.g., 'She ran quickly' vs 'She is quick')",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Choose the correct form: 'The dog is (slow/slowly)' vs 'The dog walks (slow/slowly)'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you writes \"she ran quick\" instead of \"she ran quickly\", can they spot that they need an adverb to describe the running — and fix it themselves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Adjectives vs adverbs. Choose the correct form: 'The dog is (slow/slowly)' vs 'The dog walks (slow/slowly)' Identify whether a word is modifying a noun (adjective) or a verb (adverb) in a given sentence",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_07"
+    },
+    {
+      "title": "Irregular Plural Nouns",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Irregular Plural Nouns. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form and use irregular plural nouns (e.g., children, teeth, mice, geese) in addition to regular plurals, recognising that some nouns have irregular plural forms that do not follow the -s/-es pattern",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Form and use irregular plural nouns correctly (e.g. child→children, tooth→teeth, mouse→mice, goose→geese)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you point to a picture of several mice or a group of children, can you write the correct plural — knowing it's \"mice\" not \"mouses\" and \"children\" not \"childs\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Irregular Plural Nouns: Form and use irregular plural nouns correctly (e.g. child→children, tooth→teeth, mouse→mice, goose→geese) Identify collective nouns that name a group (e.g. 'a flock of birds', 'a group of children', 'a pack of wolves')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_08"
+    },
+    {
+      "title": "Choosing A or An",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Choosing A or An. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the correct form of the indefinite article — 'a' before words beginning with a consonant sound and 'an' before words beginning with a vowel sound (e.g., a rock, an open box, an hour, a unicorn)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Choose 'a' or 'an' correctly before nouns beginning with consonant or vowel sounds (e.g., 'a ball', 'an egg', 'an umbrella')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes, do they automatically choose \"a\" before a word that starts with a consonant sound and \"an\" before a vowel sound — like \"a cat\" but \"an apple\" or \"an hour\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Choosing A or An. Choose 'a' or 'an' correctly before nouns beginning with consonant or vowel sounds (e.g., 'a ball', 'an egg', 'an umbrella') Apply the rule to tricky words where spelling and sound differ (e.g., 'an hour' because /h/ is silent, 'a uniform' because /juː/ starts with a consonant sound)",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_02_lesson_09"
+    }
+  ],
+  "id": "Reading_unit_02"
+}

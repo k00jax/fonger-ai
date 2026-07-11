@@ -1,0 +1,326 @@
+{
+  "title": "Rainforests",
+  "objective": "Students will explore rainforests concepts including What Is a Rainforest?, Rainforest Layers, Rainforest Animals and more.",
+  "standards": [],
+  "skills_tested": [
+    "rainforests"
+  ],
+  "lessons": [
+    {
+      "title": "What Is a Rainforest?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about What Is a Rainforest?!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that a rainforest is a thick, tall forest found in hot, wet places near the Equator where it rains almost every day, creating a warm, damp environment where plants and animals thrive",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe a rainforest as a forest that is hot and wet, located near the Equator",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a picture of a thick, green jungle with huge trees and dangling vines, can they tell you it's a rainforest and explain that it's hot and rainy there almost every day?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What Is a Rainforest?. Describe a rainforest as a forest that is hot and wet, located near the Equator Explain that it rains very often in a rainforest, which is why the plants grow so tall and thick",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_01"
+    },
+    {
+      "title": "Rainforest Layers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Rainforest Layers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that a rainforest has four layers from ground to sky — the forest floor (dark, damp, full of decomposing leaves), the understory (small trees and shrubs in the shade), the canopy (a thick roof of treetops where most animals live), and the emergent layer (the tallest trees poking above the canopy into bright sunlight)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name the four rainforest layers in order from ground to sky: forest floor, understory, canopy, emergent",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you draws a rainforest, can they show the four layers — the dark forest floor, the shady understory, the leafy canopy, and the tallest emergent trees poking into the sky?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rainforest Layers. Name the four rainforest layers in order from ground to sky: forest floor, understory, canopy, emergent Describe one key feature of each layer, such as the canopy being a thick roof of leaves or the forest floor being dark and damp",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_02"
+    },
+    {
+      "title": "Rainforest Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Rainforest Animals! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and recognise iconic rainforest animals — jaguars, toucans, sloths, poison dart frogs, howler monkeys, macaws, and butterflies — and know which layer of the rainforest each lives in",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least five iconic rainforest animals such as jaguars, toucans, sloths, poison dart frogs, and howler monkeys",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you name at least five animals that live in the rainforest and tell you something about each — like a toucan's big colourful beak or a sloth hanging upside down in the trees?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rainforest Animals: Name at least five iconic rainforest animals such as jaguars, toucans, sloths, poison dart frogs, and howler monkeys Match at least three animals to the rainforest layer where they live (e.g. monkeys in the canopy, jaguars on the forest floor)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_03"
+    },
+    {
+      "title": "Rainforest Plants",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Rainforest Plants! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that rainforests contain an enormous variety of plants — towering kapok and Brazil nut trees, climbing vines called lianas, colourful orchids that grow on tree branches, giant water lilies, and huge leaves that funnel rainwater",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three types of rainforest plant, such as kapok trees, lianas (climbing vines), and orchids",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you name some plants that grow in the rainforest — like giant trees, climbing vines, or orchids that grow on branches — and explain why they grow so big and tall?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rainforest Plants: Name at least three types of rainforest plant, such as kapok trees, lianas (climbing vines), and orchids Explain that rainforest plants grow very tall because they compete for sunlight",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_04"
+    },
+    {
+      "title": "Where Rainforests Are",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Where Rainforests Are!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that rainforests are found in a belt around the middle of the Earth — in South America (the Amazon), Central Africa (the Congo), and Southeast Asia — and that they appear on every continent except Antarctica and Europe",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Point to the Amazon, Congo, and Southeast Asian rainforest regions on a world map",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you a world map, can they point to where rainforests grow — near the middle of the Earth in places like South America, Africa, and Asia?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Where Rainforests Are. Point to the Amazon, Congo, and Southeast Asian rainforest regions on a world map Explain that rainforests grow near the Equator where it is hot and wet all year",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_05"
+    },
+    {
+      "title": "Indigenous Rainforest Peoples",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Indigenous Rainforest Peoples! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that indigenous peoples such as the Yanomami have lived in rainforests for thousands of years, building homes from forest materials, finding food by hunting, fishing, and gathering, and knowing the forest and its plants and animals deeply",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that indigenous peoples like the Yanomami have lived in rainforests for thousands of years",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that some people have lived in rainforests for thousands of years — building their homes from the trees and knowing which plants are food and which are medicine?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Indigenous Rainforest Peoples. Explain that indigenous peoples like the Yanomami have lived in rainforests for thousands of years Describe how they use the forest for shelter, food, and medicine",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_06"
+    },
+    {
+      "title": "Rainforest Insects",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Rainforest Insects!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that rainforests are home to millions of insects — leaf-cutter ants that farm fungus, giant beetles, jewel-coloured butterflies, enormous spiders, and stick insects — and that insects are the most numerous animals in the rainforest",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least three types of insect or minibeast found in the rainforest, such as leaf-cutter ants, morpho butterflies, and giant beetles",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that rainforests are packed with insects — like leaf-cutter ants that carry bits of leaf in a long line, or butterflies as big as a dinner plate?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rainforest Insects: Name at least three types of insect or minibeast found in the rainforest, such as leaf-cutter ants, morpho butterflies, and giant beetles Explain that insects are the most numerous animals in the rainforest",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_07"
+    },
+    {
+      "title": "Everyday Foods from Rainforests",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Everyday Foods from Rainforests? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that many everyday foods come from rainforests — chocolate is made from cacao beans, bananas grow in tropical forests, coffee berries ripen in forest shade, and Brazil nuts fall from giant trees — connecting our daily lives to faraway forests",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three foods that come from rainforests, such as chocolate (cacao), bananas, and Brazil nuts",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is eating a chocolate bar or a banana, can they tell you that those foods originally come from rainforests?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Everyday Foods from Rainforests: Name at least three foods that come from rainforests, such as chocolate (cacao), bananas, and Brazil nuts Explain that cacao beans grow on trees in the rainforest and are made into chocolate",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_08"
+    },
+    {
+      "title": "Inside a Rainforest",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Inside a Rainforest? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe what it feels like inside a rainforest — hot and sticky (humid), dark on the ground because the treetops block the light, loud with animal calls and insect buzzing, and dripping with water from rain and condensation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the air inside a rainforest as hot and sticky (humid)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watches a rainforest video clip, can they describe what it would feel, sound, and look like to stand inside — the heat, the noise, the darkness on the ground?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Inside a Rainforest. Describe the air inside a rainforest as hot and sticky (humid) Explain that the forest floor is dark because tall trees block most of the sunlight",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_11_lesson_09"
+    }
+  ],
+  "id": "Science_unit_11"
+}

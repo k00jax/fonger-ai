@@ -1,0 +1,120 @@
+{
+  "title": "Counting & Cardinality",
+  "objective": "Students will explore counting & cardinality concepts including Skip Counting (4s, 8s, 50s, 100s), Counting Within 1,000.",
+  "standards": [
+    "uk-nc-2013:Ma/KS2/Y3/NPV/1",
+    "ccss-math:2.NBT.2"
+  ],
+  "skills_tested": [
+    "counting_cardinality",
+    "data_statistics"
+  ],
+  "lessons": [
+    {
+      "title": "Skip Counting (4s, 8s, 50s, 100s)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Skip Counting (4s, 8s, 50s, 100s)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count from 0 in multiples of 4, 8, 50, and 100",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Recite the multiples of 4 from 0 to at least 48",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count in fours all the way to 48, count in eights, or count up in hundreds from any starting point — for example 350, 450, 550?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Skip Counting (4s, 8s, 50s, 100s). Recite the multiples of 4 from 0 to at least 48 Recite the multiples of 8 from 0 to at least 96",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_02_lesson_01"
+    },
+    {
+      "title": "Counting Within 1,000",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Counting Within 1,000. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count within 1000, including skip-counting by 5s, 10s, and 100s",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Count forwards and backwards within 1000 from any starting number",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count confidently up to 1000 — and if you ask them to count by hundreds from 200, or by tens from 650, can they do it without losing their place?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Counting Within 1,000: Count forwards and backwards within 1000 from any starting number Skip-count by 5s from any multiple of 5 to 1000",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_02_lesson_02"
+    },
+    {
+      "title": "Picture & Bar Graphs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Picture & Bar Graphs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories; solve put-together, take-apart, and compare problems using information presented in a bar graph",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw a picture graph with a symbol representing one unit for each data point",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw a simple bar chart or picture graph to show information — like how many of each colour of sweet are in a bag — and answer questions from it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Picture & Bar Graphs: Draw a picture graph with a symbol representing one unit for each data point Draw a bar graph with labelled axes and a single-unit scale",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_02_lesson_03"
+    }
+  ],
+  "id": "Math_unit_02"
+}

@@ -1,0 +1,291 @@
+{
+  "title": "Mathematical Thinking",
+  "objective": "Students will explore mathematical thinking concepts including Showing Your Working, Making Sense of Problems, Using objects to model real problems and more.",
+  "standards": [],
+  "skills_tested": [
+    "mathematical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Showing Your Working",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Showing Your Working? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Show and tell how a mathematical answer was found using objects, drawings, and spoken words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use objects or drawings to demonstrate how an addition or subtraction was solved",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you solves a maths problem, can they explain how they got their answer — using counters, a drawing, or words — rather than just writing down the final number?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Showing Your Working. Use objects or drawings to demonstrate how an addition or subtraction was solved Respond to 'how do you know?' by pointing to objects or a drawing and describing what was done",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_01"
+    },
+    {
+      "title": "Making Sense of Problems",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Making Sense of Problems? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make sense of a problem by identifying what is being asked, choosing concrete objects or pictures to represent the situation, and explaining a pathway to the solution",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. When given a word problem within 10, explain what the problem is asking before attempting to solve",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you gets a maths problem they don't immediately know how to solve, do they stop and think about what the question is asking — maybe drawing a picture — before diving in?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Making Sense of Problems. When given a word problem within 10, explain what the problem is asking before attempting to solve Choose objects, fingers, or drawings to represent a problem situation",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_02"
+    },
+    {
+      "title": "Using objects to model real problems",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Using objects to model real problems! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use objects, drawings, or simple number sentences to represent a real-world situation (early mathematical modelling)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw a picture or use objects to represent a simple real-world situation involving counting or comparing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you describe a simple real-life situation to you — like \"there are 3 birds on a fence and 2 more land\" — can they write a number sentence like 3 + 2 = 5 to represent it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Using objects to model real problems. Draw a picture or use objects to represent a simple real-world situation involving counting or comparing Write or dictate a number sentence to describe a real-world situation (e.g. 'I had 5 apples and ate 2')",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_03"
+    },
+    {
+      "title": "Spotting mathematical patterns",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Spotting mathematical patterns? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice simple patterns and structures: spot that changing order doesn't change the total, and recognise how numbers relate to each other",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Notice that 3 + 2 gives the same answer as 2 + 3 (early commutativity)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you noticed that adding numbers in a different order gives the same answer — like 3 + 5 and 5 + 3 both equal 8 — and can they explain why that makes sense?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Spotting mathematical patterns. Notice that 3 + 2 gives the same answer as 2 + 3 (early commutativity) Recognise that teen numbers are 'ten and some more' (e.g. 14 is 10 and 4)",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_04"
+    },
+    {
+      "title": "Early Maths Vocabulary",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Early Maths Vocabulary? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use mathematical words carefully when counting, comparing, and describing shapes and positions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use 'more than', 'fewer than', and 'the same as' correctly when comparing groups",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you talks about maths — like comparing numbers or describing shapes — do they use the right words, like \"larger than\", \"fewer\", \"beside\", or \"corner\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Early Maths Vocabulary. Use 'more than', 'fewer than', and 'the same as' correctly when comparing groups Name shapes correctly and describe their features using words like 'sides' and 'corners'",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_05"
+    },
+    {
+      "title": "Real-World to Maths Connections",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Real-World to Maths Connections! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Move between a real-world situation and a mathematical representation using concrete objects, drawings, diagrams, tables, number sentences, or bar models",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Given a story about combining groups, represent it with counters or cubes and find the total",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is working out a real-life maths problem — like sharing 8 sweets between 2 people — can they use objects or draw a picture to show what's happening before writing any numbers?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Real-World to Maths Connections. Given a story about combining groups, represent it with counters or cubes and find the total Given a set of objects, tell a simple addition or subtraction story to match",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_06"
+    },
+    {
+      "title": "Finding efficient methods",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Finding efficient methods!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice when a calculation or pattern repeats and use this to count more efficiently or predict results",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Notice that skip counting by 2s follows a repeating odd/even pattern",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is counting or doing repeated additions, have they started to notice the pattern — like \"5, 10, 15, 20…\" — and used it to predict the next number without counting one by one?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Finding efficient methods: Notice that skip counting by 2s follows a repeating odd/even pattern Recognise that adding 1 to any number always gives the next counting number",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_07"
+    },
+    {
+      "title": "Hands-On Problem Solving",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Hands-On Problem Solving! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Select and use familiar tools (concrete objects, fingers, ten frames) to help solve a mathematical problem",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Choose cubes, counters, or fingers to help solve an addition or subtraction problem",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is working out a maths problem, do they reach for helpful tools — like using their fingers, counters, or a number line — to support their thinking?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Hands-On Problem Solving: Choose cubes, counters, or fingers to help solve an addition or subtraction problem Use a ten frame to organise objects for counting or comparing",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_05_lesson_08"
+    }
+  ],
+  "id": "Math_unit_05"
+}

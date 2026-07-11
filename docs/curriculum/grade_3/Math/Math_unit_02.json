@@ -1,0 +1,119 @@
+{
+  "title": "Counting & Cardinality",
+  "objective": "Students will explore counting & cardinality concepts including Counting in 6s.",
+  "standards": [
+    "uk-nc-2013:Ma/KS2/Y4/NPV/1"
+  ],
+  "skills_tested": [
+    "counting_cardinality",
+    "data_statistics"
+  ],
+  "lessons": [
+    {
+      "title": "Counting in 6s",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Counting in 6s. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count in multiples of 6, 7, 9, 25, and 1000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Recite the multiples of 6 from 0 to at least 72",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count in sevens — 7, 14, 21, 28 — or in nines, or in 25s when thinking about coins, or in 1000s when talking about distances like kilometres?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Counting in 6s: Recite the multiples of 6 from 0 to at least 72 Recite the multiples of 7 from 0 to at least 84",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_02_lesson_01"
+    },
+    {
+      "title": "Representing numbers with objects (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Representing numbers with objects (age 8+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw a scaled picture graph and a scaled bar graph to represent a data set; solve one- and two-step comparison, sum, and difference problems using bar charts, pictograms, and tables",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw a bar graph where each square represents 5 pets",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at a bar chart showing how many books different children read last month, could they work out the total, find the difference between the most and least, and draw their own chart with a scale like \"each square = 2 books\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Representing numbers with objects (age 8+). Draw a bar graph where each square represents 5 pets From a scaled pictogram, answer: how many more children chose football than tennis?",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_02_lesson_02"
+    },
+    {
+      "title": "Bar graphs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Bar graphs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret and present discrete and continuous data using appropriate graphical methods, including bar charts and time graphs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read a time graph showing temperature changes over a day",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you choose the right type of chart for some data — for example, a bar chart for favourite colours or a line graph for temperature over a week — and draw it correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Bar graphs. Read a time graph showing temperature changes over a day Present data about plant growth over weeks as a time graph",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_02_lesson_03"
+    }
+  ],
+  "id": "Math_unit_02"
+}

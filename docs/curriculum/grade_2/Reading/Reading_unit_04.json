@@ -1,0 +1,232 @@
+{
+  "title": "Reading Comprehension",
+  "objective": "Students will explore reading comprehension concepts including Inferring Characters' Feelings and Motives, Main Ideas & Note-Taking, Forms of Poetry and Performance and more.",
+  "standards": [
+    "uk-nc-2013:Eng.UKS2.Read.Comp.5",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_5",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.2c",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_15",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.2f",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_8",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.1h",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_14",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.1e",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_11"
+  ],
+  "skills_tested": [
+    "reading_comprehension"
+  ],
+  "lessons": [
+    {
+      "title": "Inferring Characters' Feelings and Motives",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Inferring Characters' Feelings and Motives? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw inferences from independently-read texts, such as inferring characters' feelings, thoughts and motives from their actions, and justifying inferences with evidence from the text",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Infer a character's feelings or motives from their actions and dialogue (e.g. 'She slammed the door — how is she feeling?')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you reads a chapter of a novel, can they explain how a character was feeling and why — pointing to something the character said or did as their evidence?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Inferring Characters' Feelings and Motives. Infer a character's feelings or motives from their actions and dialogue (e.g. 'She slammed the door — how is she feeling?') Justify an inference by quoting or pointing to specific evidence in the text",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_04_lesson_01"
+    },
+    {
+      "title": "Main Ideas & Note-Taking",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Main Ideas & Note-Taking. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify main ideas drawn from more than one paragraph and summarise them; retrieve and record information from non-fiction texts using notes, tables or other methods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read a multi-paragraph non-fiction text and state the main idea of each paragraph in one sentence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a long non-fiction article or chapter, can they pull out the most important points and write them as a short summary — rather than just copying chunks of text?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Main Ideas & Note-Taking. Read a multi-paragraph non-fiction text and state the main idea of each paragraph in one sentence Summarise a text of 3+ paragraphs in 2-3 sentences capturing the key points",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_04_lesson_02"
+    },
+    {
+      "title": "Forms of Poetry and Performance",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Forms of Poetry and Performance? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise different forms of poetry (free verse, narrative poetry, haiku) and discuss their features; prepare poems and play scripts to read aloud and perform with understanding through intonation, tone, volume and action",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least two different forms of poetry and describe a feature of each (e.g., 'narrative poetry tells a story', 'free verse does not have a regular rhyme or rhythm')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a poem aloud, do they change their voice to match the mood — reading excitedly for a lively poem or quietly for a sad one — rather than reading it flat?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Forms of Poetry and Performance. Name at least two different forms of poetry and describe a feature of each (e.g., 'narrative poetry tells a story', 'free verse does not have a regular rhyme or rhythm') Recognise the form of a given poem and explain how you identified it (e.g., 'This is a narrative poem because it has characters and a plot')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_04_lesson_03"
+    },
+    {
+      "title": "Themes and messages",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Themes and messages!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify recurring themes (good vs evil, friendship, bravery) and conventions (once upon a time, moral at the end, hero's journey) across a wide range of books including fairy stories, myths, legends and traditional tales",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify a common theme across two different stories (e.g., 'Both \"Jack and the Beanstalk\" and \"The Three Billy Goats Gruff\" are about bravery overcoming a threat')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a few different fairy tales or myths, can you spot patterns — like \"the hero always faces three challenges\" or \"good always wins in the end\" — across the different stories?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Themes and messages: Identify a common theme across two different stories (e.g., 'Both \"Jack and the Beanstalk\" and \"The Three Billy Goats Gruff\" are about bravery overcoming a threat') Name literary conventions found in fairy tales and myths (e.g., 'once upon a time', magical numbers like three, a quest or journey, good triumphing over evil)",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_04_lesson_04"
+    },
+    {
+      "title": "Story Lessons and Morals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Story Lessons and Morals! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine the central message, lesson, or moral of a story, fable, or folktale, explaining what the story teaches the reader and supporting the interpretation with key details from the text",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State the lesson or moral of a fable in one sentence (e.g. 'The Tortoise and the Hare teaches that slow and steady wins the race')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a fable like \"The Tortoise and the Hare\", can you tell you the lesson the story is teaching — and point to a moment in the story that shows that lesson?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Story Lessons and Morals. State the lesson or moral of a fable in one sentence (e.g. 'The Tortoise and the Hare teaches that slow and steady wins the race') Explain what a story's central message is using at least two details from the text as support",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_04_lesson_05"
+    },
+    {
+      "title": "Text Features & Presentation",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Text Features & Presentation!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify how language choices, text structure and presentational features (illustrations, diagrams, bold print, layout) contribute to the overall meaning and effect of a text",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain how an author's word choices create a particular effect (e.g., 'The author uses \"crept\" instead of \"walked\" to make it feel sneaky and tense')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a page with headings, diagrams, or bold words, can they explain how those features help — like \"the diagram shows the water cycle because the words alone are hard to picture\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Text Features & Presentation. Explain how an author's word choices create a particular effect (e.g., 'The author uses \"crept\" instead of \"walked\" to make it feel sneaky and tense') Identify how a text's structure helps the reader (e.g., 'The headings help you find information quickly', 'The story builds suspense before the ending')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_04_lesson_06"
+    }
+  ],
+  "id": "Reading_unit_04"
+}

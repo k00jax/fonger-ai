@@ -1,0 +1,46 @@
+{
+  "title": "Vocabulary",
+  "objective": "Students will explore vocabulary concepts including Literal vs Figurative Language.",
+  "standards": [],
+  "skills_tested": [
+    "vocabulary"
+  ],
+  "lessons": [
+    {
+      "title": "Literal vs Figurative Language",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Literal vs Figurative Language! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish literal from nonliteral (figurative) language in context and interpret common idioms and phrases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify whether 'It's raining cats and dogs' is literal or nonliteral and explain what it means",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a phrase like \"it's raining cats and dogs\" or \"she had butterflies in her stomach,\" do they know it doesn't mean what the words literally say?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Literal vs Figurative Language: Identify whether 'It's raining cats and dogs' is literal or nonliteral and explain what it means Read a passage and circle three phrases used nonliterally, restating each in literal terms",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_05_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_05"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Spelling & Word Study",
+  "objective": "Students will explore spelling & word study concepts including Applying Spelling Rules to Complex Words.",
+  "standards": [
+    "ccss-ela:L.7.2b",
+    "uk-nc-2013:KS3-ENG-W-2c",
+    "ccss-ela:L.6.2b"
+  ],
+  "skills_tested": [
+    "spelling_word_study"
+  ],
+  "lessons": [
+    {
+      "title": "Applying Spelling Rules to Complex Words",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Applying Spelling Rules to Complex Words! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell correctly and consistently, applying the spelling patterns and rules from KS1-2 to increasingly complex vocabulary encountered in KS3 reading and subject-specific study",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Spell subject-specific vocabulary correctly when encountered in new domains (e.g., 'parliament', 'photosynthesis', 'algorithm')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes longer, more complex words in secondary school — like subject-specific vocabulary in science or history — do they spell them correctly without needing to check each time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Applying Spelling Rules to Complex Words. Spell subject-specific vocabulary correctly when encountered in new domains (e.g., 'parliament', 'photosynthesis', 'algorithm') Apply known spelling rules and etymological patterns to unfamiliar words",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_07_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_07"
+}

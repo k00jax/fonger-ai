@@ -1,0 +1,156 @@
+{
+  "title": "Responsible Decision-Making",
+  "objective": "Students will explore responsible decision-making concepts including Ethics in Real-World Issues, Difficult Ethical Choices, Peer Pressure and Resisting It and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE.INT.P3.CU.5",
+    "ib-pyp-pspe:PSPE-ID-CU-P4-4",
+    "ib-pyp-pspe:PSPE.INT.P4.LO.5",
+    "ib-pyp-pspe:PSPE.INT.P4.CU.4"
+  ],
+  "skills_tested": [
+    "responsible_decision-making"
+  ],
+  "lessons": [
+    {
+      "title": "Ethics in Real-World Issues",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Ethics in Real-World Issues!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate the ethical dimensions of real-world issues they encounter — such as environmental responsibility, fairness in sport, digital ethics, or social justice — considering multiple perspectives and forming a reasoned personal position",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify an ethical issue and describe at least two different perspectives on it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you discuss a real issue — like whether it's fair that some children have more than others, or whether animals should be kept in zoos — considering different viewpoints and explaining their own position thoughtfully?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ethics in Real-World Issues. Identify an ethical issue and describe at least two different perspectives on it Explain which perspective they agree with most and give reasons for their position",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_04_lesson_01"
+    },
+    {
+      "title": "Difficult Ethical Choices",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Difficult Ethical Choices!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that ethical decisions are not always black and white — that sometimes there is no perfect answer and reasonable people can disagree — and practise weighing up competing values when making difficult choices",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe a moral dilemma where both sides have valid points",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you's friend tells them a secret but the secret involves something dangerous, can you think through the tension between loyalty to their friend and the need to keep someone safe?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Difficult Ethical Choices: Describe a moral dilemma where both sides have valid points Explain the values in tension (e.g., loyalty vs safety, honesty vs kindness)",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_04_lesson_02"
+    },
+    {
+      "title": "Peer Pressure and Resisting It",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Peer Pressure and Resisting It!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand peer pressure — the influence friends and peers can have on your choices and behaviour — and develop strategies for resisting pressure to do something they know is wrong or that makes them uncomfortable",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define peer pressure in their own words and give a real-world example",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you's friends dare them to do something risky or unkind — like shoplifting a sweet or posting an embarrassing photo of someone — can they resist the pressure and explain why they won't do it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Peer Pressure and Resisting It. Define peer pressure in their own words and give a real-world example Describe at least two strategies for resisting peer pressure, such as walking away or using humour",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_04_lesson_03"
+    },
+    {
+      "title": "Community Rights and Responsibilities",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "responsible_decision-making"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Community Rights and Responsibilities. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand their rights and responsibilities as a member of a community — that everyone has a right to be treated with respect and to feel safe, and that with rights come responsibilities to treat others the same way",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three rights that every child has (e.g., safety, education, respect)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that they have a right to feel safe at school AND a responsibility to help make school safe for others — understanding that rights and responsibilities go together?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Community Rights and Responsibilities: Name at least three rights that every child has (e.g., safety, education, respect) Describe the responsibilities that go along with those rights",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_04_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_04"
+}

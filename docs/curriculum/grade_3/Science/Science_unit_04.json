@@ -1,0 +1,155 @@
+{
+  "title": "Forces & Motion",
+  "objective": "Students will explore forces & motion concepts including Predicting Motion Patterns, Balanced & Unbalanced Forces.",
+  "standards": [
+    "ngss-k5:3-PS2-1",
+    "ngss-k5:3-PS2-2"
+  ],
+  "skills_tested": [
+    "forces_motion",
+    "matter_materials"
+  ],
+  "lessons": [
+    {
+      "title": "Predicting Motion Patterns",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Predicting Motion Patterns. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make observations and measurements of an object's motion to provide evidence that a pattern can be used to predict future motion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Measure an object's motion (distance, speed, direction) under different conditions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you rolls a ball down ramps of different heights, can they spot the pattern and predict how far it will roll from a new height?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Predicting Motion Patterns. Measure an object's motion (distance, speed, direction) under different conditions Identify a pattern in the data (e.g. steeper ramp = further roll)",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_04_lesson_01"
+    },
+    {
+      "title": "Balanced & Unbalanced Forces",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Balanced & Unbalanced Forces!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define balanced forces (equal in size, opposite in direction — no change in motion) and unbalanced forces (cause motion to change)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a book sitting on a table doesn't move (balanced forces) but slides when you push it (unbalanced forces)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Balanced & Unbalanced Forces. Define balanced forces (equal in size, opposite in direction — no change in motion) and unbalanced forces (cause motion to change) Plan a fair test investigating how different force sizes affect an object's motion",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_04_lesson_02"
+    },
+    {
+      "title": "Solids, Liquids & Gases",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Solids, Liquids & Gases? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and group materials as solids, liquids, or gases based on their observable properties and behaviour",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define solids (fixed shape, hard to compress), liquids (flow, take shape of container), gases (spread out, fill space)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the difference between a solid like ice, a liquid like water, and a gas like steam, and sort everyday things into these three groups?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Solids, Liquids & Gases. Define solids (fixed shape, hard to compress), liquids (flow, take shape of container), gases (spread out, fill space) Sort at least eight everyday materials into solid, liquid, or gas categories",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_04_lesson_03"
+    },
+    {
+      "title": "Evaporation & the Water Cycle",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Evaporation & the Water Cycle? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the role of evaporation and condensation in the water cycle, and associate the rate of evaporation with temperature",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe evaporation as liquid turning to gas and condensation as gas turning to liquid",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why puddles disappear on a sunny day and where the water goes, and why the bathroom mirror steams up after a hot shower?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Evaporation & the Water Cycle. Describe evaporation as liquid turning to gas and condensation as gas turning to liquid Explain the water cycle: evaporation from seas/lakes → condensation into clouds → precipitation",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_04_lesson_04"
+    }
+  ],
+  "id": "Science_unit_04"
+}

@@ -1,0 +1,291 @@
+{
+  "title": "Mathematical Thinking",
+  "objective": "Students will explore mathematical thinking concepts including Complex Multi-Step Problems, Precise Maths Vocabulary, Understanding fractions (age 9+) and more.",
+  "standards": [],
+  "skills_tested": [
+    "mathematical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Complex Multi-Step Problems",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Complex Multi-Step Problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make sense of complex multi-step problems involving large numbers, fractions, decimals, and percentages by analysing what is known and unknown, planning multi-step strategies, and evaluating reasonableness through estimation and inverse operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Break a three-step problem involving unit conversion and multiplication into sub-problems and solve systematically",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you faces a complex multi-step maths problem involving percentages, large numbers, or fractions, do they pause to identify what's known, estimate an answer, and then check their final result makes sense?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Complex Multi-Step Problems. Break a three-step problem involving unit conversion and multiplication into sub-problems and solve systematically Estimate 4,832 × 7 as roughly 5,000 × 7 = 35,000 to check a calculated answer of 33,824",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_01"
+    },
+    {
+      "title": "Precise Maths Vocabulary",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Precise Maths Vocabulary? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Communicate with mathematical precision: use correct vocabulary for primes, factors, multiples, angle types, and polygon regularity; specify units including cm², m³, °; use notation for squares/cubes and percentages accurately",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Distinguish 'factor' from 'multiple' in a written explanation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you talks or writes about maths involving primes, percentages, or polygons, do they use the precise technical words — like \"prime factor\", \"obtuse angle\", or \"regular hexagon\" — correctly and confidently?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Precise Maths Vocabulary. Distinguish 'factor' from 'multiple' in a written explanation Write an area answer as 48 cm² (not just 48) and a volume estimate as approximately 60 cm³",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_02"
+    },
+    {
+      "title": "Understanding fractions (age 9+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Understanding fractions (age 9+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct and present logical mathematical arguments involving multiple steps; critique others' reasoning about fractions, angles, or calculations and clearly explain errors or alternative methods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Prove that 3/4 > 2/3 using a common denominator argument and a visual model",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you and a classmate solve the same maths problem differently, can you compare the two approaches, explain which method is more efficient, and identify any errors in either working?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding fractions (age 9+): Prove that 3/4 > 2/3 using a common denominator argument and a visual model Find and explain an error in a long multiplication where a partial product was misaligned",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_03"
+    },
+    {
+      "title": "Real-World Maths Modelling",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Real-World Maths Modelling! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Model real-world problems involving scaling, unit conversion, area/perimeter, and percentage by selecting appropriate mathematical representations and interpreting results in context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Model a recipe-scaling problem with multiplication and fractions, then interpret the answer in grams",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is solving a real-world maths problem — like scaling a recipe or converting units — do they choose a sensible representation, carry out the maths, and then explain what the result means in the real situation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Real-World Maths Modelling. Model a recipe-scaling problem with multiplication and fractions, then interpret the answer in grams Represent a room-carpet problem by drawing a scale diagram and applying the area formula",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_04"
+    },
+    {
+      "title": "Choosing representations strategically",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Choosing representations strategically? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Select and use tools and representations strategically: choose between mental methods, formal written methods, protractors, fraction strips, and diagrams based on the demands of the problem",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Choose mental multiplication for 25 × 40 but long multiplication for 347 × 26",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you faces a geometry or proportion problem, do they choose the right tool — like a protractor for angles or a fraction strip for comparing fractions — rather than always defaulting to one method?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Choosing representations strategically. Choose mental multiplication for 25 × 40 but long multiplication for 347 × 26 Select a protractor to verify an estimated angle rather than relying on visual inspection alone",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_05"
+    },
+    {
+      "title": "Fractions on a number line (age 9+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fractions on a number line (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Move fluently between real-world situations, diagrams, number lines, bar models, and symbolic equations involving multi-digit multiplication, fractions, decimals, and percentages, explaining connections between representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Represent a scaling problem as both a bar model and a multiplication equation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you solves a problem involving percentages or multi-digit multiplication, can they show the same situation using a bar model, a number line, and an equation — and explain what each one represents?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fractions on a number line (age 9+). Represent a scaling problem as both a bar model and a multiplication equation Show how 0.35, 35/100, and 35% all represent the same quantity on a hundredths grid",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_06"
+    },
+    {
+      "title": "Reasoning with Equivalences",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Reasoning with Equivalences!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use repeated reasoning to generalise: extend patterns in equivalent fractions and percentage conversions, derive unknown facts from known facts, describe general rules for sequences and predict terms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Notice that multiplying any number by 25 can be done by multiplying by 100 then dividing by 4, and explain why",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you sees a sequence of equivalent fractions — like 1/2, 2/4, 3/6… — can they describe the rule and use it to find the next few terms, or to quickly convert between fractions and percentages?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reasoning with Equivalences. Notice that multiplying any number by 25 can be done by multiplying by 100 then dividing by 4, and explain why Describe the general rule for a sequence and predict the 20th term",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_07"
+    },
+    {
+      "title": "Fractions, Decimals & Percentages",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fractions, Decimals & Percentages. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Look for and use mathematical structure: exploit the relationship between fractions, decimals, and percentages; use factor pairs to simplify multiplication; apply angle facts to find unknowns; use properties of regular polygons systematically",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use the structure 25 × 16 = 25 × 4 × 4 = 100 × 4 = 400 by exploiting factor pairs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you notices that fractions, decimals, and percentages are just different ways of writing the same thing, do they use that understanding to switch between them fluidly when it makes a calculation easier?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fractions, Decimals & Percentages. Use the structure 25 × 16 = 25 × 4 × 4 = 100 × 4 = 400 by exploiting factor pairs Recognise that 0.75 = 3/4 = 75% and use whichever form is most efficient for the problem",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_05_lesson_08"
+    }
+  ],
+  "id": "Math_unit_05"
+}

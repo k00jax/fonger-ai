@@ -1,0 +1,293 @@
+{
+  "title": "Weather & Climate",
+  "objective": "Students will explore weather & climate concepts including Climate Change Basics, Natural resources, Sun-Driven Weather Systems and more.",
+  "standards": [
+    "ngss-k5:4-ESS3-1"
+  ],
+  "skills_tested": [
+    "weather_climate"
+  ],
+  "lessons": [
+    {
+      "title": "Climate Change Basics",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Climate Change Basics? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the basics of climate change: Earth’s atmosphere traps some of the Sun's heat (the greenhouse effect), burning fossil fuels adds extra greenhouse gases (especially CO₂), this is making Earth gradually warmer, and this warming changes weather patterns, melts ice, and raises sea levels",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the greenhouse effect: the atmosphere traps heat from the Sun",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the greenhouse effect in simple terms and describe how burning oil, gas, and coal adds extra CO₂ to the air, making Earth warmer and changing weather patterns?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Climate Change Basics: Describe the greenhouse effect: the atmosphere traps heat from the Sun Explain that burning fossil fuels increases CO₂ in the atmosphere",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_01"
+    },
+    {
+      "title": "Natural resources",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Natural resources!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Obtain and combine information to describe that energy and fuels are derived from natural resources and that their uses affect the environment",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name natural resources used for energy and fuels (coal, oil, gas, wind, sun, water)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain where petrol, electricity, and gas come from — that they come from natural resources like oil, coal, wind, or sunlight — and how using them affects the environment?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Natural resources. Name natural resources used for energy and fuels (coal, oil, gas, wind, sun, water) Describe how extracting and using these resources affects the environment (pollution, habitat loss, climate change)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_02"
+    },
+    {
+      "title": "Sun-Driven Weather Systems",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Sun-Driven Weather Systems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how the Sun drives weather: the Sun heats Earth's surface unevenly (land heats faster than water, equator gets more heat than poles), creating differences in air pressure that cause wind patterns, ocean currents, and large-scale weather systems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that the Sun heats land and water at different rates",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why coastal areas often have sea breezes and why the equator is hotter than the poles, connecting it all back to the Sun heating Earth unevenly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Sun-Driven Weather Systems. Explain that the Sun heats land and water at different rates Describe how temperature differences create air pressure differences that drive wind",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_03"
+    },
+    {
+      "title": "Climate Zones",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Climate Zones!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that Earth has distinct climate zones — tropical (hot and wet near the equator), temperate (moderate, with four seasons), polar (freezing cold), arid/desert (very dry), and mountain (cold at high altitude) — and that each zone supports different ecosystems and ways of life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name and describe at least four climate zones",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at a world map showing climate zones, could they explain why the Amazon rainforest, the Sahara desert, and the Arctic all have such different weather, plants, and animals?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Climate Zones: Name and describe at least four climate zones Explain what determines which zone a place belongs to (mainly latitude and geography)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_04"
+    },
+    {
+      "title": "Weather-Resistant Engineering",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Weather-Resistant Engineering!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that engineers design buildings, flood defences, and warning systems to protect communities from extreme weather — hurricane-resistant roofs, flood barriers, tornado shelters, and early-warning alert systems — and evaluate the merits of these solutions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe at least two engineering solutions designed to protect against extreme weather",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw pictures of houses on stilts in a flood zone and a tornado shelter, could they explain how each design protects people and discuss whether one solution works better than another?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Weather-Resistant Engineering: Describe at least two engineering solutions designed to protect against extreme weather Explain how a specific design feature reduces damage from a weather hazard",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_05"
+    },
+    {
+      "title": "Reading Weather Maps",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Reading Weather Maps? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and interpret weather maps, data tables, and graphs — identifying symbols for sun, rain, wind, and temperature; spotting trends and patterns in weather data over weeks, months, or seasons; and using data to make simple predictions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Interpret common weather map symbols for temperature, precipitation, and wind",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a weather map with symbols on the news, could they read it and explain what weather is coming — and if shown a graph of monthly rainfall, could they spot the wettest and driest months?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reading Weather Maps: Interpret common weather map symbols for temperature, precipitation, and wind Read a data table or graph of weather data and identify patterns",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_06"
+    },
+    {
+      "title": "The Atmosphere",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about The Atmosphere. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that Earth is surrounded by a layer of air called the atmosphere, that air has weight and exerts pressure, that the atmosphere protects us from harmful radiation and keeps the planet warm enough for life, and that weather happens in the lowest layer (troposphere)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define the atmosphere as the layer of air surrounding Earth",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that we're surrounded by a blanket of air called the atmosphere, that this air actually has weight and pushes on everything, and that all our weather happens in the lowest layer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Atmosphere. Define the atmosphere as the layer of air surrounding Earth State that air has weight and exerts pressure",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_07"
+    },
+    {
+      "title": "Extreme Weather Events",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Extreme Weather Events!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know about extreme weather events — hurricanes (spinning storms over warm ocean), tornadoes (violent rotating columns of air), floods, droughts, and blizzards — how they form, where they typically occur, and their effects on people and the environment",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe how at least two types of extreme weather form",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw news about a hurricane, could they explain how it forms over warm ocean water, why it spins, and what makes it so destructive when it reaches land?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Extreme Weather Events: Describe how at least two types of extreme weather form Explain where hurricanes and tornadoes typically occur and why",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_19_lesson_08"
+    }
+  ],
+  "id": "Science_unit_19"
+}

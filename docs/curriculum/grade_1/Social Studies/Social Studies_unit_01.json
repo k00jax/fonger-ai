@@ -1,0 +1,116 @@
+{
+  "title": "Historical Thinking",
+  "objective": "Students will explore historical thinking concepts including Evidence from the Past, Vocabulary: historical thinking, Different Accounts of the Same Event.",
+  "standards": [],
+  "skills_tested": [
+    "historical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Evidence from the Past",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "historical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Evidence from the Past! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that everything we know about the past comes from evidence — objects, buildings, pictures, documents, and stories that have survived",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Wineburg historical thinking framework",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you learns about something that happened long ago, do they ask how we know about it — and understand that someone had to find or leave behind that evidence?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Evidence from the Past. Wineburg historical thinking framework Historical Thinking in the Elementary Years (ERIC)",
+          "media": {}
+        }
+      ],
+      "id": "1_Social Studies_unit_01_lesson_01"
+    },
+    {
+      "title": "Vocabulary: historical thinking",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "historical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Vocabulary: historical thinking. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of historical thinking — source, evidence, primary source, secondary source, artefact, chronology, chronological order, BC/BCE, AD/CE, century, decade, era, period, timeline, excavation, archaeologist, interpretation, corroborate, bias, perspective — and apply these terms when discussing how we know about the past and how reliable our knowledge is",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Correctly use BC/BCE and AD/CE to place events in time and explain what the letters stand for",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you whether something they read in a history book was definitely true, could they explain why it might not be — using words like 'source', 'evidence', or 'bias'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Vocabulary: historical thinking. Correctly use BC/BCE and AD/CE to place events in time and explain what the letters stand for Distinguish between a primary source and a secondary source with an example of each",
+          "media": {}
+        }
+      ],
+      "id": "1_Social Studies_unit_01_lesson_02"
+    },
+    {
+      "title": "Different Accounts of the Same Event",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "historical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Different Accounts of the Same Event? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that different people can give different accounts of the same event — and that both can be genuine while still disagreeing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Wineburg corroboration heuristic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard two different versions of the same historical event, would they understand that both people might be telling the truth from their own point of view — and want to know why the versions differ?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Different Accounts of the Same Event. Wineburg corroboration heuristic Initiating Historical Thinking in Elementary Schools",
+          "media": {}
+        }
+      ],
+      "id": "1_Social Studies_unit_01_lesson_03"
+    }
+  ],
+  "id": "Social Studies_unit_01"
+}

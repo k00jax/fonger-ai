@@ -1,0 +1,477 @@
+{
+  "title": "Number Representation & Place Value",
+  "objective": "Students will explore number representation & place value concepts including Place Value × 10 and ÷ 10, Reading and writing numbers (age 10+), Fractions on a number line (age 11+) and more.",
+  "standards": [
+    "uk-nc-2013:KS3.Maths.Num.13",
+    "ccss-math:6.NS.7",
+    "uk-nc-2013:KS3.Maths.Num.2",
+    "ccss-math:6.NS.7b",
+    "ccss-math:6.NS.7c",
+    "uk-nc-2013:Ma6/2.3g",
+    "ccss-math:8.EE.2",
+    "uk-nc-2013:KS3.Maths.Num.1",
+    "ccss-math:6.NS.7d",
+    "ccss-math:6.NS.7a"
+  ],
+  "skills_tested": [
+    "number_representation_place_value"
+  ],
+  "lessons": [
+    {
+      "title": "Place Value × 10 and ÷ 10",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Place Value × 10 and ÷ 10? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that in a multi-digit number, a digit in one place represents 10 times as much as in the place to its right and 1/10 of what it represents in the place to its left",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that the 4 in 0.04 is 1/10 of the 4 in 0.4",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that in 4.56, the digit 5 is worth 5 tenths — ten times less than the 5 in 54, and ten times more than the 5 in 0.056?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Place Value × 10 and ÷ 10. Explain that the 4 in 0.04 is 1/10 of the 4 in 0.4 State that a digit moving one place left is ×10 and one place right is ÷10",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_01"
+    },
+    {
+      "title": "Reading and writing numbers (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Reading and writing numbers (age 10+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, and compare decimals to thousandths using base-ten numerals, number names, and expanded form; compare using >, =, < based on place-value meaning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write 347.392 in expanded form: 3×100 + 4×10 + 7×1 + 3×(1/10) + 9×(1/100) + 2×(1/1000)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read and write decimals like 3.047 or 0.625, say what each digit means (3 ones, 0 tenths, 4 hundredths, 7 thousandths), and put a set of decimals in order?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reading and writing numbers (age 10+): Write 347.392 in expanded form: 3×100 + 4×10 + 7×1 + 3×(1/10) + 9×(1/100) + 2×(1/1000) Compare 0.372 and 0.38 using place-value reasoning",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_02"
+    },
+    {
+      "title": "Fractions on a number line (age 11+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fractions on a number line (age 11+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Order positive and negative integers, decimals, and fractions on a number line; use the symbols =, ≠, <, >, ≤, ≥ to compare values including negative numbers and mixed representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Order a mixed set of positive and negative integers, decimals, and fractions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a mixed list like 2.5, −3, ¾, 0, and −0.5, can they put them in order from least to greatest using a number line if needed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fractions on a number line (age 11+). Order a mixed set of positive and negative integers, decimals, and fractions Use the symbols =, ≠, <, >, ≤, ≥ correctly in mathematical statements",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_03"
+    },
+    {
+      "title": "Numbers to Ten Million",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Numbers to Ten Million. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve number and practical problems involving reading, writing, ordering, comparing, rounding, and negative numbers up to 10,000,000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! A country's population is 8,274,500 — round to the nearest million for a headline",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads that the distance to the Moon is about 384,400 km, can they round it to the nearest 10,000 km and say whether it's closer to 380,000 or 390,000?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Numbers to Ten Million. A country's population is 8,274,500 — round to the nearest million for a headline Order the depths of three ocean trenches given in metres including negative values",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_04"
+    },
+    {
+      "title": "Reading and writing numbers to 10,000,000",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reading and writing numbers to 10,000,000!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, order, and compare numbers up to 10,000,000 and determine the value of each digit",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write 4,302,561 in words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read and write numbers up to 10 million — like 4,302,617 — and say the value of any digit in the number?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading and writing numbers to 10,000,000. Write 4,302,561 in words Order four seven-digit numbers from smallest to largest",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_05"
+    },
+    {
+      "title": "Reading Decimal Places",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Reading Decimal Places. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the value of each digit in numbers given to three decimal places (e.g. in 4.378, the 7 represents 7 hundredths)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State the value of each digit in 2.635 (2 ones, 6 tenths, 3 hundredths, 5 thousandths)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "In the number 4.378, can you tell you that the 7 represents 7 hundredths — not 7 tenths or 7 thousandths?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading Decimal Places. State the value of each digit in 2.635 (2 ones, 6 tenths, 3 hundredths, 5 thousandths) Explain the relationship between adjacent decimal places (each place is ten times smaller)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_06"
+    },
+    {
+      "title": "Fractions on a number line",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fractions on a number line. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and use place value for decimals, measures, and integers of any size; extend the number system to include all positive and negative integers, decimals, and fractions on a single number line",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify the value of any digit in numbers of any size including decimals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you place a mix of numbers — like 3, −2, 0.5, −1.75, and ¼ — all on the same number line, in the right order?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fractions on a number line: Identify the value of any digit in numbers of any size including decimals Place positive and negative integers, decimals, and fractions on a number line",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_07"
+    },
+    {
+      "title": "Decimal place value",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Decimal place value! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Round decimals to any place using place-value understanding; round any whole number to a required degree of accuracy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Round 3.4567 to 2 decimal places (3.46)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you round a decimal like 3.748 to one decimal place (3.7) or two decimal places (3.75) — and explain which digit they look at to decide?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decimal place value: Round 3.4567 to 2 decimal places (3.46) Round 7,654,321 to the nearest 100,000 (7,700,000)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_08"
+    },
+    {
+      "title": "Decimal place value (age 11+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Decimal place value (age 11+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Round numbers and measures to an appropriate degree of accuracy including to a specified number of decimal places or significant figures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Round numbers to a given number of decimal places",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you round a measurement like 12.3746 km to 2 decimal places (12.37 km) or 3 significant figures (12.4 km) — and explain when each level of precision is appropriate?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Decimal place value (age 11+). Round numbers to a given number of decimal places Round numbers to a given number of significant figures",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_09"
+    },
+    {
+      "title": "Square and cube numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Square and cube numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use integer powers and associated real roots (square, cube, and higher); recognise powers of 2, 3, 4, and 5; distinguish between exact representations of roots and their decimal approximations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate squares, cubes, and higher integer powers of whole numbers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out that √25 = 5 and ∛27 = 3 — knowing these are the inverse of squaring and cubing — and say whether √50 is closer to 7 or 8?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Square and cube numbers: Calculate squares, cubes, and higher integer powers of whole numbers Find square roots and cube roots of perfect squares and perfect cubes",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_10"
+    },
+    {
+      "title": "Measuring temperature",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Measuring temperature!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use negative numbers in context (temperature, finance, sea level); calculate intervals across zero",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. The temperature falls from 3°C to −5°C — what is the drop? (8 degrees)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a bank account goes from −£45 to +£120, can you work out the total change — counting through zero to get £165?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Measuring temperature. The temperature falls from 3°C to −5°C — what is the drop? (8 degrees) Calculate the difference between a bank balance of −£120 and £350",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_11"
+    },
+    {
+      "title": "Patterns with Powers of Ten",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Patterns with Powers of Ten? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain patterns in zeros when multiplying by powers of 10 and in decimal-point placement when multiplying/dividing by a power of 10; use whole-number exponents to denote powers of 10 (e.g. 10³ = 1000)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write 10⁴ = 10,000 and explain the exponent means four factors of 10",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why 10² = 100 and 10³ = 1,000, and why multiplying by 10 just adds a zero — connecting the pattern of zeros to place value?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Patterns with Powers of Ten. Write 10⁴ = 10,000 and explain the exponent means four factors of 10 Explain why 3.4 × 10² = 340 by describing the decimal shift",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_12"
+    },
+    {
+      "title": "Numbers on a number line",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Numbers on a number line? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the absolute value of a rational number as its distance from zero on the number line; interpret absolute value as magnitude in real-world contexts; distinguish absolute value comparisons from ordering statements",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define absolute value as distance from zero on a number line",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you that the absolute value of −7 is 7 — because it's 7 steps from zero on a number line regardless of direction — and use this idea to compare distances?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Numbers on a number line: Define absolute value as distance from zero on a number line Calculate the absolute value of positive and negative rational numbers",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_09_lesson_13"
+    }
+  ],
+  "id": "Math_unit_09"
+}

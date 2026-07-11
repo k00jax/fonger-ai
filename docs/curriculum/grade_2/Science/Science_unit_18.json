@@ -1,0 +1,291 @@
+{
+  "title": "Weather & Climate",
+  "objective": "Students will explore weather & climate concepts including Geography & Local Weather, The Water Cycle, Weather vs Climate and more.",
+  "standards": [],
+  "skills_tested": [
+    "weather_climate"
+  ],
+  "lessons": [
+    {
+      "title": "Geography & Local Weather",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Geography & Local Weather. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that different places around the world have very different typical weather — tropical places are hot and wet all year, deserts are very dry, polar regions are freezing cold — and that geography (distance from the equator, altitude, nearness to the sea) affects local weather",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe typical weather in at least three different climate types",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you compared weather in a tropical rainforest, a desert, and the Arctic, could they describe how different each is and explain why — like distance from the equator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Geography & Local Weather: Describe typical weather in at least three different climate types Explain that places near the equator tend to be hotter",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_01"
+    },
+    {
+      "title": "The Water Cycle",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The Water Cycle! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the water cycle: the Sun heats water in oceans and lakes causing it to evaporate into water vapour, the vapour rises and cools to form clouds (condensation), and water falls back to Earth as rain, snow, or hail (precipitation) — then the cycle repeats",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name the three main stages: evaporation, condensation, precipitation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you trace the journey of a raindrop — from the ocean being heated by the Sun, rising as invisible vapour, forming a cloud, and falling back down as rain — and explain it keeps going round and round?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Water Cycle. Name the three main stages: evaporation, condensation, precipitation Explain the Sun's role in driving the water cycle",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_02"
+    },
+    {
+      "title": "Weather vs Climate",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Weather vs Climate!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between weather and climate: weather is what the atmosphere is doing right now or today (it can change hour to hour), while climate is the typical pattern of weather in a place over many years",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define weather as short-term atmospheric conditions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If someone said 'It's raining today so climate change isn't real,' could you explain the difference between weather (today's conditions) and climate (patterns over many years)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Weather vs Climate. Define weather as short-term atmospheric conditions Define climate as the long-term pattern of weather in a place",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_03"
+    },
+    {
+      "title": "Cloud Types",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Cloud Types. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the three main cloud types — cumulus (fluffy, fair weather), stratus (flat layers, overcast or drizzle), and cirrus (thin wisps, high up) — and understand that clouds form when water vapour in the air cools and condenses into tiny droplets",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name and describe the three main cloud types: cumulus, stratus, cirrus",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked up at the sky, could they identify whether the clouds are fluffy cumulus, flat stratus, or wispy cirrus, and explain that clouds are made of tiny water droplets?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Cloud Types. Name and describe the three main cloud types: cumulus, stratus, cirrus Explain that clouds form when water vapour cools and condenses",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_04"
+    },
+    {
+      "title": "What Causes Wind",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore What Causes Wind! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand what causes wind: the Sun heats the Earth's surface unevenly, warm air rises because it is lighter, and cooler air rushes in to take its place — this movement of air is wind",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that the Sun heats Earth's surface unevenly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why wind blows — that the Sun warms some areas more than others, warm air floats upward, and cooler air rushes in to fill the gap?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What Causes Wind. Explain that the Sun heats Earth's surface unevenly State that warm air rises and cooler air moves in to replace it",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_05"
+    },
+    {
+      "title": "Weather Forecasting",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Weather Forecasting! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that meteorologists are scientists who study and forecast the weather using satellites, radar, weather balloons, and computer models, and that weather forecasts help people plan their activities and prepare for dangerous weather",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define a meteorologist as a scientist who studies and predicts weather",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what a meteorologist does, name some tools they use like satellites and radar, and describe why weather forecasts are important for keeping people safe?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Weather Forecasting. Define a meteorologist as a scientist who studies and predicts weather Name at least three tools meteorologists use",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_06"
+    },
+    {
+      "title": "Using Weather Instruments",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Using Weather Instruments! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use weather instruments to measure and record weather data: thermometers for temperature in °C, rain gauges for rainfall, wind vanes for direction, and anemometers for wind speed — and keep a weather diary over time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three weather instruments and explain what each measures",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had a thermometer, rain gauge, and wind vane at school, could they take daily readings, record them in a table, and spot patterns over a week or month?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Using Weather Instruments. Name at least three weather instruments and explain what each measures Read a thermometer and record the temperature in degrees Celsius",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_07"
+    },
+    {
+      "title": "Thunder & Lightning",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Thunder & Lightning. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that thunder and lightning happen during thunderstorms: lightning is a giant spark of electricity that forms in clouds, thunder is the sound the lightning makes, and we see lightning before hearing thunder because light travels faster than sound",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe lightning as a large electrical discharge in clouds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "During a thunderstorm, can you explain that lightning is electricity in the clouds, thunder is its sound, and that we see the flash before the boom because light is faster than sound?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Thunder & Lightning: Describe lightning as a large electrical discharge in clouds Explain that thunder is the sound caused by lightning",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_18_lesson_08"
+    }
+  ],
+  "id": "Science_unit_18"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Ocean Life",
+  "objective": "Students will explore ocean life concepts including Ocean Currents and Global Heat, Deep-Sea Life Without Sunlight.",
+  "standards": [],
+  "skills_tested": [
+    "ocean_life"
+  ],
+  "lessons": [
+    {
+      "title": "Ocean Currents and Global Heat",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Ocean Currents and Global Heat!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain thermohaline circulation (the global conveyor belt) as driven by temperature and salinity differences that cause dense water to sink; describe how the Atlantic Meridional Overturning Circulation (AMOC) transfers heat from the tropics toward Europe; explain that oceans absorb more than 90% of excess heat and ~25% of CO2 from human emissions; explore what would happen to Northern European climates if circulation weakened",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why the UK has mild winters compared to parts of Canada at similar latitudes — what does ocean circulation have to do with it, and what might change if that circulation slows down?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ocean Currents and Global Heat: You now know more about Ocean Currents and Global Heat!",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_08_lesson_01"
+    },
+    {
+      "title": "Deep-Sea Life Without Sunlight",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Deep-Sea Life Without Sunlight. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Contrast photosynthesis (energy from sunlight) with chemosynthesis (energy from oxidising chemicals like hydrogen sulphide); describe hydrothermal vent communities: chemoautotrophic bacteria form the base of a food web supporting tube worms, giant clams, and vent crabs with no sunlight; explore what deep-sea life tells us about the origin of life on Earth; explain why NASA studies ocean vents as analogues for potential life around hydrothermal activity on Europa and Enceladus",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe a community of animals living at the bottom of the ocean that gets its energy from volcanic chemicals rather than sunlight — and explain why scientists are excited about what this might mean for life on other planets?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Deep-Sea Life Without Sunlight: You now know more about Deep-Sea Life Without Sunlight!",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_08_lesson_02"
+    }
+  ],
+  "id": "Science_unit_08"
+}

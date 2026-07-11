@@ -1,0 +1,361 @@
+{
+  "title": "Geometry",
+  "objective": "Students will explore geometry concepts including Types of angles, Types of angles (age 8+), Understanding angles (age 8+) and more.",
+  "standards": [],
+  "skills_tested": [
+    "geometry"
+  ],
+  "lessons": [
+    {
+      "title": "Types of angles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Types of angles. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify acute and obtuse angles; compare and order angles up to two right angles by size",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Classify given angles as acute, right, or obtuse",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at the hands on a clock showing different times, can they tell you which angle between the hands is acute (sharper than a right angle) and which is obtuse (wider)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Types of angles. Classify given angles as acute, right, or obtuse Order four angles from smallest to largest by visual comparison",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_01"
+    },
+    {
+      "title": "Types of angles (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Types of angles (age 8+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use and interpret standard geometric diagram conventions: mark right angles with a small square, equal lengths with single or double tick marks, and equal angles with arc marks; label angles in three-letter notation (∠ABC) and individual angles with a single letter or number; draw diagrams showing angles at a point, angles on a straight line, and angles inside polygons with these conventions; read diagrams with these marks to identify given information and find unknown values",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Mark a right angle with a small square symbol in a diagram and explain what it means",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you's maths diagram shows a small square in one corner and matching arc marks on two other angles, can they tell you what each mark means — and use them to figure out a missing angle without re-measuring?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Types of angles (age 8+). Mark a right angle with a small square symbol in a diagram and explain what it means Use tick marks to show equal lengths in a shape and double tick marks for a second pair of equal sides",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_02"
+    },
+    {
+      "title": "Understanding angles (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Understanding angles (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that shapes in different categories may share attributes defining a larger category; classify quadrilaterals (rhombuses, rectangles, squares) and draw examples of quadrilaterals not in those subcategories",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that a square is a special rectangle and also a special rhombus",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you a square, a rectangle, and a rhombus, can they explain what makes them all quadrilaterals — and what makes each one different from the others?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Understanding angles (age 8+). Explain that a square is a special rectangle and also a special rhombus Sort shapes into a Venn diagram: quadrilaterals vs rectangles vs squares",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_03"
+    },
+    {
+      "title": "First Quadrant Coordinates",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore First Quadrant Coordinates! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe positions on a 2-D grid as coordinates in the first quadrant",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read the coordinates of a point on a grid as (3, 5)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is playing a grid-based treasure map game, can they correctly say where the treasure is using two numbers — like \"three across and four up\" — from the corner?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about First Quadrant Coordinates. Read the coordinates of a point on a grid as (3, 5) Explain that the first number is the horizontal distance and the second is the vertical distance",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_04"
+    },
+    {
+      "title": "Coordinates (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Coordinates (age 8+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plot specified points on a coordinate grid and draw sides to complete a given polygon",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Plot points (1,1), (1,4), (5,4), (5,1) and join to make a rectangle",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given three coordinate pairs on a grid, can they plot each point and then connect the dots to draw the correct triangle or rectangle?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Coordinates (age 8+). Plot points (1,1), (1,4), (5,4), (5,1) and join to make a rectangle Given three vertices of a square, plot the fourth vertex",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_05"
+    },
+    {
+      "title": "Transformations on a grid",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Transformations on a grid. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent and carry out geometric transformations on squared paper or a coordinate grid: reflections (in horizontal, vertical, and diagonal mirror lines, including the axes), translations (described as a vector or as left/right/up/down moves), and rotations (90° or 180° about a stated centre point); describe each transformation precisely using the correct language; identify which transformation maps one shape onto its image by comparing position, orientation, and size",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Reflect a shape in a given mirror line on a grid and label the new coordinates",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a shape and its mirror image on squared paper, can they draw in the exact mirror line, and describe the reflection precisely — including where the line of reflection is — without just saying 'it flipped'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Transformations on a grid. Reflect a shape in a given mirror line on a grid and label the new coordinates Translate a shape by a given number of squares horizontally and vertically and describe the movement",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_06"
+    },
+    {
+      "title": "Nets of 3-D Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Nets of 3-D Shapes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify, draw, and interpret nets of common 3-D shapes — cubes, cuboids, triangular prisms, and square-based pyramids — by predicting which 3-D shape a given flat arrangement of faces will fold into, checking whether a net will close completely, and sketching a net from a description or 3-D model; understand the relationship between the number of faces and the structure of the net",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Draw the net of a cube, cuboid, or triangular prism and fold it mentally to identify which faces connect",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a flat T-shaped piece of card with six squares, can they tell you — before folding — that it makes a cube, and point out which square will become each face?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Nets of 3-D Shapes. Draw the net of a cube, cuboid, or triangular prism and fold it mentally to identify which faces connect Build a 3-D shape from its net and check that all faces, edges, and vertices match",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_07"
+    },
+    {
+      "title": "Describing Movements",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Describing Movements! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe movements between positions as translations of a given unit to the left/right and up/down",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe moving from (2,3) to (5,3) as 3 units to the right",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a shape is at position (2, 3) on a grid and you tell you to move it four squares right and two squares up, can they work out its new position without drawing it first?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Describing Movements. Describe moving from (2,3) to (5,3) as 3 units to the right Translate a shape 4 units right and 2 units up and state the new coordinates",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_08"
+    },
+    {
+      "title": "2-D shapes (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of 2-D shapes (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify lines of symmetry in 2-D shapes presented in different orientations; recognise line-symmetric figures and draw lines of symmetry",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Find all lines of symmetry in a rectangle, square, and equilateral triangle",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a picture of a butterfly or a star shape, can they draw the line (or lines) where you could fold it exactly in half so both sides match?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about 2-D shapes (age 8+): Find all lines of symmetry in a rectangle, square, and equilateral triangle Determine whether a given shape has a line of symmetry when rotated",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_09"
+    },
+    {
+      "title": "Lines of symmetry",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Lines of symmetry! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Complete a simple symmetric figure with respect to a specific line of symmetry",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Given half a butterfly shape and a mirror line, complete the other half on a grid",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you half a shape drawn on squared paper with a mirror line marked, can they draw the missing half so the whole shape is perfectly symmetrical?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Lines of symmetry. Given half a butterfly shape and a mirror line, complete the other half on a grid Complete a symmetric pattern on squared paper with a vertical line of symmetry",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_04_lesson_10"
+    }
+  ],
+  "id": "Math_unit_04"
+}

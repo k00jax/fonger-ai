@@ -1,0 +1,512 @@
+{
+  "title": "Multiplication & Division",
+  "objective": "Students will explore multiplication & division concepts including What Multiplication Means, All times tables to 12×12, Written Multiplication and more.",
+  "standards": [
+    "ccss-math:3.NBT.3",
+    "ccss-math:3.OA.4",
+    "uk-nc-2013:Ma/KS2/Y4/MD/5",
+    "ccss-math:3.OA.6",
+    "uk-nc-2013:Ma/KS2/Y4/MD/3",
+    "ccss-math:3.OA.1",
+    "ccss-math:3.OA.7",
+    "ccss-math:3.OA.9",
+    "uk-nc-2013:Ma/KS2/Y4/MD/2",
+    "ccss-math:3.OA.3"
+  ],
+  "skills_tested": [
+    "multiplication_division"
+  ],
+  "lessons": [
+    {
+      "title": "What Multiplication Means",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of What Multiplication Means!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret products of whole numbers (e.g. 5 × 7 as the total number of objects in 5 groups of 7)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that 4 × 6 means 4 groups of 6 objects",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees '5 × 7' written down, can they explain it means 5 groups with 7 in each group — not just recite the answer '35'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What Multiplication Means. Explain that 4 × 6 means 4 groups of 6 objects Draw a picture or array to represent a multiplication expression",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_01"
+    },
+    {
+      "title": "All times tables to 12×12",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about All times tables to 12×12? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recall multiplication and division facts for multiplication tables up to 12 × 12",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Recall any fact from the 1–12 times tables rapidly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you recall any multiplication or division fact from all the times tables up to 12 — like '9 × 8 = 72' or '132 ÷ 12 = 11' — quickly and accurately?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about All times tables to 12×12. Recall any fact from the 1–12 times tables rapidly Recall the corresponding division fact for any multiplication fact",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_02"
+    },
+    {
+      "title": "Written Multiplication",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Written Multiplication!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply two-digit and three-digit numbers by a one-digit number using formal written layout",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Set out and solve 47 × 6 using short multiplication",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out '347 × 6' by setting it out formally in a column — multiplying each digit separately and carrying where needed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Written Multiplication. Set out and solve 47 × 6 using short multiplication Set out and solve 234 × 5 using short multiplication with carrying",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_03"
+    },
+    {
+      "title": "Properties of Operations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Properties of Operations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Apply properties of operations (commutative, associative, distributive) as strategies to multiply and divide",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use commutativity: if 6 × 4 = 24 then 4 × 6 = 24",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use tricks like breaking up a number — working out '6 × 14' as '6 × 10 + 6 × 4 = 60 + 24 = 84' — to make multiplication easier?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Properties of Operations. Use commutativity: if 6 × 4 = 24 then 4 × 6 = 24 Use the distributive property: 8 × 7 = 8 × 5 + 8 × 2 = 40 + 16 = 56",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_04"
+    },
+    {
+      "title": "Fluent multiplication and division facts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fluent multiplication and division facts. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently multiply and divide within 100 using strategies such as the relationship between multiplication and division",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Answer any single-digit multiplication fact within 3 seconds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you answer any times table fact up to 10 × 10 quickly — and also give the related division facts, like '63 ÷ 9 = 7' from knowing '9 × 7 = 63'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fluent multiplication and division facts: Answer any single-digit multiplication fact within 3 seconds Answer any related division fact within 3 seconds",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_05"
+    },
+    {
+      "title": "Division as Unknown Factor",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Division as Unknown Factor? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand division as an unknown-factor problem (e.g. find 32 ÷ 8 by finding the number that makes 32 when multiplied by 8)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that 32 ÷ 8 = ? is the same as 8 × ? = 32",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out '32 ÷ 8' by asking 'what do I multiply 8 by to get 32?' — using times table knowledge rather than a separate division method?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Division as Unknown Factor. Explain that 32 ÷ 8 = ? is the same as 8 × ? = 32 Use a known multiplication fact to find a division answer",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_06"
+    },
+    {
+      "title": "What Division Means",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of What Division Means!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret whole-number quotients (e.g. 56 ÷ 8 as the number of objects in each share or the number of equal groups)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that 56 ÷ 8 can mean sharing 56 into 8 equal groups or making groups of 8",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that '56 ÷ 8' could mean 'if 56 things are shared between 8 people, how many does each person get?' — not just recite the answer '7'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What Division Means. Explain that 56 ÷ 8 can mean sharing 56 into 8 equal groups or making groups of 8 Draw a picture to represent a division expression",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_07"
+    },
+    {
+      "title": "Multiply & Add Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Multiply & Add Problems! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving multiplying and adding, including using the distributive law, integer scaling problems, and harder correspondence problems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use the distributive law to solve 14 × 6 as 10 × 6 + 4 × 6",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to work out '5 × 23', can they split it into '5 × 20 + 5 × 3 = 100 + 15 = 115' — rather than just jumping straight to a written method?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multiply & Add Problems. Use the distributive law to solve 14 × 6 as 10 × 6 + 4 × 6 Solve a scaling problem (e.g. 'A tower is 3 times as tall as a 15 m building')",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_08"
+    },
+    {
+      "title": "Factor Pairs & Commutativity",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Factor Pairs & Commutativity!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use factor pairs and commutativity in mental calculations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. List all factor pairs of a given number (e.g. 24: 1×24, 2×12, 3×8, 4×6)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to multiply '4 × 15', can they spot that splitting it into '4 × 5 × 3 = 20 × 3 = 60' is a clever shortcut — using factor pairs to make it easier?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Factor Pairs & Commutativity: List all factor pairs of a given number (e.g. 24: 1×24, 2×12, 3×8, 4×6) Use commutativity to reorder a multiplication for easier mental calculation",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_09"
+    },
+    {
+      "title": "Patterns in Times Tables",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Patterns in Times Tables!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify arithmetic patterns (including patterns in the addition table or multiplication table) and explain them using properties of operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Notice that all products of 5 end in 0 or 5 and explain why",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spot patterns in times tables — like all multiples of 5 end in 0 or 5 — and explain why that pattern happens?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Patterns in Times Tables. Notice that all products of 5 end in 0 or 5 and explain why Observe that the sum of two even numbers is always even",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_10"
+    },
+    {
+      "title": "Multiplying by Tens",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Multiplying by Tens!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply one-digit whole numbers by multiples of 10 in the range 10–90 using strategies based on place value and properties of operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 7 × 30 = 210 by reasoning 7 × 3 tens = 21 tens = 210",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '7 × 40' or '6 × 80' by first doing the single-digit multiplication and then placing the zero — getting 280 and 480?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Multiplying by Tens. Calculate 7 × 30 = 210 by reasoning 7 × 3 tens = 21 tens = 210 Explain why multiplying by a multiple of 10 adds a zero to the product",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_11"
+    },
+    {
+      "title": "Mental multiplication and division",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Mental multiplication and division!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use place value, known and derived facts to multiply and divide mentally, including multiplying by 0 and 1, dividing by 1, and multiplying together three numbers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 40 × 6 = 240 mentally using place value",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out things like '6 × 0', '1 × 35', or '100 ÷ 100' instantly in their head — using what they know rather than working everything out from scratch?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Mental multiplication and division: Calculate 40 × 6 = 240 mentally using place value Explain why any number × 0 = 0 and any number × 1 = the number itself",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_12"
+    },
+    {
+      "title": "Multiplication and Division Word Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Multiplication and Division Word Problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use multiplication and division within 100 to solve word problems involving equal groups, arrays, and measurement quantities",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Solve an equal-groups word problem using multiplication",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you tell you 'there are 7 boxes with 9 pencils in each — how many pencils?', can they recognise it as a multiplication problem and solve it correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multiplication and Division Word Problems. Solve an equal-groups word problem using multiplication Solve a measurement division problem (e.g. 'How many 4-cm pieces from a 28-cm ribbon?')",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_13"
+    },
+    {
+      "title": "Unknown in Multiplication & Division",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Unknown in Multiplication & Division! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine the unknown whole number in a multiplication or division equation relating three whole numbers (e.g. 8 × ? = 48, ? × 6 = 42)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Find the missing factor in 7 × ? = 63",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees '8 × ? = 48' or '? ÷ 6 = 7' written on paper, can they figure out what number goes in the blank?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Unknown in Multiplication & Division. Find the missing factor in 7 × ? = 63 Find the missing dividend in ? ÷ 5 = 9",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_07_lesson_14"
+    }
+  ],
+  "id": "Math_unit_07"
+}

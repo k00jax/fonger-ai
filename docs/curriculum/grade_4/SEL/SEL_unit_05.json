@@ -1,0 +1,46 @@
+{
+  "title": "Self-Awareness",
+  "objective": "Students will explore self-awareness concepts including Questioning First Impressions.",
+  "standards": [],
+  "skills_tested": [
+    "self-awareness"
+  ],
+  "lessons": [
+    {
+      "title": "Questioning First Impressions",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "self-awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Questioning First Impressions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice when your first reading of a social situation might be wrong — your assumptions about why someone acted a certain way are not always facts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Pause before reacting to a classmate's behaviour and consider an alternative explanation — e.g. 'Maybe they bumped me by accident, not on purpose'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you felt sure someone was being unfair or unkind, could they pause and consider whether there might be another explanation for what happened?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Questioning First Impressions. Pause before reacting to a classmate's behaviour and consider an alternative explanation — e.g. 'Maybe they bumped me by accident, not on purpose' Describe a time they assumed the worst about someone's intention and later found out they were wrong",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_05_lesson_01"
+    }
+  ],
+  "id": "SEL_unit_05"
+}

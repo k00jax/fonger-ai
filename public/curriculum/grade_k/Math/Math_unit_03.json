@@ -1,0 +1,119 @@
+{
+  "title": "Data & Statistics",
+  "objective": "Students will explore data & statistics concepts including Sorting into categories.",
+  "standards": [
+    "ccss-math:K.MD.3"
+  ],
+  "skills_tested": [
+    "data_statistics",
+    "fractions"
+  ],
+  "lessons": [
+    {
+      "title": "Sorting into categories",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Sorting into categories!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Classify objects into given categories, count the number in each category, and sort the categories by count",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort a set of shapes by colour and count how many in each group",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you sort a pile of objects — like buttons, coins, or toy animals — into groups and count how many are in each group?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Sorting into categories. Sort a set of shapes by colour and count how many in each group Sort objects by size (big/small) and state how many in each category",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_03_lesson_01"
+    },
+    {
+      "title": "What Is a Half?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore What Is a Half?! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise, find, and name a half as one of two equal parts of an object, shape, or quantity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Fold a shape into two equal parts and identify each as 'a half'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is helping share a sandwich equally between two people, can they cut it so both pieces are the same size — and tell you each piece is called a half?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What Is a Half?. Fold a shape into two equal parts and identify each as 'a half' Find half of 8 objects by sharing into 2 equal groups",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_03_lesson_02"
+    },
+    {
+      "title": "Finding halves and quarters (age 5+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Finding halves and quarters (age 5+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise, find, and name a quarter as one of four equal parts of an object, shape, or quantity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Fold a shape into four equal parts and identify each as 'a quarter'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you fold a square piece of paper into four equal parts, can you tell you that each part is a quarter — and point to just one quarter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Finding halves and quarters (age 5+): Fold a shape into four equal parts and identify each as 'a quarter' Find a quarter of 12 objects by sharing into 4 equal groups",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_03_lesson_03"
+    }
+  ],
+  "id": "Math_unit_03"
+}

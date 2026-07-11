@@ -1,0 +1,263 @@
+{
+  "title": "Scientific Inquiry",
+  "objective": "Students will explore scientific inquiry concepts including Evidence Supporting Ideas, Drawing conclusions from evidence (age 9+), Controlling variables and more.",
+  "standards": [
+    "uk-nc-2013:KS2U.Sci.WS.5",
+    "uk-nc-2013:KS2U.Sci.WS.3",
+    "uk-nc-2013:KS2U.Sci.WS.2",
+    "uk-nc-2013:KS2U.Sci.WS.4",
+    "uk-nc-2013:KS2U.Sci.WS.1",
+    "uk-nc-2013:KS2U.Sci.WS.6"
+  ],
+  "skills_tested": [
+    "scientific_inquiry"
+  ],
+  "lessons": [
+    {
+      "title": "Evidence Supporting Ideas",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Evidence Supporting Ideas! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify scientific evidence that has been used to support or refute ideas or arguments, evaluating the strength of evidence",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Distinguish between a claim and the evidence supporting it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a science claim — like 'plants grow faster with music' — can they evaluate whether the evidence actually supports it or if the test wasn't fair?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Evidence Supporting Ideas. Distinguish between a claim and the evidence supporting it Evaluate whether evidence is strong (fair test, multiple trials) or weak (single observation, no controls)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_13_lesson_01"
+    },
+    {
+      "title": "Drawing conclusions from evidence (age 9+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Drawing conclusions from evidence (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Report and present findings including conclusions, causal relationships, explanations, and a degree of trust in results using oral and written forms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Present findings clearly in written and oral form with appropriate scientific vocabulary",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write up or present their experiment results, explain what caused what, and discuss how confident they are in their findings?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Drawing conclusions from evidence (age 9+): Present findings clearly in written and oral form with appropriate scientific vocabulary Identify causal relationships (X caused Y because...) supported by evidence",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_13_lesson_02"
+    },
+    {
+      "title": "Controlling variables",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Controlling variables? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plan different types of scientific enquiries to answer questions, recognising and controlling variables where necessary",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Independently plan an investigation identifying the independent, dependent, and controlled variables",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you plan their own experiment from scratch — deciding what to test, what to measure, what to keep the same, and how many times to repeat it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Controlling variables. Independently plan an investigation identifying the independent, dependent, and controlled variables Choose the appropriate type of enquiry for the question (fair test, observation over time, pattern seeking, research)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_13_lesson_03"
+    },
+    {
+      "title": "Fair testing (age 9+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fair testing (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use test results to make predictions and set up further comparative and fair tests to investigate new questions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use results from an investigation to make a specific, testable prediction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After getting results from one experiment, can you use the pattern to predict what would happen in a new situation and then design a follow-up test to check?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fair testing (age 9+): Use results from an investigation to make a specific, testable prediction Design a follow-up test to verify the prediction",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_13_lesson_04"
+    },
+    {
+      "title": "Science Can Be Revised",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Science Can Be Revised!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Scientific knowledge is provisional — it is the best current explanation based on available evidence, and it can and should be revised when better evidence arrives",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Give an example of a scientific idea that changed when new evidence was found — e.g. people once thought the Sun orbited the Earth",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that scientific facts can be revised as new discoveries are made — and that this is science working properly, not a sign that scientists were wrong?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Science Can Be Revised. Give an example of a scientific idea that changed when new evidence was found — e.g. people once thought the Sun orbited the Earth Explain that scientists update their ideas when experiments give unexpected results, and that this is a strength not a weakness",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_13_lesson_05"
+    },
+    {
+      "title": "Classifying living things (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Classifying living things (age 9+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Record data and results of increasing complexity using scientific diagrams, classification keys, tables, scatter graphs, bar and line graphs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Choose and create an appropriate graph type for the data (bar chart, line graph, scatter graph)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you choose the right type of graph for their data — a bar chart for categories or a line graph for continuous data — and draw it accurately?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Classifying living things (age 9+): Choose and create an appropriate graph type for the data (bar chart, line graph, scatter graph) Draw graphs with correctly labelled axes, appropriate scales, and accurate plotting",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_13_lesson_06"
+    },
+    {
+      "title": "Accurate Measurement",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Accurate Measurement! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Take measurements with increasing accuracy and precision using a range of scientific equipment, taking repeat readings when appropriate",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use scientific equipment (scales, thermometers, measuring cylinders, stopwatches) with increasing precision",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you measure things precisely during experiments, know when to take repeat readings for reliability, and spot when a measurement seems wrong?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Accurate Measurement: Use scientific equipment (scales, thermometers, measuring cylinders, stopwatches) with increasing precision Explain why repeat readings improve reliability and take at least three readings",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_13_lesson_07"
+    }
+  ],
+  "id": "Science_unit_13"
+}

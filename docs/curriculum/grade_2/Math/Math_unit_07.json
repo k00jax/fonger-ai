@@ -1,0 +1,192 @@
+{
+  "title": "Multiplication & Division",
+  "objective": "Students will explore multiplication & division concepts including Times tables (age 7+), Arrays for multiplication (age 7+), Written Multiplication & Division and more.",
+  "standards": [
+    "ccss-math:2.OA.4",
+    "ccss-math:2.G.2",
+    "uk-nc-2013:Ma/KS2/Y3/MD/2",
+    "uk-nc-2013:Ma/KS2/Y3/MD/1",
+    "uk-nc-2013:Ma/KS2/Y3/MD/3"
+  ],
+  "skills_tested": [
+    "multiplication_division"
+  ],
+  "lessons": [
+    {
+      "title": "Times tables (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Times tables (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recall and use multiplication and division facts for the 3, 4, and 8 multiplication tables",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Recall 3 × 1 through 3 × 12 and corresponding division facts",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly recall facts from the 3, 4, and 8 times tables — like '8 × 7 = 56' or '36 ÷ 4 = 9' — without having to work them out each time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Times tables (age 7+): Recall 3 × 1 through 3 × 12 and corresponding division facts Recall 4 × 1 through 4 × 12 and corresponding division facts",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_07_lesson_01"
+    },
+    {
+      "title": "Arrays for multiplication (age 7+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Arrays for multiplication (age 7+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and 5 columns; write an equation to express the total as a sum of equal addends",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Count objects in a 3×4 array and write 4 + 4 + 4 = 12",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees 4 rows of 5 stickers on a sheet, can they use repeated addition — '5 + 5 + 5 + 5' — to find the total, and write it as an equation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Arrays for multiplication (age 7+). Count objects in a 3×4 array and write 4 + 4 + 4 = 12 Explain that each row has the same number of objects so the total can be found by repeated addition",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_07_lesson_02"
+    },
+    {
+      "title": "Written Multiplication & Division",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Written Multiplication & Division. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write and calculate mathematical statements for multiplication and division using known tables, including two-digit × one-digit, using mental and progressing to formal written methods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 23 × 4 using partitioning (20 × 4 + 3 × 4)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out sums like '23 × 4' or '68 ÷ 4' — either in their head using times table knowledge, or by writing it out step by step?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Written Multiplication & Division: Calculate 23 × 4 using partitioning (20 × 4 + 3 × 4) Calculate 96 ÷ 8 using known table facts",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_07_lesson_03"
+    },
+    {
+      "title": "Multi-Step Multiply & Divide",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Multi-Step Multiply & Divide? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving multiplication and division, including scaling problems and correspondence problems where n objects are connected to m objects",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Solve a scaling problem (e.g. 'the ribbon is 3 times as long')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe for 4 people needs 3 eggs, can you work out how many eggs are needed for 8 people — recognising it as a doubling or scaling problem?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multi-Step Multiply & Divide. Solve a scaling problem (e.g. 'the ribbon is 3 times as long') Solve a correspondence problem (e.g. '4 shirts and 3 trousers — how many outfits?')",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_07_lesson_04"
+    },
+    {
+      "title": "Rows & Columns in Rectangles",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Rows & Columns in Rectangles!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Divide a rectangle into equal rows and columns of unit squares",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw lines to divide a rectangle into a neat grid of equal squares, then count all the squares to find the total?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rows & Columns in Rectangles. Divide a rectangle into equal rows and columns of unit squares Count the total number of squares using repeated addition or skip counting",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_07_lesson_05"
+    }
+  ],
+  "id": "Math_unit_07"
+}

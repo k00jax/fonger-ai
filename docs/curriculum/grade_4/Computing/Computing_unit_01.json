@@ -1,0 +1,291 @@
+{
+  "title": "Artificial Intelligence",
+  "objective": "Students will explore artificial intelligence concepts including The Future of AI, AI and the Environment, AI Data Collection and Privacy and more.",
+  "standards": [],
+  "skills_tested": [
+    "artificial_intelligence"
+  ],
+  "lessons": [
+    {
+      "title": "The Future of AI",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The Future of AI! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What AI might do in 10 years; what we want it to do and what we're worried about; children as future designers and decision-makers about AI; hopeful, empowered framing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe at least two ways AI might be used in the future that don't exist yet",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you have a thoughtful conversation about what they'd want AI to do in the future and what they'd be worried about?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Future of AI: Describe at least two ways AI might be used in the future that don't exist yet Explain one thing they would want AI to do and one thing they would want it not to do",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_01"
+    },
+    {
+      "title": "AI and the Environment",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about AI and the Environment? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "AI needs huge amounts of energy and water to train; data centres and their environmental cost; but AI can also help — predicting weather, monitoring deforestation, optimising energy; trade-offs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that training AI models uses a lot of electricity and water",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain that AI needs a lot of energy to work but can also be used to help protect the environment, and discuss whether the trade-off is worth it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about AI and the Environment. Explain that training AI models uses a lot of electricity and water Give at least two examples of AI being used to help the environment",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_02"
+    },
+    {
+      "title": "AI Data Collection and Privacy",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about AI Data Collection and Privacy. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What data AI systems collect about you; who has it and why it matters; cookies, tracking, smart speakers always listening; your data is valuable",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least three types of personal data that AI systems collect",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that apps and websites collect information about what they do online, and could they explain why that matters?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about AI Data Collection and Privacy. Name at least three types of personal data that AI systems collect Explain why personal data is valuable to companies",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_03"
+    },
+    {
+      "title": "AI and Fairness in Decisions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about AI and Fairness in Decisions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Whether AI should make important decisions about people: jobs, loans, justice; who is responsible when AI makes unfair decisions; introduction to algorithmic fairness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give an example of an important decision that AI might help make (hiring, medical diagnosis, loan approval)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you learned that a computer program was deciding who gets a job interview, could they explain why that might be unfair and who should be responsible?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about AI and Fairness in Decisions: Give an example of an important decision that AI might help make (hiring, medical diagnosis, loan approval) Explain why letting AI make decisions about people can be risky if the system is biased",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_04"
+    },
+    {
+      "title": "AI and the Future of Work",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about AI and the Future of Work. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How AI is changing the world of work: some jobs disappear, new ones are created, many change; jobs AI can't do (yet); what skills matter in an AI world",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least two jobs that AI is changing or replacing and two new jobs AI has created",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain how AI might change the way people work in the future and which human skills will still be important?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about AI and the Future of Work: Name at least two jobs that AI is changing or replacing and two new jobs AI has created Explain why creativity, empathy, and problem-solving are skills that matter more in an AI world",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_05"
+    },
+    {
+      "title": "Designing Fair AI Rules",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Designing Fair AI Rules? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Design thinking applied to AI ethics: if you were designing an AI system, what rules would you give it? Who should it help? What should it not be allowed to do?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Propose at least three rules for a hypothetical AI system they are designing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was designing an AI assistant for their school, could they think of rules to make sure it was fair and helpful for everyone?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Designing Fair AI Rules. Propose at least three rules for a hypothetical AI system they are designing Explain why AI designers need to think about who might be harmed, not just who benefits",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_06"
+    },
+    {
+      "title": "Bias in AI Systems",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Bias in AI Systems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "If training data is biased, AI will be biased; examples: facial recognition working better for some skin tones, translation assuming gender; where bias comes from and whether we can fix it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain what bias in AI means using a real-world example",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why an AI trained mostly on photos of light-skinned faces might not work as well for people with darker skin?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Bias in AI Systems. Explain what bias in AI means using a real-world example Describe how biased training data leads to biased AI results",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_07"
+    },
+    {
+      "title": "Deepfakes and AI-Generated Content",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Deepfakes and AI-Generated Content? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Deepfakes, AI-generated images and text; how to spot them and why they matter; the importance of checking sources; not everything online is real",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what a deepfake is and give an example of AI-generated content",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw an amazing photo online, would they think to question whether it might have been created by AI rather than captured by a camera?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Deepfakes and AI-Generated Content: Explain what a deepfake is and give an example of AI-generated content Describe at least two clues that might reveal an image or text was AI-generated",
+          "media": {}
+        }
+      ],
+      "id": "4_Computing_unit_01_lesson_08"
+    }
+  ],
+  "id": "Computing_unit_01"
+}

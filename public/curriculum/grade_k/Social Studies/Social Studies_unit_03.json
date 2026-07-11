@@ -1,0 +1,291 @@
+{
+  "title": "Medieval Times",
+  "objective": "Students will explore medieval times concepts including What Is a Castle?, Village Life, Kings & Queens and more.",
+  "standards": [],
+  "skills_tested": [
+    "medieval_times"
+  ],
+  "lessons": [
+    {
+      "title": "What Is a Castle?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore What Is a Castle?! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What a castle is: a fortified building used as both a home and a defence; key parts including towers, moat, drawbridge, and thick walls; why castles were built",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least four parts of a castle (tower, moat, drawbridge, walls, gatehouse)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visited a ruined castle, could they point out the main parts and explain why it was built that way?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What Is a Castle?. Name at least four parts of a castle (tower, moat, drawbridge, walls, gatehouse) Explain that castles were both homes and defences",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_01"
+    },
+    {
+      "title": "Village Life",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Village Life!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Daily life for ordinary people in a medieval village: thatched houses, farming, baking bread, fetching water; how different life was from today",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe what a typical medieval village looked like (thatched cottages, fields, church)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you describe what a normal day would be like for a child living in a medieval village, and how it would differ from their own life?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Village Life. Describe what a typical medieval village looked like (thatched cottages, fields, church) Name at least three daily tasks a medieval villager would do",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_02"
+    },
+    {
+      "title": "Kings & Queens",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Kings & Queens? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What medieval kings and queens did: ruling the land, making laws, collecting taxes; the crown and throne as symbols of power; the Tower of London",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what a medieval king or queen did (ruled, made laws, led armies, collected taxes)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain what a king or queen actually did in medieval times, beyond just wearing a crown?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Kings & Queens. Explain what a medieval king or queen did (ruled, made laws, led armies, collected taxes) Describe at least one symbol of royal power (crown, throne, sceptre)",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_03"
+    },
+    {
+      "title": "Knights & Armour",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Knights & Armour? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What knights were: trained warriors who served a lord; armour, shields, swords, and lances; the code of chivalry as rules for how knights should behave",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe what a knight wore and carried (armour, helmet, shield, sword, lance)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you describe what a knight looked like, what they did, and at least one rule they were supposed to follow?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Knights & Armour: Describe what a knight wore and carried (armour, helmet, shield, sword, lance) Explain that knights trained from a young age and served a lord",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_04"
+    },
+    {
+      "title": "The Vikings",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Vikings!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Who the Vikings were: seafaring warriors and traders from Scandinavia; longships; Viking raids on Britain; that Vikings also settled and farmed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe who the Vikings were and where they came from",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you who the Vikings were, where they came from, and that they did more than just raid and fight?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Vikings. Describe who the Vikings were and where they came from Explain what made longships special (fast, could sail in shallow water, dragon prows)",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_05"
+    },
+    {
+      "title": "Robin Hood & King Arthur",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Robin Hood & King Arthur!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The legends of Robin Hood (Sherwood Forest, stealing from the rich, Merry Men) and King Arthur (Round Table, Excalibur, Camelot); that these are stories, not proven history, but reflect medieval values",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Retell the basic story of Robin Hood or King Arthur",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you the story of Robin Hood or King Arthur and explain that these are legends rather than definitely true history?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Robin Hood & King Arthur: Retell the basic story of Robin Hood or King Arthur Name at least two characters from one of these legends",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_06"
+    },
+    {
+      "title": "Medieval Clothing",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Medieval Clothing!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What people wore in medieval times: peasant clothes (wool, linen) vs noble clothes (silk, fur, bright colours); no zippers or buttons; how clothes showed your place in society",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe what a medieval peasant would typically wear",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw pictures of different medieval people, could they tell you which ones were rich and which were poor just by looking at their clothes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Medieval Clothing. Describe what a medieval peasant would typically wear Explain how noble clothing was different from peasant clothing",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_07"
+    },
+    {
+      "title": "Medieval Food & Feasts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "medieval_times"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Medieval Food & Feasts! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What people ate in medieval times: bread and pottage for ordinary people, grand feasts for the rich; no forks, eating with hands; the great hall as the centre of castle life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe what ordinary people ate most days (bread, pottage, vegetables, ale)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you went to a medieval banquet, could they describe what food would be served and which table manners would surprise them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Medieval Food & Feasts: Describe what ordinary people ate most days (bread, pottage, vegetables, ale) Explain how a feast in a great hall was different from everyday meals",
+          "media": {}
+        }
+      ],
+      "id": "k_Social Studies_unit_03_lesson_08"
+    }
+  ],
+  "id": "Social Studies_unit_03"
+}

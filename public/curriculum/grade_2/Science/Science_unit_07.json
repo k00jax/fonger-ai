@@ -1,0 +1,228 @@
+{
+  "title": "Matter & Materials",
+  "objective": "Students will explore matter & materials concepts including Heating & Cooling Changes, Drawing Particle Diagrams, Changes & Separation Vocabulary and more.",
+  "standards": [
+    "ngss-k5:2-PS1-1",
+    "ngss-k5:2-PS1-4",
+    "uk-nc-2013:Y4.Sci.SM.2",
+    "ngss-k5:2-PS1-2",
+    "uk-nc-2013:Y5.Sci.PCM.4",
+    "ngss-k5:2-PS1-3"
+  ],
+  "skills_tested": [
+    "matter_materials"
+  ],
+  "lessons": [
+    {
+      "title": "Heating & Cooling Changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Heating & Cooling Changes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe and describe that some materials change state when heated or cooled, and measure the temperature at which changes occur in degrees Celsius",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe melting (solid to liquid) and freezing (liquid to solid) with everyday examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what happens to an ice cube when you heat it, and at what temperature water freezes and boils?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Heating & Cooling Changes. Describe melting (solid to liquid) and freezing (liquid to solid) with everyday examples State that water freezes at 0°C and boils at 100°C",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_07_lesson_01"
+    },
+    {
+      "title": "Drawing Particle Diagrams",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Drawing Particle Diagrams! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw and interpret particle diagrams — dot representations showing the arrangement, spacing, and movement of particles in solids (close, regular, vibrating in place), liquids (close, random, flowing past each other), and gases (widely spaced, moving rapidly in all directions) — and use these diagrams to explain observable properties such as fixed shape, fixed volume, and compressibility",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw labelled particle diagrams for solids, liquids, and gases showing the correct arrangement and spacing of particles",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you's science teacher draws a diagram with dots packed tightly in rows versus dots spread far apart and moving around, can you tell you which represents a solid and which a gas — and explain why, using the particles?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Drawing Particle Diagrams. Draw labelled particle diagrams for solids, liquids, and gases showing the correct arrangement and spacing of particles Use their particle diagram to explain why solids keep their shape but liquids flow",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_07_lesson_02"
+    },
+    {
+      "title": "Changes & Separation Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Changes & Separation Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use process vocabulary for changes of state and material separation — dissolve, solution, soluble, insoluble, evaporate, condense, melt, freeze, filter, sieve, mixture, separate — and understand precisely what each term describes, including the important distinction between dissolving and melting",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Distinguish 'dissolve' from 'melt' correctly in context and explain the difference",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you stirs sugar into tea, can they explain whether the sugar dissolved or melted — and tell you those are different things?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Changes & Separation Vocabulary. Distinguish 'dissolve' from 'melt' correctly in context and explain the difference Use 'soluble' and 'insoluble' accurately when describing whether a material dissolves in water",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_07_lesson_03"
+    },
+    {
+      "title": "Testing Materials for Uses",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Testing Materials for Uses!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Give reasons, based on evidence from comparative and fair tests, for the particular uses of everyday materials including metals, wood, and plastic",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Design a fair test to compare a specific property of two or more materials",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After testing different materials, can you explain with evidence why saucepans are made of metal but their handles are plastic?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Testing Materials for Uses: Design a fair test to compare a specific property of two or more materials Present test results as evidence for why a material is suited to a particular use",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_07_lesson_04"
+    },
+    {
+      "title": "Classifying Materials",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Classifying Materials!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plan and conduct an investigation to classify different kinds of materials by their observable properties",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Design a simple test to compare one property across several materials",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you test a set of objects and sort them by properties like whether they float, conduct heat, or are magnetic?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Classifying Materials. Design a simple test to compare one property across several materials Record observations in a table or chart during the investigation",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_07_lesson_05"
+    },
+    {
+      "title": "Taking Apart & Rebuilding",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Taking Apart & Rebuilding. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe that an object made of a small set of pieces can be disassembled and made into a new object, understanding that the pieces still exist",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that taking apart an object and rebuilding it uses the same pieces in a new arrangement",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you builds a tower with building bricks and then takes it apart to build a car, can they explain that the same bricks are used but arranged differently?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Taking Apart & Rebuilding: Explain that taking apart an object and rebuilding it uses the same pieces in a new arrangement Describe how the pieces themselves don't change even though the object looks different",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_07_lesson_06"
+    }
+  ],
+  "id": "Science_unit_07"
+}

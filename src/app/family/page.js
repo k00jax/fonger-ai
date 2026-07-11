@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import PasswordGate from '../../components/PasswordGate';
-import FamilyPortal from '../../components/FamilyPortal';
+import FamilyHub from '../../components/FamilyHub';
 
 export default function FamilyPage() {
   const [authenticated, setAuthenticated] = useState(false);
@@ -28,5 +28,5 @@ export default function FamilyPage() {
     return <PasswordGate onUnlock={setAuthenticated} />;
   }
 
-  return <FamilyPortal isDemo={false} />;
+  return <FamilyHub isDemo={false} />;
 }

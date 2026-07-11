@@ -1,0 +1,291 @@
+{
+  "title": "Mathematical Thinking",
+  "objective": "Students will explore mathematical thinking concepts including Advanced Multi-Step Problems, Understanding fractions (age 10+), Real-World Mathematical Modelling and more.",
+  "standards": [],
+  "skills_tested": [
+    "mathematical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Advanced Multi-Step Problems",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Advanced Multi-Step Problems!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make sense of complex multi-step problems involving ratio, proportion, algebra, negative numbers, and all four operations with fractions and decimals by analysing given and unknown quantities, planning solution strategies, and evaluating reasonableness using estimation and inverse operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Break down a three-step ratio problem into sub-problems and plan a solution pathway",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you faces a complex maths problem involving algebra, ratio, or fractions with multiple steps, do they break it into manageable parts, estimate what's reasonable, and verify their answer using a different approach?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Advanced Multi-Step Problems. Break down a three-step ratio problem into sub-problems and plan a solution pathway Identify which quantities are known/unknown in an algebraic word problem and set up equations",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_01"
+    },
+    {
+      "title": "Understanding fractions (age 10+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Understanding fractions (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Move fluently between real-world situations, diagrams, coordinate grids, algebraic expressions, tables, and symbolic equations involving fractions, ratio, and algebra, explaining connections between representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Translate a word problem into an algebraic equation and also represent it on a bar model",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is working on an algebra or ratio problem, can they move fluidly between a graph, a table of values, a written equation, and a real-world story — explaining how each representation shows the same relationship?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding fractions (age 10+): Translate a word problem into an algebraic equation and also represent it on a bar model Plot data from a table onto a coordinate grid and interpret the relationship",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_02"
+    },
+    {
+      "title": "Real-World Mathematical Modelling",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Real-World Mathematical Modelling! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Model real-world problems involving ratio, scale, volume, unit conversion, and proportional reasoning with appropriate tools, diagrams, or equations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Choose a bar model or double number line to represent a ratio problem and solve it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you uses maths to solve a real problem — like calculating the volume of a container or working out a percentage discount — do they decide how precise their answer needs to be and explain what it means in context?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Real-World Mathematical Modelling. Choose a bar model or double number line to represent a ratio problem and solve it Model a volume problem with a labelled diagram, apply the formula, and interpret the result in context",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_03"
+    },
+    {
+      "title": "Advanced Maths Vocabulary",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Advanced Maths Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Communicate with mathematical precision: use correct vocabulary for ratio, proportion, algebra, volume, coordinate geometry, and circle parts; specify units including cm³, m³, and miles/km; use notation for algebraic expressions and order of operations accurately",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use 'radius', 'diameter', and 'circumference' correctly when describing a circle",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes up maths involving algebra or 3-D shapes, do they use precise language — like \"algebraic expression\", \"cubic centimetres\", or \"coordinates\" — and apply the correct notation throughout?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Advanced Maths Vocabulary. Use 'radius', 'diameter', and 'circumference' correctly when describing a circle Distinguish between an expression, an equation, and a formula in mathematical writing",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_04"
+    },
+    {
+      "title": "Constructing mathematical arguments",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Constructing mathematical arguments? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct and present logical mathematical arguments involving multiple steps and formal reasoning; critique others' reasoning about fractions, algebra, ratio, or geometry and clearly explain errors or alternative approaches",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Prove that a given angle must be 60° by chaining angle facts in a logical sequence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you presents a multi-step maths solution, do they lay out their reasoning clearly enough that someone else could follow every step — and can they spot the flaw if a worked solution contains a logical error?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Constructing mathematical arguments. Prove that a given angle must be 60° by chaining angle facts in a logical sequence Find and explain the error in a peer's fraction division calculation",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_05"
+    },
+    {
+      "title": "Choosing Maths Tools",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Choosing Maths Tools? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Select and use tools and representations strategically: choose between mental methods, formal written methods, algebraic approaches, coordinate grids, and technology based on the demands of the problem",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain why long division is more appropriate than mental methods for 4,752 ÷ 13",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you chooses how to tackle a maths problem, do they pick the most efficient approach — using algebra for a complex generalisation, a coordinate grid for a geometry problem, or mental arithmetic for a simple calculation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Choosing Maths Tools. Explain why long division is more appropriate than mental methods for 4,752 ÷ 13 Choose a coordinate grid approach to verify a translation rather than computing from a description alone",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_06"
+    },
+    {
+      "title": "Order of operations (age 10+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Order of operations (age 10+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Look for and use mathematical structure: exploit the hierarchy of 2-D shapes to deduce properties; use order of operations and algebraic structure to simplify expressions; connect fraction–decimal–percentage equivalences; use ratio structure to solve proportion problems efficiently",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use the property that all rectangles are parallelograms to deduce missing angle facts",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is simplifying an algebraic expression or comparing ratios, do they look for the underlying structure — like using the order of operations or spotting that two ratios are equivalent — to make the calculation more efficient?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Order of operations (age 10+). Use the property that all rectangles are parallelograms to deduce missing angle facts Recognise that 3 × (n + 5) = 3n + 15 by applying distributive structure",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_07"
+    },
+    {
+      "title": "Generalising with repeated reasoning",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Generalising with repeated reasoning! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use repeated reasoning to generalise: describe algebraic rules for nth terms, use properties of operations to simplify, and verify generalisations with specific cases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that the interior angle sum of an n-sided polygon is (n−2) × 180° based on the pattern for triangles, quadrilaterals, pentagons",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you finds the rule for a number sequence — like \"add 7 each time\" or \"multiply the position number by 3\" — can they use that rule to find any term without having to list all the ones before it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Generalising with repeated reasoning. Explain that the interior angle sum of an n-sided polygon is (n−2) × 180° based on the pattern for triangles, quadrilaterals, pentagons Predict the 20th term of a linear sequence by identifying and applying the general rule",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_06_lesson_08"
+    }
+  ],
+  "id": "Math_unit_06"
+}

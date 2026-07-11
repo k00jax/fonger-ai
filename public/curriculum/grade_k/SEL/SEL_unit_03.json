@@ -1,0 +1,192 @@
+{
+  "title": "Friendship & Cooperation",
+  "objective": "Students will explore friendship & cooperation concepts including Vocabulary: working with others, Listening to Others, Makes someone a good friend and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE.INT.P1.CU.4",
+    "ib-pyp-pspe:PSPE.INT.P1.LO.3",
+    "ib-pyp-pspe:PSPE.INT.P1.CU.2",
+    "ib-pyp-pspe:PSPE.INT.P1.LO.7",
+    "ib-pyp-pspe:PSPE.INT.P1.LO.2"
+  ],
+  "skills_tested": [
+    "friendship_cooperation"
+  ],
+  "lessons": [
+    {
+      "title": "Vocabulary: working with others",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Vocabulary: working with others? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of working with others — cooperate, share, take turns, team, listen, agree, disagree respectfully, and include — and understand that these words describe habits that friendships and group work depend on",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use 'cooperate' and 'compromise' correctly — e.g. 'We cooperated by taking turns choosing the game'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is working on something with a friend or sibling, can they use words like 'cooperate' or 'take turns' to describe what they're doing — and actually practise those things?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Vocabulary: working with others: Use 'cooperate' and 'compromise' correctly — e.g. 'We cooperated by taking turns choosing the game' Explain what 'active listening' means and demonstrate it: facing the speaker, not interrupting, responding to what was said",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_03_lesson_01"
+    },
+    {
+      "title": "Listening to Others",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Listening to Others. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Listen to others when they are speaking — looking at the speaker, waiting until they finish, and showing they have heard by responding to what was said rather than just talking about their own ideas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Face the speaker and maintain attention while someone else is talking",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When a friend is telling you about their weekend, does you actually listen and ask questions about it — rather than immediately jumping in to talk about their own weekend?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Listening to Others. Face the speaker and maintain attention while someone else is talking Wait until the other person has finished before responding",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_03_lesson_02"
+    },
+    {
+      "title": "Makes someone a good friend",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Makes someone a good friend! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand what makes someone a good friend — being kind, honest, reliable, and including others — and recognise behaviours that are not friendly, such as being bossy, leaving people out, or saying mean things",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! List at least four qualities of a good friend",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe what makes a good friend and recognise when someone — including themselves — isn't being a good friend?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Makes someone a good friend. List at least four qualities of a good friend Identify unfriendly behaviour in a story or real situation",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_03_lesson_03"
+    },
+    {
+      "title": "Taking Turns and Sharing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Taking Turns and Sharing? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Take turns, share materials, and play cooperatively with others — understanding that group activities work better when everyone gets a fair go and that waiting for your turn is part of being a good friend",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Take turns in a game or group activity without needing adult reminders",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is playing a board game with friends or siblings, can they wait for their turn and share the pieces without grabbing or getting upset?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Taking Turns and Sharing. Take turns in a game or group activity without needing adult reminders Share materials willingly during a shared task or playtime",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_03_lesson_04"
+    },
+    {
+      "title": "Asking for Help",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Asking for Help!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ask for help when they need it — from a friend, teacher, or family member — and understand that asking for help is a sign of strength, not weakness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Approach an appropriate person and ask for help clearly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is stuck on something at school or feeling worried about something, will they ask a teacher or friend for help rather than struggling in silence?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Asking for Help: Approach an appropriate person and ask for help clearly Identify who to go to for different kinds of help (academic, emotional, practical)",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_03_lesson_05"
+    }
+  ],
+  "id": "SEL_unit_03"
+}

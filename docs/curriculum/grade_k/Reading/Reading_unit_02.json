@@ -1,0 +1,302 @@
+{
+  "title": "Grammar & Punctuation",
+  "objective": "Students will explore grammar & punctuation concepts including Starting and Ending Sentences, Basic Nouns & Verbs, Question Words and more.",
+  "standards": [
+    "ccss-ela:L.1.2a",
+    "uk-nc-2013:Eng/KS1/Y2/VGP/2e",
+    "ccss-ela:L.K.1b",
+    "uk-nc-2013:Eng.App2.Y2.Punc.1",
+    "ccss-ela:L.K.1c",
+    "uk-nc-2013:Eng_Y1_WVGP_06",
+    "uk-nc-2013:Eng.App2.Y1.Word.2",
+    "ccss-ela:L.K.1e",
+    "uk-nc-2013:Eng.App2.Y1.Punc.3",
+    "ccss-ela:L.2.2b"
+  ],
+  "skills_tested": [
+    "grammar_punctuation"
+  ],
+  "lessons": [
+    {
+      "title": "Starting and Ending Sentences",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Starting and Ending Sentences!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Begin sentences with a capital letter and end them with the appropriate mark (full stop, question mark, or exclamation mark); recognise and name end punctuation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write sentences beginning with a capital letter",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a sentence like \"the cat sat on the mat\", do they remember to use a capital letter at the start and a full stop at the end — without needing a reminder?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Starting and Ending Sentences. Write sentences beginning with a capital letter Choose and use the correct end punctuation for statements, questions, and exclamations",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_01"
+    },
+    {
+      "title": "Basic Nouns & Verbs",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Basic Nouns & Verbs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use frequently occurring nouns (people, places, things) and verbs (action words) appropriately in speech and writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use common nouns accurately in sentences (e.g. 'dog', 'school', 'book')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you talks or writes about everyday things — like \"the dog runs\" or \"Mum cooks dinner\" — do they use the right kind of words for things (nouns) and actions (verbs) without mixing them up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Basic Nouns & Verbs: Use common nouns accurately in sentences (e.g. 'dog', 'school', 'book') Use action verbs appropriately (e.g. 'run', 'eat', 'play')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_02"
+    },
+    {
+      "title": "Question Words",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Question Words? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and use question words (who, what, where, when, why, how) to form and answer questions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Ask questions using appropriate question words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wants to find out something — like where you put their shoes or why the sky is blue — can they start their question with the right word, like \"where\" or \"why\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Question Words. Ask questions using appropriate question words Answer who, what, where, when questions about familiar topics",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_03"
+    },
+    {
+      "title": "Joining Words with 'And'",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Joining Words with 'And'? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Join words and clauses using the conjunction 'and' to create longer sentences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Combine two simple sentences using 'and' (e.g. 'I like cats and dogs')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is telling you about their day, can they write two ideas joined together with the word 'and' — like \"I had lunch and then we played outside\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Joining Words with 'And'. Combine two simple sentences using 'and' (e.g. 'I like cats and dogs') Join two related clauses with 'and' (e.g. 'We went to the park and we played')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_04"
+    },
+    {
+      "title": "Regular Plural Nouns",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Regular Plural Nouns? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Form and use regular plural nouns orally and in writing by adding -s or -es; understand that plural means more than one",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Say and write correct plural forms (e.g. 'one cat, two cats'; 'one wish, two wishes')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you point to a picture of one cat and then several cats, can you tell you the correct word for more than one — and write it with the right ending, like \"cats\" or \"boxes\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Regular Plural Nouns. Say and write correct plural forms (e.g. 'one cat, two cats'; 'one wish, two wishes') Choose -s or -es correctly based on the ending sound",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_05"
+    },
+    {
+      "title": "Prepositions",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Prepositions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and use the most frequently occurring prepositions of location and direction (e.g. to, from, in, out, on, off, for, by, with)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use prepositions correctly in sentences (e.g. 'on the table', 'under the bed')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to describe where something is — like where the cup is on the table — can they use little words like \"on\", \"under\", \"next to\", or \"by\" correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Prepositions. Use prepositions correctly in sentences (e.g. 'on the table', 'under the bed') Follow instructions involving prepositions (e.g. 'Put the book on the shelf')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_06"
+    },
+    {
+      "title": "Grammar words: letter, word, sentence",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Grammar words: letter, word, sentence!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use basic grammatical terminology when discussing reading and writing: letter, capital letter, word, singular, plural, sentence, punctuation, full stop, question mark, exclamation mark",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name punctuation marks correctly when pointed out in text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you point to a full stop or a question mark in a book, can you tell you what it's called and what it's for — and do they know the difference between a word and a sentence?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Grammar words: letter, word, sentence: Name punctuation marks correctly when pointed out in text Use terms like 'capital letter' and 'full stop' when editing writing",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_07"
+    },
+    {
+      "title": "Capitals for Names, Days and I",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Capitals for Names, Days and I!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use capital letters for proper nouns (names of people, places) the days of the week, and the personal pronoun 'I'",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Capitalise names of people and places consistently in writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is writing their friend's name or the name of a town, do they automatically start it with a capital letter — and do they write the word 'I' with a capital when talking about themselves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Capitals for Names, Days and I. Capitalise names of people and places consistently in writing Write the pronoun 'I' as a capital letter",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_02_lesson_08"
+    }
+  ],
+  "id": "Reading_unit_02"
+}

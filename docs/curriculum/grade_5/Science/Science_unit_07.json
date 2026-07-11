@@ -1,0 +1,372 @@
+{
+  "title": "Matter & Materials",
+  "objective": "Students will explore matter & materials concepts including Physical vs Chemical Changes, Conservation of Mass, Separating Mixtures and more.",
+  "standards": [
+    "ngss-k5:5-PS1-1",
+    "uk-nc-2013:KS3.Sci.Chem.PIS.3",
+    "uk-nc-2013:KS3.Sci.Chem.PIS.2",
+    "uk-nc-2013:KS3.Sci.Chem.AEC.7",
+    "uk-nc-2013:KS3.Sci.Chem.PT.5",
+    "uk-nc-2013:KS3.Sci.Chem.PNM.3",
+    "uk-nc-2013:KS3.Sci.Chem.AEC.4",
+    "uk-nc-2013:KS3.Sci.Chem.PIS.5",
+    "ngss-k5:5-PS1-2",
+    "uk-nc-2013:KS3.Sci.Chem.PIS.1"
+  ],
+  "skills_tested": [
+    "matter_materials"
+  ],
+  "lessons": [
+    {
+      "title": "Physical vs Chemical Changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Physical vs Chemical Changes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between physical changes (reversible, no new substances formed) and chemical changes (new substances formed, often irreversible), using conservation of mass to understand both types",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Classifies given changes as physical or chemical with justification",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you dissolved sugar in tea versus burnt toast in the toaster, could they explain which is a physical change and which is a chemical change — and what test would show that mass is conserved in both cases?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Physical vs Chemical Changes. Classifies given changes as physical or chemical with justification Explains what conservation of mass means and why mass is conserved in chemical reactions",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_01"
+    },
+    {
+      "title": "Conservation of Mass",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Conservation of Mass. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure and provide evidence that the total weight of matter is conserved regardless of the type of change (heating, cooling, or mixing)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State the principle that matter is neither created nor destroyed during physical or chemical changes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you dissolves sugar in water, can they explain why the total weight of the water and sugar stays the same even though the sugar seems to disappear?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Conservation of Mass. State the principle that matter is neither created nor destroyed during physical or chemical changes Describe an investigation weighing materials before and after a change to show mass is conserved",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_02"
+    },
+    {
+      "title": "Separating Mixtures",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Separating Mixtures!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Select and carry out appropriate separation techniques for different types of mixtures: filtration (insoluble solids), distillation (liquids by boiling point), crystallisation (dissolved solids), and chromatography (coloured substances)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Selects the correct separation technique for a given mixture with justification",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needed to separate salt from sand mixed together in water, could they describe two stages of separation, the equipment needed, and explain why each step works?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Separating Mixtures. Selects the correct separation technique for a given mixture with justification Describes the steps of simple distillation and explains why it works",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_03"
+    },
+    {
+      "title": "Pure Substances & Mixtures",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Pure Substances & Mixtures! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between pure substances and mixtures, identify formulations as useful mixtures with precise compositions, and use melting and boiling points to test for purity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explains why a pure substance has a sharp, fixed melting point but a mixture melts over a range",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was checking whether a sample of water was pure, could they explain one test they could do — and say what result would tell them it was definitely pure versus a mixture?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Pure Substances & Mixtures. Explains why a pure substance has a sharp, fixed melting point but a mixture melts over a range Identifies common formulations (medicines, alloys, paints, fuels) as deliberate mixtures",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_04"
+    },
+    {
+      "title": "Matter Is Made of Particles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Matter Is Made of Particles. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop a model to describe that matter is made of particles too small to be seen, and that this explains properties of solids, liquids, and gases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe matter as made of particles too small to see with the naked eye",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that everything is made of tiny particles we can't see, and that how tightly packed they are determines whether something is a solid, liquid, or gas?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Matter Is Made of Particles: Describe matter as made of particles too small to see with the naked eye Use a particle model to explain differences: particles tightly packed (solid), loosely arranged (liquid), spread far apart (gas)",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_05"
+    },
+    {
+      "title": "The Particle Model",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about The Particle Model. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the particle model to explain the properties of solids, liquids, and gases — including differences in arrangement, movement, and spacing — and apply the model to explain density, compressibility, and the anomalous expansion of water",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Draws particle diagrams for solids, liquids, and gases showing correct arrangement and spacing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked why you can squash a balloon but not a water bottle full of liquid, could they explain using the idea of particles what's different about gases and liquids?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Particle Model: Draws particle diagrams for solids, liquids, and gases showing correct arrangement and spacing Explains why gases are compressible but liquids and solids are not",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_06"
+    },
+    {
+      "title": "Atoms, Elements & Compounds",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Atoms, Elements & Compounds!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain the differences between atoms, elements, and compounds; describe the simple Bohr model of the atom (nucleus with protons and neutrons, electrons in shells); and write and interpret chemical symbols and simple formulae",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Defines atom, element, and compound and distinguishes between them with examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw the formula H₂O on a label, could they explain what it means — which atoms are involved, how many of each, and why water is a compound rather than just a mixture of hydrogen and oxygen?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Atoms, Elements & Compounds: Defines atom, element, and compound and distinguishes between them with examples Draws a simple Bohr model of an atom labelling nucleus (protons/neutrons) and electron shells",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_07"
+    },
+    {
+      "title": "Metals vs Non-Metals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Metals vs Non-Metals! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare the physical and chemical properties of metals and non-metals, explaining metallic properties (malleability, lustre, conductivity) and how position in the periodic table predicts reactivity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Lists physical properties typical of metals (shiny, malleable, good conductor) and non-metals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had an unknown substance that was shiny, could be bent without breaking, and conducted electricity, could they identify it as likely a metal and explain how each property points to that conclusion?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Metals vs Non-Metals: Lists physical properties typical of metals (shiny, malleable, good conductor) and non-metals Explains why metals are used in wires, cookware, and construction based on their properties",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_08"
+    },
+    {
+      "title": "The Periodic Table",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Periodic Table!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the organisation of the periodic table into periods and groups, explain the contribution of Mendeleev, and use the table to identify metals, non-metals, and predict patterns in reactivity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explains why the periodic table is arranged into periods (rows) and groups (columns)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was looking at a periodic table, could they explain why elements in the same column tend to behave similarly — and say what Mendeleev did that made it so useful to chemists?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Periodic Table: Explains why the periodic table is arranged into periods (rows) and groups (columns) States that elements in the same group have similar chemical properties",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_09"
+    },
+    {
+      "title": "How Materials Change State",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "matter_materials"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore How Materials Change State! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain melting, freezing, boiling, condensing, and sublimation using the particle model, interpreting heating and cooling curves to identify melting and boiling points",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describes what happens to particles during each change of state",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was heating a block of ice in a pan and drew a graph of temperature over time, could they explain why the line goes flat at certain points — and what's happening to the particles when it does?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Materials Change State. Describes what happens to particles during each change of state Reads a heating/cooling curve and identifies the melting point and boiling point from the flat regions",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_07_lesson_10"
+    }
+  ],
+  "id": "Science_unit_07"
+}

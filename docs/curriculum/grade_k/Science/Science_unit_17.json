@@ -1,0 +1,293 @@
+{
+  "title": "Weather & Climate",
+  "objective": "Students will explore weather & climate concepts including Types of Weather, Seasons & Weather Patterns, Rain & Puddles and more.",
+  "standards": [
+    "ngss-k5:K-ESS3-2"
+  ],
+  "skills_tested": [
+    "weather_climate"
+  ],
+  "lessons": [
+    {
+      "title": "Types of Weather",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Types of Weather!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and describe different types of weather — sunny, rainy, windy, snowy, cloudy, foggy, stormy — and describe what the weather is like today using simple vocabulary",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least five types of weather",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you looks out the window in the morning, can they describe the weather using words like sunny, cloudy, rainy, or windy, and say whether it's a nice day or a wet day?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Types of Weather. Name at least five types of weather Describe today's weather accurately using appropriate vocabulary",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_01"
+    },
+    {
+      "title": "Seasons & Weather Patterns",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Seasons & Weather Patterns!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that weather changes with the seasons — spring brings rain and new growth, summer is warmest with long days, autumn brings cooling and falling leaves, winter is coldest with short days — and that this pattern repeats every year",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the four seasons and describe typical weather for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you what kind of weather to expect in each season and explain that summer has the longest days while winter has the shortest?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Seasons & Weather Patterns. Name the four seasons and describe typical weather for each Explain that days are longer in summer and shorter in winter",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_02"
+    },
+    {
+      "title": "Rain & Puddles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Rain & Puddles? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that rain falls from clouds in the sky, that puddles disappear because water goes back into the air, and that this is part of how water moves around — up into the sky and back down again",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that rain falls from clouds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you notices a puddle has disappeared on a sunny afternoon, can they explain that the water went up into the air, and that it will come back down again as rain from a cloud?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rain & Puddles: State that rain falls from clouds Explain that puddles disappear because the water goes into the air",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_03"
+    },
+    {
+      "title": "Temperature & Thermometers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Temperature & Thermometers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand temperature as how hot or cold something is, that a thermometer measures temperature, and use words like hot, warm, cool, and cold to describe how the air feels on different days",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that temperature describes how hot or cold something is",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a thermometer outside, could they explain that it tells us how hot or cold the air is, and describe today as hot, warm, cool, or cold?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Temperature & Thermometers: Explain that temperature describes how hot or cold something is Identify a thermometer as the tool used to measure temperature",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_04"
+    },
+    {
+      "title": "What Is Wind?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about What Is Wind?!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that wind is moving air, that it can be gentle (a breeze) or very strong (a gale), and that wind can move things like leaves, kites, flags, and even push people",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define wind as air that is moving",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "On a windy day, can you explain that wind is air moving, point out things being blown around, and describe whether it's a gentle breeze or a strong gust?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What Is Wind?. Define wind as air that is moving Describe the difference between a gentle breeze and a strong wind",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_05"
+    },
+    {
+      "title": "Weather Forecasting & Safety",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Weather Forecasting & Safety!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ask questions to obtain information about the purpose of weather forecasting and how people prepare for and respond to severe weather",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that weather forecasts help people plan and stay safe",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why we check the weather forecast and what people do to get ready for a big storm or very hot weather?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Weather Forecasting & Safety. Explain that weather forecasts help people plan and stay safe Describe how people prepare for at least two types of severe weather (storm, flood, heat wave, blizzard)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_06"
+    },
+    {
+      "title": "Storm Safety",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Storm Safety. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know basic storm safety: during thunder and lightning, go indoors or into a car, stay away from trees and water; understand that storms can be frightening but there are ways to stay safe",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State at least two safety rules for thunderstorms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard thunder while playing outside, would they know to come inside straight away and could they explain why standing under a tree isn't safe during a lightning storm?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Storm Safety: State at least two safety rules for thunderstorms Explain why going indoors is the safest option during lightning",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_07"
+    },
+    {
+      "title": "Dressing for the Weather",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Dressing for the Weather! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Choose appropriate clothing and equipment for different weather conditions — coat and umbrella for rain, sun hat and sunscreen for hot sun, warm layers for cold — understanding that weather affects what we do and how we prepare each day",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Select appropriate clothing for at least three different weather conditions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before going outside, can you check the weather and choose the right clothes — like grabbing a raincoat if it's cloudy or a sun hat if it's hot?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Dressing for the Weather: Select appropriate clothing for at least three different weather conditions Explain why certain clothes or equipment are needed for specific weather",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_17_lesson_08"
+    }
+  ],
+  "id": "Science_unit_17"
+}

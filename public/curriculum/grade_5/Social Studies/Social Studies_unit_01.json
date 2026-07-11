@@ -1,0 +1,116 @@
+{
+  "title": "Ancient Egypt",
+  "objective": "Students will explore ancient egypt concepts including Modern Archaeology and Egyptian Ethics, Historical Sources on Ancient Egypt, Egyptian Maths and Engineering.",
+  "standards": [],
+  "skills_tested": [
+    "ancient_egypt"
+  ],
+  "lessons": [
+    {
+      "title": "Modern Archaeology and Egyptian Ethics",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Modern Archaeology and Egyptian Ethics!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that modern Egyptologists use advanced technologies — CT scanning of mummies, satellite imagery to find buried structures, DNA analysis — alongside traditional excavation, and think critically about the ethics of archaeology: whether mummies should be displayed in museums, who owns ancient artefacts, and how colonial-era collecting affects how we study and present ancient Egypt today",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least two modern technologies used in Egyptology and explain what they reveal",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visits a museum with Egyptian mummies on display, can they think about whether that's the right thing to do and explain different viewpoints on the question?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Modern Archaeology and Egyptian Ethics. Name at least two modern technologies used in Egyptology and explain what they reveal Discuss at least one ethical question about how ancient Egyptian artefacts are treated today",
+          "media": {}
+        }
+      ],
+      "id": "5_Social Studies_unit_01_lesson_01"
+    },
+    {
+      "title": "Historical Sources on Ancient Egypt",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Historical Sources on Ancient Egypt! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how knowledge of ancient Egypt is built from multiple source types — inscriptions, papyri, artefacts, and physical remains — and critically evaluate each: what biases, gaps, and distortions exist? Explore how Champollion’s decipherment of hieroglyphs transformed the field, and why the same artefact can be interpreted differently by different scholars",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identifies at least four types of historical source (inscriptions, papyri, tomb art, physical artefacts) and explains what each type can and cannot tell us",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was shown two history books with contradictory claims about ancient Egypt, could they explain why historians sometimes disagree, and describe what kinds of evidence they use to try to work out what really happened?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Historical Sources on Ancient Egypt. Identifies at least four types of historical source (inscriptions, papyri, tomb art, physical artefacts) and explains what each type can and cannot tell us Explains that hieroglyphic sources were created by the literate elite and therefore tend to record official versions of events, not ordinary people's experiences",
+          "media": {}
+        }
+      ],
+      "id": "5_Social Studies_unit_01_lesson_02"
+    },
+    {
+      "title": "Egyptian Maths and Engineering",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Egyptian Maths and Engineering? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the Egyptian achievement in mathematics and engineering: the Rhind Mathematical Papyrus shows calculations of area, volume, and fractions; the precision of pyramid alignment (within 0.05° of true north) required sophisticated surveying; and Egyptian medical papyri describe detailed anatomical knowledge and pharmacological remedies — placing Egypt as a major contributor to the early history of science and technology",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describes the Rhind Mathematical Papyrus as containing worked examples of arithmetic, geometry, and unit fractions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was told that the ancient Egyptians were solving problems involving fractions and calculating areas of fields over 3,500 years ago, could they describe what the Rhind Papyrus is and explain what it tells us about Egyptian mathematics?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Egyptian Maths and Engineering. Describes the Rhind Mathematical Papyrus as containing worked examples of arithmetic, geometry, and unit fractions Explains one specific engineering achievement: pyramid alignment, ramp logistics, or the accuracy of the Great Pyramid's dimensions",
+          "media": {}
+        }
+      ],
+      "id": "5_Social Studies_unit_01_lesson_03"
+    }
+  ],
+  "id": "Social Studies_unit_01"
+}

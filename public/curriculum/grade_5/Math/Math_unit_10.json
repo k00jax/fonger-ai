@@ -1,0 +1,263 @@
+{
+  "title": "Probability",
+  "objective": "Students will explore probability concepts including Complementary events, The Probability Scale, Experimental probability and more.",
+  "standards": [
+    "ccss-math:7.SP.5",
+    "uk-nc-2013:KS3.Maths.Prob.2",
+    "ccss-math:7.SP.7b",
+    "uk-nc-2013:KS3.Maths.Prob.1",
+    "ccss-math:7.SP.6",
+    "ccss-math:7.SP.7a"
+  ],
+  "skills_tested": [
+    "probability"
+  ],
+  "lessons": [
+    {
+      "title": "Complementary events",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Complementary events! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and apply the rule that probabilities of all mutually exclusive outcomes sum to one; use this to find the probability of a complementary event (P(not A) = 1 − P(A))",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Verify that probabilities of all outcomes listed for a spinner sum to 1",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a spinner has three sections and one has a probability of 0.4 and another has 0.35, can you work out the probability of landing on the third section without being told?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Complementary events: Verify that probabilities of all outcomes listed for a spinner sum to 1 Calculate the probability of NOT rolling a 6 as 1 − 1/6 = 5/6",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_01"
+    },
+    {
+      "title": "The Probability Scale",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The Probability Scale! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand probability as a measure on a scale from 0 (impossible) to 1 (certain); use the language of probability including likely, unlikely, certain, and impossible",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Place everyday events on a 0-to-1 probability scale with justification",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that probability goes from 0 (impossible) to 1 (certain), place events on that scale as numbers, and tell you whether a game is fair or not?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Probability Scale. Place everyday events on a 0-to-1 probability scale with justification Explain why a fair six-sided die gives each number a probability of 1/6",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_02"
+    },
+    {
+      "title": "Experimental probability",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Experimental probability? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Record, describe, and analyse the frequency of outcomes from probability experiments to develop an understanding of relative frequency as an estimate of probability",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Conduct a coin-toss experiment, record results in a frequency table, and calculate relative frequencies",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you rolls a die 60 times and records the results, can they compare how often each number came up with what they'd expect in theory — and explain why they might not match perfectly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Experimental probability. Conduct a coin-toss experiment, record results in a frequency table, and calculate relative frequencies Compare experimental results with theoretical probability and explain discrepancies",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_03"
+    },
+    {
+      "title": "Calculating Simple Probability",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Calculating Simple Probability? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Calculate the probability of a simple event with equally likely outcomes using the formula: probability = number of favourable outcomes ÷ total number of possible outcomes; express the result as a fraction in its simplest form; apply to rolling dice, drawing from bags, and other simple chance situations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate the probability of drawing a blue marble from a bag of 3 blue and 7 red as 3/10",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If there are 3 red and 7 blue balls in a bag, can you work out the probability of picking a red one and express it as a fraction in its simplest form?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Calculating Simple Probability. Calculate the probability of drawing a blue marble from a bag of 3 blue and 7 red as 3/10 Use the formula P(event) = favourable outcomes ÷ total outcomes to solve at least three different problems",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_04"
+    },
+    {
+      "title": "The 0-to-1 Probability Scale",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The 0-to-1 Probability Scale? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand probability as a measure expressed as a number between 0 (impossible) and 1 (certain); place events on the probability scale; express probabilities as fractions, decimals, and percentages",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Place events on a number line from 0 (impossible) to 1 (certain), expressing positions as fractions or decimals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write the same probability as a fraction, a decimal, and a percentage — for example, knowing that an even chance is ½, 0.5, and 50%?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The 0-to-1 Probability Scale. Place events on a number line from 0 (impossible) to 1 (certain), expressing positions as fractions or decimals Explain that a probability of 0.5 means 'even chance' and connect this to the informal word 'likely'",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_05"
+    },
+    {
+      "title": "Probabilities Sum to One",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Probabilities Sum to One! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that when all possible outcomes of a trial are listed, their probabilities must add up to 1; use this to find the probability of an event NOT happening: P(not A) = 1 − P(A); apply this shortcut to avoid counting all unfavourable outcomes directly",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. List all outcomes of spinning a 4-colour spinner and verify their probabilities add up to 1",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If the probability of it raining tomorrow is 0.3, can you work out the probability of it NOT raining — and explain why all probabilities in a situation must add up to 1?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Probabilities Sum to One: List all outcomes of spinning a 4-colour spinner and verify their probabilities add up to 1 Calculate P(not rolling a 3) as 1 − 1/6 = 5/6 using the complement rule",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_06"
+    },
+    {
+      "title": "Experimental vs Theoretical",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "probability"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Experimental vs Theoretical? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Run repeated probability experiments and compare experimental (relative frequency) results with theoretical predictions; understand and demonstrate that as the number of trials increases, the experimental probability tends towards the theoretical probability — and that short runs can give very different results",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Roll a die 60 times and compare experimental frequencies with the expected 10 per number",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you flips a coin 10 times and gets 7 heads, do they understand why this doesn't mean heads is \"more likely\" — and that the more times you flip, the closer the results get to 50:50?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Experimental vs Theoretical: Roll a die 60 times and compare experimental frequencies with the expected 10 per number Explain why experimental results don't exactly match theoretical predictions but get closer with more trials",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_10_lesson_07"
+    }
+  ],
+  "id": "Math_unit_10"
+}

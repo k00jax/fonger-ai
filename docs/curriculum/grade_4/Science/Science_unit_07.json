@@ -1,0 +1,256 @@
+{
+  "title": "Insects & Minibeasts",
+  "objective": "Students will explore insects & minibeasts concepts including Insects in ecosystems, The most successful animals on Earth, Threats to insects and conservation and more.",
+  "standards": [],
+  "skills_tested": [
+    "insects_minibeasts"
+  ],
+  "lessons": [
+    {
+      "title": "Insects in ecosystems",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "insects_minibeasts"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Insects in ecosystems? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Insects in ecosystems: the many roles insects play. Pollinators (bees, butterflies, hoverflies), decomposers (dung beetles, fly larvae), food source for birds, bats, fish, and frogs, and pest controllers (ladybirds eating aphids). The thought experiment: what would happen if all insects disappeared?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least three different ecological roles that insects play such as pollinator, decomposer, and food source",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you what would happen if all the insects in the world disappeared tomorrow, could they explain the chain of problems that would cause — for plants, animals, and people?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Insects in ecosystems. Name at least three different ecological roles that insects play such as pollinator, decomposer, and food source Explain how the removal of one insect group like bees would affect plants, other animals, and humans",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_07_lesson_01"
+    },
+    {
+      "title": "The most successful animals on Earth",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "insects_minibeasts"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The most successful animals on Earth! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The most successful animals on Earth: there are roughly one million described insect species, and scientists estimate 5–10 million may exist. More insect species than all other animal groups combined. Why so many? Small body size means less food needed, fast reproduction with many offspring, flight allows reaching new habitats, and the exoskeleton is incredibly versatile.",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that insects are the most species-rich group of animals with about one million known species",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know which group of animals has more species than any other on Earth — and can they explain why insects are so incredibly successful?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The most successful animals on Earth. State that insects are the most species-rich group of animals with about one million known species Give at least two reasons why insects are so successful such as small size, fast reproduction, or flight",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_07_lesson_02"
+    },
+    {
+      "title": "Threats to insects and conservation",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "insects_minibeasts"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Threats to insects and conservation. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Threats to insects and conservation: insect populations are declining worldwide. Causes include habitat loss, pesticide use, light pollution disrupting nocturnal insects, and climate change. Pollinator decline threatens food production. What children can do: plant pollinator-friendly gardens, reduce pesticide use, participate in citizen science like the Big Butterfly Count.",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three threats to insect populations such as habitat loss, pesticides, and light pollution",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you why insect numbers are falling around the world, why that matters for people too, and what your family could do to help?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Threats to insects and conservation. Name at least three threats to insect populations such as habitat loss, pesticides, and light pollution Explain why declining bee populations are a problem for humans and the food we eat",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_07_lesson_03"
+    },
+    {
+      "title": "Insect Adaptations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "insects_minibeasts"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Insect Adaptations. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Adaptation and evolution in insects: peppered moths as a famous example of natural selection (dark moths survived better on soot-covered trees during the Industrial Revolution). Stick insects evolved to look like twigs. Ant-mimicking spiders evolved to fool predators. How small changes over many generations lead to remarkable disguises.",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Retell the peppered moth story and explain how the environment changed which colour moth survived best",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why peppered moths changed colour during the Industrial Revolution — and how that's an example of how living things adapt over many generations?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Insect Adaptations. Retell the peppered moth story and explain how the environment changed which colour moth survived best Describe how a stick insect's body shape is an adaptation that helps it avoid being eaten",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_07_lesson_04"
+    },
+    {
+      "title": "Insect communication and behaviour",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "insects_minibeasts"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Insect communication and behaviour. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Insect communication and behaviour: bees perform a waggle dance to tell hive-mates where flowers are. Ants lay pheromone trails for others to follow. Fireflies flash light patterns to find mates. Crickets chirp by rubbing their wings. Monarch butterflies migrate thousands of miles across continents. How insects 'talk' without words.",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe at least three ways insects communicate such as the bee waggle dance, ant pheromone trails, and firefly light signals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how bees tell each other where to find flowers, how ants leave invisible trails, or how fireflies use light to send messages?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Insect communication and behaviour. Describe at least three ways insects communicate such as the bee waggle dance, ant pheromone trails, and firefly light signals Explain what information a bee conveys through its waggle dance, including direction and distance to flowers",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_07_lesson_05"
+    },
+    {
+      "title": "Types of Metamorphosis",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "insects_minibeasts"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Types of Metamorphosis? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Complete vs incomplete metamorphosis. Complete: egg → larva → pupa → adult (butterflies, beetles, flies). Incomplete: egg → nymph → adult — the nymph looks like a small version of the adult and moults as it grows (grasshoppers, dragonflies, crickets). Why do some insects transform completely while others grow gradually?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compare complete and incomplete metamorphosis by describing the stages of each on a diagram",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the difference between a butterfly's life cycle and a grasshopper's — why the caterpillar looks nothing like the butterfly, but a baby grasshopper already looks like a small grasshopper?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Types of Metamorphosis: Compare complete and incomplete metamorphosis by describing the stages of each on a diagram Classify at least three insects into the correct metamorphosis type such as butterfly (complete) and grasshopper (incomplete)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_07_lesson_06"
+    },
+    {
+      "title": "Insect anatomy in depth",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "insects_minibeasts"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Insect anatomy in depth!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Insect anatomy in depth: compound eyes made of thousands of tiny lenses, spiracles (breathing holes along the body), diverse mouthparts (chewing mandibles in beetles, sucking proboscis in butterflies, sponging pad in flies), and moulting the exoskeleton to grow. Biomimicry — how engineers copy insect designs.",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least two specialised insect structures such as compound eyes or spiracles and explain their function",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at a close-up photo of an insect's eye or mouth, could they explain how those body parts work and why they look so different from ours?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Insect anatomy in depth. Describe at least two specialised insect structures such as compound eyes or spiracles and explain their function Compare the mouthparts of a beetle (chewing) and a butterfly (sucking) and explain how each is suited to its food",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_07_lesson_07"
+    }
+  ],
+  "id": "Science_unit_07"
+}

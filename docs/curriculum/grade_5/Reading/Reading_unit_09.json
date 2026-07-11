@@ -1,0 +1,442 @@
+{
+  "title": "Writing Composition",
+  "objective": "Students will explore writing composition concepts including Persuasive Writing, Writing Techniques for Effect, Research & Source Evaluation and more.",
+  "standards": [
+    "ccss-ela:W.5.8",
+    "ccss-ela:W.6.5",
+    "uk-nc-2013:KS3-ENG-W-2a",
+    "ccss-ela:W.8.2",
+    "ccss-ela:W.6.7",
+    "ccss-ela:W.8.5",
+    "ccss-ela:W.6.8",
+    "ccss-ela:W.6.2",
+    "uk-nc-2013:KS3-ENG-W-2c",
+    "ccss-ela:W.8.2.c"
+  ],
+  "skills_tested": [
+    "writing_composition"
+  ],
+  "lessons": [
+    {
+      "title": "Persuasive Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Persuasive Writing!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write arguments to support claims with clear reasons and relevant evidence — including introducing claims, acknowledging counterclaims, organising reasons logically, maintaining a formal style, and providing a concluding statement",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write an argument essay with a clear claim supported by at least three pieces of evidence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wants to convince you to let them stay up later, can they write down clear reasons and examples to support their case rather than just saying \"because I want to\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Persuasive Writing. Write an argument essay with a clear claim supported by at least three pieces of evidence Acknowledge and respond to a counterclaim rather than ignoring opposing views",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_01"
+    },
+    {
+      "title": "Writing Techniques for Effect",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Writing Techniques for Effect!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Apply growing knowledge of vocabulary, grammar, and text structure to writing — drawing on literary and rhetorical devices from reading (e.g., rhetorical questions, tricolon, anaphora, contrast) to enhance impact",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use a rhetorical question or tricolon deliberately in a persuasive piece and explain the intended effect",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you edits a piece of their writing, do they make choices about word order, sentence structure, or vocabulary to make the writing more powerful or clearer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Writing Techniques for Effect: Use a rhetorical question or tricolon deliberately in a persuasive piece and explain the intended effect Employ varied sentence openings and structures to maintain reader interest across a whole piece",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_02"
+    },
+    {
+      "title": "Research & Source Evaluation",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Research & Source Evaluation!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Summarise and organise material from reading and research — gathering relevant information from multiple sources, assessing credibility, integrating evidence without plagiarising, and supporting ideas with factual detail",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Take notes from multiple sources on a topic and organise them under logical headings",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is preparing for a school project, can they gather notes from several sources and organise them into a logical order before they start writing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Research & Source Evaluation: Take notes from multiple sources on a topic and organise them under logical headings Paraphrase information from a source accurately without copying word-for-word",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_03"
+    },
+    {
+      "title": "Planning, Revising and Editing Writing",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Planning, Revising and Editing Writing! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plan, revise, and edit writing to improve coherence and effectiveness — considering how the writing reflects its intended audience and purpose, amending vocabulary, grammar, and structure, and proofreading for accurate spelling, punctuation, and grammar",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Revise a draft to improve paragraph structure, adding or removing material for coherence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you finishes a first draft, do they go back and make real improvements — not just fixing spelling, but changing sentences or reorganising ideas to make it better?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Planning, Revising and Editing Writing: Revise a draft to improve paragraph structure, adding or removing material for coherence Edit sentence-level issues including word choice, grammar, and punctuation before finalising",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_04"
+    },
+    {
+      "title": "Writing Across Genres",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Writing Across Genres!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write for a range of purposes and audiences beyond narrative — including scripts, poetry, personal and formal letters, notes for talks, and other forms — selecting the appropriate form, register, and conventions for each",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write a formal letter using appropriate layout, salutation, register, and sign-off conventions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write in different styles depending on the task — for example, a persuasive letter, a set of instructions, or a diary entry — and make each one sound appropriate?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Writing Across Genres. Write a formal letter using appropriate layout, salutation, register, and sign-off conventions Compose a script with stage directions, character names, and realistic dialogue",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_05"
+    },
+    {
+      "title": "Writing Character & Dialogue",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Writing Character & Dialogue!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write narratives that develop real or imagined experiences using effective technique — including establishing context and point of view, developing characters through dialogue, pacing, and description, using varied transitions, and providing a reflective conclusion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Open a narrative by establishing setting, point of view, and a hook that engages the reader",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a story, do they use techniques like describing feelings, building suspense, or showing dialogue to make it interesting to read?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Writing Character & Dialogue. Open a narrative by establishing setting, point of view, and a hook that engages the reader Use dialogue, pacing, and descriptive detail to develop characters and advance the plot",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_06"
+    },
+    {
+      "title": "Developed Informational and Explanatory Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Developed Informational and Explanatory Writing? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write informative and explanatory texts that examine a topic and convey ideas clearly — organising information logically with headings and formatting, developing the topic with relevant facts, definitions, details, and quotations, and using precise vocabulary",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Organise an explanatory essay with a clear introduction, logical body paragraphs, and a conclusion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write a clear explanation of how something works — like how a volcano erupts or how bread is made — so that someone who's never learned about it would understand?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Developed Informational and Explanatory Writing: Organise an explanatory essay with a clear introduction, logical body paragraphs, and a conclusion Develop a topic using well-chosen facts, definitions, concrete details, and quotations from sources",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_07"
+    },
+    {
+      "title": "Cohesion and Transitions Across Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Cohesion and Transitions Across Writing. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use varied transitions, cohesive devices, and paragraph-linking strategies to create coherence across a whole piece of writing — including temporal transitions, causal connectives, and techniques for signalling shifts in argument, time, or setting",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use a range of causal and logical connectives (consequently, nevertheless, as a result) appropriately across a discursive essay",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes several paragraphs, do they use linking phrases like \"however,\" \"as a result,\" or \"on the other hand\" to connect ideas smoothly between sections?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Cohesion and Transitions Across Writing: Use a range of causal and logical connectives (consequently, nevertheless, as a result) appropriately across a discursive essay Signal a shift in time or setting within a narrative using a transitional phrase or paragraph break",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_08"
+    },
+    {
+      "title": "Planning Narratives",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Planning Narratives! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plan narrative writing by considering how authors have developed characters and settings, drawing on techniques observed in texts read, heard, or performed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify specific authorial techniques for character development from a mentor text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is about to write a story, do they think ahead about what their main character is like and where the story will take place before they start writing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Planning Narratives: Identify specific authorial techniques for character development from a mentor text Plan a character using techniques such as showing through action borrowed from a studied author",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_09"
+    },
+    {
+      "title": "Research & Note-Taking",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Research & Note-Taking. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Gather relevant information from print and digital sources, summarise or paraphrase information in notes and finished work, and provide a basic bibliography or list of sources",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Take organised notes from multiple sources using own words rather than copying",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is researching a topic for a school project, can they find information from books or websites, put it in their own words, and keep track of where they got it from?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Research & Note-Taking. Take organised notes from multiple sources using own words rather than copying Create a bibliography listing sources used in a research project",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_10"
+    },
+    {
+      "title": "Layout and Formatting in Informational Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Layout and Formatting in Informational Writing. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use layout devices including headings, sub-headings, columns, bullets, and tables to structure text and guide the reader through informational and explanatory writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Organise an informational text using headings and sub-headings to separate sections",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a non-fiction piece — like a guide or an explanation — do they use layout features like headings, bullet points, and columns to help the reader navigate the information easily?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Layout and Formatting in Informational Writing. Organise an informational text using headings and sub-headings to separate sections Present comparative information using a table with clear row and column headers",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_11"
+    },
+    {
+      "title": "Writing a Précis",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Writing a Précis!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Precis longer passages by summarising the main ideas and key information concisely while maintaining the essential meaning and removing non-essential detail",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Reduce a three-paragraph text to a single paragraph capturing all main points",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads a long article about a topic they're studying, can they write a short summary in their own words that captures the key points without copying sentences?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Writing a Précis. Reduce a three-paragraph text to a single paragraph capturing all main points Identify and remove redundant information while preserving essential meaning",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_09_lesson_12"
+    }
+  ],
+  "id": "Reading_unit_09"
+}

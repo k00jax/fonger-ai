@@ -1,0 +1,291 @@
+{
+  "title": "Rainforests",
+  "objective": "Students will explore rainforests concepts including Rainforest Food Webs, Classifying Rainforest Organisms, Rainforest Water Cycle and more.",
+  "standards": [],
+  "skills_tested": [
+    "rainforests"
+  ],
+  "lessons": [
+    {
+      "title": "Rainforest Food Webs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Rainforest Food Webs? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how energy and nutrients flow through a rainforest food web — from plants (producers) to herbivores (primary consumers) to predators (secondary consumers) — and that decomposers like fungi and insects break down dead material on the forest floor, recycling nutrients back into the soil for plants to use again",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Construct a simple rainforest food chain with at least three levels: producer → herbivore → predator",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain a rainforest food chain — like how a fruit tree feeds a monkey, the monkey might be hunted by a jaguar, and when things die, tiny organisms break them down to feed the trees again?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rainforest Food Webs. Construct a simple rainforest food chain with at least three levels: producer → herbivore → predator Explain the role of decomposers in breaking down dead material and returning nutrients to the soil",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_01"
+    },
+    {
+      "title": "Classifying Rainforest Organisms",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Classifying Rainforest Organisms!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Classify rainforest organisms into major groups — mammals (jaguars, monkeys, bats), birds (toucans, macaws, hummingbirds), reptiles (snakes, lizards, caimans), amphibians (tree frogs, poison dart frogs), insects (butterflies, ants, beetles), and plants (trees, epiphytes, ferns) — using observable features to sort them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort at least eight rainforest organisms into correct groups: mammals, birds, reptiles, amphibians, insects, or plants",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at pictures of different rainforest creatures, can they sort them into groups like mammals, birds, reptiles, and insects, and explain why each one belongs in its group?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Classifying Rainforest Organisms. Sort at least eight rainforest organisms into correct groups: mammals, birds, reptiles, amphibians, insects, or plants State the key feature that defines each group (e.g. mammals have fur and feed milk to their young)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_02"
+    },
+    {
+      "title": "Rainforest Water Cycle",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Rainforest Water Cycle! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how the water cycle works in a rainforest — trees absorb water through their roots and release it through their leaves (transpiration), this moisture forms clouds above the canopy, and the clouds produce rain that falls back into the forest — creating a self-sustaining cycle that generates much of the rainforest's own rainfall",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the sequence: trees absorb water → release it through leaves (transpiration) → moisture rises → clouds form → rain falls",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how rainforest trees help make their own rain — by releasing water from their leaves, which forms clouds, which rain back down on the forest?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Rainforest Water Cycle. Describe the sequence: trees absorb water → release it through leaves (transpiration) → moisture rises → clouds form → rain falls Explain that rainforests generate much of their own rainfall through this cycle",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_03"
+    },
+    {
+      "title": "Tropical Rainforest Climate",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Tropical Rainforest Climate. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that rainforests have a tropical climate — consistently hot (25–30°C) with over 2000 mm of rainfall per year — and that this combination of heat and moisture creates ideal conditions for rapid plant growth and extraordinary biodiversity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that tropical rainforests are hot (25–30°C) and wet (over 2000 mm rain per year) all year round",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why rainforests grow so well — that it's the combination of being really hot and really rainy all year round that makes everything grow so fast?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Tropical Rainforest Climate. State that tropical rainforests are hot (25–30°C) and wet (over 2000 mm rain per year) all year round Explain that the constant heat and moisture create ideal growing conditions for plants",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_04"
+    },
+    {
+      "title": "The Amazon Rainforest",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The Amazon Rainforest! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the Amazon is Earth's greatest rainforest — spanning nine countries across South America, containing the world's largest river by water volume, and home to an estimated 10% of all species on Earth including 40,000 plant species, 1,300 bird species, and 3,000 types of fish",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Locate the Amazon rainforest on a map of South America and name at least two countries it spans",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you about the Amazon — that it's the biggest rainforest in the world, spread across nine countries, with more types of animals and plants than almost anywhere else on Earth?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Amazon Rainforest: Locate the Amazon rainforest on a map of South America and name at least two countries it spans State that the Amazon contains the world's largest river by volume and is home to roughly 10% of all species on Earth",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_05"
+    },
+    {
+      "title": "Indigenous Ecological Knowledge",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Indigenous Ecological Knowledge. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that indigenous peoples of the rainforest have developed deep ecological knowledge over thousands of years — using plants for medicine, food, and building materials, practising sustainable farming methods like shifting cultivation, and understanding animal behaviour and forest ecology in ways that modern science is only beginning to appreciate",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give at least two examples of indigenous knowledge, such as using specific plants as medicine or practising sustainable farming",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that indigenous rainforest peoples know an enormous amount about forest plants and animals — like which plants cure illnesses — and that scientists are learning from this knowledge?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Indigenous Ecological Knowledge: Give at least two examples of indigenous knowledge, such as using specific plants as medicine or practising sustainable farming Explain what shifting cultivation is and why it is less harmful to the forest than permanent clearing",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_06"
+    },
+    {
+      "title": "Rainforest Plant Adaptations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Rainforest Plant Adaptations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know how rainforest plants are adapted to their environment — drip-tip leaves channel water off quickly to prevent rot, buttress roots spread wide to support tall trees in thin soil, epiphytes (like orchids and bromeliads) grow on tree branches to reach sunlight without needing soil, and lianas climb trunks to reach the canopy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least three plant adaptations: drip-tip leaves, buttress roots, and epiphytes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why some rainforest trees have huge roots spreading out like wings, or why leaves have pointy tips that water drips off — that these are clever adaptations to life in a hot, wet forest?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rainforest Plant Adaptations: Describe at least three plant adaptations: drip-tip leaves, buttress roots, and epiphytes Explain the purpose of each adaptation (e.g. drip-tips shed water to prevent rot)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_07"
+    },
+    {
+      "title": "Rainforest Animal Survival Tricks",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "rainforests"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Rainforest Animal Survival Tricks! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know how rainforest animals are adapted to their environment — camouflage helps leaf insects and tree frogs hide, bright warning colours (aposematism) signal that poison dart frogs are toxic, prehensile tails let monkeys grip branches, toucans' large beaks help reach distant fruit, and many animals are nocturnal to avoid daytime heat",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe at least three animal adaptations such as camouflage, warning colours, and prehensile tails",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a poison dart frog is so brightly coloured — that it's warning predators it's dangerous — or why a sloth moves so slowly that algae grows on its fur, helping it blend in?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rainforest Animal Survival Tricks. Describe at least three animal adaptations such as camouflage, warning colours, and prehensile tails Explain how each adaptation helps the animal survive (e.g. camouflage hides prey from predators)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_11_lesson_08"
+    }
+  ],
+  "id": "Science_unit_11"
+}

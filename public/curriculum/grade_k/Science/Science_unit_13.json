@@ -1,0 +1,186 @@
+{
+  "title": "Space Exploration",
+  "objective": "Students will explore space exploration concepts including Sun, Moon & Stars, Our Solar System, What Astronauts Do and more.",
+  "standards": [],
+  "skills_tested": [
+    "space_exploration"
+  ],
+  "lessons": [
+    {
+      "title": "Sun, Moon & Stars",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Sun, Moon & Stars. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the Sun, Moon, and stars as objects in the sky and describe basic differences: the Sun gives light and heat during the day, stars are tiny points of light at night, and the Moon can appear in both the day and night sky",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the Sun, Moon, and stars as objects in the sky",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you point out the Sun, Moon, and stars and tell you something simple about each one — like that the Sun gives us light and heat?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Sun, Moon & Stars. Name the Sun, Moon, and stars as objects in the sky State that the Sun appears during the day and gives us light and heat",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_13_lesson_01"
+    },
+    {
+      "title": "Our Solar System",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Our Solar System. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that there are other planets besides Earth and that our group of planets orbiting the Sun is called the solar system — and that space is the vast area beyond Earth's sky",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that Earth is a planet and there are other planets too",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that Earth is one of several planets that go around the Sun, and that this group is called the solar system?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Our Solar System: State that Earth is a planet and there are other planets too Use the term 'solar system' to describe the Sun and the planets that orbit it",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_13_lesson_02"
+    },
+    {
+      "title": "What Astronauts Do",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore What Astronauts Do! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that astronauts are people who travel to space in rockets, that humans have walked on the Moon (Apollo missions), and that astronauts today live and work on the International Space Station",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define an astronaut as a person who travels to space",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you what an astronaut is, and that people have actually walked on the Moon and live on a space station?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What Astronauts Do. Define an astronaut as a person who travels to space State that humans landed on the Moon during the Apollo missions",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_13_lesson_03"
+    },
+    {
+      "title": "Moon Phases",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Moon Phases!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe and describe the Moon's changing shape over about a month, recognising that it goes through a repeating cycle of phases from new moon (invisible) to full moon (complete circle) and back again",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe that the Moon appears to change shape over about a month",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you to look at the Moon several nights in a row, could they notice that it changes shape and describe the pattern?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Moon Phases. Describe that the Moon appears to change shape over about a month Name or draw at least three phases: new moon (dark), half moon, and full moon",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_13_lesson_04"
+    },
+    {
+      "title": "Spotting Constellations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Spotting Constellations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise a few star patterns (constellations) in the night sky, starting with the Big Dipper (the Plough), and understand that the North Star (Polaris) can be found using the Big Dipper",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify or draw the Big Dipper (the Plough) as a pattern of seven stars",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "On a clear night, could you find the Big Dipper in the sky — or draw its shape from memory?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Spotting Constellations. Identify or draw the Big Dipper (the Plough) as a pattern of seven stars Explain that the two end stars of the Big Dipper's bowl point towards the North Star",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_13_lesson_05"
+    }
+  ],
+  "id": "Science_unit_13"
+}

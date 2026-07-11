@@ -1,0 +1,156 @@
+{
+  "title": "Emotional Literacy",
+  "objective": "Students will explore emotional literacy concepts including Emotion Vocabulary, How Emotions Feel in Your Body, Mild to Strong Emotions and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-LO-P2-10",
+    "ib-pyp-pspe:PSPE-ID-CU-P2-3",
+    "ib-pyp-pspe:PSPE-ID-LO-P3-8",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-3"
+  ],
+  "skills_tested": [
+    "emotional_literacy"
+  ],
+  "lessons": [
+    {
+      "title": "Emotion Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Emotion Vocabulary? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a wider vocabulary of emotion words beyond the basics — including frustrated, worried, anxious, embarrassed, jealous, proud, disappointed, grateful, and lonely — and distinguish between similar emotions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use at least five emotion words beyond the basic six in everyday conversation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you doesn't get invited to a classmate's party, can they describe whether they feel disappointed, jealous, lonely, or a mix — rather than just saying 'sad'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Emotion Vocabulary. Use at least five emotion words beyond the basic six in everyday conversation Explain the difference between two similar emotions such as angry and frustrated",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_01_lesson_01"
+    },
+    {
+      "title": "How Emotions Feel in Your Body",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about How Emotions Feel in Your Body!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the connection between emotions and the body — recognising physical signals like butterflies in the stomach (nervous), clenched fists (angry), racing heart (scared or excited), and tight shoulders (stressed)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least three body sensations and match them to the emotions they signal",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before a school performance or sports day, can you notice and tell you about the physical feelings in their body — like butterflies in their tummy — and connect them to being nervous or excited?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Emotions Feel in Your Body. Name at least three body sensations and match them to the emotions they signal Notice a physical feeling in their own body and identify the emotion behind it",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_01_lesson_02"
+    },
+    {
+      "title": "Mild to Strong Emotions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Mild to Strong Emotions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that emotions come in different intensities — from mild to strong — and that the same emotion can feel very different depending on how intense it is (e.g., annoyed → angry → furious, or nervous → anxious → panicked)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Place three related emotion words in order from mild to strong",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell the difference between being a bit annoyed about losing a game and being truly furious — and explain that they're different levels of the same feeling?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Mild to Strong Emotions. Place three related emotion words in order from mild to strong Rate their own emotion on a simple scale (e.g., 1-5) in a real situation",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_01_lesson_03"
+    },
+    {
+      "title": "Hidden and Masked Feelings",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Hidden and Masked Feelings!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that people sometimes hide or mask their true feelings — smiling when they're actually sad, or saying 'I'm fine' when they're not — and understand why someone might do this",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give an example of a time someone might hide their feelings and explain why",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a friend at school says 'I'm fine' but looks upset and is being very quiet, can you recognise that the friend might not actually be fine?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Hidden and Masked Feelings: Give an example of a time someone might hide their feelings and explain why Identify mismatches between someone's words and their body language",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_01_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_01"
+}

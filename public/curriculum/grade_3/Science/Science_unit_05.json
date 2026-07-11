@@ -1,0 +1,264 @@
+{
+  "title": "Organisms & Life Processes",
+  "objective": "Students will explore organisms & life processes concepts including How animals adapt to environments, Variation & Survival Advantage, Inheritance Vocabulary and more.",
+  "standards": [
+    "uk-nc-2013:Y6.Sci.EI.3",
+    "ngss-k5:3-LS3-1",
+    "uk-nc-2013:Y4.Sci.A.2",
+    "ngss-k5:3-LS4-2",
+    "ngss-k5:3-LS4-3",
+    "uk-nc-2013:Y4.Sci.A.1",
+    "ngss-k5:3-LS3-2"
+  ],
+  "skills_tested": [
+    "organisms_life_processes"
+  ],
+  "lessons": [
+    {
+      "title": "How animals adapt to environments",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about How animals adapt to environments. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify how animals and plants are adapted to suit their environment and understand that adaptation may lead to evolution over time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define adaptation as a feature that helps an organism survive in its environment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a camel's humps, a cactus's thick skin, or a polar bear's white fur help them survive where they live, and how these adaptations developed over time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How animals adapt to environments. Define adaptation as a feature that helps an organism survive in its environment Give at least three examples of adaptations in different organisms and explain how each helps survival",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_05_lesson_01"
+    },
+    {
+      "title": "Variation & Survival Advantage",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Variation & Survival Advantage. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use evidence to explain how variations in characteristics among individuals of the same species may provide advantages in surviving, finding mates, and reproducing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that variation within a species means some individuals have traits better suited to their environment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a faster rabbit in a group might survive longer because it can escape predators better than slower ones?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Variation & Survival Advantage. Explain that variation within a species means some individuals have traits better suited to their environment Give examples of advantageous variations (e.g. camouflage, speed, drought resistance in plants)",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_05_lesson_02"
+    },
+    {
+      "title": "Inheritance Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Inheritance Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use vocabulary for variation and inheritance — inherited characteristic, acquired characteristic, variation, offspring, trait, species, breed, genetic, environment — and apply these when comparing organisms and explaining similarities and differences within and between species",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Distinguish between inherited and acquired characteristics with a correct example of each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why children look similar to but not exactly like their parents — using words like 'inherited' or 'variation'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Inheritance Vocabulary. Distinguish between inherited and acquired characteristics with a correct example of each Use 'variation' correctly to describe differences within a species and explain what causes variation",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_05_lesson_03"
+    },
+    {
+      "title": "Inherited characteristics",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Inherited characteristics? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define inherited traits as characteristics passed from parents to offspring",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measures the height of all the sunflowers in the garden, can they see that they're all sunflowers but each one is a slightly different height?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Inherited characteristics. Define inherited traits as characteristics passed from parents to offspring Collect or interpret data showing variation within a group (e.g. different heights, colours, sizes)",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_05_lesson_04"
+    },
+    {
+      "title": "The Digestive System",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Digestive System!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the simple functions of the basic parts of the human digestive system: mouth, oesophagus, stomach, small intestine, large intestine",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the main organs in order: mouth, oesophagus, stomach, small intestine, large intestine",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you trace the journey of a sandwich through the body — from chewing in the mouth all the way to the intestines?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Digestive System: Name the main organs in order: mouth, oesophagus, stomach, small intestine, large intestine Describe the function of each (mouth chews, stomach breaks down, small intestine absorbs nutrients)",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_05_lesson_05"
+    },
+    {
+      "title": "Types of Teeth",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Types of Teeth!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the different types of human teeth (incisors, canines, molars) and describe their functions in eating",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name three types of teeth: incisors, canines, molars",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you point to different teeth in their mouth and explain that front teeth cut food while back teeth grind it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Types of Teeth. Name three types of teeth: incisors, canines, molars Describe the function of each: incisors cut, canines tear, molars grind",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_05_lesson_06"
+    },
+    {
+      "title": "Traits: inherited and environmental",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Traits: inherited and environmental? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use evidence to support the explanation that traits can be influenced by the environment as well as inheritance",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that traits result from both inheritance and environmental factors",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why two identical seeds might grow into different-sized plants if one gets more sunlight than the other?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Traits: inherited and environmental: Explain that traits result from both inheritance and environmental factors Give examples of environmental influence on traits (e.g. sunlight affects plant growth, diet affects animal size)",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_05_lesson_07"
+    }
+  ],
+  "id": "Science_unit_05"
+}

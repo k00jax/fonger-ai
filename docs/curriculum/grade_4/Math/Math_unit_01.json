@@ -1,0 +1,151 @@
+{
+  "title": "Addition & Subtraction",
+  "objective": "Students will explore addition & subtraction concepts including Adding and subtracting (age 9+), Checking Answers by Rounding, Fluent addition and subtraction (age 9+) and more.",
+  "standards": [],
+  "skills_tested": [
+    "addition_subtraction"
+  ],
+  "lessons": [
+    {
+      "title": "Adding and subtracting (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Adding and subtracting (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve addition and subtraction multi-step problems in contexts, deciding which operations and methods to use and why",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: A school collects 12,450 bottles in Week 1 and 8,372 in Week 2; their target is 25,000 — how many more do they need?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a multi-step problem — like planning a budget where money is added and spent in several steps — can they decide which operations to use at each stage and explain their thinking?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding and subtracting (age 9+): A school collects 12,450 bottles in Week 1 and 8,372 in Week 2; their target is 25,000 — how many more do they need? Choose between mental and written methods for each step and explain why",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_01_lesson_01"
+    },
+    {
+      "title": "Checking Answers by Rounding",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Checking Answers by Rounding? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use rounding to check answers to calculations and determine appropriate levels of accuracy in context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Check 47,832 + 23,156 ≈ 48,000 + 23,000 = 71,000 to verify the exact answer 70,988",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you gets an answer of 4,213 for an addition, can they round the numbers to double-check — like '4,000 + 1,000 ≈ 5,000' — and spot if the answer seems way off?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Checking Answers by Rounding: Check 47,832 + 23,156 ≈ 48,000 + 23,000 = 71,000 to verify the exact answer 70,988 Decide whether to round to the nearest 100 or 1,000 for a given estimation context",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_01_lesson_02"
+    },
+    {
+      "title": "Fluent addition and subtraction (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fluent addition and subtraction (age 9+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently add and subtract whole numbers with more than four digits using the standard columnar algorithm",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate 34,567 + 28,945 using columnar addition",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you accurately add or subtract large numbers — like '23,846 + 14,579' — using the column method, carrying and borrowing correctly however many columns it takes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fluent addition and subtraction (age 9+). Calculate 34,567 + 28,945 using columnar addition Calculate 500,000 − 234,178 using columnar subtraction with multiple exchanges",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_01_lesson_03"
+    },
+    {
+      "title": "Mental addition and subtraction (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Mental addition and subtraction (age 9+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract numbers mentally with increasingly large numbers, using place-value knowledge and derived facts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Mentally calculate 45,000 + 8,000",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out something like '4,700 − 1,300' in their head using what they know about place value — without needing to write it all out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Mental addition and subtraction (age 9+): Mentally calculate 45,000 + 8,000 Mentally subtract 3,200 from 10,000 by counting up",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_01_lesson_04"
+    }
+  ],
+  "id": "Math_unit_01"
+}

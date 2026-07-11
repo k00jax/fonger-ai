@@ -1,0 +1,193 @@
+{
+  "title": "Data & Statistics",
+  "objective": "Students will explore data & statistics concepts including Comparing measurements, Pictograms and tally charts (age 11+), Line graphs (age 10+) and more.",
+  "standards": [
+    "ccss-math:7.SP.3",
+    "uk-nc-2013:KS3.Maths.Stat.1",
+    "ccss-math:7.SP.4",
+    "ccss-math:7.SP.2",
+    "uk-nc-2013:KS3.Maths.Stat.2",
+    "ccss-math:7.SP.1"
+  ],
+  "skills_tested": [
+    "data_statistics"
+  ],
+  "lessons": [
+    {
+      "title": "Comparing measurements",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Comparing measurements! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe, interpret, and compare distributions of a single variable using appropriate measures of central tendency (mean, median, mode) and spread (range), including the effect of outliers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate mean, median, and mode for a data set and explain when each is most appropriate",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had the test scores of a whole class, could they find the mean, median, and range, and explain what each tells you about how the class performed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Comparing measurements: Calculate mean, median, and mode for a data set and explain when each is most appropriate Find the range of a data set and explain how an outlier affects the mean versus the median",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_03_lesson_01"
+    },
+    {
+      "title": "Pictograms and tally charts (age 11+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Pictograms and tally charts (age 11+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct and interpret frequency tables, bar charts, pie charts, pictograms, and vertical line charts for both categorical and grouped numerical data, choosing appropriate representations for the data type",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Construct a grouped frequency table from raw continuous data, choosing appropriate class intervals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you collects data for a project, can they choose the right type of chart to display it — and draw it accurately with correct labels and a suitable scale?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Pictograms and tally charts (age 11+): Construct a grouped frequency table from raw continuous data, choosing appropriate class intervals Draw a pie chart by calculating the angle for each category",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_03_lesson_02"
+    },
+    {
+      "title": "Line graphs (age 10+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Line graphs (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret and construct pie charts and line graphs; use these to solve problems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read values from a line graph showing temperature over a day and identify trends",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read a pie chart — for example, one showing how a family spends its weekly budget — and use it to answer questions and solve problems?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Line graphs (age 10+). Read values from a line graph showing temperature over a day and identify trends Construct a pie chart from given data by calculating sector angles",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_03_lesson_03"
+    },
+    {
+      "title": "Calculating the Mean",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Calculating the Mean? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Calculate and interpret the mean as an average of a data set",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate the mean of five test scores: 72, 85, 90, 68, 95",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If the family scored 6, 8, 7, 5, and 9 on a board game over five rounds, can you work out the mean (average) score?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Calculating the Mean. Calculate the mean of five test scores: 72, 85, 90, 68, 95 Explain what the mean represents and how it differs from individual data values",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_03_lesson_04"
+    },
+    {
+      "title": "Understanding fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Understanding fractions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8); use operations on fractions to solve problems involving data in line plots (e.g. redistribute total equally)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Create a line plot showing lengths measured to the nearest 1/8 inch",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measured the lengths of several objects to the nearest quarter or eighth of an inch and plotted them on a number line, could they use those measurements to work out totals or share amounts equally?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Understanding fractions. Create a line plot showing lengths measured to the nearest 1/8 inch Use the line plot to find the total of all measurements by adding fractions",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_03_lesson_05"
+    }
+  ],
+  "id": "Math_unit_03"
+}

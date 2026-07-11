@@ -1,0 +1,291 @@
+{
+  "title": "Dinosaurs & Paleontology",
+  "objective": "Students will explore dinosaurs & paleontology concepts including Fossils Reveal Ancient Environments, How Fossils Form, Fossilised Dinosaur Dung and more.",
+  "standards": [],
+  "skills_tested": [
+    "dinosaurs_paleontology"
+  ],
+  "lessons": [
+    {
+      "title": "Fossils Reveal Ancient Environments",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fossils Reveal Ancient Environments. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that fossils tell us not only about ancient animals but also about ancient environments — for example, marine fossils found on a mountaintop show that area was once underwater",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Give an example of a fossil that reveals a past environment different from today's",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard that seashell fossils were found on a mountain, could they explain what that tells us about what the area used to be like?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fossils Reveal Ancient Environments. Give an example of a fossil that reveals a past environment different from today's Explain that finding marine fossils inland means that area was once covered by sea",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_01"
+    },
+    {
+      "title": "How Fossils Form",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about How Fossils Form!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain in simple terms how fossils form: an organism dies and is quickly buried in sediment; over millions of years minerals replace the remains and the sediment turns to rock, preserving the shape",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the basic sequence: organism dies, buried in sediment, minerals replace remains over time",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you made a salt-dough fossil at school, could they explain how real fossils form underground over millions of years?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Fossils Form. Describe the basic sequence: organism dies, buried in sediment, minerals replace remains over time Explain why fossilisation is rare — most organisms decompose before being buried",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_02"
+    },
+    {
+      "title": "Fossilised Dinosaur Dung",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fossilised Dinosaur Dung!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe what coprolites are (fossilised dinosaur dung) and how palaeontologists analyse them to discover what dinosaurs ate, including plant fragments, bones, and seeds",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define a coprolite as fossilised dung (animal droppings preserved as rock)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know what a coprolite is? Can they explain — with a giggle — how fossilised poo helps scientists figure out what a dinosaur ate?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fossilised Dinosaur Dung: Define a coprolite as fossilised dung (animal droppings preserved as rock) Explain that scientists cut coprolites open to find plant seeds, bone fragments, or fish scales inside",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_03"
+    },
+    {
+      "title": "Types of Fossils",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Types of Fossils!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish body fossils (preserved bones, teeth, shells) from trace fossils (footprints, trackways, eggs, burrows, coprolites) and explain what each type can tell scientists",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Sort examples into body fossils (bones, teeth, shells) and trace fossils (footprints, eggs, dung)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a dinosaur footprint in rock at a museum, could they explain how it's different from a fossil bone and what scientists can learn from it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Types of Fossils: Sort examples into body fossils (bones, teeth, shells) and trace fossils (footprints, eggs, dung) Explain that body fossils show what an animal looked like physically",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_04"
+    },
+    {
+      "title": "Reading Dinosaur Trackways",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reading Dinosaur Trackways!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use dinosaur trackways (fossilised footprints) to make inferences about a dinosaur's size, speed, and behaviour — widely spaced prints suggest running, closely spaced suggest walking",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that larger footprints generally mean a larger dinosaur",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a line of dinosaur footprints at a museum, could they figure out whether the dinosaur was walking or running based on how far apart the prints are?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reading Dinosaur Trackways. Explain that larger footprints generally mean a larger dinosaur Compare spacing between prints to infer walking versus running",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_05"
+    },
+    {
+      "title": "The Mesozoic Era",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Mesozoic Era!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Place the three periods of the Mesozoic Era — Triassic, Jurassic, and Cretaceous — in order and understand that different dinosaurs lived in different periods, not all at the same time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! List Triassic, Jurassic, and Cretaceous in the correct chronological order",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that T. rex and Stegosaurus didn't actually live at the same time — and can they name the three dinosaur time periods in order?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Mesozoic Era. List Triassic, Jurassic, and Cretaceous in the correct chronological order Assign at least one well-known dinosaur to the correct period",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_06"
+    },
+    {
+      "title": "Dinosaurs Around the World",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Dinosaurs Around the World? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that different dinosaurs lived on different continents and that fossil discoveries around the world show dinosaurs were a global phenomenon, with some species found only in certain regions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that dinosaur fossils have been found on every continent including Antarctica",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you showed you a world map, could they tell you that dinosaur fossils have been found on every continent — and maybe name a place where a famous dinosaur was discovered?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Dinosaurs Around the World. State that dinosaur fossils have been found on every continent including Antarctica Name at least one dinosaur discovery location (e.g. T. rex in North America, Velociraptor in Mongolia)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_07"
+    },
+    {
+      "title": "Mary Anning, Fossil Hunter",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Mary Anning, Fossil Hunter! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know who Mary Anning was — a pioneering fossil hunter from Lyme Regis, England, who discovered ichthyosaur and plesiosaur skeletons in the early 1800s and contributed to our understanding of prehistoric life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that Mary Anning lived in England in the early 1800s and hunted for fossils along the coast",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you heard of Mary Anning? Can they tell you who she was and why she was important to the study of fossils?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Mary Anning, Fossil Hunter: State that Mary Anning lived in England in the early 1800s and hunted for fossils along the coast Name at least one of her major discoveries (ichthyosaur or plesiosaur)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_02_lesson_08"
+    }
+  ],
+  "id": "Science_unit_02"
+}

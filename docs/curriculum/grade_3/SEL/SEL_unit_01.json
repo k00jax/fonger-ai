@@ -1,0 +1,46 @@
+{
+  "title": "Self-Awareness",
+  "objective": "Students will explore self-awareness concepts including Your Impact on Others.",
+  "standards": [],
+  "skills_tested": [
+    "self-awareness"
+  ],
+  "lessons": [
+    {
+      "title": "Your Impact on Others",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "self-awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Your Impact on Others!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Reflect on how your behaviour lands on others — consider not just what you intended but what the actual impact was on the other person",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe how something they said or did affected someone else — e.g. 'When I didn't include them, they looked upset'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you think about how something they said or did might have felt to the other person — not just what they meant by it, but what the impact actually was?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Your Impact on Others. Describe how something they said or did affected someone else — e.g. 'When I didn't include them, they looked upset' Predict what might happen before acting — e.g. 'If I take the last one without asking, they'll feel it's unfair'",
+          "media": {}
+        }
+      ],
+      "id": "3_SEL_unit_01_lesson_01"
+    }
+  ],
+  "id": "SEL_unit_01"
+}

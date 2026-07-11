@@ -1,0 +1,477 @@
+{
+  "title": "Addition & Subtraction",
+  "objective": "Students will explore addition & subtraction concepts including Fluent adding and subtracting within 100, Fluent adding and subtracting within 20, Addition and subtraction within 1000 and more.",
+  "standards": [
+    "ccss-math:2.NBT.7",
+    "ccss-math:2.OA.2",
+    "uk-nc-2013:Ma/KS2/Y4/AS/2",
+    "ccss-math:2.NBT.5",
+    "ccss-math:2.NBT.9",
+    "uk-nc-2013:Ma/KS2/Y3/AS/2",
+    "uk-nc-2013:Ma/KS2/Y3/AS/4",
+    "uk-nc-2013:Ma/KS2/Y3/AS/1b",
+    "uk-nc-2013:Ma/KS2/Y3/AS/3",
+    "uk-nc-2013:Ma/KS2/Y3/AS/1a"
+  ],
+  "skills_tested": [
+    "addition_subtraction"
+  ],
+  "lessons": [
+    {
+      "title": "Fluent adding and subtracting within 100",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fluent adding and subtracting within 100. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Add two-digit numbers within 100 efficiently (e.g. 46 + 37 using place-value partitioning)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you reliably add or subtract two-digit numbers like '68 + 27' or '91 − 45', choosing the best strategy for each problem?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fluent adding and subtracting within 100. Add two-digit numbers within 100 efficiently (e.g. 46 + 37 using place-value partitioning) Subtract two-digit numbers within 100 fluently (e.g. 83 − 25)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_01"
+    },
+    {
+      "title": "Fluent adding and subtracting within 20",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fluent adding and subtracting within 20!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently add and subtract within 20 using mental strategies; know from memory all sums of two one-digit numbers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Answer any single-digit addition fact within 3 seconds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you instantly recall all the single-digit addition facts — like '7 + 8 = 15' — without needing to count or think for more than a second?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fluent adding and subtracting within 20. Answer any single-digit addition fact within 3 seconds Recall subtraction facts within 20 from memory (e.g. 15 − 8 = 7)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_02"
+    },
+    {
+      "title": "Addition and subtraction within 1000",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Addition and subtraction within 1000!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract within 1000 using concrete models, drawings, and strategies based on place value; understand composing and decomposing tens and hundreds",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Add two three-digit numbers using base-ten blocks or drawings, composing a ten or hundred when necessary",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you add or subtract numbers in the hundreds — like '347 + 256' — by thinking about hundreds, tens, and ones separately, or drawing a diagram to help?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Addition and subtraction within 1000: Add two three-digit numbers using base-ten blocks or drawings, composing a ten or hundred when necessary Subtract three-digit numbers, decomposing a ten or hundred when necessary",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_03"
+    },
+    {
+      "title": "Adding and subtracting (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Adding and subtracting (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract numbers with up to three digits using formal written methods of columnar addition and subtraction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Set out a columnar addition correctly with digits aligned by place value",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you set out a sum like '347 + 265' or '512 − 278' in columns and work through it step by step, carrying or borrowing where needed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding and subtracting (age 7+): Set out a columnar addition correctly with digits aligned by place value Carry out columnar subtraction with exchange (borrowing) when needed",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_04"
+    },
+    {
+      "title": "Estimating by rounding",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Estimating by rounding. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Estimate the answer to a calculation and use inverse operations to check answers; apply to increasingly large numbers using rounding and inverse reasoning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Round numbers to the nearest 10 or 100 to estimate a sum or difference before calculating",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before you works out a calculation, can they make a sensible rough guess — and then check their answer using the opposite operation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Estimating by rounding: Round numbers to the nearest 10 or 100 to estimate a sum or difference before calculating Use addition to check a subtraction answer, or vice versa",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_05"
+    },
+    {
+      "title": "Missing number problems (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Missing number problems (age 7+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve addition and subtraction problems including missing-number problems, using number facts, place value, and more complex methods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Solve a missing-number problem such as 245 + ? = 380",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out sums with a hidden number — like '? − 38 = 24' or '53 + ? = 91' — by thinking carefully about what the equation is asking?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Missing number problems (age 7+). Solve a missing-number problem such as 245 + ? = 380 Choose an appropriate method (mental, written, or combination) based on the numbers",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_06"
+    },
+    {
+      "title": "Two-Step Word Problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Two-Step Word Problems? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve one- and two-step word problems within 100 using addition and subtraction, with unknowns in all positions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve a two-step word problem involving adding to and taking from",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a word problem says 'Sam had 78 stickers, gave some away, and now has 45 — how many did he give away?', can you work out which operation to use and find the answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Two-Step Word Problems. Solve a two-step word problem involving adding to and taking from Represent a word problem with an equation using a symbol for the unknown",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_07"
+    },
+    {
+      "title": "Addition and subtraction strategies (age 7+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Addition and subtraction strategies (age 7+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain why addition and subtraction strategies work, using place value and the properties of operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why adding tens and ones separately gives the correct total",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you works out '67 + 24' by splitting it into '60 + 20' and '7 + 4', can they explain to you in words *why* that approach gives the right answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Addition and subtraction strategies (age 7+). Explain why adding tens and ones separately gives the correct total Describe why a compensation strategy works (e.g. 'I added 1 too many, so I subtract 1')",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_08"
+    },
+    {
+      "title": "Numbers on a number line",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Numbers on a number line! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent whole numbers as lengths on a number line and represent sums and differences within 100 on a number line diagram",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Place whole numbers on a number line with equally spaced points",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you mark numbers on a number line and show what happens when they add or subtract — for example, jumping forward 35 places from 48?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Numbers on a number line: Place whole numbers on a number line with equally spaced points Show an addition as a jump forward on the number line (e.g. 38 + 27 shown as jumps)",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_09"
+    },
+    {
+      "title": "Mental addition and subtraction (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Mental addition and subtraction (age 7+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Mentally add and subtract a three-digit number and ones",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 345 + 7 mentally",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out '436 + 7' or '521 − 8' in their head — keeping the hundreds and tens unchanged while adjusting just the ones?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Mental addition and subtraction (age 7+): Calculate 345 + 7 mentally Calculate 462 − 5 mentally",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_10"
+    },
+    {
+      "title": "Adding numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Adding numbers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add up to four two-digit numbers using strategies based on place value and properties of operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Add three or four two-digit numbers by grouping tens and ones",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you add up four two-digit numbers — like '14 + 23 + 32 + 19' — by grouping them cleverly, rather than just plodding through from left to right?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Adding numbers. Add three or four two-digit numbers by grouping tens and ones Look for pairs that make multiples of 10 to simplify addition",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_11"
+    },
+    {
+      "title": "Mentally adding hundreds to 3-digit numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Mentally adding hundreds to 3-digit numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Mentally add and subtract a three-digit number and hundreds",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate 345 + 200 mentally",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '342 + 200' or '756 − 300' in their head — knowing that only the hundreds digit changes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Mentally adding hundreds to 3-digit numbers: Calculate 345 + 200 mentally Calculate 762 − 400 mentally",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_12"
+    },
+    {
+      "title": "Mentally adding tens to 3-digit numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Mentally adding tens to 3-digit numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Mentally add and subtract a three-digit number and tens",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 345 + 40 mentally",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '354 + 40' or '628 − 30' in their head — knowing that only the tens digit changes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Mentally adding tens to 3-digit numbers. Calculate 345 + 40 mentally Calculate 462 − 30 mentally",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_01_lesson_13"
+    }
+  ],
+  "id": "Math_unit_01"
+}

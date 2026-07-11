@@ -1,0 +1,361 @@
+{
+  "title": "Ancient Greece & Rome",
+  "objective": "Students will explore ancient greece & rome concepts including Roman Army and Conquest of Britain, Daily Life in a Roman Town, Athens Versus Sparta and more.",
+  "standards": [],
+  "skills_tested": [
+    "ancient_greece_rome"
+  ],
+  "lessons": [
+    {
+      "title": "Roman Army and Conquest of Britain",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Roman Army and Conquest of Britain!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how the Roman army was organised into legions of highly trained soldiers, how Julius Caesar first raided Britain in 55 BC and Emperor Claudius later conquered it in AD 43, and explain why the Romans wanted to expand their empire — for land, resources, taxes, and glory",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe a Roman legion as a large unit of highly trained, disciplined soldiers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you how the Roman army was organised and explain why the Romans invaded Britain — who came first and who finally conquered it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Roman Army and Conquest of Britain: Describe a Roman legion as a large unit of highly trained, disciplined soldiers Explain that Julius Caesar raided Britain first and Claudius conquered it later",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_01"
+    },
+    {
+      "title": "Daily Life in a Roman Town",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Daily Life in a Roman Town!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe daily life in a Roman town — the forum (marketplace and meeting place), public baths, amphitheatre, and villas — and explain that the Romans were brilliant engineers who built straight roads, aqueducts to carry water, underfloor heating (hypocaust), and Hadrian's Wall to mark the empire's northern frontier in Britain",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least three features of a Roman town such as forum, baths, or amphitheatre",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If your family visited Roman ruins like a bathhouse or Hadrian's Wall, could you explain what they were used for and how the Romans built them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Daily Life in a Roman Town: Describe at least three features of a Roman town such as forum, baths, or amphitheatre Explain what an aqueduct was and why the Romans built them",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_02"
+    },
+    {
+      "title": "Athens Versus Sparta",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Athens Versus Sparta!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare Athens and Sparta as two very different Greek city-states: Athens focused on learning, arts, debate, and democracy, while Sparta focused on military training, discipline, and obedience — and understand that a city-state was a city that ruled itself like a small country",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least two differences between life in Athens and life in Sparta",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you about Athens and Sparta, could they tell you that Athens was famous for thinking and democracy while Sparta was famous for its fierce warriors?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Athens Versus Sparta. Name at least two differences between life in Athens and life in Sparta Explain what a city-state was and why Greek city-states were independent from each other",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_03"
+    },
+    {
+      "title": "Gods & the Parthenon",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Gods & the Parthenon? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name the major Greek gods and their roles — Zeus (king, thunder), Hera (queen, marriage), Athena (wisdom, warfare), Poseidon (sea), Apollo (sun, music), Artemis (hunting, moon), Ares (war), Aphrodite (love), Hermes (messengers), Hephaestus (fire, crafts), Hades (underworld) — and know that the Parthenon in Athens was a grand temple built to honour Athena",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least five Greek gods and say what each was responsible for",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a picture of the Parthenon, could they tell you it was a temple to Athena in Athens and name several other Greek gods and what they were god of?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Gods & the Parthenon. Name at least five Greek gods and say what each was responsible for Describe the Parthenon as a temple to Athena built on the acropolis in Athens",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_04"
+    },
+    {
+      "title": "Athenian Democracy",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Athenian Democracy! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that Athens invented democracy — a system where free male citizens gathered in an Assembly to debate and vote on important decisions for the city — but that women, enslaved people, and foreigners were not allowed to vote",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain what democracy meant in Athens: citizens voted on decisions together",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain that democracy — people voting on decisions — was invented in ancient Athens, but that not everyone was allowed to take part?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Athenian Democracy. Explain what democracy meant in Athens: citizens voted on decisions together Identify who could vote in Athenian democracy (free men born in Athens) and who could not",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_05"
+    },
+    {
+      "title": "Greek Gods with Roman Names",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Greek Gods with Roman Names! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the Romans adopted the Greek gods but gave them new names — Zeus became Jupiter, Hera became Juno, Ares became Mars, Athena became Minerva, Poseidon became Neptune, Aphrodite became Venus — and that this shows how deeply Rome was influenced by Greek culture",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Match at least four Greek gods to their Roman names",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you that the Romans had the same gods as the Greeks but with different names — like Zeus becoming Jupiter and Athena becoming Minerva?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Greek Gods with Roman Names: Match at least four Greek gods to their Roman names Explain that the Romans took Greek gods and gave them Latin names",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_06"
+    },
+    {
+      "title": "Greek theatre",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Greek theatre. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the ancient Greeks invented theatre, performing tragedies and comedies in large open-air amphitheatres with actors wearing masks — and that plays were performed as part of religious festivals honouring the god Dionysus, with audiences of thousands",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that the Greeks invented theatre with two types of plays: tragedies and comedies",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visited an ancient amphitheatre or saw a picture of Greek masks, could they tell you that the Greeks invented theatre and explain why actors wore masks?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Greek theatre. Explain that the Greeks invented theatre with two types of plays: tragedies and comedies Describe how Greek actors wore masks and performed in open-air amphitheatres",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_07"
+    },
+    {
+      "title": "Gladiators & Pompeii",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Gladiators & Pompeii? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that Romans watched gladiators fight in huge arenas like the Colosseum in Rome, that gladiators were usually enslaved people or prisoners trained to fight, and that the city of Pompeii was buried by the eruption of Mount Vesuvius in AD 79, preserving an extraordinary snapshot of Roman daily life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe what gladiators were and where they fought",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you what gladiators were, describe the Colosseum, and explain what happened to the city of Pompeii?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Gladiators & Pompeii: Describe what gladiators were and where they fought Explain that the Colosseum in Rome was a giant arena for public entertainment",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_08"
+    },
+    {
+      "title": "Marathon and Thermopylae",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Marathon and Thermopylae. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the battles of Marathon and Thermopylae as moments when Greek city-states united against the invading Persian Empire — the runner Pheidippides bringing news of victory at Marathon (origin of the marathon race), and the heroic stand of 300 Spartans at Thermopylae — and understand these wars were fought to defend Greek independence",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Retell the story of the Battle of Marathon and the runner Pheidippides",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you about the famous battles of Marathon and Thermopylae, and explain that the Greeks were fighting to defend their freedom against the Persian Empire?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Marathon and Thermopylae. Retell the story of the Battle of Marathon and the runner Pheidippides Describe the Spartan stand at Thermopylae against a much larger Persian army",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_09"
+    },
+    {
+      "title": "Boudicca's Revolt Against Rome",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Boudicca's Revolt Against Rome. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Tell the story of Boudicca, queen of the Iceni tribe, who led a fierce revolt against Roman rule in Britain — burning Colchester, London, and St Albans — before her army was defeated, and understand her significance as a symbol of resistance against a powerful empire",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Retell the story of Boudicca: who she was, why she revolted, what happened",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you who Boudicca was and what happened when she led a revolt against the Romans in Britain?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Boudicca's Revolt Against Rome. Retell the story of Boudicca: who she was, why she revolted, what happened Name at least one town Boudicca's army destroyed during the revolt",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_02_lesson_10"
+    }
+  ],
+  "id": "Social Studies_unit_02"
+}

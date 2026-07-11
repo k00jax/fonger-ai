@@ -1,0 +1,256 @@
+{
+  "title": "Ocean Life",
+  "objective": "Students will explore ocean life concepts including What Is the Ocean?, What Ocean Animals Need, Ocean Animal Variety and more.",
+  "standards": [],
+  "skills_tested": [
+    "ocean_life"
+  ],
+  "lessons": [
+    {
+      "title": "What Is the Ocean?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of What Is the Ocean?!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that oceans are huge bodies of salt water that cover most of Earth's surface, and that the ocean is home to an enormous number of living things",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that oceans cover more of Earth than land does",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you to point to the oceans on a globe, could they show you and explain that most of our planet is covered by salty water where millions of creatures live?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What Is the Ocean?. State that oceans cover more of Earth than land does Explain that ocean water is salty, unlike the fresh water in rivers and lakes",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_08_lesson_01"
+    },
+    {
+      "title": "What Ocean Animals Need",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about What Ocean Animals Need? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that ocean animals need food, shelter, and the right conditions to survive — just like land animals — and that different parts of the ocean provide for different animals' needs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: List basic needs of ocean animals: food, shelter, suitable water conditions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that a clownfish needs a sea anemone for shelter and small creatures to eat, just like a bird needs a tree for a nest and seeds to eat?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about What Ocean Animals Need: List basic needs of ocean animals: food, shelter, suitable water conditions Give an example of how a specific ocean animal meets its needs",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_08_lesson_02"
+    },
+    {
+      "title": "Ocean Animal Variety",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Ocean Animal Variety! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that the ocean is home to an amazing variety of animals — from tiny seahorses and colourful clownfish to enormous whales and sharks — and that ocean animals come in many shapes and sizes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least five different ocean animals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visited an aquarium or watched an ocean documentary, could they name at least five different ocean animals and describe how different they are from each other?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ocean Animal Variety: Name at least five different ocean animals Describe differences in size between small and large ocean creatures",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_08_lesson_03"
+    },
+    {
+      "title": "Ocean Food Chains",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Ocean Food Chains! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe a simple ocean food chain: tiny plants (phytoplankton) are eaten by small animals, which are eaten by bigger fish, which are eaten by top predators like sharks — showing that all ocean life depends on others for food",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe a food chain with at least three levels",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw or describe a chain showing how tiny ocean plants are eaten by small creatures, then by bigger fish, then by a shark — explaining that each animal depends on the one before it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ocean Food Chains. Describe a food chain with at least three levels Identify that ocean food chains start with tiny plants or algae",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_08_lesson_04"
+    },
+    {
+      "title": "Whales & Dolphins Are Mammals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Whales & Dolphins Are Mammals. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that whales and dolphins are mammals, not fish — they breathe air, are warm-blooded, and feed their babies milk — even though they live in the ocean",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that whales and dolphins are mammals, not fish",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a dolphin jumping out of the water, could they explain that dolphins are mammals like us — they breathe air and feed their babies milk — not fish?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Whales & Dolphins Are Mammals. State that whales and dolphins are mammals, not fish Give at least two reasons why: they breathe air and feed babies milk",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_08_lesson_05"
+    },
+    {
+      "title": "Coasts & Beaches",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Coasts & Beaches. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know what a coast or beach is — the place where land meets the ocean — and that different coasts can be sandy, rocky, or muddy, each with different plants and animals",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define a coast as where land meets the ocean",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you visited a sandy beach and then a rocky shore, could they describe how the two coasts look different and name animals you might find at each one?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Coasts & Beaches. Define a coast as where land meets the ocean Describe at least two types of coast: sandy, rocky, or muddy",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_08_lesson_06"
+    },
+    {
+      "title": "Rock Pool Habitats",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Rock Pool Habitats! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore rock pools (tide pools) as small ocean habitats where crabs, anemones, starfish, and small fish can be found, and understand that these creatures are adapted to survive crashing waves and changing water levels",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least three creatures found in rock pools",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you explored a rock pool at the beach, could they point out the creatures living there and explain how they hold on tight or hide in cracks when waves come?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Rock Pool Habitats. Name at least three creatures found in rock pools Describe a rock pool as a small ocean habitat on the shore",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_08_lesson_07"
+    }
+  ],
+  "id": "Science_unit_08"
+}

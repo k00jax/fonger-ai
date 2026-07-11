@@ -1,0 +1,256 @@
+{
+  "title": "Number Representation & Place Value",
+  "objective": "Students will explore number representation & place value concepts including Place Value × 10 Pattern, Reading and writing numbers (age 9+), Negative numbers in context and more.",
+  "standards": [],
+  "skills_tested": [
+    "number_representation_place_value"
+  ],
+  "lessons": [
+    {
+      "title": "Place Value × 10 Pattern",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Place Value × 10 Pattern!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right (e.g. 700 ÷ 70 = 10)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that the 3 in 3,000 is ten times the 3 in 300",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that in 700, the 7 is worth 10 times more than in 70 — because moving one place to the left multiplies the value by 10?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Place Value × 10 Pattern. Explain that the 3 in 3,000 is ten times the 3 in 300 Complete: 700 ÷ 70 = __ and explain using place-value reasoning",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_08_lesson_01"
+    },
+    {
+      "title": "Reading and writing numbers (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reading and writing numbers (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, order, and compare whole numbers up to at least 1,000,000 using base-ten numerals, number names, expanded form, and place-value understanding",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write 403,072 in words and in expanded form",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read and write numbers into the millions — like 1,340,000 — and put a set of large numbers in order correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reading and writing numbers (age 9+): Write 403,072 in words and in expanded form Compare 548,301 and 543,801 using < and explain the reasoning",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_08_lesson_02"
+    },
+    {
+      "title": "Negative numbers in context",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Negative numbers in context!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret negative numbers in context (temperature, sea level, bank balance); count forwards and backwards with positive and negative whole numbers, including through zero",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Place –3, –1, 0, 2, 5 on a number line",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If the temperature drops to −5°C overnight and rises to 3°C by day, can you place both on a number line and say how many degrees warmer the daytime temperature is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Negative numbers in context. Place –3, –1, 0, 2, 5 on a number line The temperature is –4°C and rises by 7 degrees — what is the new temperature?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_08_lesson_03"
+    },
+    {
+      "title": "Rounding Large Numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Rounding Large Numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Round any whole number up to 1,000,000 to the nearest 10, 100, 1,000, 10,000, or 100,000 using place-value understanding",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Round 456,782 to the nearest 10,000 (460,000)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you round a large number like 346,712 to the nearest 1,000 (347,000) or 10,000 (350,000) — identifying which digit to look at for each rounding?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rounding Large Numbers. Round 456,782 to the nearest 10,000 (460,000) Round 950,500 to the nearest 100,000 and explain the boundary case",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_08_lesson_04"
+    },
+    {
+      "title": "Working with Large Numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Working with Large Numbers! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve number and practical problems involving reading, writing, ordering, comparing, and rounding whole numbers up to 1,000,000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. What is the largest six-digit number with digits summing to 15?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is told the population of a city is 2,347,819, can they read that number aloud correctly and say roughly how many millions it is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Working with Large Numbers. What is the largest six-digit number with digits summing to 15? A stadium holds 67,450 people. Round to the nearest thousand for a news report",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_08_lesson_05"
+    },
+    {
+      "title": "Counting forwards and backwards (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Counting forwards and backwards (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count forwards and backwards in steps of powers of 10 (10, 100, 1000, 10,000, 100,000) for any given number up to 1,000,000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Count on in 10,000s from 462,000",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count forwards and backwards in steps of 1,000 or 10,000 from any starting number — like 34,500, 44,500, 54,500 — without losing track?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Counting forwards and backwards (age 9+). Count on in 10,000s from 462,000 Count back in 100,000s from 800,000",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_08_lesson_06"
+    },
+    {
+      "title": "Roman numerals to 1000",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Roman numerals to 1000. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read Roman numerals to 1000 (M) and recognise years written in Roman numerals",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read MCMXCIX as 1999",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read Roman numerals like MMXIX (2019) or CDXLIV (444) — and recognise the year a film or building was made when it's shown in Roman numerals?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Roman numerals to 1000. Read MCMXCIX as 1999 Write 2024 in Roman numerals (MMXXIV)",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_08_lesson_07"
+    }
+  ],
+  "id": "Math_unit_08"
+}

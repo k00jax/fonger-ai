@@ -1,0 +1,226 @@
+{
+  "title": "Energy",
+  "objective": "Students will explore energy concepts including How energy travels around, Reading and drawing circuit diagrams, Speed and energy and more.",
+  "standards": [
+    "ngss-k5:4-PS3-2",
+    "ngss-k5:4-PS3-4",
+    "ngss-k5:4-PS3-3",
+    "ngss-k5:4-PS3-1"
+  ],
+  "skills_tested": [
+    "energy"
+  ],
+  "lessons": [
+    {
+      "title": "How energy travels around",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore How energy travels around! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe and provide evidence that energy can be transferred from place to place by sound, light, heat, and electric currents",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Give at least one example of energy transfer by each: sound, light, heat, electric current",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you give examples of how energy moves around — like heat from a radiator warming a room, light from a lamp reaching your eyes, or electricity flowing through a wire?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How energy travels around. Give at least one example of energy transfer by each: sound, light, heat, electric current Explain that energy moves from a source to a destination through these means",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_05_lesson_01"
+    },
+    {
+      "title": "Reading and drawing circuit diagrams",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reading and drawing circuit diagrams! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw and read simple circuit diagrams using standard symbols for cells, bulbs, switches, buzzers, and wires; identify whether a circuit is complete or broken from a diagram; match circuit diagrams to physical circuits",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Draw a circuit diagram for a cell, switch, and bulb using standard symbols",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a circuit diagram with symbols for a battery, switch, and light bulb, can they tell you whether the bulb would light up — and draw the diagram for a simple circuit you describe?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reading and drawing circuit diagrams. Draw a circuit diagram for a cell, switch, and bulb using standard symbols Identify from a diagram whether a switch is open or closed and predict whether the bulb lights",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_05_lesson_02"
+    },
+    {
+      "title": "Speed and energy",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Speed and energy! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use evidence to construct an explanation relating the speed of an object to the energy of that object",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that a moving object has energy, and the faster it moves the more energy it has",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a fast-moving ball knocks down more skittles than a slow one, using the idea that faster things have more energy?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Speed and energy. Explain that a moving object has energy, and the faster it moves the more energy it has Provide evidence from observations (e.g. faster ball causes more damage/movement)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_05_lesson_03"
+    },
+    {
+      "title": "Circuit vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Circuit vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use technical vocabulary for electrical circuits — circuit, component, cell, battery, current, voltage, resistance, conductor, insulator, switch, series circuit, parallel circuit — and apply these when describing, drawing, and designing working circuits",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use 'series' and 'parallel' correctly to describe two different circuit configurations and explain the key difference",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know the difference between a series circuit and a parallel circuit — not just which one, but what actually makes them different electrically?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Circuit vocabulary. Use 'series' and 'parallel' correctly to describe two different circuit configurations and explain the key difference Apply 'current', 'voltage', and 'resistance' correctly in a written description of how a circuit works",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_05_lesson_04"
+    },
+    {
+      "title": "Building an energy-converting device",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Building an energy-converting device!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Apply scientific ideas to design, test, and refine a device that converts energy from one form to another",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Design a device that converts one form of energy to another (e.g. electrical to light, kinetic to sound)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you design and build a simple device — like a rubber-band car or a solar oven — that changes energy from one form to another?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Building an energy-converting device. Design a device that converts one form of energy to another (e.g. electrical to light, kinetic to sound) Build, test, and identify what works well and what needs improvement",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_05_lesson_05"
+    },
+    {
+      "title": "What happens when things collide",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about What happens when things collide? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ask questions and predict outcomes about the changes in energy that occur when objects collide",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Predict the outcome of a collision based on the speeds and sizes of the objects",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you rolls two balls towards each other, can they predict what will happen when they hit and explain that energy transfers between them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What happens when things collide. Predict the outcome of a collision based on the speeds and sizes of the objects Explain that energy transfers from one object to another during a collision",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_05_lesson_06"
+    }
+  ],
+  "id": "Science_unit_05"
+}

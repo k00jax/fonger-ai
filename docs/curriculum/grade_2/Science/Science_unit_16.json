@@ -1,0 +1,291 @@
+{
+  "title": "Volcanoes & Earthquakes",
+  "objective": "Students will explore volcanoes & earthquakes concepts including Ring of Fire, Earth's Layers, Why Earthquakes Happen and more.",
+  "standards": [],
+  "skills_tested": [
+    "volcanoes_earthquakes"
+  ],
+  "lessons": [
+    {
+      "title": "Ring of Fire",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Ring of Fire!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that volcanoes and earthquakes tend to happen in certain places — especially around the edges of the Pacific Ocean (Ring of Fire) — not randomly across the Earth",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the pattern that volcanoes and earthquakes cluster in certain zones",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at a world map showing where earthquakes and volcanoes happen, could they spot the pattern — that they cluster in certain lines and bands rather than being scattered everywhere?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Ring of Fire. Describe the pattern that volcanoes and earthquakes cluster in certain zones Locate the Ring of Fire on a world map",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_01"
+    },
+    {
+      "title": "Earth's Layers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Earth's Layers? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that Earth has layers — a thin outer crust, a thick hot mantle, and a core at the centre — and that the inside of the Earth is extremely hot",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name Earth's three main layers: crust, mantle, and core",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you cracks open a hard-boiled egg, can they compare it to Earth and name the three layers — crust on the outside, mantle in the middle, and core at the centre?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Earth's Layers. Name Earth's three main layers: crust, mantle, and core Explain that the crust is thin compared to the other layers",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_02"
+    },
+    {
+      "title": "Why Earthquakes Happen",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Why Earthquakes Happen!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that earthquakes happen when rocks underground suddenly move or break, releasing energy that shakes the ground",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that earthquakes are caused by rocks underground suddenly moving",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you felt a small tremor or saw footage of an earthquake, could they explain that it happens because rocks deep underground suddenly shift or crack?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Why Earthquakes Happen. Explain that earthquakes are caused by rocks underground suddenly moving Describe how this movement sends shaking through the surrounding ground",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_03"
+    },
+    {
+      "title": "Types of Rock",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Types of Rock? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the three main types of rock — igneous (formed when lava or magma cools), sedimentary (formed from layers pressed together), and metamorphic — and that fossils are found in sedimentary rock",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the three main rock types: igneous, sedimentary, metamorphic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you finds different rocks on a beach walk, can they sort them and explain that some formed from cooled lava, some from layers pressed together over time, and that fossils are found in the layered ones?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Types of Rock. Name the three main rock types: igneous, sedimentary, metamorphic Explain that igneous rock forms when lava or magma cools and hardens",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_04"
+    },
+    {
+      "title": "Inside a Volcano",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Inside a Volcano. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the inside of a volcano: magma is hot melted rock underground, lava is the same material after it reaches the surface, and volcanoes have a magma chamber, vent, and crater",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that magma is melted rock underground and lava is the same material above ground",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at a cross-section diagram of a volcano, can they point to the magma chamber, vent, and crater, and explain the difference between magma underground and lava on the surface?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Inside a Volcano. Explain that magma is melted rock underground and lava is the same material above ground Label a magma chamber, vent, and crater on a volcano cross-section",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_05"
+    },
+    {
+      "title": "Active, Dormant & Extinct",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Active, Dormant & Extinct. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Classify volcanoes as active (could erupt any time), dormant (sleeping but could wake up), or extinct (will not erupt again)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define active, dormant, and extinct volcanoes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you told you about a volcano that last erupted 500 years ago, could they explain whether it's active, dormant, or extinct, and why a dormant volcano might still be dangerous?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Active, Dormant & Extinct: Define active, dormant, and extinct volcanoes Explain that a dormant volcano is not safe just because it has not erupted recently",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_06"
+    },
+    {
+      "title": "Pompeii & Vesuvius",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Pompeii & Vesuvius. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the story of Pompeii: a Roman city buried by the eruption of Mount Vesuvius in 79 AD, preserved under volcanic ash, and rediscovered by archaeologists centuries later",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Retell the key events: Vesuvius erupted, Pompeii was buried under ash",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a picture of the ruins of Pompeii, can they tell the story of how a Roman city was buried by a volcanic eruption and then found again hundreds of years later?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Pompeii & Vesuvius: Retell the key events: Vesuvius erupted, Pompeii was buried under ash Explain that the ash preserved the city, its buildings, and even people's shapes",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_07"
+    },
+    {
+      "title": "Tsunamis",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Tsunamis!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know what a tsunami is: a very large, fast ocean wave caused by an earthquake or volcanic eruption under the sea, which can cause great damage when it reaches land",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that a tsunami is caused by an earthquake or eruption under the sea",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hears the word 'tsunami' on the news, can they explain that it's a huge wave caused by an earthquake or eruption under the ocean, and that it can travel very fast across the sea?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Tsunamis: Explain that a tsunami is caused by an earthquake or eruption under the sea State that tsunamis travel very fast across the ocean",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_16_lesson_08"
+    }
+  ],
+  "id": "Science_unit_16"
+}

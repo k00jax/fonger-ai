@@ -1,0 +1,155 @@
+{
+  "title": "Ecosystems & Habitats",
+  "objective": "Students will explore ecosystems & habitats concepts including Plants and animals in their habitats, Reducing Human Impact.",
+  "standards": [
+    "ngss-k5:K-ESS3-3",
+    "ngss-k5:K-ESS3-1"
+  ],
+  "skills_tested": [
+    "ecosystems_habitats",
+    "energy"
+  ],
+  "lessons": [
+    {
+      "title": "Plants and animals in their habitats",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Plants and animals in their habitats! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a model to represent the relationship between the needs of different plants and animals and the places they live, connecting organism needs to habitat features",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use a simple model (drawing, diagram) to show how a habitat provides what an organism needs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a fish needs to live in water but a cactus can live in a desert, by matching what each living thing needs to where it lives?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Plants and animals in their habitats: Use a simple model (drawing, diagram) to show how a habitat provides what an organism needs Match at least three organisms to their habitats and explain why each needs that specific place",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_04_lesson_01"
+    },
+    {
+      "title": "Reducing Human Impact",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reducing Human Impact! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Communicate solutions that will reduce the impact of humans on the land, water, air, and other living things in the local environment",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify at least three ways humans negatively impact the local environment (litter, pollution, habitat destruction)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you suggest ways people can help the environment — like recycling, not littering, saving water, or planting trees?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reducing Human Impact. Identify at least three ways humans negatively impact the local environment (litter, pollution, habitat destruction) Propose at least three solutions to reduce human impact (recycling, reducing waste, conserving water, planting trees)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_04_lesson_02"
+    },
+    {
+      "title": "Sunlight warms things up",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Sunlight warms things up? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make observations to determine the effect of sunlight on Earth's surface, noticing that sunlight warms the ground, water, and objects",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Observe that surfaces in sunlight feel warmer than those in shade",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you feel the difference between a sunny pavement and a shady one, and explain that sunlight warms up surfaces it shines on?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Sunlight warms things up. Observe that surfaces in sunlight feel warmer than those in shade Describe that sunlight provides warmth (heat energy) to Earth's surface",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_04_lesson_03"
+    },
+    {
+      "title": "Building shade from the sun",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Building shade from the sun!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use tools and materials to design and build a structure that will reduce the warming effect of sunlight on an area, such as a shade or shelter",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Design a structure intended to reduce the warming effect of sunlight on an area",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you design and build a simple shade — like an umbrella or canopy — and test whether it keeps an area cooler in the sun?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Building shade from the sun. Design a structure intended to reduce the warming effect of sunlight on an area Build the structure using available materials and test whether it reduces temperature",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_04_lesson_04"
+    }
+  ],
+  "id": "Science_unit_04"
+}

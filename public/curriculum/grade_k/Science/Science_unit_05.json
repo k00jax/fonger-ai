@@ -1,0 +1,119 @@
+{
+  "title": "Forces & Motion",
+  "objective": "Students will explore forces & motion concepts including Pushes & Pulls, Forces Vocabulary, Testing Push & Pull Designs.",
+  "standards": [
+    "ngss-k5:K-PS2-1",
+    "ngss-k5:K-PS2-2"
+  ],
+  "skills_tested": [
+    "forces_motion"
+  ],
+  "lessons": [
+    {
+      "title": "Pushes & Pulls",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Pushes & Pulls? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that pushes and pulls are forces that can change the speed or direction of an object's motion, and compare the effects of different strengths and directions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe a push and a pull as types of force that make objects move, speed up, slow down, or change direction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that pushing a toy car harder makes it go faster, and pushing it sideways makes it change direction?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Pushes & Pulls. Describe a push and a pull as types of force that make objects move, speed up, slow down, or change direction Compare the effects of a gentle push versus a strong push on the same object",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_05_lesson_01"
+    },
+    {
+      "title": "Forces Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Forces Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and describe forces using precise vocabulary — force, push, pull, twist, stretch, squash, contact force, non-contact force, gravity, weight, friction, air resistance, upthrust — and distinguish between forces that require physical contact and forces that act at a distance",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Correctly name the force acting in at least five given scenarios (e.g. 'friction slows the sledge', 'gravity pulls the apple')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you slides down a slide and slows near the bottom, can they name the force responsible and spell it correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Forces Vocabulary: Correctly name the force acting in at least five given scenarios (e.g. 'friction slows the sledge', 'gravity pulls the apple') Distinguish between contact forces (friction, upthrust) and non-contact forces (gravity, magnetism) using the correct terms",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_05_lesson_02"
+    },
+    {
+      "title": "Testing Push & Pull Designs",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "forces_motion"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Testing Push & Pull Designs. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse data to determine if a design solution works as intended to change the speed or direction of an object with a push or pull",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Test a simple design (e.g. ramp, launcher) and collect data on whether it meets the goal",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you builds a ramp to make a ball go into a cup, can they test it and figure out what to change if the ball misses?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Testing Push & Pull Designs. Test a simple design (e.g. ramp, launcher) and collect data on whether it meets the goal Analyse results to determine if the design works as intended",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_05_lesson_03"
+    }
+  ],
+  "id": "Science_unit_05"
+}

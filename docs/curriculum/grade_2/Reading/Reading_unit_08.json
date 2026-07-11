@@ -1,0 +1,162 @@
+{
+  "title": "Writing Composition",
+  "objective": "Students will explore writing composition concepts including Revising and editing (age 7+), Organising Writing into Paragraphs, Narrative Writing and more.",
+  "standards": [
+    "ccss-ela:W.5.3a",
+    "ccss-ela:W.5.3b",
+    "uk-nc-2013:Eng.UKS2.Write.Comp.3a",
+    "uk-nc-2013:Eng.App2.Y3.Text.2",
+    "uk-nc-2013:Eng.App2.Y3.Text.1",
+    "uk-nc-2013:Eng.UKS2.Write.Comp.3c",
+    "ccss-ela:W.4.3c",
+    "ccss-ela:W.3.3c",
+    "ccss-ela:W.5.3d",
+    "ccss-ela:W.5.5"
+  ],
+  "skills_tested": [
+    "writing_composition"
+  ],
+  "lessons": [
+    {
+      "title": "Revising and editing (age 7+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Revising and editing (age 7+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate and edit writing by assessing effectiveness, proposing changes to grammar and vocabulary for consistency, and proof-reading for spelling, grammar and punctuation errors at Y3-4 level",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read own or a peer's writing aloud and suggest specific improvements to vocabulary or sentence structure",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you revisits a draft piece of writing, can they improve it — changing word choices to be more precise, fixing inconsistent tenses, and correcting spelling and punctuation errors?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Revising and editing (age 7+). Read own or a peer's writing aloud and suggest specific improvements to vocabulary or sentence structure Propose changes to grammar and word choice to improve clarity and consistency across a piece of writing",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_08_lesson_01"
+    },
+    {
+      "title": "Organising Writing into Paragraphs",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Organising Writing into Paragraphs. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Organise writing into paragraphs, grouping related material around a theme, and use simple organisational devices such as headings and sub-headings in non-narrative writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Divide a piece of writing into paragraphs, each focused on one main idea or aspect of the topic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a longer piece — like a report or a story — do they organise it into paragraphs, with related ideas grouped together and, where appropriate, headings to help the reader navigate?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Organising Writing into Paragraphs: Divide a piece of writing into paragraphs, each focused on one main idea or aspect of the topic Use headings and sub-headings to organise a non-fiction text (e.g., a report about animals with sections 'Habitat', 'Diet', 'Appearance')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_08_lesson_02"
+    },
+    {
+      "title": "Narrative Writing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Narrative Writing!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write narratives with developed settings, characters and plot, using dialogue and description to develop experiences and show character responses to situations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write a narrative that includes a described setting, at least one developed character, and a clear plot with a problem and resolution",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a story, do they bring it to life with descriptions of the setting, details about the characters, and some dialogue — rather than just listing what happened?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Narrative Writing. Write a narrative that includes a described setting, at least one developed character, and a clear plot with a problem and resolution Use dialogue to show what characters say and reveal their personality or feelings",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_08_lesson_03"
+    },
+    {
+      "title": "Rehearsing and Varying Sentences",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Rehearsing and Varying Sentences. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose and rehearse sentences orally before writing, progressively building varied and rich vocabulary and an increasing range of sentence structures including dialogue",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Rehearse a sentence containing dialogue aloud before writing it (e.g. 'Let's go!' shouted Tom)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you try out a sentence aloud before writing it — experimenting with different words and structures to find the version that sounds best?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rehearsing and Varying Sentences. Rehearse a sentence containing dialogue aloud before writing it (e.g. 'Let's go!' shouted Tom) Orally compose sentences with varied openers (e.g. time adverbials, subordinate clauses) before writing",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_08_lesson_04"
+    }
+  ],
+  "id": "Reading_unit_08"
+}

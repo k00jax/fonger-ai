@@ -1,0 +1,232 @@
+{
+  "title": "Spelling & Word Study",
+  "objective": "Students will explore spelling & word study concepts including Spelling Word Lists (age 9+), Homophones (age 9+), Advanced Spelling Conventions and more.",
+  "standards": [
+    "uk-nc-2013:Eng_App1_Sp_Y56_05",
+    "uk-nc-2013:Eng_App1_Sp_Y56_02",
+    "uk-nc-2013:Eng.UKS2.Write.Trans.Spell.3",
+    "uk-nc-2013:Eng.UKS2.Write.VGP.2b",
+    "uk-nc-2013:Eng_App1_Sp_Y56_03",
+    "uk-nc-2013:Eng_App1_Sp_Y56_12",
+    "uk-nc-2013:Eng_App1_Sp_Y56_11",
+    "uk-nc-2013:Eng_App1_Sp_Y56_01",
+    "uk-nc-2013:Eng.UKS2.Write.Trans.Spell.2",
+    "uk-nc-2013:Eng_App1_Sp_Y56_09"
+  ],
+  "skills_tested": [
+    "spelling_word_study"
+  ],
+  "lessons": [
+    {
+      "title": "Spelling Word Lists (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Spelling Word Lists (age 9+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words from the statutory word list for Years 5 and 6, including words with irregular or uncommon spelling patterns that must be learned individually",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Spell high-frequency words from the Y5-6 list accurately in dictated sentences, e.g. accommodate, committee, correspond, exaggerate, immediately, necessary",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spell the challenging words on their school's Year 5 and 6 word list — like \"accommodate,\" \"conscience,\" or \"prejudice\" — from memory when writing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Spelling Word Lists (age 9+). Spell high-frequency words from the Y5-6 list accurately in dictated sentences, e.g. accommodate, committee, correspond, exaggerate, immediately, necessary Use look-cover-write-check and mnemonic strategies to learn words with tricky patterns such as 'separate' (a rat in separate), 'rhythm' (rhythm helps your two hips move)",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_04_lesson_01"
+    },
+    {
+      "title": "Homophones (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Homophones (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish and correctly spell homophones and commonly confused words at Y5-6 level (e.g., affect/effect, practice/practise, advice/advise, complement/compliment, aisle/isle, led/lead), including confused words such as to/too/two and there/their/they're",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Select the correct spelling from a pair of homophones by analysing meaning in context, e.g. 'The doctor's advice (noun) was to practise (verb) daily'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes, do they use the right spelling for commonly mixed-up words — like \"affect\" vs \"effect,\" \"practice\" vs \"practise,\" or \"there,\" \"their,\" and \"they're\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Homophones (age 9+). Select the correct spelling from a pair of homophones by analysing meaning in context, e.g. 'The doctor's advice (noun) was to practise (verb) daily' Spell commonly confused words accurately by applying word-class clues: advise/advice, practise/practice, licence/license (verb ends in -ise, noun ends in -ice)",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_04_lesson_02"
+    },
+    {
+      "title": "Advanced Spelling Conventions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Advanced Spelling Conventions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words using assorted Y5-6 conventions: doubling after -fer when the stress remains (referring but reference), using hyphens to join prefixes to root words (co-ordinate, re-enter), the /iː/ sound spelt ei after c (receive, ceiling), and the letter string ough representing different sounds (though, through, thought, thorough, plough)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Apply the -fer doubling rule: double the r when the syllable is stressed (referring, preferred, transferred) but not when stress shifts (reference, preference)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you correctly spell tricky words like \"receive,\" \"though,\" or \"co-ordinate,\" including knowing when to use a hyphen or the \"-ei\" pattern after \"c\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Advanced Spelling Conventions. Apply the -fer doubling rule: double the r when the syllable is stressed (referring, preferred, transferred) but not when stress shifts (reference, preference) Use hyphens correctly when a prefix ends with the same letter the root begins with (re-enter, co-own) or to avoid ambiguity (re-cover vs recover)",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_04_lesson_03"
+    },
+    {
+      "title": "Silent Letters in Words",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Silent Letters in Words!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words containing silent letters that are remnants of earlier pronunciation or etymology, recognising common silent-letter patterns and using word origins to remember them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify and spell words with silent initial consonants: knight, know, write, wrap, gnaw, psalm, applying knowledge that these letters were once pronounced",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes words that have silent letters — like \"knight,\" \"wrap,\" or \"lamb\" — do they remember to include the silent letter even though you can't hear it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Silent Letters in Words: Identify and spell words with silent initial consonants: knight, know, write, wrap, gnaw, psalm, applying knowledge that these letters were once pronounced Spell words with silent internal letters: doubt (b), island (s), muscle (c), solemn (n), using etymological connections to aid memory (e.g. doubt from Latin dubitare)",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_04_lesson_04"
+    },
+    {
+      "title": "Spelling -able & -ible",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Spelling -able & -ible. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words ending in -able/-ible and the corresponding adverb forms -ably/-ibly, applying patterns to determine which suffix to use based on the root word",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Apply the guideline that -able is typically used with complete root words (enjoyable, comfortable) while -ible is used with incomplete roots (visible, possible), noting key exceptions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you needs to spell a word ending in \"-able\" or \"-ible\" — like \"comfortable\" or \"visible\" — can they choose the right ending and spell it correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Spelling -able & -ible: Apply the guideline that -able is typically used with complete root words (enjoyable, comfortable) while -ible is used with incomplete roots (visible, possible), noting key exceptions Convert -able/-ible adjectives into adverbs by changing the ending to -ably/-ibly, e.g. comfortable → comfortably, possible → possibly, terrible → terribly",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_04_lesson_05"
+    },
+    {
+      "title": "Suffixes (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Suffixes (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words with Latin and French suffix patterns: endings sounding like /ʃəs/ spelt -cious or -tious (e.g., precious, cautious), /ʃəl/ spelt -cial or -tial (e.g., official, essential), and words ending in -ant/-ance/-ancy vs -ent/-ence/-ency (e.g., observant/observance, confident/confidence)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Apply the pattern that -cious follows a vowel (spacious, gracious) while -tious follows a consonant (cautious, ambitious), noting common exceptions like anxious",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spell words with tricky endings like \"-cious,\" \"-tious,\" or \"-cial\" — for example, \"precious,\" \"cautious,\" or \"official\" — without making mistakes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Suffixes (age 9+). Apply the pattern that -cious follows a vowel (spacious, gracious) while -tious follows a consonant (cautious, ambitious), noting common exceptions like anxious Choose between -cial (usually after a vowel: special, official) and -tial (usually after a consonant: essential, partial) when spelling words with the /ʃəl/ ending",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_04_lesson_06"
+    }
+  ],
+  "id": "Reading_unit_04"
+}

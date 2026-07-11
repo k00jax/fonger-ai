@@ -1,0 +1,256 @@
+{
+  "title": "The Human Body",
+  "objective": "Students will explore the human body concepts including Growing Up & Puberty, Healthy Lifestyle Choices, Heart & Blood Circulation and more.",
+  "standards": [],
+  "skills_tested": [
+    "the_human_body"
+  ],
+  "lessons": [
+    {
+      "title": "Growing Up & Puberty",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Growing Up & Puberty!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the stages of human development from birth to old age: baby, toddler, child, adolescent (puberty), young adult, middle-aged adult, elderly — understanding the physical changes that happen at each stage, especially during puberty",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name and order at least six life stages from birth to old age",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe how a person’s body changes as they grow from a baby to an adult to an elderly person — and explain what happens during puberty?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Growing Up & Puberty: Name and order at least six life stages from birth to old age Describe key physical changes during puberty (growth spurts, body shape changes, development of adult features)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_16_lesson_01"
+    },
+    {
+      "title": "Healthy Lifestyle Choices",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Healthy Lifestyle Choices? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how lifestyle choices affect the body’s health: a balanced diet, regular exercise, adequate sleep, and avoiding harmful substances (tobacco, alcohol, drugs) help body systems function well, while poor choices increase the risk of disease",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain how regular exercise strengthens the heart, lungs, and muscles",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how what they eat, how much they exercise, and how much they sleep affects how their body works — and why smoking or drugs are harmful?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Healthy Lifestyle Choices: Explain how regular exercise strengthens the heart, lungs, and muscles Describe how a poor diet high in sugar and fat can lead to obesity, tooth decay, and heart problems",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_16_lesson_02"
+    },
+    {
+      "title": "Heart & Blood Circulation",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Heart & Blood Circulation! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the circulatory system in detail: the heart has four chambers (two atria, two ventricles) that pump blood in a double loop — one to the lungs for oxygen and one to the rest of the body to deliver it — through arteries, veins, and tiny capillaries",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name the four heart chambers and describe the double-loop pathway (heart → lungs → heart → body)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you trace the path blood takes through the heart and body — explaining that it goes to the lungs first for oxygen, then out to the rest of the body?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Heart & Blood Circulation: Name the four heart chambers and describe the double-loop pathway (heart → lungs → heart → body) Distinguish arteries (carry blood away from heart), veins (carry blood back to heart), and capillaries (tiny vessels where exchange happens)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_16_lesson_03"
+    },
+    {
+      "title": "Circulation & Breathing Together",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Circulation & Breathing Together! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how the circulatory and respiratory systems work together: the lungs oxygenate the blood, the heart pumps it around the body, cells use the oxygen and produce carbon dioxide waste, and the blood carries the waste back to the lungs to be breathed out",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the cycle: lungs add oxygen to blood → heart pumps oxygenated blood to body → cells use oxygen → blood returns CO₂ to lungs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why their heart beats faster when they run — and how their heart and lungs are working together to deliver more oxygen to their muscles?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Circulation & Breathing Together. Describe the cycle: lungs add oxygen to blood → heart pumps oxygenated blood to body → cells use oxygen → blood returns CO₂ to lungs Explain why heart rate and breathing rate increase during exercise (muscles need more oxygen)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_16_lesson_04"
+    },
+    {
+      "title": "The Nervous System",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about The Nervous System. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the nervous system has two parts — the central nervous system (brain and spinal cord) and nerves that branch throughout the body — and that nerve signals travel at high speed to coordinate senses, thought, and movement",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the two parts of the nervous system: central (brain + spinal cord) and peripheral (nerves throughout the body)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a message travels from their finger to their brain when they touch something hot, and then back to their hand to pull it away?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Nervous System. Name the two parts of the nervous system: central (brain + spinal cord) and peripheral (nerves throughout the body) Describe the reflex arc: stimulus → sensory nerve → spinal cord/brain → motor nerve → muscle response",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_16_lesson_05"
+    },
+    {
+      "title": "How the Lungs Work",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about How the Lungs Work!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how the respiratory system works in detail: air travels through the nose/mouth, down the trachea, into bronchi and bronchioles, reaching tiny air sacs (alveoli) in the lungs where oxygen passes into the blood and carbon dioxide passes out",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Trace the air pathway: nose/mouth → trachea → bronchi → bronchioles → alveoli",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe what happens to the air they breathe in — how it travels deeper and deeper into the lungs until oxygen swaps into the blood?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How the Lungs Work. Trace the air pathway: nose/mouth → trachea → bronchi → bronchioles → alveoli Explain gas exchange in the alveoli: oxygen passes into blood capillaries, carbon dioxide passes out",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_16_lesson_06"
+    },
+    {
+      "title": "The Immune System",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Immune System!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the body has an immune system that protects against illness: the skin acts as a barrier, white blood cells identify and destroy germs (bacteria and viruses), and vaccines train the immune system to recognise specific diseases before they cause illness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the skin as the body's first line of defence against germs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how their body fights off germs — and why getting a vaccine helps protect them from getting sick?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Immune System: Describe the skin as the body's first line of defence against germs Explain that white blood cells detect and fight bacteria and viruses inside the body",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_16_lesson_07"
+    }
+  ],
+  "id": "Science_unit_16"
+}

@@ -1,0 +1,221 @@
+{
+  "title": "Entrepreneurship",
+  "objective": "Students will explore entrepreneurship concepts including Ethics in Business, Supply Chains, Scaling Up and more.",
+  "standards": [],
+  "skills_tested": [
+    "entrepreneurship"
+  ],
+  "lessons": [
+    {
+      "title": "Ethics in Business",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ethics in Business. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Being honest, being fair, treating workers well, not harming the environment; what makes a 'good' business; whether businesses should care about more than profit",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least two things that make a business ethical (fair wages, honest advertising, environmentally responsible)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard about a company paying its workers very little to make bigger profits, could they explain why that's unfair and suggest a better approach?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ethics in Business. Name at least two things that make a business ethical (fair wages, honest advertising, environmentally responsible) Explain why a business that only cares about profit might cause problems",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_01_lesson_01"
+    },
+    {
+      "title": "Supply Chains",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Supply Chains! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Where products come from before they reach the customer; raw materials, making, transporting, and selling; the journey of a product from start to finish",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Trace the journey of a familiar product (e.g. chocolate bar) from raw material to shop shelf",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you how a chocolate bar gets from a cocoa farm to a shop shelf, could they describe the main steps in the journey?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Supply Chains. Trace the journey of a familiar product (e.g. chocolate bar) from raw material to shop shelf Identify at least three stages in a supply chain",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_01_lesson_02"
+    },
+    {
+      "title": "Scaling Up",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Scaling Up? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What happens when a small business grows; making more products, hiring people, reaching more customers; the challenges and opportunities of scaling",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe what 'scaling up' means for a business",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain what would need to change if their small school-fair business became so popular that lots more people wanted to buy from them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Scaling Up: Describe what 'scaling up' means for a business Identify at least two challenges of growing a business (need more money, more people, more materials)",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_01_lesson_03"
+    },
+    {
+      "title": "Pitching an Idea",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Pitching an Idea. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Presenting a business idea to others convincingly; explaining what makes it good and why people should support it; building confidence in public speaking about ideas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Deliver a 1-2 minute pitch for a business idea covering: what it is, who it helps, and why it's good",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you had to stand up in front of the class and explain a business idea in two minutes, could they do it confidently and persuasively?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Pitching an Idea: Deliver a 1-2 minute pitch for a business idea covering: what it is, who it helps, and why it's good Answer at least two questions about their idea from an audience",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_01_lesson_04"
+    },
+    {
+      "title": "Real Entrepreneurs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Real Entrepreneurs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Stories of real entrepreneurs who started young: Mikaila Ulmer (Me & the Bees), Moziah Bridges (Mo's Bows), Cory Nieves (Mr. Cory's Cookies); what makes someone an entrepreneur",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Retell the story of at least one real entrepreneur who started as a child",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you about a real person who started a business as a kid and explain what qualities helped them succeed?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Real Entrepreneurs: Retell the story of at least one real entrepreneur who started as a child Identify three qualities that helped that entrepreneur succeed (creativity, persistence, passion)",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_01_lesson_05"
+    },
+    {
+      "title": "Social Enterprise",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Social Enterprise!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Using business skills to help others or solve social and environmental problems; making money AND making a difference; examples of social enterprises",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain what a social enterprise is in their own words (a business that helps people or the planet)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you come up with an idea for a business that both makes money and helps people or the environment?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Social Enterprise. Explain what a social enterprise is in their own words (a business that helps people or the planet) Give an example of a real social enterprise or charity shop",
+          "media": {}
+        }
+      ],
+      "id": "4_Life Skills_unit_01_lesson_06"
+    }
+  ],
+  "id": "Life Skills_unit_01"
+}

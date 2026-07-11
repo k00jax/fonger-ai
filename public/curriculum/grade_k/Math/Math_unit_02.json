@@ -1,0 +1,159 @@
+{
+  "title": "Counting & Cardinality",
+  "objective": "Students will explore counting & cardinality concepts including Rote counting to 100, Counting in 2s, Counting objects to 20 and more.",
+  "standards": [
+    "ccss-math:K.CC.5",
+    "ccss-math:K.CC.1",
+    "uk-nc-2013:Maths/Y2/NPV/1",
+    "ccss-math:K.CC.2",
+    "ccss-math:K.CC.7",
+    "uk-nc-2013:Maths/Y1/NPV/1",
+    "uk-nc-2013:Maths/Y1/NPV/2"
+  ],
+  "skills_tested": [
+    "counting_cardinality"
+  ],
+  "lessons": [
+    {
+      "title": "Rote counting to 100",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Rote counting to 100. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Rote count forwards and backwards from 0 to 100, beginning from 0, 1, or any given number, by ones",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Recite the number sequence 1–100 without skipping or repeating",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count out loud all the way from 0 to 100 — and if you say \"start from 47\", can they carry on from there without going back to the beginning?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rote counting to 100. Recite the number sequence 1–100 without skipping or repeating Count backward from 20 to 0",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_02_lesson_01"
+    },
+    {
+      "title": "Counting in 2s",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Counting in 2s! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count in multiples of 2, 5, and 10 (skip counting)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Count 2, 4, 6, 8 … up to at least 20",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is counting socks being paired up, can they skip-count in twos — 2, 4, 6, 8 — all the way to 20? Can they also count up in fives when counting coins, or in tens on a number line?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Counting in 2s: Count 2, 4, 6, 8 … up to at least 20 Count 5, 10, 15, 20 … up to at least 50",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_02_lesson_02"
+    },
+    {
+      "title": "Counting objects to 20",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Counting objects to 20! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count a set of objects to answer 'how many?' for sets up to 20 (arranged in lines, arrays, circles, or scattered)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Accurately count up to 20 objects in a line",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you spread out 15 buttons on the table in a random arrangement and ask you how many there are, can they count them all carefully and give you the right answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Counting objects to 20: Accurately count up to 20 objects in a line Count up to 10 scattered objects without losing track",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_02_lesson_03"
+    },
+    {
+      "title": "Two written numerals between 1 and 10",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "counting_cardinality"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Two written numerals between 1 and 10? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare two written numerals between 1 and 10 to determine which is greater or less",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Given two written numerals (e.g. 4 and 7), identify which is greater",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you write \"3\" and \"8\" on two pieces of paper and ask you which number is bigger, can they get it right — and could they tell you why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Two written numerals between 1 and 10: Given two written numerals (e.g. 4 and 7), identify which is greater Correctly use > and < or 'greater than' / 'less than' to compare single-digit numerals",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_02_lesson_04"
+    }
+  ],
+  "id": "Math_unit_02"
+}

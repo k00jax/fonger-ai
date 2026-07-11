@@ -1,0 +1,431 @@
+{
+  "title": "Geometry",
+  "objective": "Students will explore geometry concepts including Degrees and turns, What Is an Angle?, Measuring angles and more.",
+  "standards": [],
+  "skills_tested": [
+    "geometry"
+  ],
+  "lessons": [
+    {
+      "title": "Degrees and turns",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Degrees and turns. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that angles are measured in degrees, where one degree is 1/360 of a full turn; understand that an angle turning through n one-degree angles has a measure of n degrees",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that a full turn is 360° and a right angle is 90°",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows a full circle is 360 degrees, can they tell you how many degrees a quarter turn is — and explain roughly what one single degree looks like?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Degrees and turns: Explain that a full turn is 360° and a right angle is 90° Describe what 'one degree' means in terms of a fraction of a circle",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_01"
+    },
+    {
+      "title": "What Is an Angle?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of What Is an Angle?!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that an angle is a geometric shape formed by two rays sharing a common endpoint (vertex); recognise angles in real-life contexts and 2-D shapes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify the vertex and arms of an angle in a diagram",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you draw two lines starting from the same point on paper, can you tell you that the space between them is an angle — and point to the vertex where they meet?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What Is an Angle?. Identify the vertex and arms of an angle in a diagram Find examples of angles in the classroom (e.g. open door, clock hands)",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_02"
+    },
+    {
+      "title": "Measuring angles",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Measuring angles! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure angles in whole-number degrees using a protractor; draw given angles and sketch angles of specified measure",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Measure an angle with a protractor and read 47°",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a protractor and an angle drawn on paper, can they measure it accurately and then draw a new angle of a size you specify?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Measuring angles. Measure an angle with a protractor and read 47° Draw an angle of 135° using a protractor",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_03"
+    },
+    {
+      "title": "Lines, Rays & Angles",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Lines, Rays & Angles? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw and identify points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines; identify these in two-dimensional figures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw a pair of perpendicular lines and a pair of parallel lines",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a piece of paper and a ruler, can they draw a line segment, mark a point, and then draw another line through that point that runs perfectly parallel to the first?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Lines, Rays & Angles: Draw a pair of perpendicular lines and a pair of parallel lines Identify all pairs of parallel sides in a trapezoid",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_04"
+    },
+    {
+      "title": "Angle Sum Rules",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Angle Sum Rules!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that angles at a point sum to 360° (one whole turn), angles on a straight line sum to 180°, and vertically opposite angles are equal; use these facts to find missing angles",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that two angles on a straight line add to 180°",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If three angles meet at a point and two of them are 120° and 95°, can you work out the third angle — knowing all the angles at a point add up to 360°?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Angle Sum Rules. State that two angles on a straight line add to 180° Explain that four right angles at a point make 360°",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_05"
+    },
+    {
+      "title": "Regular and irregular polygons",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Regular and irregular polygons!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between regular and irregular polygons based on reasoning about equal sides and equal angles",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Classify a set of polygons as regular or irregular",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you a stop sign (regular octagon) and a wonky eight-sided shape, can they explain which is regular and which is irregular — and why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Regular and irregular polygons: Classify a set of polygons as regular or irregular Explain that a regular pentagon has 5 equal sides and 5 equal angles",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_06"
+    },
+    {
+      "title": "Measuring angles (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Measuring angles (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise angle measure as additive; find unknown angles by adding or subtracting on a diagram using equations with a symbol for the unknown",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Two angles on a straight line are 65° and x°; find x = 115°",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If two angles sit next to each other on a straight line and one is 65°, can you work out the other angle — knowing that angles on a straight line always add up to 180°?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measuring angles (age 9+). Two angles on a straight line are 65° and x°; find x = 115° An angle is decomposed into 35° and 40°; state the whole angle is 75°",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_07"
+    },
+    {
+      "title": "Estimating Angles",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Estimating Angles!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Estimate and compare acute, obtuse, and reflex angles in degrees; classify angles by type and order them by size",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Estimate an angle as approximately 130° and classify it as obtuse",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you three different angles drawn on paper, can they estimate which is biggest, label each as acute, obtuse, or reflex — and then check with a protractor?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Estimating Angles. Estimate an angle as approximately 130° and classify it as obtuse Identify a reflex angle in a diagram and estimate it as about 270°",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_08"
+    },
+    {
+      "title": "Classifying shapes by line properties",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Classifying shapes by line properties!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines, or angles of a specified size; recognise right triangles as a category",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort a set of quadrilaterals into those with parallel sides and those without",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you a mixed set of triangles and quadrilaterals, can they sort them into groups — like \"shapes with at least one right angle\" or \"shapes with parallel sides\" — and explain their reasoning?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Classifying shapes by line properties. Sort a set of quadrilaterals into those with parallel sides and those without Identify which triangles in a set are right triangles",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_09"
+    },
+    {
+      "title": "Understanding angles (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Understanding angles (age 9+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the properties of rectangles to deduce related facts and find missing lengths and angles",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Given one side of a rectangle is 8 cm and the perimeter is 28 cm, find the other side",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows one side of a rectangular garden is 7 m, can they tell you the length of the opposite side and all four corner angles — without measuring?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding angles (age 9+): Given one side of a rectangle is 8 cm and the perimeter is 28 cm, find the other side Explain that all angles in a rectangle are 90°",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_10"
+    },
+    {
+      "title": "3-D shapes (age 9+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of 3-D shapes (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify 3-D shapes, including cubes and other cuboids, from 2-D representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify a cuboid from its net",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you show you a flat architect's sketch of a box or a pyramid, can they tell you the name of the 3-D shape it represents?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about 3-D shapes (age 9+). Identify a cuboid from its net Name the 3-D shape shown in an isometric drawing",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_11"
+    },
+    {
+      "title": "Transformations on a Grid",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Transformations on a Grid!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify, describe, and represent the position of a shape following a reflection or translation using appropriate language; know that the shape has not changed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Reflect a triangle in a vertical mirror line on a coordinate grid and state the new coordinates",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you slides or flips a shape on squared paper, can they describe exactly where it ends up and confirm the shape itself hasn't changed size or angles?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Transformations on a Grid. Reflect a triangle in a vertical mirror line on a coordinate grid and state the new coordinates Translate a shape 3 units right and 2 units up and describe the movement",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_04_lesson_12"
+    }
+  ],
+  "id": "Math_unit_04"
+}

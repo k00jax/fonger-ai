@@ -1,0 +1,126 @@
+{
+  "title": "Speaking & Listening",
+  "objective": "Students will explore speaking & listening concepts including Preparing for and Explaining in Discussions, Reporting & Recounting.",
+  "standards": [
+    "ccss-ela:SL.4.1.d",
+    "ccss-ela:SL.4.4",
+    "ccss-ela:SL.4.1.a",
+    "ccss-ela:SL.4.1.b",
+    "ccss-ela:SL.4.1.c",
+    "ccss-ela:SL.5.1.a",
+    "ccss-ela:SL.5.4",
+    "ccss-ela:SL.4.1"
+  ],
+  "skills_tested": [
+    "speaking_listening",
+    "spelling_word_study"
+  ],
+  "lessons": [
+    {
+      "title": "Preparing for and Explaining in Discussions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Preparing for and Explaining in Discussions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Come to discussions prepared, draw on preparation and known information, and explain ideas in light of the discussion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read assigned material and prepare three discussion points or questions before a group conversation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows they're going to discuss a topic in class, do they think about it beforehand and come ready with ideas or facts to share?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Preparing for and Explaining in Discussions: Read assigned material and prepare three discussion points or questions before a group conversation During discussion, refer explicitly to the text or preparation notes to support a point",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_04_lesson_01"
+    },
+    {
+      "title": "Reporting & Recounting",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reporting & Recounting! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Report on a topic or recount an experience with organised facts and descriptive details, speaking clearly at an understandable pace",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Deliver a one-minute oral report on a chosen topic, including at least three organised facts",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you give a short talk about a topic they've researched — presenting the key facts in a logical order and speaking clearly enough for others to follow?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reporting & Recounting. Deliver a one-minute oral report on a chosen topic, including at least three organised facts Recount a personal experience using descriptive details and a clear beginning, middle, and end",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_04_lesson_02"
+    },
+    {
+      "title": "Spellings from Greek, French and Latin",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Spellings from Greek, French and Latin!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words with etymological letter patterns from Greek (ch = /k/), French (ch = /ʃ/, -gue, -que), and Latin (sc = /s/) origins",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Spell words with Greek ch such as 'scheme', 'chorus', 'chemist', 'echo' and explain the /k/ sound pattern",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that some words have letter patterns from other languages — like \"ch\" making a \"k\" sound in \"school\" or \"chorus\" — and can they spell those words correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Spellings from Greek, French and Latin: Spell words with Greek ch such as 'scheme', 'chorus', 'chemist', 'echo' and explain the /k/ sound pattern Spell words with French ch such as 'chef', 'chalet', 'machine' and -gue/-que endings like 'league', 'unique'",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_04_lesson_03"
+    }
+  ],
+  "id": "Reading_unit_04"
+}

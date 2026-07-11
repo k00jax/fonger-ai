@@ -1,0 +1,335 @@
+{
+  "title": "Geometry",
+  "objective": "Students will explore geometry concepts including 2-D shapes (age 6+), Angles in triangles (age 6+), Position, direction, and movement and more.",
+  "standards": [
+    "uk-nc-2013:Maths/Y2/GPS/4",
+    "uk-nc-2013:Maths/Y2/GPS/3",
+    "uk-nc-2013:Maths/Y2/GPS/2",
+    "ccss-math:1.G.1",
+    "uk-nc-2013:Maths/Y2/GPD/2",
+    "uk-nc-2013:Maths/Y2/GPD/1",
+    "uk-nc-2013:Maths/Y2/GPS/1",
+    "ccss-math:1.G.2"
+  ],
+  "skills_tested": [
+    "geometry"
+  ],
+  "lessons": [
+    {
+      "title": "2-D shapes (age 6+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore 2-D shapes (age 6+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and describe properties of 2-D shapes including the number of sides and line symmetry in a vertical line",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Count the number of sides of a given 2-D shape",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count the sides of a shape and say whether it has a line of symmetry — for example, knowing that a rectangle is symmetrical but a scalene triangle is not?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about 2-D shapes (age 6+). Count the number of sides of a given 2-D shape Identify whether a 2-D shape has a vertical line of symmetry",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_01"
+    },
+    {
+      "title": "Angles in triangles (age 6+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Angles in triangles (age 6+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish defining attributes of shapes (e.g. triangles are closed and three-sided) from non-defining attributes (e.g. colour, orientation, overall size)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Build and draw shapes that possess defining attributes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that what makes a shape a triangle is having 3 sides and 3 corners — not its colour or which way it's pointing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Angles in triangles (age 6+). Build and draw shapes that possess defining attributes Identify that a shape remains a triangle regardless of its size, colour, or orientation",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_02"
+    },
+    {
+      "title": "Position, direction, and movement",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Position, direction, and movement!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use mathematical vocabulary to describe position, direction, and movement, including straight lines and distinguishing rotation as a turn in terms of right angles (quarter, half, three-quarter turns, clockwise and anti-clockwise)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use terms such as clockwise, anti-clockwise, quarter turn, half turn, three-quarter turn",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you follow directions like \"turn clockwise a quarter turn\" or \"move three squares to the right\" on a grid or in a simple navigation game?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Position, direction, and movement. Use terms such as clockwise, anti-clockwise, quarter turn, half turn, three-quarter turn Describe a right angle as a quarter turn",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_03"
+    },
+    {
+      "title": "Edges, vertices, and faces",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Edges, vertices, and faces! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and describe properties of 3-D shapes including the number of edges, vertices, and faces",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Count the edges, vertices, and faces of common 3-D shapes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count the faces, edges, and vertices of a 3-D shape like a cube or triangular prism?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Edges, vertices, and faces. Count the edges, vertices, and faces of common 3-D shapes Use the terms edge, vertex (vertices), and face correctly",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_04"
+    },
+    {
+      "title": "Sorting 2-D and 3-D shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Sorting 2-D and 3-D shapes. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and sort common 2-D and 3-D shapes and everyday objects by their properties",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Sort a collection of 2-D shapes by number of sides",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you sort a collection of shapes into groups — for example, separating all the shapes with curved sides from those with only straight sides?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Sorting 2-D and 3-D shapes: Sort a collection of 2-D shapes by number of sides Sort 3-D shapes by number of faces or whether faces are flat/curved",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_05"
+    },
+    {
+      "title": "Building with 3-D Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Building with 3-D Shapes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose three-dimensional shapes (cubes, right rectangular prisms, right circular cones, right circular cylinders) and create composite shapes; build new shapes from component shapes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Stack cubes and prisms to build towers or structures",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you combine 3-D shapes — like stacking cubes and cylinders — to build a new composite solid?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Building with 3-D Shapes: Stack cubes and prisms to build towers or structures Combine 3-D shapes to make a new solid (e.g. cone on top of cylinder)",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_06"
+    },
+    {
+      "title": "Composing Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Composing Shapes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose two-dimensional shapes (rectangles, squares, trapezoids, triangles, half-circles, quarter-circles) to create composite shapes, and compose new shapes from the composite shape",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Combine two triangles to form a rectangle or larger triangle",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use flat shapes like triangles and rectangles to fit together and make a new larger shape — like a puzzle?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Composing Shapes. Combine two triangles to form a rectangle or larger triangle Put together half-circles and quarter-circles to form circles or new shapes",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_07"
+    },
+    {
+      "title": "2-D faces on 3-D shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore 2-D faces on 3-D shapes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify 2-D shapes on the surface of 3-D shapes (e.g. a circle on a cylinder, a triangle on a pyramid)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Point out a circular face on a cylinder or cone",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at a 3-D shape and name the 2-D shapes on its faces — for example, saying a cylinder has circles on the ends and a rectangle wrapped round the side?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about 2-D faces on 3-D shapes: Point out a circular face on a cylinder or cone Identify triangular faces on a pyramid",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_08"
+    },
+    {
+      "title": "Patterns & Sequences",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Patterns & Sequences!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Order and arrange combinations of mathematical objects in patterns and sequences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Continue a repeating pattern of shapes or colours",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you spot a repeating pattern made of shapes or objects and continue it, or create their own repeating pattern?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Patterns & Sequences. Continue a repeating pattern of shapes or colours Describe the rule for a given sequence of objects",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_05_lesson_09"
+    }
+  ],
+  "id": "Math_unit_05"
+}

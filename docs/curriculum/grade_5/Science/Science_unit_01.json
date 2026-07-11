@@ -1,0 +1,46 @@
+{
+  "title": "Animals of the World",
+  "objective": "Students will explore animals of the world concepts including The Red Queen Hypothesis.",
+  "standards": [],
+  "skills_tested": [
+    "animals_of_the_world"
+  ],
+  "lessons": [
+    {
+      "title": "The Red Queen Hypothesis",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore The Red Queen Hypothesis! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Introduce the Red Queen hypothesis — species must keep evolving just to maintain fitness relative to co-evolving partners; describe predator-prey arms races (cheetah speed vs gazelle speed, bat echolocation vs moth hearing jamming) and parasite-host co-evolution (myxomatosis in rabbits); explain Darwin's hawk moth and orchid as a classic example of mutualistic co-evolution predicting an unknown species; understand that co-evolution is a major driver of biological diversification",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the idea of an evolutionary arms race — how a predator and its prey keep evolving better attack and defence strategies in response to each other, never quite getting ahead?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Red Queen Hypothesis. You now know more about The Red Queen Hypothesis!",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_01_lesson_01"
+    }
+  ],
+  "id": "Science_unit_01"
+}

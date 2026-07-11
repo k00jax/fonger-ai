@@ -1,0 +1,335 @@
+{
+  "title": "Organisms & Life Processes",
+  "objective": "Students will explore organisms & life processes concepts including Life Cycles of Organisms, How Plant Parts Work, Pollination & Seed Dispersal and more.",
+  "standards": [
+    "ngss-k5:2-LS2-2",
+    "ngss-k5:3-LS1-1",
+    "uk-nc-2013:Y3.Sci.A.2",
+    "uk-nc-2013:Y3.Sci.P.3",
+    "uk-nc-2013:Y3.Sci.P.2",
+    "uk-nc-2013:Y3.Sci.P.4",
+    "uk-nc-2013:Y3.Sci.A.1",
+    "uk-nc-2013:Y3.Sci.P.1"
+  ],
+  "skills_tested": [
+    "organisms_life_processes"
+  ],
+  "lessons": [
+    {
+      "title": "Life Cycles of Organisms",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Life Cycles of Organisms? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop models to describe that organisms have unique and diverse life cycles but all share the common stages of birth, growth, reproduction, and death",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the life cycle of at least two different organisms (e.g. butterfly, frog, plant)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you compare the life cycle of a butterfly with that of a frog and explain what stages they all share — being born, growing, having babies, and dying?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Life Cycles of Organisms. Describe the life cycle of at least two different organisms (e.g. butterfly, frog, plant) Identify the common stages all life cycles share: birth, growth, reproduction, death",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_01"
+    },
+    {
+      "title": "How Plant Parts Work",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore How Plant Parts Work! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify and describe the functions of different parts of flowering plants: roots absorb water and nutrients, stems transport materials, leaves make food, flowers enable reproduction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the function of roots (absorb water and minerals from soil)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a flower needs roots underground and leaves up top — what job does each part do?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about How Plant Parts Work: Describe the function of roots (absorb water and minerals from soil) Explain that the stem transports water up and food around the plant",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_02"
+    },
+    {
+      "title": "Pollination & Seed Dispersal",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Pollination & Seed Dispersal. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the life cycle of flowering plants including pollination, seed formation, and seed dispersal",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the stages: pollination → fertilisation → seed formation → seed dispersal",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a flower turns into a fruit with seeds inside, and how those seeds get spread to grow new plants?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Pollination & Seed Dispersal. Describe the stages: pollination → fertilisation → seed formation → seed dispersal Explain at least two methods of seed dispersal (wind, animal, water, explosion)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_03"
+    },
+    {
+      "title": "Animal Nutrition",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Animal Nutrition? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that animals, including humans, need the right types and amounts of nutrition, and that animals cannot make their own food",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the main food groups: carbohydrates, proteins, fats, vitamins, minerals, fibre, water",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why people need to eat different types of food like fruit, protein, and carbohydrates to stay healthy?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Animal Nutrition: Name the main food groups: carbohydrates, proteins, fats, vitamins, minerals, fibre, water Explain that animals get energy from food they eat, unlike plants which make their own",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_04"
+    },
+    {
+      "title": "Animal Classification Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Animal Classification Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use vocabulary for classifying animals and describing life cycles — vertebrate, invertebrate, mammal, bird, reptile, amphibian, fish, insect, arachnid, larva, pupa, metamorphosis, gestation, offspring, complete metamorphosis, incomplete metamorphosis — and apply these correctly when sorting and comparing organisms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Correctly classify a set of animals as vertebrates or invertebrates, then into more specific groups",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know the difference between a vertebrate and an invertebrate — and could they sort a list of animals into the right group?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animal Classification Vocabulary. Correctly classify a set of animals as vertebrates or invertebrates, then into more specific groups Use 'metamorphosis' correctly to describe insect and amphibian life cycles and distinguish complete from incomplete metamorphosis",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_05"
+    },
+    {
+      "title": "Drawing Life Cycle Diagrams",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Drawing Life Cycle Diagrams!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw and interpret life cycle diagrams for flowering plants, insects (complete and incomplete metamorphosis), birds, and mammals — labelling stages, describing transitions, and comparing cycles across species",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw a labelled life cycle diagram for a flowering plant including seed, seedling, mature plant, and flower/fruit",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a blank circular diagram, can they fill in the stages of a butterfly's life cycle in the right order with labels — and explain what changes at each stage?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Drawing Life Cycle Diagrams: Draw a labelled life cycle diagram for a flowering plant including seed, seedling, mature plant, and flower/fruit Compare a butterfly life cycle (complete metamorphosis) with a grasshopper life cycle (incomplete metamorphosis) using diagrams",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_06"
+    },
+    {
+      "title": "Skeletons & Muscles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Skeletons & Muscles? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify that humans and some other animals have skeletons and muscles for support, protection, and movement",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the three functions of the skeleton: support, protection, movement",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why we have a skeleton inside our body and what our muscles do when we bend an arm?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Skeletons & Muscles. Name the three functions of the skeleton: support, protection, movement Identify that muscles are attached to bones and pull to create movement",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_07"
+    },
+    {
+      "title": "What Plants Need to Thrive",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about What Plants Need to Thrive? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore and compare the requirements of plants for life and growth: air, light, water, nutrients from soil, and room to grow",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: List five requirements for plant growth: air, light, water, nutrients, space",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you why a crowded pot of seedlings doesn't grow as well as one with just a few plants?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What Plants Need to Thrive. List five requirements for plant growth: air, light, water, nutrients, space Explain how needs vary between plants (e.g. cacti need less water than ferns)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_08"
+    },
+    {
+      "title": "Water Transport in Plants",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Water Transport in Plants! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Investigate how water is transported within plants, using observations such as coloured water being drawn up through a stem",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe an investigation using coloured water to track water movement in a plant",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you seen a white flower turn a different colour in coloured water and been able to explain that the stem carries water up to the petals?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Water Transport in Plants: Describe an investigation using coloured water to track water movement in a plant Explain that water travels from roots through the stem to the leaves and flowers",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_09_lesson_09"
+    }
+  ],
+  "id": "Science_unit_09"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "English Thinking",
+  "objective": "Students will explore english thinking concepts including Author's word choices, Inference vs Explicit Meaning.",
+  "standards": [],
+  "skills_tested": [
+    "english_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Author's word choices",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "english_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Author's word choices! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise how an author's deliberate choices — of words, structure, tone, and perspective — create particular effects on you as a reader",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: authorial awareness research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a book or article, do they ever notice and comment on why the author chose to write it a certain way — and what effect that has on them as a reader?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Author's word choices: authorial awareness research Understanding Author's Purpose (Firkins)",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_01_lesson_01"
+    },
+    {
+      "title": "Inference vs Explicit Meaning",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "english_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Inference vs Explicit Meaning!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between what a text explicitly says and what you have inferred, assumed, or read in — knowing which is which is fundamental to honest comprehension",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! inference vs literal comprehension development research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you reads a story or article, can they tell you which parts they actually read in the text and which parts they worked out or assumed for themselves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Inference vs Explicit Meaning: inference vs literal comprehension development research online inference making and comprehension monitoring (PMC 2021)",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_01_lesson_02"
+    }
+  ],
+  "id": "Reading_unit_01"
+}

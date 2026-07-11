@@ -1,0 +1,466 @@
+{
+  "title": "Multiplication & Division",
+  "objective": "Students will explore multiplication & division concepts including Long multiplication, Division with remainders, Arrays for multiplication (age 9+) and more.",
+  "standards": [],
+  "skills_tested": [
+    "multiplication_division"
+  ],
+  "lessons": [
+    {
+      "title": "Long multiplication",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Long multiplication? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply a whole number of up to four digits by a one-digit number, and multiply two two-digit numbers, using formal written methods including long multiplication; illustrate with area models",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 2,347 × 6 using formal written layout",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out something like '2,346 × 7' or '43 × 28' using the formal column method — setting it out carefully and working through all the steps?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Long multiplication. Calculate 2,347 × 6 using formal written layout Calculate 34 × 27 using long multiplication",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_01"
+    },
+    {
+      "title": "Division with remainders",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Division with remainders! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve multi-step word problems using the four operations with whole numbers, including interpreting remainders in context; represent with equations using a letter for the unknown; check with estimation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. 52 children go on a trip in minibuses holding 9 each — how many minibuses are needed? (interpret remainder)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads 'a school buys 7 boxes of 24 pens and shares them equally between 8 classes', can they work through all the steps and decide sensibly what to do with any remainder?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Division with remainders. 52 children go on a trip in minibuses holding 9 each — how many minibuses are needed? (interpret remainder) A shop sells packs of 6 pencils for £1.50 each — how much do 5 packs cost?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_02"
+    },
+    {
+      "title": "Arrays for multiplication (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Arrays for multiplication (age 9+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Divide numbers up to four digits by a one-digit number using short division (and place-value/array strategies); interpret remainders appropriately for the context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 4,932 ÷ 6 using short division",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use the short division ('bus stop') method to work out something like '2,457 ÷ 6', and decide what to do with any remainder left over?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Arrays for multiplication (age 9+): Calculate 4,932 ÷ 6 using short division Solve 125 ÷ 8 and interpret: 15 remainder 5 means 15 full bags with 5 left over",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_03"
+    },
+    {
+      "title": "Factors, multiples, and primes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Factors, multiples, and primes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find all factor pairs for a whole number in the range 1–100; identify common factors and common multiples of two numbers; use these concepts to solve problems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. List all factor pairs of 36: (1,36), (2,18), (3,12), (4,9), (6,6)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you list all the factor pairs for a number like 36 — (1, 36), (2, 18), (3, 12), (4, 9), (6, 6) — and find factors that two numbers share?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Factors, multiples, and primes: List all factor pairs of 36: (1,36), (2,18), (3,12), (4,9), (6,6) State the first five multiples of 7",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_04"
+    },
+    {
+      "title": "Multiplying and dividing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Multiplying and dividing. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply and divide whole numbers and those involving decimals by 10, 100, and 1000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 3.45 × 100 = 345",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '4.7 × 100' or '3,600 ÷ 1,000' — knowing that digits shift left or right in the place-value chart depending on whether they're multiplying or dividing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Multiplying and dividing: Calculate 3.45 × 100 = 345 Calculate 72 ÷ 1000 = 0.072",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_05"
+    },
+    {
+      "title": "Multiplicative Comparison",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Multiplicative Comparison? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Interpret a multiplication equation as a comparison (e.g. 35 = 5 × 7 means 35 is 5 times as many as 7); represent verbal statements of multiplicative comparisons as equations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that '4 times as many' means multiply by 4",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at '35 = 5 × 7' and explain it as '35 is five times as many as 7' — understanding it as a comparison, not just a multiplication fact?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Multiplicative Comparison: Explain that '4 times as many' means multiply by 4 Write an equation for: Sarah has 3 times as many stickers as Tom, who has 8 stickers",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_06"
+    },
+    {
+      "title": "Shape patterns",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Shape patterns. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Generate a number or shape pattern that follows a given rule; identify apparent features of the pattern not explicit in the rule and explain informally why they occur",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Given 'start at 1, add 3', generate terms and notice they alternate odd/even",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is told 'start at 3 and multiply by 2 each time', can they write out the pattern — 3, 6, 12, 24, 48 — and spot any interesting features in how it grows?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Shape patterns: Given 'start at 1, add 3', generate terms and notice they alternate odd/even Given a shape pattern, predict the next three terms and describe the rule",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_07"
+    },
+    {
+      "title": "Understanding fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Understanding fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving scaling by simple fractions and problems involving simple rates",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! A recipe for 4 people needs 200 g of flour — how much for 6 people?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe serves 4 and you wants to make it for 6, can they scale up each ingredient — for example, changing '2 cups of flour' to '3 cups'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Understanding fractions. A recipe for 4 people needs 200 g of flour — how much for 6 people? If 3 kg costs £12, how much does 5 kg cost?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_08"
+    },
+    {
+      "title": "Factors, multiples, and primes (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Factors, multiples, and primes (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving multiplication and division using knowledge of factors, multiples, squares, and cubes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Is 156 a multiple of 6? Explain how you know",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked to find all the square numbers less than 100, can they work through it systematically and give you the correct list: 1, 4, 9, 16, 25, 36, 49, 64, 81?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Factors, multiples, and primes (age 9+). Is 156 a multiple of 6? Explain how you know Find two square numbers that add to make 100",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_09"
+    },
+    {
+      "title": "Mental multiplication and division (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Mental multiplication and division (age 9+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply and divide numbers mentally drawing upon known facts, including related facts and place-value adjustments",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 40 × 60 mentally by using 4 × 6 = 24 then appending zeros",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out things like '24 × 5' or '360 ÷ 8' in their head — using clever connections to known facts rather than needing to write anything down?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Mental multiplication and division (age 9+). Calculate 40 × 60 mentally by using 4 × 6 = 24 then appending zeros Derive 7 × 15 by calculating 7 × 10 + 7 × 5",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_10"
+    },
+    {
+      "title": "Prime numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Prime numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of prime numbers, prime factors, and composite numbers; establish whether a number up to 100 is prime; recall prime numbers up to 19",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that a prime number has exactly two factors: 1 and itself",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you what makes a number 'prime' — that it only divides exactly by 1 and itself — and give some examples like 7, 11, and 13?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Prime numbers: Explain that a prime number has exactly two factors: 1 and itself Determine whether 51 is prime or composite and justify the answer",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_11"
+    },
+    {
+      "title": "Multiplicative Comparison",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Multiplicative Comparison!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving multiplicative comparison using drawings and equations with a symbol for the unknown number",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. A blue ribbon is 3 times as long as a red ribbon of 7 cm — how long is the blue ribbon?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you say 'Maya has 4 times as many stickers as Tom, and Tom has 6 — how many does Maya have?', can you recognise this as a multiplication problem and solve it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Multiplicative Comparison. A blue ribbon is 3 times as long as a red ribbon of 7 cm — how long is the blue ribbon? 36 is 4 times a number — what is the number?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_12"
+    },
+    {
+      "title": "Square and cube numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Square and cube numbers? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use square numbers and cube numbers, and the notation for squared (²) and cubed (³)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify 49 as 7² and explain that 7 × 7 = 49",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that '5²' means 5 × 5 = 25 and '3³' means 3 × 3 × 3 = 27 — and can they work out other squared and cubed numbers?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Square and cube numbers: Identify 49 as 7² and explain that 7 × 7 = 49 Calculate 4³ = 64 and explain it means 4 × 4 × 4",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_07_lesson_13"
+    }
+  ],
+  "id": "Math_unit_07"
+}

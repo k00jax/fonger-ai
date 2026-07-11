@@ -4,7 +4,7 @@ const projects = [
   {
     name: 'fonger.ai',
     description:
-      'Personal brand hub. This site you are on. Built with Next.js, static export, and GitHub Pages. 6 pages, password-protected areas, and a swarm dashboard.',
+      'Personal brand hub. This site you are on. Built with Next.js, static export, and GitHub Pages. 8 pages, password-protected areas, and a swarm dashboard.',
     status: 'live',
     link: 'https://fonger.ai',
     tech: ['Next.js', 'GitHub Pages', 'Tailwind CSS'],
@@ -14,9 +14,9 @@ const projects = [
     description:
       'A 45-agent autonomous swarm across 10 departments: Research, Design, Production, Marketing, Operations, Quality, Analytics, Strategy, Director, and Security. Coordinated multi-agent workflows running autonomously.',
     status: 'live',
-    link: '/dashboard/',
-    tech: ['Python', 'Hermes', 'Claude', 'GPT-4o'],
+    link: '/swarm/',
     internal: true,
+    tech: ['Python', 'Hermes', 'Claude', 'GPT-4o'],
   },
   {
     name: 'NakedLeadGen',
@@ -31,7 +31,8 @@ const projects = [
     description:
       'A philosophical wonder-question game. 33 scenarios with XP leveling and badges. Built as an interactive web app that explores the biggest ideas through play.',
     status: 'live',
-    link: null,
+    link: '/questionarium/',
+    internal: true,
     tech: ['Next.js', 'React', 'Tailwind CSS'],
   },
   {
@@ -39,15 +40,15 @@ const projects = [
     description:
       'A Shopify plus Printify print-on-demand pipeline covering 11 niches with roughly 29 products. Automated mockup refresh and order processing.',
     status: 'live',
-    link: null,
+    link: 'https://everyvoicematters.myshopify.com',
     tech: ['Shopify', 'Printify', 'Python', 'Automation'],
   },
   {
-    name: 'Paylocity Sales Hub',
+    name: 'Sales Hub',
     description:
       'An AI sales call assistant that provides real-time guidance during calls, post-call summaries, and CRM integration. Like having a strategist in your ear.',
-    status: 'development',
-    link: null,
+    status: 'live',
+    link: 'https://pay-sales-hub.vercel.app',
     tech: ['Python', 'Whisper', 'GPT-4o', 'CRM API'],
   },
   {
@@ -55,24 +56,8 @@ const projects = [
     description:
       'AI API arbitrage platform. Pay-per-use access to Claude, Gemini, Qwen, and more. Stripe checkout, zero subscriptions. Multi-model chat with usage-based pricing.',
     status: 'live',
-    link: null,
+    link: 'https://aetherchat-silk.vercel.app',
     tech: ['Next.js', 'Stripe', 'Claude API', 'Gemini API'],
-  },
-  {
-    name: 'Payroll Map',
-    description:
-      'Interactive US map of state payroll forms for employers. Visualizes complex payroll compliance requirements across all 50 states.',
-    status: 'live',
-    link: null,
-    tech: ['Next.js', 'D3.js', 'GeoJSON'],
-  },
-  {
-    name: 'FTA Navigator',
-    description:
-      'First Time Assignment navigator. Streamlines the process of setting up new client payroll tax accounts across jurisdictions.',
-    status: 'development',
-    link: null,
-    tech: ['Python', 'Automation', 'Tax API'],
   },
 ];
 
@@ -96,7 +81,6 @@ export default function ProjectsPage() {
   return (
     <div className="min-h-screen pt-24 pb-16 px-4 relative z-10">
       <div className="max-w-5xl mx-auto">
-        {/* Header */}
         <div className="animate-fade-in-up mb-16">
           <p className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">Portfolio</p>
           <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4 tracking-tight">
@@ -107,7 +91,6 @@ export default function ProjectsPage() {
           </p>
         </div>
 
-        {/* Project Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {projects.map((project, i) => (
             <div
@@ -117,18 +100,15 @@ export default function ProjectsPage() {
               }`}
               style={i >= 5 ? { animationDelay: `${(i - 4) * 100}ms` } : undefined}
             >
-              {/* Header row */}
               <div className="flex items-start justify-between mb-4">
                 <h3 className="text-white font-semibold text-lg">{project.name}</h3>
                 <StatusDot status={project.status} />
               </div>
 
-              {/* Description */}
               <p className="text-gray-500 text-sm leading-relaxed mb-5 flex-1">
                 {project.description}
               </p>
 
-              {/* Tech tags */}
               <div className="flex flex-wrap gap-1.5 mb-4">
                 {project.tech.map((tag) => (
                   <span
@@ -140,7 +120,6 @@ export default function ProjectsPage() {
                 ))}
               </div>
 
-              {/* Link */}
               {project.link && (
                 <div className="pt-3 border-t border-[#1f1f1f]">
                   {project.internal ? (
@@ -148,7 +127,7 @@ export default function ProjectsPage() {
                       href={project.link}
                       className="inline-flex items-center gap-1.5 text-xs text-brand-red hover:text-red-400 transition-colors font-medium"
                     >
-                      View Dashboard
+                      Open
                       <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                       </svg>
@@ -172,7 +151,6 @@ export default function ProjectsPage() {
           ))}
         </div>
 
-        {/* Footer note */}
         <div className="mt-16 text-center animate-fade-in-up animate-delay-700">
           <p className="text-gray-600 text-sm">
             More projects in the pipeline. The swarm never sleeps.

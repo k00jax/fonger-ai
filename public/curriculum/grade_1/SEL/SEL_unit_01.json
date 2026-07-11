@@ -1,0 +1,46 @@
+{
+  "title": "Self-Awareness",
+  "objective": "Students will explore self-awareness concepts including Feelings Versus Actions.",
+  "standards": [],
+  "skills_tested": [
+    "self-awareness"
+  ],
+  "lessons": [
+    {
+      "title": "Feelings Versus Actions",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "self-awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Feelings Versus Actions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that feelings and actions are separate — you can feel something strongly without having to act on it straight away",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: emotion regulation development research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that feeling angry, scared, or jealous doesn't mean they have to act on it immediately — that there's a gap between the feeling and what they choose to do next?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Feelings Versus Actions. emotion regulation development research Effects of Age and Gender in Emotion Regulation (PMC 2020)",
+          "media": {}
+        }
+      ],
+      "id": "1_SEL_unit_01_lesson_01"
+    }
+  ],
+  "id": "SEL_unit_01"
+}

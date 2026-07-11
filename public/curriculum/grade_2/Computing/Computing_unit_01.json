@@ -1,0 +1,256 @@
+{
+  "title": "Artificial Intelligence",
+  "objective": "Students will explore artificial intelligence concepts including Data and Information for Computers, Patterns and Classification, Machine Learning Basics and more.",
+  "standards": [],
+  "skills_tested": [
+    "artificial_intelligence"
+  ],
+  "lessons": [
+    {
+      "title": "Data and Information for Computers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Data and Information for Computers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "What data is: information that computers use — numbers, words, pictures, sounds; everything a computer knows comes from data that people give it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define data as information stored in a computer (numbers, text, images, sounds)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain what 'data' means and give examples of data they create every time they use a phone or computer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Data and Information for Computers. Define data as information stored in a computer (numbers, text, images, sounds) Give at least three examples of data they create every day (photos, messages, search queries)",
+          "media": {}
+        }
+      ],
+      "id": "2_Computing_unit_01_lesson_01"
+    },
+    {
+      "title": "Patterns and Classification",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Patterns and Classification. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Humans are great at spotting patterns; computers can learn to spot patterns too, but they need lots of examples; sorting and classification activities as the basis of machine learning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort a set of items into categories and explain the rules they used",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you showed you pictures of cats and dogs, could they explain how a computer could learn to tell them apart — and why it would need many more pictures than a person would?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Patterns and Classification: Sort a set of items into categories and explain the rules they used Explain that computers learn patterns by looking at many examples",
+          "media": {}
+        }
+      ],
+      "id": "2_Computing_unit_01_lesson_02"
+    },
+    {
+      "title": "Machine Learning Basics",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Machine Learning Basics. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How machine learning works at a conceptual level: show the computer many examples, it finds patterns, then it makes predictions about new things; hands-on experience with Teachable Machine or similar tool",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the three steps of machine learning in simple terms (give examples, find patterns, make predictions)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you describe how you teach a computer to recognise something — by showing it lots of examples until it spots the pattern?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Machine Learning Basics: Describe the three steps of machine learning in simple terms (give examples, find patterns, make predictions) Train a simple model using a tool like Teachable Machine and describe what happened",
+          "media": {}
+        }
+      ],
+      "id": "2_Computing_unit_01_lesson_03"
+    },
+    {
+      "title": "AI Mistakes and Limitations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of AI Mistakes and Limitations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Machines make mistakes; they only know what they've been shown; bad training data leads to bad results; AI is not magic — just maths on data; showing edge cases and failures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Give an example of AI making a mistake (voice assistant mishearing, auto-correct error, wrong recommendation)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If an AI incorrectly identified a picture of a muffin as a chihuahua, could you explain why that kind of mistake happens?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about AI Mistakes and Limitations. Give an example of AI making a mistake (voice assistant mishearing, auto-correct error, wrong recommendation) Explain that AI mistakes happen because of gaps or errors in training data",
+          "media": {}
+        }
+      ],
+      "id": "2_Computing_unit_01_lesson_04"
+    },
+    {
+      "title": "Humans Versus Machines",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Humans Versus Machines. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Comparing human and machine capabilities: creativity, empathy, common sense vs speed, memory, repetition; the Turing Test (simplified); what makes humans unique",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least three things humans are better at than computers (creativity, empathy, common sense)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain what humans are still better at than computers and what computers can do that humans can't?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Humans Versus Machines. Name at least three things humans are better at than computers (creativity, empathy, common sense) Name at least three things computers are better at than humans (speed, memory, repetitive tasks)",
+          "media": {}
+        }
+      ],
+      "id": "2_Computing_unit_01_lesson_05"
+    },
+    {
+      "title": "Recommendation Systems and Filter Bubbles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Recommendation Systems and Filter Bubbles? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How recommendation systems work: YouTube, Netflix, and shop websites track what you click and find patterns; filter bubbles; the difference between helpful suggestions and manipulation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain how YouTube or Netflix decides what to suggest next",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand why YouTube keeps suggesting similar videos to ones they've watched, and could they explain how the recommendation system works?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Recommendation Systems and Filter Bubbles: Explain how YouTube or Netflix decides what to suggest next Describe what a 'filter bubble' is (only seeing things similar to what you already like)",
+          "media": {}
+        }
+      ],
+      "id": "2_Computing_unit_01_lesson_06"
+    },
+    {
+      "title": "AI in Computer Games",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "artificial_intelligence"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about AI in Computer Games. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How computer game characters 'decide' what to do; simple rule-based AI vs learning AI; NPCs, difficulty adjustment; AI as the opponent in chess or board games",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain how a computer opponent in a game decides its moves",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you plays a video game against the computer, could they explain how the game's characters 'decide' what to do?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about AI in Computer Games. Explain how a computer opponent in a game decides its moves Describe the difference between a game character that follows fixed rules and one that learns from the player",
+          "media": {}
+        }
+      ],
+      "id": "2_Computing_unit_01_lesson_07"
+    }
+  ],
+  "id": "Computing_unit_01"
+}

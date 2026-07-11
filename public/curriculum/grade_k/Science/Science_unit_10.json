@@ -1,0 +1,291 @@
+{
+  "title": "Polar Regions",
+  "objective": "Students will explore polar regions concepts including Where Are the Poles?, Arctic vs Antarctic, Polar Animals and more.",
+  "standards": [],
+  "skills_tested": [
+    "polar_regions"
+  ],
+  "lessons": [
+    {
+      "title": "Where Are the Poles?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Where Are the Poles?. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that Earth has a North Pole and a South Pole — the two coldest places on the planet — and be able to find them on a globe, understanding that they are at the very top and very bottom of the Earth, as far from the Equator as possible",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Point to the North Pole and South Pole on a globe or world map",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hand you a globe, can they point to the North Pole and the South Pole and tell you they're the coldest places on Earth?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Where Are the Poles?: Point to the North Pole and South Pole on a globe or world map Explain that the poles are the coldest places on Earth because they are farthest from the Equator",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_01"
+    },
+    {
+      "title": "Arctic vs Antarctic",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Arctic vs Antarctic!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the Arctic (North Pole) and Antarctic (South Pole) are very different — the Arctic is a frozen ocean surrounded by land where people and polar bears live, while the Antarctic is a huge ice-covered continent surrounded by ocean where penguins live but no people live permanently",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that the Arctic is a frozen ocean surrounded by land, while the Antarctic is a continent covered in ice surrounded by ocean",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the big difference between the two poles — that the Arctic is frozen sea with land around it, while the Antarctic is a frozen continent with sea around it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Arctic vs Antarctic: State that the Arctic is a frozen ocean surrounded by land, while the Antarctic is a continent covered in ice surrounded by ocean Explain that polar bears live in the Arctic and penguins live in the Antarctic, not the other way around",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_02"
+    },
+    {
+      "title": "Polar Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Polar Animals. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know about other polar animals besides penguins and polar bears — seals that swim under ice, walruses with long tusks, Arctic foxes that turn white in winter, snowy owls, narwhals with their unicorn-like tusk, and whales that migrate to polar waters to feed — and that all these animals have special features to survive extreme cold",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least four polar animals beyond penguins and polar bears, such as seals, walruses, Arctic foxes, snowy owls, or narwhals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you name several animals that live in the freezing polar regions — like walruses, Arctic foxes, snowy owls, or narwhals — and explain how they cope with the cold?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Polar Animals. Name at least four polar animals beyond penguins and polar bears, such as seals, walruses, Arctic foxes, snowy owls, or narwhals Describe one way each named animal survives the cold (e.g. walrus blubber, Arctic fox white winter coat)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_03"
+    },
+    {
+      "title": "Penguins",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Penguins? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know key facts about penguins — they live in the Antarctic and Southern Hemisphere, they cannot fly but are excellent swimmers, Emperor penguins are the largest and huddle together in winter to keep warm, and penguin parents take turns keeping their egg warm on their feet in freezing temperatures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State at least three facts about penguins: they can't fly, they're excellent swimmers, and Emperor penguins are the biggest",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you about penguins — that they can't fly but swim brilliantly, that Emperor penguins huddle in huge groups to stay warm, and that the dad balances the egg on his feet for weeks?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Penguins. State at least three facts about penguins: they can't fly, they're excellent swimmers, and Emperor penguins are the biggest Describe how Emperor penguins huddle together in winter to keep warm",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_04"
+    },
+    {
+      "title": "Polar Bears",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Polar Bears!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know key facts about polar bears — they live only in the Arctic (not the Antarctic), they have thick white fur and a layer of fat (blubber) to keep warm, they are excellent swimmers, and they hunt seals by waiting at holes in the sea ice",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that polar bears live in the Arctic, not the Antarctic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you about polar bears — that they live only in the Arctic, their thick fur and blubber keep them warm, and they hunt seals by waiting patiently at holes in the ice?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Polar Bears: State that polar bears live in the Arctic, not the Antarctic Describe at least two ways polar bears stay warm: thick white fur and a layer of blubber (fat)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_05"
+    },
+    {
+      "title": "Ice & Snow",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ice & Snow. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that water can be solid (ice and snow) or liquid, that snow is made of tiny frozen ice crystals, that icebergs are huge chunks of ice floating in the ocean with most of their bulk hidden underwater, and that ice floats because it is lighter than liquid water",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that ice and snow are frozen water (solid) and that water can change between solid and liquid",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that icebergs are like floating ice mountains with most of the ice hidden under the water — and that the polar regions are covered in ice because it's so cold the water stays frozen?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ice & Snow: Explain that ice and snow are frozen water (solid) and that water can change between solid and liquid Describe an iceberg as a huge piece of ice floating in the ocean with most of it hidden below the surface",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_06"
+    },
+    {
+      "title": "Brave Polar Explorers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Brave Polar Explorers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know simple stories of brave polar explorers — Robert Falcon Scott and Roald Amundsen who raced to the South Pole, and Ernest Shackleton whose ship Endurance was crushed by ice but who brought all his men home safely — and understand that polar exploration required incredible courage and endurance",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least two polar explorers: Scott, Amundsen, or Shackleton",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you the story of explorers who went to the South Pole — like Scott and Amundsen's race, or Shackleton whose ship got trapped in the ice but who saved all his crew?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Brave Polar Explorers: Name at least two polar explorers: Scott, Amundsen, or Shackleton Tell the basic story of Scott and Amundsen's race to the South Pole in simple terms",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_07"
+    },
+    {
+      "title": "Midnight Sun & Polar Night",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Midnight Sun & Polar Night? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that at the poles, daylight and darkness are extreme — in summer the Sun never fully sets (midnight sun) and in winter the Sun never rises (polar night lasting months) — and that this is very different from what we experience at home, where every day has both daylight and darkness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe midnight sun: in polar summer, the Sun stays above the horizon all day and night",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know the amazing fact that at the poles, the Sun doesn't set at all in summer and doesn't rise at all in winter — so there can be months of daylight or months of darkness?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Midnight Sun & Polar Night. Describe midnight sun: in polar summer, the Sun stays above the horizon all day and night Describe polar night: in polar winter, the Sun stays below the horizon for weeks or months",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_10_lesson_08"
+    }
+  ],
+  "id": "Science_unit_10"
+}

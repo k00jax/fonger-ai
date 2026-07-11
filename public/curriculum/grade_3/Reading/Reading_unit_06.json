@@ -1,0 +1,158 @@
+{
+  "title": "Writing Composition",
+  "objective": "Students will explore writing composition concepts including Revising and editing (age 8+), Short Research Projects, Writing Craft Vocabulary and more.",
+  "standards": [
+    "uk-nc-2013:Eng.UKS2.Write.Comp.2a",
+    "ccss-ela:L.4.3b",
+    "ccss-ela:W.5.7",
+    "ccss-ela:W.4.8",
+    "ccss-ela:W.4.7",
+    "ccss-ela:L.4.3a"
+  ],
+  "skills_tested": [
+    "writing_composition"
+  ],
+  "lessons": [
+    {
+      "title": "Revising and editing (age 8+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Revising and editing (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read back your own writing critically and independently — notice where meaning is unclear, where a word could be stronger, or where the reader might be confused; make revisions without needing teacher prompts, using your own judgment about what is and isn't working",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Reread a paragraph silently and independently identify at least one place where meaning could be clearer or a word choice improved",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read back something they've written — a story, a report, a letter — and spot a part that isn't quite right or could be better, all by themselves without you or a teacher pointing it out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Revising and editing (age 8+). Reread a paragraph silently and independently identify at least one place where meaning could be clearer or a word choice improved Make a revision that goes beyond spelling/punctuation — changing a sentence for clarity or effect",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_06_lesson_01"
+    },
+    {
+      "title": "Short Research Projects",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Short Research Projects? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Conduct short research projects that build knowledge about a topic, gather information from print and digital sources, and take brief organised notes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Generate three research questions about an assigned topic and identify two sources for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is given a research project at school, can they look up information from books or websites, take organised notes, and then write it up in their own words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Short Research Projects. Generate three research questions about an assigned topic and identify two sources for each Take brief notes from a print source, sorting key facts into provided categories",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_06_lesson_02"
+    },
+    {
+      "title": "Writing Craft Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Writing Craft Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of writing craft and effect — form, structure, register, tone, voice, coherence, cohesion, argument, evidence, perspective, rhetoric, technique, formal, informal, and style — and understand that these words describe choices writers make intentionally to achieve a particular effect on the reader",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the difference between 'formal register' and 'informal register' and give an example of when each is appropriate",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is writing a persuasive letter compared to a story, can they explain the difference in 'tone' and 'register' — and why they'd make different word choices for each one?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Writing Craft Vocabulary. Explain the difference between 'formal register' and 'informal register' and give an example of when each is appropriate Use terms like 'coherence', 'cohesion', and 'paragraph structure' accurately when discussing or improving their own writing",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_06_lesson_03"
+    },
+    {
+      "title": "Vivid Word Choices",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "writing_composition"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Vivid Word Choices? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Choose precise and vivid words and phrases to create specific effects in writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Replace vague words in 'The nice man went to the big house' with more precise alternatives and explain the effect",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes descriptive or creative pieces, do they choose interesting and precise words — like \"sprinted\" instead of \"ran\", or \"crimson\" instead of \"red\" — to create a specific effect?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Vivid Word Choices. Replace vague words in 'The nice man went to the big house' with more precise alternatives and explain the effect Write two versions of the same scene — one with plain language and one with carefully chosen words for suspense or humour",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_06_lesson_04"
+    }
+  ],
+  "id": "Reading_unit_06"
+}

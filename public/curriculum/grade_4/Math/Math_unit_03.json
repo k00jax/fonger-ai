@@ -1,0 +1,641 @@
+{
+  "title": "Fractions",
+  "objective": "Students will explore fractions concepts including Equivalent fractions (age 9+), Decimals for Tenths & Hundredths, Converting tenths to hundredths and more.",
+  "standards": [],
+  "skills_tested": [
+    "fractions"
+  ],
+  "lessons": [
+    {
+      "title": "Equivalent fractions (age 9+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Equivalent fractions (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain why a fraction a/b is equivalent to (n×a)/(n×b) using visual models; use this principle to recognise and generate equivalent fractions, including tenths and hundredths",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use a fraction strip to show 2/3 = 4/6 = 6/9",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to make 2/3 look different without changing its value, can they multiply the top and bottom by the same number and explain why the fraction stays the same?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Equivalent fractions (age 9+). Use a fraction strip to show 2/3 = 4/6 = 6/9 Explain that multiplying numerator and denominator by the same number gives an equivalent fraction because the size of the whole is unchanged",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_01"
+    },
+    {
+      "title": "Decimals for Tenths & Hundredths",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Decimals for Tenths & Hundredths!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use decimal notation for fractions with denominators 10 or 100; read and write decimal numbers as fractions (e.g. 0.62 = 62/100, 0.71 = 71/100)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Rewrite 0.62 as 62/100",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a price tag showing £0.65, can they rewrite it as a fraction — and go the other way, turning 47/100 into a decimal?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Decimals for Tenths & Hundredths. Rewrite 0.62 as 62/100 Write 3/10 as 0.3 and locate on a number line",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_02"
+    },
+    {
+      "title": "Converting tenths to hundredths",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Converting tenths to hundredths. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Express a fraction with denominator 10 as an equivalent fraction with denominator 100 and use this to add fractions with denominators 10 and 100 (e.g. 3/10 + 4/100 = 34/100)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Rewrite 7/10 as 70/100",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to add 3/10 and 17/100, can they rewrite 3/10 as hundredths first — and then add the two fractions together?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Converting tenths to hundredths: Rewrite 7/10 as 70/100 Calculate 3/10 + 4/100 = 34/100",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_03"
+    },
+    {
+      "title": "Tenths (age 9+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Tenths (age 9+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use thousandths; relate them to tenths, hundredths, and their decimal equivalents (e.g. 1/1000 = 0.001, 35/1000 = 0.035)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write 0.025 as 25/1000",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees the decimal 0.003, can they write it as a fraction and tell you roughly where it sits on a number line between 0 and 0.01?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Tenths (age 9+): Write 0.025 as 25/1000 Explain that 1 tenth = 100 thousandths",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_04"
+    },
+    {
+      "title": "Understanding fractions (age 9+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Understanding fractions (age 9+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand a fraction a/b with a > 1 as a sum of fractions 1/b (e.g. 3/5 = 1/5 + 1/5 + 1/5)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Express 5/8 as a sum of five copies of 1/8",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to show 4/5 as a sum of smaller equal fractions, can they write it out as 1/5 + 1/5 + 1/5 + 1/5?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding fractions (age 9+): Express 5/8 as a sum of five copies of 1/8 Show on a number line how 4/3 is built by iterating 1/3 four times",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_05"
+    },
+    {
+      "title": "Comparing Decimals",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparing Decimals? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare two decimals to hundredths (or up to three decimal places) by reasoning about size using place-value understanding; record with >, =, <",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compare 0.45 and 0.405 and explain which is greater",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you compares 0.45 and 0.54, can they use place value to explain which is bigger — without reaching for a calculator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing Decimals. Compare 0.45 and 0.405 and explain which is greater Order 3.142, 3.14, 3.2 from smallest to largest",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_06"
+    },
+    {
+      "title": "Multiplying fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Multiplying fractions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand a/b as a multiple of 1/b; multiply proper fractions and mixed numbers by whole numbers, supported by visual models (e.g. 3 × 2/5 = 6/5 = 1 1/5)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate 4 × 3/8 using repeated addition or the rule n × a/b = (n×a)/b",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe uses 2/3 of a cup of butter and you wants to make it three times over, can they work out how much butter they need in total?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multiplying fractions. Calculate 4 × 3/8 using repeated addition or the rule n × a/b = (n×a)/b Multiply 2 1/3 × 3 and express as a mixed number",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_07"
+    },
+    {
+      "title": "Percentage and decimal equivalents",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Percentage and decimal equivalents! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems requiring knowledge of percentage and decimal equivalents of 1/2, 1/4, 1/5, 2/5, 4/5 and fractions with denominators that are multiples of 10 or 25",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that 1/5 = 20% = 0.2 and use this to find 20% of 60",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows that 1/4 = 25% = 0.25, can they use that to work out 25% of £80 — and also find 4/5 of 60 sweets?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Percentage and decimal equivalents. State that 1/5 = 20% = 0.2 and use this to find 20% of 60 Convert 3/4 to 75% and to 0.75",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_08"
+    },
+    {
+      "title": "Understanding Percentages",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Understanding Percentages! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the per cent symbol (%); know that per cent means ‘number of parts per hundred’; write percentages as a fraction with denominator 100 and as a decimal",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write 35% as 35/100 and as 0.35",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a shop advertises 50% off, can you explain that this means half price — and write 50% as both a fraction and a decimal?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Understanding Percentages. Write 35% as 35/100 and as 0.35 Shade 40% of a 10×10 grid and write the fraction 40/100",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_09"
+    },
+    {
+      "title": "Adding fractions (different denominators)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Adding fractions (different denominators)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract fractions with denominators that are multiples of the same number by finding a common denominator",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 1/3 + 1/6 by converting to sixths: 2/6 + 1/6 = 3/6 = 1/2",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to add 1/3 and 1/6, can they find a common denominator and work out the total — showing their working?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Adding fractions (different denominators). Calculate 1/3 + 1/6 by converting to sixths: 2/6 + 1/6 = 3/6 = 1/2 Calculate 3/4 − 1/8 by converting to eighths",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_10"
+    },
+    {
+      "title": "Comparing fractions (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Comparing fractions (age 9+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and order fractions with different numerators and denominators by creating common denominators/numerators or comparing to a benchmark such as 1/2; justify conclusions with visual models",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare 3/8 and 5/12 by finding a common denominator of 24",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has eaten 2/3 of their lunch and a friend has eaten 3/4 of theirs, can they work out who's eaten more — by finding a common way to compare the fractions?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Comparing fractions (age 9+): Compare 3/8 and 5/12 by finding a common denominator of 24 Order 2/3, 3/5, and 7/10 from smallest to largest",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_11"
+    },
+    {
+      "title": "Fraction Addition Concepts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Fraction Addition Concepts? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand addition and subtraction of fractions as joining and separating parts; decompose a fraction into a sum of fractions with the same denominator in more than one way",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Show that 3/8 = 1/8 + 1/8 + 1/8 and also 3/8 = 1/8 + 2/8",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has 7/8 of a chocolate bar and gives away 3/8, can they work out what fraction is left — and then show two different ways to split 7/8 into two parts?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fraction Addition Concepts. Show that 3/8 = 1/8 + 1/8 + 1/8 and also 3/8 = 1/8 + 2/8 Write two different decompositions of 5/6",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_12"
+    },
+    {
+      "title": "Decimals to three places",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Decimals to three places!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving numbers with up to three decimal places",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate the total of three measurements: 1.234 m + 0.567 m + 2.199 m",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is filling a tank that holds 5.000 litres and has poured in 2.375 litres, can they work out how much more is needed to fill it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decimals to three places: Calculate the total of three measurements: 1.234 m + 0.567 m + 2.199 m A bottle holds 1.5 litres; 0.375 l is poured out — how much remains?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_13"
+    },
+    {
+      "title": "Mixed numbers and improper fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Mixed numbers and improper fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise mixed numbers and improper fractions; convert from one form to the other (e.g. 2/5 + 4/5 = 6/5 = 1 1/5)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Convert 11/4 to 2 3/4",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees the fraction 9/4, can they convert it to a mixed number — and then turn 2 and 3/5 back into an improper fraction?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Mixed numbers and improper fractions. Convert 11/4 to 2 3/4 Convert 3 2/5 to 17/5",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_14"
+    },
+    {
+      "title": "Adding and subtracting mixed numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Adding and subtracting mixed numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract mixed numbers with like denominators, including by converting to improper fractions or using properties of operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 2 3/5 + 1 4/5 and express as a mixed number",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe calls for 1 and 2/5 cups of oats and another batch needs 2 and 3/5 cups, can you add them together to get the total — including converting when the fifths add up past a whole?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding and subtracting mixed numbers: Calculate 2 3/5 + 1 4/5 and express as a mixed number Subtract 3 1/4 from 5 3/4",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_15"
+    },
+    {
+      "title": "Addition and subtraction word problems",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Addition and subtraction word problems. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving addition and subtraction of fractions with like denominators, using visual models and equations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. A jug contains 3/4 litre of juice; 2/4 litre is poured out — how much remains?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads that one section of a nature trail is 3/8 km and another is 5/8 km, can they work out the total distance without a calculator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Addition and subtraction word problems. A jug contains 3/4 litre of juice; 2/4 litre is poured out — how much remains? Two pieces of ribbon are 2 3/8 and 1 5/8 inches — what is their total length?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_16"
+    },
+    {
+      "title": "Decimal place value (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Decimal place value (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Round decimals with two decimal places to the nearest whole number and to one decimal place",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Round 3.47 to the nearest whole number (3) and to 1 d.p. (3.5)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measures a length as 4.67 m, can they round it to the nearest whole metre — and also to the nearest tenth of a metre?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Decimal place value (age 9+). Round 3.47 to the nearest whole number (3) and to 1 d.p. (3.5) Round 12.95 to 1 d.p. (13.0) and explain the boundary case",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_17"
+    },
+    {
+      "title": "Fractions of a whole (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fractions of a whole (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving multiplication of a fraction by a whole number using visual models and equations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Each person eats 3/8 of a pizza and there are 5 people — how many pizzas are needed?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If each section of a garden uses 3/4 of a bag of compost and there are 4 sections, can you work out how many bags are needed in total?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fractions of a whole (age 9+). Each person eats 3/8 of a pizza and there are 5 people — how many pizzas are needed? A ribbon is cut into pieces of 2/3 metre; how long are 4 pieces altogether?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_03_lesson_18"
+    }
+  ],
+  "id": "Math_unit_03"
+}

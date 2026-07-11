@@ -1,0 +1,116 @@
+{
+  "title": "Learning to Learn",
+  "objective": "Students will explore learning to learn concepts including Feeling of not understanding, Thinking Before Starting, Planning a Task.",
+  "standards": [],
+  "skills_tested": [
+    "learning_to_learn"
+  ],
+  "lessons": [
+    {
+      "title": "Feeling of not understanding",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Feeling of not understanding!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice the feeling of not understanding — recognise when something is confusing rather than reading or listening past it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! comprehension monitoring research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is reading or listening and something doesn't make sense, do they notice and say so — rather than carrying on as if they understood?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Feeling of not understanding: comprehension monitoring research Flavell metacognitive monitoring",
+          "media": {}
+        }
+      ],
+      "id": "1_Learning to Learn_unit_01_lesson_01"
+    },
+    {
+      "title": "Thinking Before Starting",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Thinking Before Starting? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Before starting something new, stop and think: what do I already know about this topic?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! prior knowledge activation research",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is about to learn something new — say a new topic in science or a new type of word problem — do they first think about what they already know?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Thinking Before Starting. prior knowledge activation research Ausubel meaningful learning",
+          "media": {}
+        }
+      ],
+      "id": "1_Learning to Learn_unit_01_lesson_02"
+    },
+    {
+      "title": "Planning a Task",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Planning a Task!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make a simple plan before starting a task: what do I need to do, and what should I do first?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Before starting a task, describe what they need to do and what order to do it in",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Before you starts a bigger task — like writing a story or making something — do they take a moment to think about what they'll do first?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Planning a Task: Before starting a task, describe what they need to do and what order to do it in Break a larger task into smaller steps without being prompted — e.g. 'First I'll read the question, then I'll draw a diagram'",
+          "media": {}
+        }
+      ],
+      "id": "1_Learning to Learn_unit_01_lesson_03"
+    }
+  ],
+  "id": "Learning to Learn_unit_01"
+}

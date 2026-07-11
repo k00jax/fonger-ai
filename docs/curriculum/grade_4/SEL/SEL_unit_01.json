@@ -1,0 +1,156 @@
+{
+  "title": "Emotional Literacy",
+  "objective": "Students will explore emotional literacy concepts including Emotional Patterns Over Time, Emotions and Decision-Making, Culture and Experience Shape Emotions and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-LO-P3-3",
+    "ib-pyp-pspe:PSPE-ID-CU-P3-1",
+    "ib-pyp-pspe:PSPE-ID-CU-P4-5",
+    "ib-pyp-pspe:PSPE-ID-CU-P3-5"
+  ],
+  "skills_tested": [
+    "emotional_literacy"
+  ],
+  "lessons": [
+    {
+      "title": "Emotional Patterns Over Time",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Emotional Patterns Over Time!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Reflect on their own emotional patterns over time — noticing recurring triggers, understanding their typical responses, and recognising how their emotional awareness has grown",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify a recurring emotional trigger and their typical response to it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you something like 'I always get stressed before tests but I've learned that's normal for me' — showing they understand their own emotional patterns?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Emotional Patterns Over Time. Identify a recurring emotional trigger and their typical response to it Describe how their emotional understanding has changed compared to when they were younger",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_01_lesson_01"
+    },
+    {
+      "title": "Emotions and Decision-Making",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Emotions and Decision-Making!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how emotions influence thinking and decision-making — that strong feelings can cloud judgement, that we often make different choices when calm versus when upset, and that recognising this gives us more control",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give an example of a time a strong emotion led them or someone else to a poor decision",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sends an angry message to a friend during an argument and later regrets it, can they explain how their anger affected their decision and what they might do differently next time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Emotions and Decision-Making. Give an example of a time a strong emotion led them or someone else to a poor decision Explain the idea of 'cooling off' before making an important choice",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_01_lesson_02"
+    },
+    {
+      "title": "Culture and Experience Shape Emotions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Culture and Experience Shape Emotions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that emotional responses are shaped by personal experiences, culture, and context — the same situation triggers different emotions in different people because of their backgrounds and past experiences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why two people might have very different emotional reactions to the same event",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If one child in you's class gets very scared during a thunderstorm while others think it's exciting, can you understand that the scared child might have had a frightening experience with storms before?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Culture and Experience Shape Emotions. Explain why two people might have very different emotional reactions to the same event Give an example of how a past experience shaped someone's emotional response",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_01_lesson_03"
+    },
+    {
+      "title": "Mixed and Conflicting Emotions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Mixed and Conflicting Emotions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that people can experience mixed or conflicting emotions at the same time — feeling excited and nervous about starting a new school, or happy for a friend who won but disappointed for yourself",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe a personal situation where they felt two emotions simultaneously",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you's best friend gets picked for the team and they don't, can you explain that they feel happy for their friend AND disappointed for themselves at the same time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Mixed and Conflicting Emotions. Describe a personal situation where they felt two emotions simultaneously Explain why mixed feelings are normal and not something to worry about",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_01_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_01"
+}

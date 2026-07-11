@@ -1,0 +1,326 @@
+{
+  "title": "Polar Regions",
+  "objective": "Students will explore polar regions concepts including Polar Conservation & Future, Climate Change at the Poles, Earth's Frozen Water and more.",
+  "standards": [],
+  "skills_tested": [
+    "polar_regions"
+  ],
+  "lessons": [
+    {
+      "title": "Polar Conservation & Future",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Polar Conservation & Future!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the conservation challenges facing polar regions — marine protected areas in the Southern Ocean aim to preserve Antarctic ecosystems, Arctic nations dispute sovereignty over northern sea routes and resources as ice retreats, indigenous peoples fight for land rights and voice in environmental decisions, and international cooperation (Paris Agreement, Antarctic Treaty) is essential but difficult to maintain as economic pressures grow",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe at least two conservation measures: marine protected areas in the Southern Ocean and the Antarctic Treaty",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you discuss the big challenges facing the poles — like countries arguing over Arctic resources as ice melts, the push for marine protected areas in Antarctica, and why indigenous peoples' voices matter in these decisions?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Polar Conservation & Future: Describe at least two conservation measures: marine protected areas in the Southern Ocean and the Antarctic Treaty Explain why Arctic sovereignty is contested as ice retreats and shipping routes open",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_01"
+    },
+    {
+      "title": "Climate Change at the Poles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Climate Change at the Poles? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how climate change is affecting polar regions — Arctic sea ice is shrinking dramatically (losing about 13% per decade since 1979), the Greenland and Antarctic ice sheets are losing mass and contributing to sea level rise, permafrost is thawing and releasing methane (a powerful greenhouse gas), and these changes create positive feedback loops where melting leads to more warming which leads to more melting",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that Arctic sea ice has been declining at roughly 13% per decade since 1979",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how climate change is melting polar ice — that Arctic sea ice is shrinking, ice sheets are losing mass, and that melting actually makes more melting happen in a vicious cycle?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Climate Change at the Poles. State that Arctic sea ice has been declining at roughly 13% per decade since 1979 Explain the positive feedback loop: warming → ice melts → dark ocean absorbs more heat → more warming → more melting",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_02"
+    },
+    {
+      "title": "Earth's Frozen Water",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Earth's Frozen Water!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the cryosphere and its role in Earth's water system — the cryosphere is all frozen water on Earth (ice sheets, glaciers, sea ice, permafrost, snow cover); polar ice sheets hold about 69% of Earth's fresh water; if all polar ice melted, sea levels would rise over 65 metres; and the water cycle connects polar ice to the global system through evaporation, precipitation, and meltwater flowing into oceans",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define the cryosphere as all frozen water on Earth and name its components: ice sheets, glaciers, sea ice, permafrost, snow",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that most of Earth's fresh water is actually locked up as ice at the poles — and that if it all melted, the sea would rise over 65 metres, flooding coastal cities worldwide?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Earth's Frozen Water. Define the cryosphere as all frozen water on Earth and name its components: ice sheets, glaciers, sea ice, permafrost, snow State that polar ice sheets hold approximately 69% of Earth's fresh water",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_03"
+    },
+    {
+      "title": "Polar Oceans and World Climate",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Polar Oceans and World Climate!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how polar oceans connect to the global climate system — cold, dense polar water sinks and drives thermohaline circulation (a global conveyor belt of ocean currents), sea ice reflects sunlight back to space (the albedo effect) helping regulate Earth's temperature, and the Southern Ocean around Antarctica is one of the most productive marine ecosystems on Earth due to upwelling nutrients",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that cold, dense polar water sinks and drives global ocean circulation (thermohaline circulation)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how cold polar water sinks and drives a global conveyor belt of ocean currents, and how white sea ice reflects sunlight to help keep the planet cool?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Polar Oceans and World Climate. Explain that cold, dense polar water sinks and drives global ocean circulation (thermohaline circulation) Describe the albedo effect: white ice reflects sunlight back to space, while dark ocean absorbs heat",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_04"
+    },
+    {
+      "title": "Polar Climate Zone",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Polar Climate Zone! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that polar regions belong to the polar climate zone — one of Earth's five main climate zones (tropical, arid, temperate, continental, polar) — characterised by temperatures rarely above 10°C even in summer, low precipitation (polar deserts receive less rain than the Sahara), and strong winds; know that latitude is the key factor determining climate zones, with polar regions above 60°N/S",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the five main climate zones and place polar regions correctly within them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain where the polar climate zone fits among Earth's five climate zones, and why the poles are so cold — linking it to their position at high latitudes far from the Equator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Polar Climate Zone. Name the five main climate zones and place polar regions correctly within them State that polar regions are above approximately 60° latitude and explain that distance from the Equator is the main reason they are cold",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_05"
+    },
+    {
+      "title": "Antarctic Treaty & Research",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Antarctic Treaty & Research? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that Antarctica is governed by the Antarctic Treaty (signed 1959, in force since 1961) — which sets Antarctica aside for peaceful purposes and scientific research, bans military activity and mining, and is signed by over 50 countries; understand that international research stations study climate, astronomy, biology, and geology, and that Antarctica is the closest thing on Earth to a continent for science rather than politics",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that the Antarctic Treaty (1959) sets Antarctica aside for peace and science, banning military activity and mining",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know about the Antarctic Treaty — that over 50 countries agreed Antarctica should be used only for science and peace, not war or mining — and that research stations there study everything from ice to stars?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Antarctic Treaty & Research. State that the Antarctic Treaty (1959) sets Antarctica aside for peace and science, banning military activity and mining Know that over 50 countries have signed the treaty and that many operate research stations",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_06"
+    },
+    {
+      "title": "Polar Ecosystems Compared",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Polar Ecosystems Compared? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare Arctic and Antarctic ecosystems — the Arctic has both terrestrial (tundra) and marine ecosystems supporting large land mammals and indigenous human communities, while the Antarctic is almost entirely marine-based with virtually no land plants or mammals; both regions have short, intense food chains anchored by phytoplankton and krill, and both are disproportionately affected by climate change and human activity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compare Arctic (terrestrial + marine, land mammals, human communities) with Antarctic (almost entirely marine, no land mammals)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you compare the Arctic and Antarctic ecosystems — explaining that the Arctic has land animals and people while Antarctica's life is almost all in the sea, and that both depend on tiny creatures like krill?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Polar Ecosystems Compared: Compare Arctic (terrestrial + marine, land mammals, human communities) with Antarctic (almost entirely marine, no land mammals) Explain that both polar food chains depend on phytoplankton and krill at the base",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_07"
+    },
+    {
+      "title": "Polar Exploration Then & Now",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Polar Exploration Then & Now. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare historical polar exploration with modern polar science — the Heroic Age (1897–1922) relied on ships, dogs, and human endurance with many fatalities, while today's polar scientists use GPS, satellites, icebreaker ships, heated research stations, and aircraft; understand that modern challenges include studying climate change data, and that polar science now includes diverse international teams including women scientists like glaciologist Liz Thomas and marine biologist Sylvia Earle",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Compare Heroic Age exploration (dog sleds, man-hauling, many deaths) with modern science (GPS, satellites, icebreakers, heated stations)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you compare old polar exploration — dog sleds, freezing camps, real danger of death — with modern polar science using satellites, heated research stations, and diverse international teams?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Polar Exploration Then & Now. Compare Heroic Age exploration (dog sleds, man-hauling, many deaths) with modern science (GPS, satellites, icebreakers, heated stations) Name at least two technologies that make modern polar science possible",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_08"
+    },
+    {
+      "title": "Glaciers & Ice Sheets",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Glaciers & Ice Sheets! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how glaciers and ice sheets form and behave — snow accumulates over centuries and compresses into dense ice, glaciers flow slowly downhill under their own weight carving U-shaped valleys and depositing moraines; the Greenland and Antarctic ice sheets together hold enough ice to raise sea levels by over 65 metres; and ice cores drilled from these sheets contain trapped air bubbles that reveal Earth's climate history going back 800,000 years",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe how glaciers form: snow accumulates, compresses, and becomes dense ice that flows slowly under its own weight",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how glaciers form from layers of snow pressed into ice, how they slowly carve valleys, and that scientists drill into ice sheets to learn about Earth's climate thousands of years ago?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Glaciers & Ice Sheets. Describe how glaciers form: snow accumulates, compresses, and becomes dense ice that flows slowly under its own weight Explain that the Greenland and Antarctic ice sheets hold enough water to raise sea levels dramatically if melted",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_11_lesson_09"
+    }
+  ],
+  "id": "Science_unit_11"
+}

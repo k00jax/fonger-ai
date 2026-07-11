@@ -1,0 +1,81 @@
+{
+  "title": "Learning to Learn",
+  "objective": "Students will explore learning to learn concepts including Choosing a Strategy, Reflecting After Learning.",
+  "standards": [],
+  "skills_tested": [
+    "learning_to_learn"
+  ],
+  "lessons": [
+    {
+      "title": "Choosing a Strategy",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Choosing a Strategy!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Before starting a study task, choose a deliberate strategy; after finishing, evaluate honestly whether that strategy actually helped",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Before starting a task, name the strategy they plan to use and explain why — e.g. 'I'll make a mind map first because there's a lot to organise'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you ever talk about *how* they're going to study or practise something — and afterwards think about whether that approach worked?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Choosing a Strategy. Before starting a task, name the strategy they plan to use and explain why — e.g. 'I'll make a mind map first because there's a lot to organise' After finishing, honestly evaluate whether their chosen strategy helped or whether a different one would have been better",
+          "media": {}
+        }
+      ],
+      "id": "4_Learning to Learn_unit_01_lesson_01"
+    },
+    {
+      "title": "Reflecting After Learning",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "learning_to_learn"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reflecting After Learning!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "After completing a piece of learning, reflect on the process: what helped most, what was confusing, and what would you do differently next time?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Kolb reflective learning cycle",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you finishes a project or topic at school, do they reflect on how the learning went — not just whether the result was good, but what worked and what didn't?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reflecting After Learning. Kolb reflective learning cycle Hattie & Timperley feedback model",
+          "media": {}
+        }
+      ],
+      "id": "4_Learning to Learn_unit_01_lesson_02"
+    }
+  ],
+  "id": "Learning to Learn_unit_01"
+}

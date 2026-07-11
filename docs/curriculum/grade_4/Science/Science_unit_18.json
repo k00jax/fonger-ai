@@ -1,0 +1,157 @@
+{
+  "title": "Waves, Light & Sound",
+  "objective": "Students will explore waves, light & sound concepts including How We See Objects, Waves & How They Move, Wave Behaviour Vocabulary and more.",
+  "standards": [
+    "ngss-k5:4-PS4-2",
+    "uk-nc-2013:Y6.Sci.L.3",
+    "uk-nc-2013:Y6.Sci.L.2",
+    "ngss-k5:4-PS4-3",
+    "ngss-k5:4-PS4-1"
+  ],
+  "skills_tested": [
+    "waves,_light_sound"
+  ],
+  "lessons": [
+    {
+      "title": "How We See Objects",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore How We See Objects! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop a model to describe that light reflecting from objects and entering the eye allows objects to be seen",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Draw a diagram showing light source → light hits object → reflects into eye",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw a diagram showing how light bounces off a book and enters your eye, which is how you actually see the book?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How We See Objects. Draw a diagram showing light source → light hits object → reflects into eye Explain that we see objects because reflected light enters our eyes, not because our eyes send out light",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_18_lesson_01"
+    },
+    {
+      "title": "Waves & How They Move",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Waves & How They Move!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop a model of waves to describe patterns in terms of amplitude and wavelength, and understand that waves can cause objects to move",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe a wave using the terms amplitude (height) and wavelength (distance between peaks)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use a slinky or rope to show how waves work, and explain that bigger waves have more energy and can move things more?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Waves & How They Move. Describe a wave using the terms amplitude (height) and wavelength (distance between peaks) Demonstrate that larger amplitude means more energy (bigger waves move objects more)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_18_lesson_02"
+    },
+    {
+      "title": "Wave Behaviour Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Wave Behaviour Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use technical vocabulary for wave behaviour — refraction, absorption, reflection, scattering, amplitude, frequency, wavelength, echo, spectrum, angle of incidence, angle of reflection — and apply these when explaining how light and sound travel and interact with different materials",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use 'refraction' correctly to explain why a straw appears bent in a glass of water",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a straw looks bent in a glass of water using a proper science word — or tell you what's actually happening when you hear an echo?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Wave Behaviour Vocabulary: Use 'refraction' correctly to explain why a straw appears bent in a glass of water Distinguish 'reflection' from 'refraction' using the correct definitions",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_18_lesson_03"
+    },
+    {
+      "title": "Patterns & Codes for Information",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Patterns & Codes for Information!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Generate and compare multiple solutions that use patterns to transfer information, such as codes and signals",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe at least two systems that use patterns of light or sound to transfer information (e.g. Morse code, semaphore, drum signals)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you come up with different ways to send a secret message using patterns of light or sound, like Morse code or drum beats?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Patterns & Codes for Information: Describe at least two systems that use patterns of light or sound to transfer information (e.g. Morse code, semaphore, drum signals) Design a simple code using light or sound patterns to send a message",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_18_lesson_04"
+    }
+  ],
+  "id": "Science_unit_18"
+}

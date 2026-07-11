@@ -1,0 +1,81 @@
+{
+  "title": "English Thinking",
+  "objective": "Students will explore english thinking concepts including Reviewing Own Writing, Knowing What You Don't Know.",
+  "standards": [],
+  "skills_tested": [
+    "english_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Reviewing Own Writing",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "english_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reviewing Own Writing! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate whether your own writing achieves the effect you intended on a reader — go beyond checking for correctness to asking whether it actually works",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. writing self-evaluation research grades 3-5",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you writes something — a story, a letter, a persuasive piece — do they think about whether it would have the effect they wanted on a reader, not just whether the spelling is right?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reviewing Own Writing. writing self-evaluation research grades 3-5 metacognitive awareness of writing (Frontiers 2025)",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_01_lesson_01"
+    },
+    {
+      "title": "Knowing What You Don't Know",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "english_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Knowing What You Don't Know!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Monitor your own vocabulary gaps — notice words you half-know, distinguish confident from uncertain knowledge, and develop strategies to resolve the uncertainty",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Noticing Unfamiliar Words Assessment research (grade 2+)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you comes across a word they half-know — where they can guess the meaning but aren't sure — do they notice that gap and do something about it, like looking it up or asking?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Knowing What You Don't Know. Noticing Unfamiliar Words Assessment research (grade 2+) word consciousness and vocabulary metacognition research",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_01_lesson_02"
+    }
+  ],
+  "id": "Reading_unit_01"
+}

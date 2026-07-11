@@ -1,0 +1,291 @@
+{
+  "title": "Measurement",
+  "objective": "Students will explore measurement concepts including Fractions on a number line, Telling time to the minute (age 9+), Converting measurement units (age 9+) and more.",
+  "standards": [],
+  "skills_tested": [
+    "measurement"
+  ],
+  "lessons": [
+    {
+      "title": "Fractions on a number line",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Fractions on a number line? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving distances, time intervals, liquid volumes, masses, and money using the four operations with fractions or decimals; represent with diagrams including number lines",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! A 2.5 kg bag of flour is split equally into 4 portions — what does each weigh?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is planning a 4.5 km walk and has already walked 1.75 km, can they work out how far is left — and estimate how long the remaining walk might take?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fractions on a number line: A 2.5 kg bag of flour is split equally into 4 portions — what does each weigh? A journey takes 1 hr 45 min; what time do you arrive if you leave at 09:20?",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_01"
+    },
+    {
+      "title": "Telling time to the minute (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Telling time to the minute (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving converting between units of time (hours↔minutes, minutes↔seconds, years↔months, weeks↔days)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Convert 3 hours 25 minutes to 205 minutes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to convert 2 hours 35 minutes into just minutes, can they do it — and then convert 180 seconds into minutes and seconds?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Telling time to the minute (age 9+). Convert 3 hours 25 minutes to 205 minutes A programme lasts 150 seconds — express in minutes and seconds",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_02"
+    },
+    {
+      "title": "Converting measurement units (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Converting measurement units (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know relative sizes of measurement units within one system (km/m/cm/mm, kg/g, l/ml, hr/min/sec); convert between different metric units and express measurements in terms of a smaller unit; record equivalents in conversion tables",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Convert 3.5 km to 3,500 m",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to convert 3.5 kg to grams, can they do it confidently — and also fill in a simple two-column table showing the same measurements in kg and g?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Converting measurement units (age 9+). Convert 3.5 km to 3,500 m Complete a conversion table for cm and mm: (1,10), (2,20), (3,30)...",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_03"
+    },
+    {
+      "title": "Estimating answers (age 9+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Estimating answers (age 9+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Apply the area formula (l × w) and perimeter formula (2l + 2w) for rectangles including squares in real-world and mathematical problems; calculate and compare areas using standard units (cm², m²) and estimate areas of irregular shapes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Find the width of a room given area = 48 m² and length = 8 m",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wants to carpet a room 6.5 m × 4 m, can they calculate the area — and also work out how many metres of skirting board are needed around the edge?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Estimating answers (age 9+): Find the width of a room given area = 48 m² and length = 8 m Calculate the area of a square with side 7.5 cm",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_04"
+    },
+    {
+      "title": "Measurement Line Plots",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Measurement Line Plots! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make a line plot to display measurement data in fractions of a unit (1/2, 1/4, 1/8); solve problems involving addition and subtraction of fractions using line plot data",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Create a line plot of seed growth measurements in 1/8-inch increments",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you records caterpillar lengths as fractions of an inch and plots them on a number line, can they work out the total length of three caterpillars by adding the fractions from the plot?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Measurement Line Plots. Create a line plot of seed growth measurements in 1/8-inch increments Use a line plot to find the difference between the longest and shortest specimens",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_05"
+    },
+    {
+      "title": "Metric & Imperial Conversion",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Metric & Imperial Conversion!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and use approximate equivalences between metric units and common imperial units (inches, pounds, pints)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that 1 inch ≈ 2.5 cm and use this to estimate length in inches",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hears that a baby weighs 7 pounds, can they give a rough idea of that in kilograms — using the approximate conversion they know?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Metric & Imperial Conversion: State that 1 inch ≈ 2.5 cm and use this to estimate length in inches Know that 1 kg ≈ 2.2 pounds and estimate a person's weight in pounds",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_06"
+    },
+    {
+      "title": "Perimeter of Compound Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Perimeter of Compound Shapes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure and calculate the perimeter of composite rectilinear shapes in centimetres and metres",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Find the perimeter of an L-shaped figure by identifying all side lengths",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given an L-shaped garden plan with all the side measurements labelled, can they add all the sides together to find the total perimeter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Perimeter of Compound Shapes: Find the perimeter of an L-shaped figure by identifying all side lengths Calculate the perimeter of a composite shape where some sides must be deduced",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_07"
+    },
+    {
+      "title": "Estimating volume",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Estimating volume!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Estimate volume of cuboids using 1 cm³ blocks; estimate capacity of containers using water",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Build a cuboid from 1 cm³ blocks and state its volume",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has a small cardboard box, can they estimate how many 1 cm³ cubes would fit inside it — and then fill it with sugar cubes to check?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Estimating volume: Build a cuboid from 1 cm³ blocks and state its volume Estimate how many cm³ blocks would fill a given box",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_06_lesson_08"
+    }
+  ],
+  "id": "Math_unit_06"
+}

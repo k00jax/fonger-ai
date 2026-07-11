@@ -1,0 +1,192 @@
+{
+  "title": "Waves, Light & Sound",
+  "objective": "Students will explore waves, light & sound concepts including Sound Travels Through Materials, Volume & Vibrations, Sound Fading with Distance and more.",
+  "standards": [
+    "uk-nc-2013:Y4.Sci.Snd.4",
+    "uk-nc-2013:Y4.Sci.Snd.2",
+    "uk-nc-2013:Y4.Sci.Snd.5",
+    "uk-nc-2013:Y4.Sci.Snd.3"
+  ],
+  "skills_tested": [
+    "waves,_light_sound",
+    "weather_climate"
+  ],
+  "lessons": [
+    {
+      "title": "Sound Travels Through Materials",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Sound Travels Through Materials! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that vibrations from sounds travel through a medium (solid, liquid, or gas) to the ear",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that sound vibrations need a material (medium) to travel through — they can't travel in a vacuum",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why you can hear someone talking through a wall, and why sound travels through water when you're swimming underwater?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Sound Travels Through Materials: Explain that sound vibrations need a material (medium) to travel through — they can't travel in a vacuum Give examples of sound travelling through different media: air, water, solid objects",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_08_lesson_01"
+    },
+    {
+      "title": "Volume & Vibrations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Volume & Vibrations? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find patterns between the volume of a sound and the strength of the vibrations that produced it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the pattern: stronger vibrations (larger movements) produce louder sounds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why hitting a drum harder makes a louder sound, and what's happening to the drum skin differently?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Volume & Vibrations. Describe the pattern: stronger vibrations (larger movements) produce louder sounds Demonstrate volume changes by varying the force applied to a sound-making object",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_08_lesson_02"
+    },
+    {
+      "title": "Sound Fading with Distance",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Sound Fading with Distance? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that sounds get fainter as the distance from the sound source increases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that sound gets quieter as distance from the source increases",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a friend's voice gets harder to hear the further away they walk?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Sound Fading with Distance. State that sound gets quieter as distance from the source increases Describe an observation or investigation demonstrating this pattern",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_08_lesson_03"
+    },
+    {
+      "title": "Pitch of Sounds",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Pitch of Sounds? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find patterns between the pitch of a sound and features of the object that produced it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the pattern: shorter/thinner/tighter objects produce higher-pitched sounds",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a short guitar string makes a higher sound than a long one, or why a small drum sounds higher than a big one?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Pitch of Sounds: Describe the pattern: shorter/thinner/tighter objects produce higher-pitched sounds Demonstrate pitch changes using at least one instrument or everyday object",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_08_lesson_04"
+    },
+    {
+      "title": "Designing for Weather Hazards",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Designing for Weather Hazards!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make a claim about the merit of a design solution that reduces the impacts of a weather-related hazard such as flooding, wind damage, or extreme temperatures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify a specific weather-related hazard and its impacts on people",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If there's a risk of flooding in a town, can you evaluate different solutions like building levees, planting trees, or improving drainage and argue which works best?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Designing for Weather Hazards. Identify a specific weather-related hazard and its impacts on people Describe at least two design solutions intended to reduce those impacts",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_08_lesson_05"
+    }
+  ],
+  "id": "Science_unit_08"
+}

@@ -1,0 +1,186 @@
+{
+  "title": "Reading Comprehension",
+  "objective": "Students will explore reading comprehension concepts including Character Traits and Motivation, Morals in Fables, Folktales and Myths, Connecting Ideas in Texts and more.",
+  "standards": [],
+  "skills_tested": [
+    "reading_comprehension"
+  ],
+  "lessons": [
+    {
+      "title": "Character Traits and Motivation",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Character Traits and Motivation? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse character traits, motivations, and feelings using text evidence, and distinguish one's own point of view from that of the narrator or characters",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify two character traits from a story and cite the specific actions or dialogue that reveal each trait",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a story, can they describe why a character made a particular choice — explaining their motivations — and also say whether they personally agree with what the character did?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Character Traits and Motivation. Identify two character traits from a story and cite the specific actions or dialogue that reveal each trait Explain why a character made a particular decision by linking their motivation to events in the text",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_03_lesson_01"
+    },
+    {
+      "title": "Morals in Fables, Folktales and Myths",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Morals in Fables, Folktales and Myths? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how the central message, lesson, or moral of a story is conveyed through key details across diverse text types including fables, folktales, and myths",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Retell a fable and identify the moral, citing three key details that convey it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a myth or folktale from another culture, can you explain what lesson or value it was teaching — and say which details in the story showed that?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Morals in Fables, Folktales and Myths. Retell a fable and identify the moral, citing three key details that convey it Compare how two myths from different cultures convey a similar central message through different events",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_03_lesson_02"
+    },
+    {
+      "title": "Connecting Ideas in Texts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Connecting Ideas in Texts. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe connections between events, ideas, or concepts in informational text using time, sequence, cause-and-effect, and comparison language, and identify logical connections between sentences and paragraphs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read a science text and identify three cause-and-effect relationships using signal words like 'because', 'as a result'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a non-fiction passage — like one about climate or history — can you explain what caused something to happen, what the effect was, and how the author linked those ideas together?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Connecting Ideas in Texts: Read a science text and identify three cause-and-effect relationships using signal words like 'because', 'as a result' Explain the sequence of steps in a technical procedure using time-order language ('first', 'next', 'finally')",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_03_lesson_03"
+    },
+    {
+      "title": "Why the author wrote it",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Why the author wrote it? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish one's own point of view from that of the author of an informational text and identify the author's purpose",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read an opinion article and state the author's point of view, then state one's own and explain how they differ",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a fact book or an article, can they tell you what the author's purpose was — like whether they were trying to inform, persuade, or entertain — and whether they agree with the author's viewpoint?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Why the author wrote it. Read an opinion article and state the author's point of view, then state one's own and explain how they differ Identify whether an author's purpose is to inform, persuade, or entertain, citing evidence from the text",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_03_lesson_04"
+    },
+    {
+      "title": "Structural terminology",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Structural terminology! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use structural terminology (chapter, scene, stanza) to refer to parts of literary texts and describe how each successive part builds on earlier sections",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify chapters, scenes, or stanzas in a given text and use the correct term for each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you talks about a book they're reading, do they use words like \"chapter\", \"stanza\", or \"scene\" correctly — and can they explain how a later chapter builds on what happened earlier?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Structural terminology. Identify chapters, scenes, or stanzas in a given text and use the correct term for each Explain how the second stanza of a poem builds on the mood established in the first",
+          "media": {}
+        }
+      ],
+      "id": "3_Reading_unit_03_lesson_05"
+    }
+  ],
+  "id": "Reading_unit_03"
+}

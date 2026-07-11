@@ -1,0 +1,501 @@
+{
+  "title": "Measurement",
+  "objective": "Students will explore measurement concepts including Area (age 8+), Understanding Area, Area by Tiling and more.",
+  "standards": [],
+  "skills_tested": [
+    "measurement"
+  ],
+  "lessons": [
+    {
+      "title": "Area (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Area (age 8+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure areas by counting unit squares (square cm, square m, square in, square ft)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Count unit squares to find the area of an L-shaped figure",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you draws a shape on squared centimetre paper, can they find its area by counting the squares — including making a sensible estimate for any partial squares?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Area (age 8+). Count unit squares to find the area of an L-shaped figure Measure the area of a book cover using square-centimetre tiles",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_01"
+    },
+    {
+      "title": "Understanding Area",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Understanding Area? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that a unit square has one square unit of area and that the area of a plane figure is the number of unit squares that cover it without gaps or overlaps",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify a unit square and state its area is 1 square unit",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you counts the small squares inside a rectangle drawn on squared paper, can they tell you the area — and explain what \"one square unit\" means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Understanding Area. Identify a unit square and state its area is 1 square unit Explain why a figure covered by 12 unit squares has area 12 square units",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_02"
+    },
+    {
+      "title": "Area by Tiling",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Area by Tiling. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find the area of a rectangle by tiling it with unit squares and show that the result equals the product of the side lengths",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Tile a 4×6 rectangle and count 24 squares, then verify 4×6=24",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a rectangular room is 4 m long and 3 m wide, can you work out its area by tiling it with 1-metre squares in their head — and explain why that equals 4 × 3?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Area by Tiling. Tile a 4×6 rectangle and count 24 squares, then verify 4×6=24 Explain why the number of rows times the number in each row gives the area",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_03"
+    },
+    {
+      "title": "Understanding angles (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Understanding angles (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Multiply side lengths to find areas of rectangles and represent whole-number products as rectangular areas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate the area of a 7 cm × 9 cm rectangle as 63 cm²",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to carpet a room that is 5 m by 4 m, can they work out how much carpet to buy — using multiplication rather than counting squares?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding angles (age 8+): Calculate the area of a 7 cm × 9 cm rectangle as 63 cm² Draw a rectangle with area 36 square units and label its side lengths",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_04"
+    },
+    {
+      "title": "Area and the distributive property",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Area and the distributive property. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use tiling to demonstrate the distributive property: the area of a rectangle with sides a and (b+c) equals a×b + a×c; use area models to represent the distributive property",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Tile a 3×(4+2) rectangle and show it decomposes into 3×4 and 3×2",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wants to work out 6 × 13 by splitting it into 6 × 10 and 6 × 3, can they draw a rectangle divided into two parts to show why that method works?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Area and the distributive property. Tile a 3×(4+2) rectangle and show it decomposes into 3×4 and 3×2 Use an area model to compute 6×13 as 6×10 + 6×3",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_05"
+    },
+    {
+      "title": "Converting measurement units",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Converting measurement units!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Convert between different units of measure (e.g. kilometre to metre, hour to minute, minute to second, year to month, week to day)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Convert 3 km to 3000 m",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is told a journey is 3.5 km, can they convert that to metres — and also turn 2 hours 15 minutes into just minutes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Converting measurement units. Convert 3 km to 3000 m State 2 hours = 120 minutes",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_06"
+    },
+    {
+      "title": "Perimeters of polygons",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Perimeters of polygons!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving perimeters of polygons: find perimeter from side lengths, find an unknown side length, and explore rectangles with same perimeter but different areas (or vice versa)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate the perimeter of a rectangle with sides 8 cm and 5 cm",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a rectangle has a perimeter of 24 cm and one side is 8 cm, can you work out the length of the other side — without drawing it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Perimeters of polygons: Calculate the perimeter of a rectangle with sides 8 cm and 5 cm Find the missing side of a pentagon with perimeter 30 cm and four known sides",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_07"
+    },
+    {
+      "title": "Numbers on a number line",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Numbers on a number line!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve word problems involving elapsed time by adding and subtracting time intervals in minutes, including using a number line",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. A film starts at 2:15 and lasts 47 minutes — when does it end?",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you starts football practice at 3:20 p.m. and it lasts 75 minutes, can they work out what time it finishes — using a number line to help?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Numbers on a number line. A film starts at 2:15 and lasts 47 minutes — when does it end? Calculate how many minutes between 9:20 and 10:05",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_08"
+    },
+    {
+      "title": "Halves and quarters (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Halves and quarters (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Generate measurement data by measuring lengths to the nearest half and quarter inch; display the data on a line plot with a scale marked in whole numbers, halves, and quarters",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Measure five objects to the nearest 1/4 inch",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measures ten pencil lengths to the nearest quarter inch, can they record the data and plot it on a number line split into quarters — then spot which length appears most?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Halves and quarters (age 8+). Measure five objects to the nearest 1/4 inch Create a line plot showing the lengths of classmates' pencils in half-inches",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_09"
+    },
+    {
+      "title": "Telling time to the minute (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Telling time to the minute (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Tell and write time to the nearest minute using analogue and digital clocks",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read 7:43 from an analogue clock face",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a clock's minute hand points just past the 9, can you work out the exact time to the nearest minute — and write it in digital format?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Telling time to the minute (age 8+): Read 7:43 from an analogue clock face Write 11:06 on a digital display given a clock with hands",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_10"
+    },
+    {
+      "title": "Estimating and comparing money",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Estimating and comparing money. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Estimate, compare, and calculate different measures including money in pounds and pence",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Estimate the length of the classroom in metres",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is comparing three items costing £2.85, £3.10, and £2.50, can they put them in order from cheapest to most expensive — and work out the total cost?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Estimating and comparing money. Estimate the length of the classroom in metres Compare 1.5 kg and 1200 g and identify which is heavier",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_11"
+    },
+    {
+      "title": "Measuring Liquids & Masses",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Measuring Liquids & Masses? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure and estimate liquid volumes and masses of objects using grams, kilograms, and litres; solve one-step word problems involving mass or volume",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Estimate the mass of a textbook in grams or kilograms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is filling bottles that each hold 250 ml from a 2-litre container of juice, can they work out how many bottles they can fill?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measuring Liquids & Masses. Estimate the mass of a textbook in grams or kilograms Read a scale to measure liquid volume in litres",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_12"
+    },
+    {
+      "title": "Area of compound shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Area of compound shapes. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise area as additive; find areas of rectilinear figures by decomposing into non-overlapping rectangles and summing their areas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Decompose an L-shape into two rectangles, find each area, and add them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given an L-shaped room on squared paper, can they split it into two rectangles, find the area of each part, and add them to get the total area?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Area of compound shapes. Decompose an L-shape into two rectangles, find each area, and add them Find the area of a floor plan shaped like a T by splitting into rectangles",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_13"
+    },
+    {
+      "title": "12-hour and 24-hour time",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about 12-hour and 24-hour time. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, and convert time between analogue and digital 12-hour and 24-hour clocks",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Convert 3:45 pm to 15:45 in 24-hour time",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a train timetable shows a departure at 14:35, can you convert that to 12-hour clock time — and tell you whether that's morning or afternoon?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about 12-hour and 24-hour time: Convert 3:45 pm to 15:45 in 24-hour time Read 19:30 and state the 12-hour equivalent as 7:30 pm",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_06_lesson_14"
+    }
+  ],
+  "id": "Math_unit_06"
+}

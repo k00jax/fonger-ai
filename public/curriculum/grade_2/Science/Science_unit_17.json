@@ -1,0 +1,121 @@
+{
+  "title": "Waves, Light & Sound",
+  "objective": "Students will explore waves, light & sound concepts including How Shadows Form, Reflecting Light, Protecting Eyes from Sunlight.",
+  "standards": [
+    "uk-nc-2013:Y3.Sci.L.4",
+    "uk-nc-2013:Y3.Sci.L.2",
+    "uk-nc-2013:Y3.Sci.L.3",
+    "uk-nc-2013:Y3.Sci.L.5"
+  ],
+  "skills_tested": [
+    "waves,_light_sound"
+  ],
+  "lessons": [
+    {
+      "title": "How Shadows Form",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about How Shadows Form. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that shadows are formed when light from a source is blocked by an opaque object, and find patterns in how shadow size changes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that a shadow forms because an opaque object blocks light from reaching a surface",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you make shadow puppets and explain why the shadow gets bigger when you move the puppet closer to the torch?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Shadows Form. Explain that a shadow forms because an opaque object blocks light from reaching a surface Describe the pattern: shadow gets larger when object moves closer to the light source",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_17_lesson_01"
+    },
+    {
+      "title": "Reflecting Light",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reflecting Light!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Notice that light is reflected from surfaces, and that shiny smooth surfaces reflect light best",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that light bounces off surfaces, which is called reflection",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why they can see themselves in a mirror or a shiny spoon, and why a rough wall doesn't reflect light the same way?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reflecting Light: Explain that light bounces off surfaces, which is called reflection Identify that smooth, shiny surfaces (mirrors, still water) reflect light best",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_17_lesson_02"
+    },
+    {
+      "title": "Protecting Eyes from Sunlight",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Protecting Eyes from Sunlight! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that light from the sun can be dangerous and that there are ways to protect eyes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that looking directly at the sun can damage eyes permanently",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know why you should never look directly at the sun and what you can do to protect your eyes on bright days?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Protecting Eyes from Sunlight. State that looking directly at the sun can damage eyes permanently Name at least two ways to protect eyes from bright sunlight (sunglasses, hat, shade)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_17_lesson_03"
+    }
+  ],
+  "id": "Science_unit_17"
+}

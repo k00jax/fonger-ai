@@ -1,0 +1,256 @@
+{
+  "title": "Ancient Egypt",
+  "objective": "Students will explore ancient egypt concepts including Ancient Egypt's Lasting Legacy, Cleopatra and the End of Egypt, Egyptian Art and Architecture and more.",
+  "standards": [],
+  "skills_tested": [
+    "ancient_egypt"
+  ],
+  "lessons": [
+    {
+      "title": "Ancient Egypt's Lasting Legacy",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ancient Egypt's Lasting Legacy. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate ancient Egypt's lasting legacy: the Egyptians developed early forms of medicine, mathematics (used to build pyramids and survey land after floods), astronomy (calendar based on star observations), and engineering that influenced later civilisations including Greece and Rome — and compare ancient Egypt with other early civilisations (Mesopotamia, Indus Valley, Shang Dynasty) to identify shared features like writing, agriculture, cities, and organised religion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least two Egyptian achievements that influenced later civilisations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked what the ancient Egyptians gave to the world, can they name some lasting achievements and explain how Egypt compared to other ancient civilisations?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ancient Egypt's Lasting Legacy. Name at least two Egyptian achievements that influenced later civilisations Identify at least two features that ancient Egypt shared with other early civilisations",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_01_lesson_01"
+    },
+    {
+      "title": "Cleopatra and the End of Egypt",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Cleopatra and the End of Egypt? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that ancient Egypt eventually came to an end: the last pharaoh was Cleopatra VII, who allied with Rome but was defeated by Octavian (later Augustus) in 31 BCE, after which Egypt became a province of the Roman Empire — ending over 3,000 years of pharaonic rule and beginning a new chapter in Egypt's history",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name Cleopatra VII as the last pharaoh of ancient Egypt",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked what happened to ancient Egypt in the end, can they tell you about Cleopatra and how Egypt became part of the Roman Empire?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Cleopatra and the End of Egypt. Name Cleopatra VII as the last pharaoh of ancient Egypt Explain that Egypt was conquered by Rome and became part of the Roman Empire",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_01_lesson_02"
+    },
+    {
+      "title": "Egyptian Art and Architecture",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Egyptian Art and Architecture. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse Egyptian art and architecture: understand that Egyptian paintings followed strict conventions (people shown from the side with eyes from the front, size indicating importance), that tomb and temple design evolved from mastabas to step pyramids to smooth pyramids to rock-cut temples like Abu Simbel, and that obelisks, colossal statues, and temples like Karnak demonstrated the pharaoh's power and devotion to the gods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify at least two conventions used in Egyptian painting and explain their purpose",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you notices that Egyptian paintings always show people in a strange sideways pose, can they explain that this was a deliberate artistic rule and describe why the Egyptians drew this way?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Egyptian Art and Architecture. Identify at least two conventions used in Egyptian painting and explain their purpose Describe how monument design changed over the course of Egyptian history",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_01_lesson_03"
+    },
+    {
+      "title": "Egyptian Timelines and Maps",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Egyptian Timelines and Maps!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and construct historical timelines — place Ancient Egyptian periods, pharaohs, and key events on a timeline relative to each other and to the present day; interpret maps showing the Nile delta, trade routes, and the location of key sites",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Place the Old, Middle, and New Kingdoms on a timeline and calculate the number of years between them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is shown a timeline of ancient history, can they place the Ancient Egyptian kingdoms in the right order and say roughly how long ago they happened — and read a map to find where key places like Thebes were?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Egyptian Timelines and Maps. Place the Old, Middle, and New Kingdoms on a timeline and calculate the number of years between them Read a map of ancient Egypt and identify the Nile, Memphis, Thebes, and the Valley of the Kings",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_01_lesson_04"
+    },
+    {
+      "title": "Egyptian Trade and Economy",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Egyptian Trade and Economy!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that ancient Egypt had a thriving economy based on farming surplus, trade, and specialised labour: the Nile's fertile soil produced enough food to support craftworkers, priests, and officials, and Egypt traded along the Nile and across the Mediterranean — exchanging gold, papyrus, and grain for cedarwood from Lebanon, lapis lazuli from Afghanistan, and incense from Punt",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain how agricultural surplus along the Nile allowed people to specialise in non-farming jobs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads that the Egyptians traded gold for cedarwood from Lebanon, can they explain why Egypt needed to trade with other countries and how having surplus food made this possible?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Egyptian Trade and Economy. Explain how agricultural surplus along the Nile allowed people to specialise in non-farming jobs Name at least two goods Egypt exported and two it imported, and where they came from",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_01_lesson_05"
+    },
+    {
+      "title": "Judgement of the Dead",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Judgement of the Dead!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the Egyptian belief in the judgement of the dead: after death, the heart was weighed against the feather of Ma'at in the Hall of Judgement, with Anubis overseeing the scales and Thoth recording the result — a pure heart meant entry to the Field of Reeds (paradise), while a heavy heart was devoured by the monster Ammit, and know that the Book of the Dead contained spells to help the deceased pass this test",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the weighing of the heart ceremony and name the gods involved",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a painting of a heart being weighed on scales, can they explain what the Egyptians believed happened after death and why they thought it was so important to live a good life?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Judgement of the Dead. Describe the weighing of the heart ceremony and name the gods involved Explain the role of the Book of the Dead as a guide through the underworld",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_01_lesson_06"
+    },
+    {
+      "title": "The Pharaoh as Living God",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about The Pharaoh as Living God!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the pharaoh was not just a ruler but was believed to be a living god — the intermediary between the gods and the people — and that the concept of Ma'at (truth, justice, and cosmic order) guided Egyptian law and government, with viziers and officials administering the kingdom on the pharaoh's behalf",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain the pharaoh's dual role as both political ruler and divine figure",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked why the pharaoh was so powerful, can they explain that Egyptians believed the pharaoh was a god on Earth and that a concept called Ma'at kept everything in balance?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Pharaoh as Living God. Explain the pharaoh's dual role as both political ruler and divine figure Describe Ma'at as the principle of truth, justice, and order that governed Egyptian society",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_01_lesson_07"
+    }
+  ],
+  "id": "Social Studies_unit_01"
+}

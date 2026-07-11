@@ -1,0 +1,291 @@
+{
+  "title": "Ocean Life",
+  "objective": "Students will explore ocean life concepts including Classifying Ocean Animals, Ocean Food Webs, Ocean Depth Zones and more.",
+  "standards": [],
+  "skills_tested": [
+    "ocean_life"
+  ],
+  "lessons": [
+    {
+      "title": "Classifying Ocean Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Classifying Ocean Animals! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Classify ocean animals into major groups: fish (breathe through gills, have scales), marine mammals (breathe air, warm-blooded, feed milk), and invertebrates (no backbone — jellyfish, octopuses, crabs, starfish)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort ocean animals into fish, marine mammals, and invertebrates",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw pictures of a tuna, a seal, and a jellyfish, could they sort them into fish, marine mammals, and invertebrates, and explain what makes each group different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Classifying Ocean Animals: Sort ocean animals into fish, marine mammals, and invertebrates Give defining features of each group (gills vs lungs, backbone vs none)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_01"
+    },
+    {
+      "title": "Ocean Food Webs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ocean Food Webs. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand ocean food webs: multiple interconnected food chains where energy flows from phytoplankton (producers) through zooplankton, small fish, and large predators, and that removing one species affects the whole web",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Distinguish a food web from a simple food chain",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why catching too many of one type of fish doesn't just affect that fish — it affects the whole food web, including the animals that eat it and the things it eats?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ocean Food Webs: Distinguish a food web from a simple food chain Trace at least two paths of energy through an ocean food web",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_02"
+    },
+    {
+      "title": "Ocean Depth Zones",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Ocean Depth Zones? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the ocean has different zones depending on depth and light: the sunlight zone near the surface where most life lives, the twilight zone where light fades, and the midnight zone of total darkness",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name the three main ocean zones: sunlight, twilight, and midnight",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a diagram showing the ocean getting darker as you go deeper, could they name the three main zones and explain why most ocean animals live near the sunlit surface?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ocean Depth Zones: Name the three main ocean zones: sunlight, twilight, and midnight Explain that light decreases with depth until it disappears completely",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_03"
+    },
+    {
+      "title": "The Five Oceans",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about The Five Oceans!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and locate the five oceans — Pacific (largest), Atlantic, Indian, Southern, and Arctic (smallest and coldest) — on a world map, and understand that they are all connected as one global ocean",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name all five oceans: Pacific, Atlantic, Indian, Southern, Arctic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at a world map, could they point to each of the five oceans by name and explain that they're all connected into one big global ocean?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Five Oceans. Name all five oceans: Pacific, Atlantic, Indian, Southern, Arctic Locate at least three oceans on a world map",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_04"
+    },
+    {
+      "title": "Ocean Animal Adaptations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Ocean Animal Adaptations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that ocean animals have special adaptations for their environment: streamlined bodies for fast swimming, camouflage to hide from predators, blubber to keep warm in cold seas, and tentacles or suckers to catch prey",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least three different ocean animal adaptations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you pick an ocean animal and explain at least two ways its body is specially designed for life in the sea — like a seal's blubber for warmth or an octopus's camouflage for hiding?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Ocean Animal Adaptations. Name at least three different ocean animal adaptations Explain how each adaptation helps the animal survive in its environment",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_05"
+    },
+    {
+      "title": "Tides, Waves & Currents",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Tides, Waves & Currents. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the ocean has tides (water level rises and falls twice a day, caused mainly by the Moon's gravity), waves (caused by wind), and currents (rivers of water flowing through the ocean that carry warmth and nutrients around the world)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe tides as the regular rise and fall of water level, caused by the Moon's gravity",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you noticed the water level changing at the beach during the day, could they explain that tides are caused by the Moon's pull, and that the ocean also has waves from wind and currents that flow like underwater rivers?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Tides, Waves & Currents. Describe tides as the regular rise and fall of water level, caused by the Moon's gravity Explain that waves are caused by wind blowing across the water surface",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_06"
+    },
+    {
+      "title": "The Ocean Floor",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Ocean Floor!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the ocean floor is not flat — it has mountains, valleys, and the deepest trenches on Earth — and that the deepest point is the Mariana Trench, deeper than Mount Everest is tall",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that the ocean floor has varied terrain including mountains, ridges, and trenches",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard that the ocean floor has mountains and valleys, could they explain that it's not flat and that the Mariana Trench is the deepest spot on Earth — deeper than Everest is tall?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Ocean Floor. State that the ocean floor has varied terrain including mountains, ridges, and trenches Name the Mariana Trench as the deepest point on Earth",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_07"
+    },
+    {
+      "title": "Coral Reefs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ocean_life"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Coral Reefs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that coral reefs are built by tiny living animals called coral polyps, that reefs are home to more species than almost any other ocean habitat, and that they are sometimes called the 'rainforests of the sea'",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that coral is built by tiny living animals called polyps, not made of rock",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watched a documentary about coral reefs, could they explain that coral is actually made by tiny living animals, and that reefs are home to an incredible number of different species?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Coral Reefs. State that coral is built by tiny living animals called polyps, not made of rock Describe coral reefs as one of the most biodiverse habitats in the ocean",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_08_lesson_08"
+    }
+  ],
+  "id": "Science_unit_08"
+}

@@ -1,0 +1,291 @@
+{
+  "title": "Animals of the World",
+  "objective": "Students will explore animals of the world concepts including Polar Animals, Animal Migration, Predator Hunting Strategies and more.",
+  "standards": [],
+  "skills_tested": [
+    "animals_of_the_world"
+  ],
+  "lessons": [
+    {
+      "title": "Polar Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Polar Animals!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore animals of the Arctic and Antarctic — polar bears, Arctic foxes, and walruses in the north; penguins, seals, and albatrosses in the south — and understand how polar animals survive extreme cold through thick fur or blubber, huddling behaviour, and seasonal changes like white winter coats",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Names at least 3 animals each from the Arctic and Antarctic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a nature programme about the Arctic, can they explain how polar bears stay warm in freezing temperatures and name at least two differences between Arctic animals (north) and Antarctic animals (south)?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Polar Animals: Names at least 3 animals each from the Arctic and Antarctic Explains at least two adaptations for surviving cold (blubber, thick fur, huddling, white camouflage)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_01"
+    },
+    {
+      "title": "Animal Migration",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Animal Migration. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that many animals make incredible journeys called migrations — Arctic terns fly from pole to pole, monarch butterflies travel thousands of miles across North America, wildebeest cross the Serengeti following rain, and humpback whales swim between polar feeding grounds and tropical breeding waters — and that these journeys are linked to food, breeding, and seasons",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Defines migration as a regular long journey animals make",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you learns about the monarch butterfly's journey, can they explain what migration means and name at least two other animals that make long journeys — and say why they travel?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animal Migration. Defines migration as a regular long journey animals make Names at least 3 migratory animals with their routes or destinations",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_02"
+    },
+    {
+      "title": "Predator Hunting Strategies",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Predator Hunting Strategies? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that predators have evolved hunting strategies — wolves hunt in packs, chameleons use their long tongues, spiders build webs, crocodiles ambush at water's edge — and prey animals have evolved defences — porcupine spines, skunk spray, poison dart frog toxins, zebra stripes confusing predators, playing dead",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describes at least 3 predator hunting strategies with examples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watches a nature programme showing a lion hunting, can they describe at least two different ways predators catch food and two ways prey animals defend themselves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Predator Hunting Strategies: Describes at least 3 predator hunting strategies with examples Describes at least 3 prey defence mechanisms with examples",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_03"
+    },
+    {
+      "title": "Savanna & Grassland Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Savanna & Grassland Animals. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore animals of the grasslands and savanna — lions, zebras, wildebeest, elephants, cheetahs in African savanna; bison and prairie dogs in American grasslands — understanding why large herds form on open grasslands and how predators and prey interact in these wide-open spaces",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Names at least 5 grassland/savanna animals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees pictures of the African savanna, can they name at least four animals that live there and explain why some animals like zebras live in large herds?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Savanna & Grassland Animals. Names at least 5 grassland/savanna animals Explains that herding provides safety in numbers against predators",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_04"
+    },
+    {
+      "title": "Desert Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Desert Animals. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore animals of the desert — camels, fennec foxes, scorpions, rattlesnakes, meerkats — and understand how desert animals survive extreme heat and lack of water through being active at night, storing water or fat, burrowing underground during the day, and having large ears to lose heat",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Names at least 4 desert animals",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads about camels in a desert, can they explain at least two ways desert animals cope with the heat and lack of water — like being active at night or having special body features?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Desert Animals. Names at least 4 desert animals Explains at least two desert survival adaptations (nocturnal behaviour, water storage, burrowing, large ears for cooling)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_05"
+    },
+    {
+      "title": "The World of Minibeasts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about The World of Minibeasts!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that insects and other minibeasts (spiders, worms, snails, centipedes) are the most numerous and diverse group of animals on Earth — there are more species of beetle than any other animal — and that they play vital roles as pollinators (bees, butterflies), decomposers (woodlice, worms), and food for other animals",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Knows that insects/minibeasts are the most numerous animal group",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you spots a bee in the garden, can they explain why bees are important — and name at least two other jobs that insects and minibeasts do that help the natural world?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The World of Minibeasts. Knows that insects/minibeasts are the most numerous animal group Names at least 3 roles minibeasts play: pollinators, decomposers, food source",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_06"
+    },
+    {
+      "title": "Rainforest Animals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Rainforest Animals? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore animals of the tropical rainforest — the most species-rich habitat on Earth — learning that the forest has layers (canopy, understory, forest floor) with different animals at each level: toucans and monkeys in the canopy, jaguars and frogs on the floor, and that rainforests are found near the equator",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Names at least 4 rainforest animals from different layers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you watches a documentary about rainforests, can they describe at least three animals that live there and explain that different animals live at different heights in the forest — some in the treetops and some on the ground?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rainforest Animals: Names at least 4 rainforest animals from different layers Describes the rainforest as having layers (canopy, understory, forest floor)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_07"
+    },
+    {
+      "title": "Animal Communication",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "animals_of_the_world"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Animal Communication. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that animals communicate in many different ways — birds sing to attract mates and defend territory, whales call across vast ocean distances, bees dance to show other bees where food is, wolves howl to keep the pack together, and fireflies flash light signals — and that communication is essential for survival",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describes at least 4 different methods of animal communication (sound, dance, light, scent, body language)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hears birds singing in the morning, can they explain that birdsong is a way of communicating — and describe at least two other ways different animals send messages to each other?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Animal Communication. Describes at least 4 different methods of animal communication (sound, dance, light, scent, body language) Gives a specific animal example for each method",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_01_lesson_08"
+    }
+  ],
+  "id": "Science_unit_01"
+}

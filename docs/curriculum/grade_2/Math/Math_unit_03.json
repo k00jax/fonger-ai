@@ -1,0 +1,300 @@
+{
+  "title": "Fractions",
+  "objective": "Students will explore fractions concepts including Tenths, Fractions on a number line, Splitting shapes into equal parts (age 7+) and more.",
+  "standards": [
+    "uk-nc-2013:Ma/KS2/Y3/F/2",
+    "uk-nc-2013:Ma/KS2/Y3/F/1",
+    "uk-nc-2013:Ma/KS2/Y3/F/6",
+    "uk-nc-2013:Ma/KS2/Y3/F/7",
+    "uk-nc-2013:Ma/KS2/Y3/F/4",
+    "ccss-math:2.G.3",
+    "uk-nc-2013:Ma/KS2/Y3/F/3",
+    "uk-nc-2013:Ma/KS2/Y3/F/5"
+  ],
+  "skills_tested": [
+    "fractions"
+  ],
+  "lessons": [
+    {
+      "title": "Tenths",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Tenths. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count up and down in tenths; recognise that tenths arise from dividing an object into 10 equal parts and from dividing one-digit numbers or quantities by 10",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Count: one tenth, two tenths, three tenths … up to ten tenths (one whole)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you splits a chocolate bar with 10 equal pieces, can they tell you each piece is one tenth — and count up from 1/10 to 10/10 in order?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Tenths. Count: one tenth, two tenths, three tenths … up to ten tenths (one whole) Show that dividing a shape into 10 equal parts gives tenths",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_01"
+    },
+    {
+      "title": "Fractions on a number line",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Fractions on a number line. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use fractions as numbers: place unit fractions and non-unit fractions with small denominators on a number line",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Place 1/2, 1/4, 3/4 on a number line from 0 to 1",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you draw a number line from 0 to 1, can you mark where 1/4, 1/2, and 3/4 should go — without any extra help?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fractions on a number line. Place 1/2, 1/4, 3/4 on a number line from 0 to 1 Identify that 1/3 lies between 0 and 1/2 on the number line",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_02"
+    },
+    {
+      "title": "Splitting shapes into equal parts (age 7+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Splitting shapes into equal parts (age 7+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Partition circles and rectangles into two, three, or four equal shares; describe shares as halves, thirds, and fourths; recognise that equal shares of identical wholes need not have the same shape",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Partition a circle into 3 equal parts and label each 'a third'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you cut a rectangle into thirds in two different ways (three strips vs three squares), can you recognise that both give equal thirds — even though the pieces look different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Splitting shapes into equal parts (age 7+). Partition a circle into 3 equal parts and label each 'a third' Partition a rectangle into 4 equal shares in more than one way",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_03"
+    },
+    {
+      "title": "Equivalent fractions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Equivalent fractions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and show, using diagrams, equivalent fractions with small denominators",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Show that 1/2 = 2/4 using a diagram of equal parts",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a bar divided into 4 equal parts with 2 shaded, can they tell you that's the same as 1/2 — and draw a different bar showing the same amount another way?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Equivalent fractions. Show that 1/2 = 2/4 using a diagram of equal parts Use a fraction wall or bar model to find equivalent fractions",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_04"
+    },
+    {
+      "title": "Simple Fraction Sums",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Simple Fraction Sums!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract fractions with the same denominator within one whole (e.g. 5/7 + 1/7 = 6/7)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate 2/5 + 2/5 = 4/5",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe calls for 2/8 of a cup of milk and then another 3/8 of a cup, can you work out the total without a calculator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Simple Fraction Sums. Calculate 2/5 + 2/5 = 4/5 Calculate 6/8 − 3/8 = 3/8",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_05"
+    },
+    {
+      "title": "Comparing fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Comparing fractions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and order unit fractions, and fractions with the same denominator",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Order 1/2, 1/3, 1/4, 1/5 from largest to smallest",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has eaten 3/8 of a cake and a friend has eaten 5/8 of the same cake, can they tell you who has eaten more — and put those fractions in order from smallest to biggest?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing fractions. Order 1/2, 1/3, 1/4, 1/5 from largest to smallest Explain that a larger denominator means smaller unit fractions",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_06"
+    },
+    {
+      "title": "Unit fractions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Unit fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise, find, and write fractions of a discrete set of objects: unit fractions and non-unit fractions with small denominators",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Find 1/4 of 12 objects by dividing into 4 equal groups",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If there are 15 books on a shelf, can you work out how many two-thirds of them is — and check by grouping the books into three equal piles?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Unit fractions. Find 1/4 of 12 objects by dividing into 4 equal groups Find 3/4 of 12 objects",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_07"
+    },
+    {
+      "title": "Comparing fractions (age 7+)",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Comparing fractions (age 7+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving counting in tenths, fractions of quantities, equivalence, fraction addition/subtraction, and fraction comparison",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Solve a word problem requiring finding a fraction of a quantity",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a bag of 20 sweets is shared equally among 5 friends, can you work out what fraction each person gets — and how many sweets that is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Comparing fractions (age 7+): Solve a word problem requiring finding a fraction of a quantity Solve a problem that requires comparing or ordering fractions",
+          "media": {}
+        }
+      ],
+      "id": "2_Math_unit_03_lesson_08"
+    }
+  ],
+  "id": "Math_unit_03"
+}

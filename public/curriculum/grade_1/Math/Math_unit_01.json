@@ -1,0 +1,617 @@
+{
+  "title": "Addition & Subtraction",
+  "objective": "Students will explore addition & subtraction concepts including Addition and subtraction within 20, Fluent adding and subtracting within 10, What the equals sign means and more.",
+  "standards": [
+    "ccss-math:1.OA.6",
+    "ccss-math:1.NBT.6",
+    "uk-nc-2013:Maths/Y2/AS/7",
+    "uk-nc-2013:Maths/Y2/AS/5",
+    "uk-nc-2013:Maths/Y2/AS/6",
+    "uk-nc-2013:Maths/Y2/AS/3",
+    "uk-nc-2013:Maths/Y2/AS/2",
+    "ccss-math:1.OA.7",
+    "ccss-math:1.OA.3",
+    "uk-nc-2013:Maths/Y2/AS/1"
+  ],
+  "skills_tested": [
+    "addition_subtraction"
+  ],
+  "lessons": [
+    {
+      "title": "Addition and subtraction within 20",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Addition and subtraction within 20? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract within 20 using strategies such as making ten, decomposing a number leading to ten, and using known facts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Solve 8 + 6 using making ten: 8 + 2 + 4 = 14",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to work out '8 + 6', can they split the 6 into 2 + 4, use the 2 to fill up to 10, then add the remaining 4 to get 14?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Addition and subtraction within 20: Solve 8 + 6 using making ten: 8 + 2 + 4 = 14 Solve 13 − 4 by decomposing: 13 − 3 − 1 = 9",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_01"
+    },
+    {
+      "title": "Fluent adding and subtracting within 10",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Fluent adding and subtracting within 10! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Fluently add and subtract within 10",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Answer any addition fact within 10 quickly from memory",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you answer sums like '7 + 3' or '9 − 4' almost instantly — without stopping to count on their fingers?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fluent adding and subtracting within 10. Answer any addition fact within 10 quickly from memory Answer any subtraction fact within 10 quickly from memory",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_02"
+    },
+    {
+      "title": "What the equals sign means",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of What the equals sign means!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the meaning of the equal sign as 'is the same as' and determine if equations are true or false",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that 6 = 6 is true because both sides are the same",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that '=' means 'the same as', so they can tell you whether '4 + 3 = 8 − 1' is true or false?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about What the equals sign means. Explain that 6 = 6 is true because both sides are the same Determine that 4 + 1 = 5 + 2 is false",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_03"
+    },
+    {
+      "title": "Adding within 100",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Adding within 100! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add within 100 using strategies based on place value, including adding a two-digit and one-digit number, and a two-digit and a multiple of 10",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 46 + 7 using place value (46 + 4 + 3 = 53)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out sums like '47 + 8' or '35 + 50' by thinking about the tens and ones separately rather than counting up one at a time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding within 100: Calculate 46 + 7 using place value (46 + 4 + 3 = 53) Calculate 38 + 40 = 78 using tens understanding",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_04"
+    },
+    {
+      "title": "Addition in any order",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Addition in any order. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and apply the commutative property of addition: addends can be added in any order",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that 3 + 8 gives the same answer as 8 + 3",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that 6 + 4 gives the same answer as 4 + 6, so they can always choose whichever order makes the adding easier?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Addition in any order. Explain that 3 + 8 gives the same answer as 8 + 3 Use commutativity to choose the larger number to count on from",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_05"
+    },
+    {
+      "title": "Finding a missing number in addition",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Finding a missing number in addition!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand subtraction as finding an unknown addend (e.g. 10 − 8 = ? is the same as 8 + ? = 10)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Solve 10 − 8 by thinking 'what do I add to 8 to make 10?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you see that '10 − 8 = ?' is the same as asking 'what do I add to 8 to reach 10?' — so they can use their adding knowledge to help with subtraction?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Finding a missing number in addition: Solve 10 − 8 by thinking 'what do I add to 8 to make 10?' Explain that subtraction can be thought of as a missing-addend problem",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_06"
+    },
+    {
+      "title": "Inverse: addition undoes subtraction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Inverse: addition undoes subtraction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use the inverse relationship between addition and subtraction to check calculations and solve missing-number problems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Check 15 + 7 = 22 by calculating 22 − 7 = 15",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you works out 13 + 5 = 18, can they immediately use that to say '18 − 5 = 13' — without having to work the subtraction out all over again?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Inverse: addition undoes subtraction. Check 15 + 7 = 22 by calculating 22 − 7 = 15 Use the inverse to solve: □ + 9 = 14, so □ = 14 − 9 = 5",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_07"
+    },
+    {
+      "title": "Mental and written addition and subtraction",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Mental and written addition and subtraction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve addition and subtraction problems using mental and written methods, including problems involving numbers, quantities, and measures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve a two-step problem: 'I had 35p, spent 12p, then found 5p. How much now?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a problem involving lengths, weights, or prices, can they decide whether to add or subtract and carry out the calculation correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Mental and written addition and subtraction. Solve a two-step problem: 'I had 35p, spent 12p, then found 5p. How much now?' Choose an appropriate method (mental or written) for a given problem",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_08"
+    },
+    {
+      "title": "Adding two two-digit numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Adding two two-digit numbers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract two two-digit numbers using concrete objects, pictorial representations, and mental methods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 34 + 27 using base-ten blocks or column addition",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you add or subtract two two-digit numbers — like '43 + 28' — using counters, a drawing, or working it out in their head?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding two two-digit numbers: Calculate 34 + 27 using base-ten blocks or column addition Calculate 63 − 28 using a number line or partitioning",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_09"
+    },
+    {
+      "title": "Mental addition and subtraction (age 6+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Mental addition and subtraction (age 6+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract a two-digit number and ones mentally and using concrete/pictorial representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 36 + 7 = 43 using objects or mentally",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you work out '36 + 7' or '42 − 5' in their head — keeping the tens in place and only adjusting the ones?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Mental addition and subtraction (age 6+). Calculate 36 + 7 = 43 using objects or mentally Calculate 52 − 4 = 48 using a number line or mentally",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_10"
+    },
+    {
+      "title": "Unknown in Addition & Subtraction",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Unknown in Addition & Subtraction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine the unknown whole number in an addition or subtraction equation relating three whole numbers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Solve 8 + ? = 11 and write 3",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees '? + 6 = 14' or '9 − ? = 4' written on paper, can they figure out what number goes in the gap?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Unknown in Addition & Subtraction. Solve 8 + ? = 11 and write 3 Solve 5 = □ − 3 and write 8",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_11"
+    },
+    {
+      "title": "Fluent addition and subtraction",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Fluent addition and subtraction! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Rapidly recall 7 + 8 = 15 and 15 − 8 = 7",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly recall facts like '9 + 7 = 16' and '16 − 7 = 9', and use those to help work out bigger sums like '90 + 70'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fluent addition and subtraction: Rapidly recall 7 + 8 = 15 and 15 − 8 = 7 Use 6 + 4 = 10 to derive 60 + 40 = 100",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_12"
+    },
+    {
+      "title": "Adding and subtracting tens mentally",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Adding and subtracting tens mentally!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract a two-digit number and tens mentally and using concrete/pictorial representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 45 + 30 = 75 mentally",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '54 + 30' or '78 − 20' in their head — knowing that only the tens digit changes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Adding and subtracting tens mentally. Calculate 45 + 30 = 75 mentally Calculate 82 − 40 = 42 mentally",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_13"
+    },
+    {
+      "title": "Subtracting multiples of 10",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Subtracting multiples of 10!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Subtract multiples of 10 (10–90) from multiples of 10 using place value strategies",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 70 − 30 = 40",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '80 − 50' or '70 − 40' in their head by thinking about how many tens are left?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Subtracting multiples of 10: Calculate 70 − 30 = 40 Use base-ten blocks to show 80 − 50 = 30",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_14"
+    },
+    {
+      "title": "Adding Three Small Numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Adding Three Small Numbers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add three one-digit numbers using strategies including looking for pairs that make 10",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 5 + 7 + 3 by first adding 7 + 3 = 10, then 5 + 10 = 15",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to add 4 + 6 + 8, can they spot that 4 and 6 make 10 first, then add 8 to get 18 — rather than just adding in order from left to right?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding Three Small Numbers: Calculate 5 + 7 + 3 by first adding 7 + 3 = 10, then 5 + 10 = 15 Add any three single-digit numbers correctly",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_15"
+    },
+    {
+      "title": "Grouping numbers to add",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Grouping numbers to add. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and apply the associative property of addition: when adding three numbers, any two can be added first",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Solve 2 + 6 + 4 by first adding 6 + 4 = 10, then 2 + 10 = 12",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to add 3 + 7 + 6, can they spot that adding 3 and 7 first (to make 10) is easier — rather than always working left to right?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Grouping numbers to add: Solve 2 + 6 + 4 by first adding 6 + 4 = 10, then 2 + 10 = 12 Explain that grouping addends differently gives the same total",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_16"
+    },
+    {
+      "title": "Addition and subtraction strategies",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "addition_subtraction"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Addition and subtraction strategies!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use counting on and counting back as strategies for addition and subtraction",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Add 8 + 3 by starting at 8 and counting on 3 (9, 10, 11)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to work out '8 + 5', can they start from 8 and count up five more — rather than starting from 1 every time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Addition and subtraction strategies. Add 8 + 3 by starting at 8 and counting on 3 (9, 10, 11) Subtract 12 − 3 by counting back 3 from 12 (11, 10, 9)",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_01_lesson_17"
+    }
+  ],
+  "id": "Math_unit_01"
+}

@@ -1,0 +1,221 @@
+{
+  "title": "Volcanoes & Earthquakes",
+  "objective": "Students will explore volcanoes & earthquakes concepts including What Is a Volcano, What Is an Earthquake, Earth Is Made of Rock and more.",
+  "standards": [],
+  "skills_tested": [
+    "volcanoes_earthquakes"
+  ],
+  "lessons": [
+    {
+      "title": "What Is a Volcano",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of What Is a Volcano!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know what a volcano is: an opening in Earth's surface where hot melted rock (lava) comes out",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe a volcano as a place where hot material comes out of the Earth",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a picture of a volcano erupting, can they explain that it's an opening in the ground where very hot melted rock comes out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about What Is a Volcano: Describe a volcano as a place where hot material comes out of the Earth Explain that lava is rock so hot it has melted",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_16_lesson_01"
+    },
+    {
+      "title": "What Is an Earthquake",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about What Is an Earthquake. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know what an earthquake is: a sudden shaking of the ground that can be strong or weak",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe an earthquake as the ground shaking suddenly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that an earthquake is when the ground suddenly shakes, and that some earthquakes shake harder than others?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What Is an Earthquake. Describe an earthquake as the ground shaking suddenly Explain that earthquakes vary in strength from barely noticeable to very strong",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_16_lesson_02"
+    },
+    {
+      "title": "Earth Is Made of Rock",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Earth Is Made of Rock!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that Earth is made of rock and other solid materials",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that the ground beneath us is made of rock",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you picks up a stone in the garden, can they tell you that the whole Earth is made of rock and other materials like that stone?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Earth Is Made of Rock: State that the ground beneath us is made of rock Identify rocks and stones as pieces of the Earth",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_16_lesson_03"
+    },
+    {
+      "title": "Fast & Slow Earth Changes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Fast & Slow Earth Changes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that Earth's surface changes: some changes are quick (eruptions, earthquakes) and some are slow (wind, water wearing away rock)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Give an example of a quick change to Earth's surface like a volcanic eruption",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you point out a cliff being worn away by waves, can you explain that this happens slowly, while a volcanic eruption or earthquake changes the land quickly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fast & Slow Earth Changes: Give an example of a quick change to Earth's surface like a volcanic eruption Give an example of a slow change to Earth's surface like erosion by wind or water",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_16_lesson_04"
+    },
+    {
+      "title": "Power of Eruptions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Power of Eruptions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Appreciate that volcanic eruptions are powerful events that can change the landscape",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe an eruption as a powerful, dramatic event",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After watching a video of a volcano erupting, does you show excitement and talk about how powerful it is and how it changes the land around it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Power of Eruptions: Describe an eruption as a powerful, dramatic event Give examples of how an eruption changes the area around a volcano",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_16_lesson_05"
+    },
+    {
+      "title": "Earthquake Safety",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Earthquake Safety? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know basic earthquake safety: drop, cover, and hold on; move away from windows; tell a trusted adult",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Demonstrate the drop, cover, and hold on procedure",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you what to do if the ground started shaking, could they show you 'drop, cover, and hold on' and say they'd move away from windows?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Earthquake Safety. Demonstrate the drop, cover, and hold on procedure Explain why to move away from windows and shelves during shaking",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_16_lesson_06"
+    }
+  ],
+  "id": "Science_unit_16"
+}

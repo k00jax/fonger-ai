@@ -1,0 +1,291 @@
+{
+  "title": "Dinosaurs & Paleontology",
+  "objective": "Students will explore dinosaurs & paleontology concepts including Changing Scientific Knowledge, Reading Cladograms, Birds Evolved from Dinosaurs and more.",
+  "standards": [],
+  "skills_tested": [
+    "dinosaurs_paleontology"
+  ],
+  "lessons": [
+    {
+      "title": "Changing Scientific Knowledge",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Changing Scientific Knowledge? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate competing scientific explanations about dinosaurs by weighing fossil evidence — understanding that scientific knowledge changes as new fossils are discovered and new methods of analysis are developed",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give an example of a scientific idea about dinosaurs that changed when new evidence was found",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you read two different explanations for why dinosaurs went extinct, could they discuss what evidence supports each idea and why scientists sometimes change their minds?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Changing Scientific Knowledge. Give an example of a scientific idea about dinosaurs that changed when new evidence was found Explain that different scientists may interpret the same fossil evidence differently",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_01"
+    },
+    {
+      "title": "Reading Cladograms",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Reading Cladograms. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and create simple cladograms (branching diagrams) that show how groups of dinosaurs are related based on shared features, understanding that species sharing more features are more closely related",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that a cladogram shows evolutionary relationships based on shared features",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a branching tree diagram showing dinosaur relationships, could they explain which dinosaurs are most closely related by looking at where the branches split?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reading Cladograms. Explain that a cladogram shows evolutionary relationships based on shared features Read a simple cladogram to identify which two dinosaurs share the most recent common ancestor",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_02"
+    },
+    {
+      "title": "Birds Evolved from Dinosaurs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Birds Evolved from Dinosaurs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that modern birds evolved from a group of small feathered theropod dinosaurs, using evidence such as the fossil Archaeopteryx, feathered dinosaur fossils from China, and shared skeletal features",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that birds evolved from small theropod dinosaurs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why scientists say birds are actually living dinosaurs — and point to evidence like feathered dinosaur fossils?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Birds Evolved from Dinosaurs. State that birds evolved from small theropod dinosaurs Name Archaeopteryx or Chinese feathered dinosaurs as key fossil evidence",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_03"
+    },
+    {
+      "title": "Palaeoart & Speculation",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Palaeoart & Speculation? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that palaeoart — scientific illustrations and models of dinosaurs — is based on fossil evidence but involves informed speculation about skin colour, feathers, and soft tissues that don't usually fossilise",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that bones and teeth are known from fossils but skin colour and soft tissues usually are not",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that pictures of dinosaurs are educated guesses? Can they explain what parts are based on evidence and what parts scientists have to imagine?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Palaeoart & Speculation. Explain that bones and teeth are known from fossils but skin colour and soft tissues usually are not State that recent discoveries of preserved skin impressions and feather fossils have improved reconstructions",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_04"
+    },
+    {
+      "title": "Rock Layers & Relative Dating",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Rock Layers & Relative Dating!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that rock layers (strata) form in sequence with the oldest at the bottom and the youngest at the top, and that fossils found in deeper layers are older — this is the principle of relative dating",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that sedimentary rock forms in layers with the oldest at the bottom",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a cliff with layers of rock, could they explain that the bottom layers are the oldest and that fossils found deeper down lived longer ago?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rock Layers & Relative Dating: Explain that sedimentary rock forms in layers with the oldest at the bottom Use a diagram of rock strata to determine which fossil is older based on its position",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_05"
+    },
+    {
+      "title": "How Palaeontologists Work",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of How Palaeontologists Work!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how palaeontologists work in the field and lab: prospecting for exposed fossils, careful excavation with hand tools, plaster jacketing for transport, preparation in the lab, and scientific description and publication",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: List the main stages: prospecting, excavation, jacketing, transport, preparation, study, display",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe the steps a palaeontologist goes through from first spotting a fossil in a cliff to it ending up on display in a museum?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about How Palaeontologists Work: List the main stages: prospecting, excavation, jacketing, transport, preparation, study, display Explain why careful excavation with small tools is necessary to avoid damaging the fossil",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_06"
+    },
+    {
+      "title": "Dinosaur Hip Groups",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Dinosaur Hip Groups? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Classify dinosaurs into the two major groups based on hip structure: Saurischia (lizard-hipped, including theropods and sauropods) and Ornithischia (bird-hipped, including Triceratops and Stegosaurus)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name the two major dinosaur groups: Saurischia and Ornithischia",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that scientists divide dinosaurs into two big groups based on their hip bones — and tell you which group includes T. rex?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Dinosaur Hip Groups. Name the two major dinosaur groups: Saurischia and Ornithischia Explain the difference is based on hip bone structure (lizard-hipped vs bird-hipped)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_07"
+    },
+    {
+      "title": "The K-Pg Extinction Event",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "dinosaurs_paleontology"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about The K-Pg Extinction Event!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the Cretaceous–Palaeogene (K-Pg) extinction event approximately 66 million years ago, including the asteroid impact theory and its evidence (iridium layer, Chicxulub crater), and understand that this ended the reign of non-avian dinosaurs",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that the K-Pg extinction happened about 66 million years ago and wiped out non-avian dinosaurs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what scientists think caused the dinosaurs to go extinct — and describe at least one piece of evidence for the asteroid theory?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The K-Pg Extinction Event. State that the K-Pg extinction happened about 66 million years ago and wiped out non-avian dinosaurs Describe the asteroid impact hypothesis and name the Chicxulub crater in Mexico",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_02_lesson_08"
+    }
+  ],
+  "id": "Science_unit_02"
+}

@@ -1,0 +1,192 @@
+{
+  "title": "Self-Regulation & Resilience",
+  "objective": "Students will explore self-regulation & resilience concepts including Breaking Tasks into Steps, Growth Mindset, Vocabulary: resilience and self and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-CU-P2-4",
+    "ib-pyp-pspe:PSPE-ID-LO-P3-10",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-12",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-11",
+    "ib-pyp-pspe:PSPE-ID-CU-P2-7"
+  ],
+  "skills_tested": [
+    "self-regulation_resilience"
+  ],
+  "lessons": [
+    {
+      "title": "Breaking Tasks into Steps",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Breaking Tasks into Steps!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Break a challenging task into smaller, manageable steps rather than feeling overwhelmed by the whole thing — and celebrate progress along the way",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Take a challenging task and list at least three smaller steps to complete it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has a big school project that feels overwhelming, can they break it down into smaller steps — like 'first I'll research, then I'll write the introduction' — rather than panicking about the whole thing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Breaking Tasks into Steps. Take a challenging task and list at least three smaller steps to complete it Start with the first step rather than procrastinating on the whole task",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_06_lesson_01"
+    },
+    {
+      "title": "Growth Mindset",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Growth Mindset? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand the concept of a growth mindset — that abilities and intelligence can grow with effort, practice, and good strategies — as opposed to a fixed mindset where you believe you're either good at something or you're not",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the difference between growth mindset and fixed mindset in their own words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you finds something difficult like learning to ride a bike or mastering times tables, do they say 'I can't do it YET' rather than 'I'm just not good at this'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Growth Mindset. Explain the difference between growth mindset and fixed mindset in their own words Use 'yet' language when describing something they find difficult",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_06_lesson_02"
+    },
+    {
+      "title": "Vocabulary: resilience and self",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Vocabulary: resilience and self? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of resilience and self-management — including regulate, resilience, growth mindset, fixed mindset, self-talk, trigger, setback, persevere, and distress — and understand what each word means in practice",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what 'resilience' means in their own words and give an example of a time they kept going when something was hard",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you's team loses a match or they fail a test, can they talk about what happened using words like 'resilience' or 'growth mindset' — showing they understand the difference between giving up and bouncing back?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Vocabulary: resilience and self: Explain what 'resilience' means in their own words and give an example of a time they kept going when something was hard Use 'growth mindset' correctly — e.g. 'I can't do it yet, but I can improve with practice'",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_06_lesson_03"
+    },
+    {
+      "title": "Positive Self-Talk",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Positive Self-Talk!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use positive self-talk to manage difficult situations — replacing unhelpful thoughts like 'I'm stupid' or 'I'll never be able to do this' with encouraging ones like 'This is hard but I can keep trying' or 'I've done hard things before'",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give an example of an unhelpful thought and rephrase it as a helpful one",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is struggling with homework and starts saying 'I'm rubbish at this', can they catch that thought and replace it with something more helpful like 'I just need to try a different approach'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Positive Self-Talk: Give an example of an unhelpful thought and rephrase it as a helpful one Use positive self-talk aloud or in writing when facing a challenge",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_06_lesson_04"
+    },
+    {
+      "title": "Choosing the Right Coping Strategy",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "self-regulation_resilience"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Choosing the Right Coping Strategy. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that different situations require different coping strategies — what works for anger might not work for sadness, and what helps at school might be different from what helps at home",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least two different coping strategies and explain when each one is most useful",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you recognise that when they're angry they need to do something physical like walk around, but when they're worried they need to talk it through — rather than using the same approach for every difficult feeling?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Choosing the Right Coping Strategy. Name at least two different coping strategies and explain when each one is most useful Choose an appropriate strategy based on the specific situation and emotion",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_06_lesson_05"
+    }
+  ],
+  "id": "SEL_unit_06"
+}

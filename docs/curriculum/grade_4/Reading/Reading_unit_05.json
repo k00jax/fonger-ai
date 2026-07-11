@@ -1,0 +1,197 @@
+{
+  "title": "Vocabulary",
+  "objective": "Students will explore vocabulary concepts including Domain Vocabulary Across Subject Areas, Greek and Latin Roots for Word Meaning, Similes & Metaphors and more.",
+  "standards": [
+    "ccss-ela:RL.5.4",
+    "ccss-ela:L.4.5a",
+    "ccss-ela:L.4.6",
+    "ccss-ela:L.5.5b",
+    "ccss-ela:L.5.6",
+    "ccss-ela:L.4.5b",
+    "ccss-ela:L.5.5a",
+    "ccss-ela:L.4.5c",
+    "ccss-ela:RI.4.4",
+    "ccss-ela:RI.5.4"
+  ],
+  "skills_tested": [
+    "vocabulary"
+  ],
+  "lessons": [
+    {
+      "title": "Domain Vocabulary Across Subject Areas",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Domain Vocabulary Across Subject Areas!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Acquire and use accurately academic and domain-specific vocabulary relevant to grade-level topics, including words that signal precise meaning in informational texts across subject areas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify and define academic vocabulary (e.g., compare, contrast, summarise, evidence, interpret) used across multiple subject areas and use these words accurately in discussion and writing",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is studying a topic in science or history, do they pick up and correctly use the specific vocabulary for that subject — like \"erosion,\" \"parliament,\" or \"habitat\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Domain Vocabulary Across Subject Areas. Identify and define academic vocabulary (e.g., compare, contrast, summarise, evidence, interpret) used across multiple subject areas and use these words accurately in discussion and writing Determine the meaning of domain-specific words encountered in science, social studies, or maths texts (e.g., ecosystem, democracy, numerator) using context, glossaries, and prior knowledge",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_05_lesson_01"
+    },
+    {
+      "title": "Greek and Latin Roots for Word Meaning",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Greek and Latin Roots for Word Meaning!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use knowledge of Greek and Latin affixes (prefixes and suffixes) and roots as clues to determine the meaning of unfamiliar words, building a bank of common roots and their meanings",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify common Greek and Latin roots in unfamiliar words and use root meaning to infer word meaning, e.g. 'aqua' (water) in aquarium/aquatic, 'dict' (say) in predict/dictionary",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you comes across an unfamiliar word containing a Greek or Latin root they recognise — like \"port\" in \"transport\" or \"bio\" in \"biology\" — can they use that to work out the meaning?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Greek and Latin Roots for Word Meaning: Identify common Greek and Latin roots in unfamiliar words and use root meaning to infer word meaning, e.g. 'aqua' (water) in aquarium/aquatic, 'dict' (say) in predict/dictionary Break a multi-morpheme word into prefix + root + suffix to determine meaning, e.g. un- (not) + believe + -able = not able to be believed",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_05_lesson_02"
+    },
+    {
+      "title": "Similes & Metaphors",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Similes & Metaphors!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and identify similes (comparisons using like or as) and metaphors (direct comparisons stating something is something else) in texts, explaining how each creates imagery and conveys meaning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify similes in a text by locating comparisons using 'like' or 'as' and explain what two things are being compared and what quality is highlighted, e.g. 'The snow was like a white blanket'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a description like \"the moon was a silver coin\" or \"her smile was like sunshine,\" can they explain what image the author was trying to create?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Similes & Metaphors: Identify similes in a text by locating comparisons using 'like' or 'as' and explain what two things are being compared and what quality is highlighted, e.g. 'The snow was like a white blanket' Identify metaphors in a text and explain the implied comparison, e.g. in 'Time is a thief', explain that time is compared to a thief because it takes things away",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_05_lesson_03"
+    },
+    {
+      "title": "Antonyms & Synonyms",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Antonyms & Synonyms! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Demonstrate understanding of words by relating them to their antonyms (opposites) and synonyms (words with similar meanings), using synonym and antonym relationships to refine vocabulary and improve precision in writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Generate synonyms and antonyms for given words and explain subtle differences between synonyms, e.g. happy/joyful/ecstatic differ in intensity",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is writing, can they swap out a basic word for a more precise one — for example, replacing \"happy\" with \"elated\" or \"said\" with \"whispered\" — to make their meaning clearer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Antonyms & Synonyms. Generate synonyms and antonyms for given words and explain subtle differences between synonyms, e.g. happy/joyful/ecstatic differ in intensity Use a thesaurus to find synonyms and select the most precise word for a given context, e.g. choosing 'sprinted' rather than 'ran' to convey speed",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_05_lesson_04"
+    },
+    {
+      "title": "Idioms & Proverbs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Idioms & Proverbs? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and interpret common idioms (break the ice, hit the nail on the head), adages (actions speak louder than words), and proverbs (a stitch in time saves nine), understanding their figurative meanings and when to use them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the figurative meaning of common idioms encountered in texts, e.g. 'let the cat out of the bag' means to reveal a secret, not literally releasing a cat",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you hears a saying like \"don't judge a book by its cover\" or \"the early bird catches the worm,\" do they know what it really means and when you'd use it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Idioms & Proverbs. Explain the figurative meaning of common idioms encountered in texts, e.g. 'let the cat out of the bag' means to reveal a secret, not literally releasing a cat Interpret the meaning and intended lesson of adages and proverbs, e.g. explain that 'the early bird catches the worm' advises that acting promptly gives an advantage",
+          "media": {}
+        }
+      ],
+      "id": "4_Reading_unit_05_lesson_05"
+    }
+  ],
+  "id": "Reading_unit_05"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Energy",
+  "objective": "Students will explore energy concepts including Naming types of energy.",
+  "standards": [],
+  "skills_tested": [
+    "energy"
+  ],
+  "lessons": [
+    {
+      "title": "Naming types of energy",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "energy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Naming types of energy!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and use vocabulary for types of energy and energy transfer — kinetic energy, potential energy, heat energy, light energy, sound energy, electrical energy, chemical energy, stored energy, energy transfer, energy transformation — and describe energy changes in familiar situations using these terms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name the type of energy stored in a battery, a stretched spring, and a moving ball",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you stretches a rubber band and lets it go, can they name what type of energy it had when stretched — and what it changed into?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Naming types of energy. Name the type of energy stored in a battery, a stretched spring, and a moving ball Use 'energy transfer' or 'energy transformation' to describe what happens in a simple device such as a torch or a toaster",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_04_lesson_01"
+    }
+  ],
+  "id": "Science_unit_04"
+}

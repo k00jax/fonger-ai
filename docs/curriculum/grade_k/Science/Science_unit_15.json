@@ -1,0 +1,221 @@
+{
+  "title": "The Human Body",
+  "objective": "Students will explore the human body concepts including How Breathing Works, The Heart & Blood, The Brain Controls the Body and more.",
+  "standards": [],
+  "skills_tested": [
+    "the_human_body"
+  ],
+  "lessons": [
+    {
+      "title": "How Breathing Works",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about How Breathing Works. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that we breathe air into our lungs through the nose and mouth, that our lungs take in oxygen from the air which our body needs to stay alive, and that we breathe out carbon dioxide as waste",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Trace the path of air: nose/mouth → windpipe → lungs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After running around, can you notice their faster breathing and explain that their lungs are taking in air that the body needs?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about How Breathing Works: Trace the path of air: nose/mouth → windpipe → lungs State that lungs take oxygen from the air, which the body needs",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_15_lesson_01"
+    },
+    {
+      "title": "The Heart & Blood",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about The Heart & Blood. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the heart is a muscle that pumps blood around the body through tubes called blood vessels, and that we can feel our heartbeat by placing a hand on our chest or fingers on our wrist",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Locate their own heartbeat by touch (chest or pulse point)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you find their own pulse on their wrist or neck, and explain that it’s their heart pumping blood?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Heart & Blood. Locate their own heartbeat by touch (chest or pulse point) State that the heart pumps blood through the body continuously",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_15_lesson_02"
+    },
+    {
+      "title": "The Brain Controls the Body",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Brain Controls the Body!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the brain is the body’s control centre: it receives messages from the senses, thinks and makes decisions, and sends messages through nerves to tell muscles what to do",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that the brain is inside the skull and controls the whole body",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what the brain does — that it’s in charge of thinking, feeling, and telling the body what to do?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Brain Controls the Body. State that the brain is inside the skull and controls the whole body Describe the basic loop: senses send information to the brain, the brain decides what to do, and sends messages to muscles",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_15_lesson_03"
+    },
+    {
+      "title": "Basic Body Needs",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Basic Body Needs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the body needs food for energy, water to stay hydrated, sleep to rest and grow, and exercise to keep muscles and the heart strong — and that these are basic needs every human body has",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. List the four basic needs: food (energy), water (hydration), sleep (rest and growth), exercise (strength)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why their body needs food, water, sleep, and exercise — and what happens if they miss any of them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Basic Body Needs. List the four basic needs: food (energy), water (hydration), sleep (rest and growth), exercise (strength) Explain that food gives the body energy to move, think, and grow",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_15_lesson_04"
+    },
+    {
+      "title": "Bones & Muscles",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Bones & Muscles!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the body has a skeleton made of bones inside it that gives the body its shape and protects important organs like the brain (skull) and heart (ribcage), and that muscles attached to bones allow the body to move",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that bones give the body shape, support, and protection",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you feel their own ribs or skull and explain what those bones are protecting inside?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Bones & Muscles. State that bones give the body shape, support, and protection Name at least three bones or bone groups (e.g. skull, ribcage, spine, leg bones)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_15_lesson_05"
+    },
+    {
+      "title": "The Five Senses",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Five Senses!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore the five senses in detail: sight uses eyes to detect light, hearing uses ears to detect sound, touch uses skin to feel pressure and temperature, taste uses the tongue to detect flavours, and smell uses the nose to detect odours",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name all five senses and match each to the correct body part",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you blindfolded you and gave them something to smell, taste, and touch, could they name which sense they were using each time and which body part does the job?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The Five Senses: Name all five senses and match each to the correct body part Describe what each sense detects (e.g. eyes detect light, ears detect sound waves)",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_15_lesson_06"
+    }
+  ],
+  "id": "Science_unit_15"
+}

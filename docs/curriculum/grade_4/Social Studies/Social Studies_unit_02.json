@@ -1,0 +1,291 @@
+{
+  "title": "Ancient Greece & Rome",
+  "objective": "Students will explore ancient greece & rome concepts including Greek and Roman Legacy Today, Evidence for Greek and Roman Life, Roman Law, Latin, and Christianity and more.",
+  "standards": [],
+  "skills_tested": [
+    "ancient_greece_rome"
+  ],
+  "lessons": [
+    {
+      "title": "Greek and Roman Legacy Today",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Greek and Roman Legacy Today? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate the lasting contributions of Greek and Roman civilisations to modern life — democracy, law, language (Latin roots), architecture (columns, arches, domes), sport (Olympics), philosophy, literature, and theatre — and understand that Greek ideas reached us through Rome, and then through later European civilisations, in a chain of cultural transmission",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! List at least five ways ancient Greece and Rome still influence modern life",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you list several things we still have today because of the ancient Greeks and Romans — like democracy, the Olympics, Latin words, and building styles — and explain how those ideas reached us?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Greek and Roman Legacy Today. List at least five ways ancient Greece and Rome still influence modern life Explain how Greek culture spread to Rome and then from Rome across Europe",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_01"
+    },
+    {
+      "title": "Evidence for Greek and Roman Life",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Evidence for Greek and Roman Life. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that historians and archaeologists piece together ancient Greek and Roman life from evidence — pottery paintings, coins, inscriptions, ruins like Pompeii, and written texts by authors such as Homer and Pliny — and that the same evidence can be interpreted in different ways by different historians",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name at least three types of evidence historians use to learn about ancient Greece and Rome",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw an ancient Greek pot or a Roman coin in a museum, could they explain what historians can learn from objects like these and why different experts might interpret them differently?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Evidence for Greek and Roman Life: Name at least three types of evidence historians use to learn about ancient Greece and Rome Explain why Pompeii is especially valuable as a source of evidence about Roman life",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_02"
+    },
+    {
+      "title": "Roman Law, Latin, and Christianity",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Roman Law, Latin, and Christianity? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that Roman law became the basis for legal systems across Europe and beyond, that Latin is the root of French, Spanish, Italian, Portuguese, and Romanian and gave English hundreds of words (e.g. exit, video, annual, education), and that Christianity spread throughout the Roman Empire, eventually becoming its official religion under Emperor Constantine",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Give examples of English words that come from Latin",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you give you examples of English words that come from Latin and explain how Roman law and Christianity spread across Europe through the Roman Empire?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Roman Law, Latin, and Christianity. Give examples of English words that come from Latin Explain that Roman law influenced modern legal systems in Europe and beyond",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_03"
+    },
+    {
+      "title": "Roman Republic and Empire",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Roman Republic and Empire!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how Rome was first governed as a republic — with elected consuls, a powerful Senate, and a distinction between patricians and plebeians — before becoming an empire ruled by emperors like Augustus (who brought peace, the Pax Romana) and Nero, and compare republican government with Athenian direct democracy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the Roman Republic's structure: consuls, Senate, patricians, and plebeians",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain the difference between the Roman Republic and the Roman Empire, and compare how Rome and Athens each let people have a say in government?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Roman Republic and Empire: Describe the Roman Republic's structure: consuls, Senate, patricians, and plebeians Explain how Rome changed from a republic to an empire under Augustus",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_04"
+    },
+    {
+      "title": "Greek and Roman Architecture",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Greek and Roman Architecture!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify Greek column styles — Doric (plain and sturdy), Ionic (scroll-shaped capitals), and Corinthian (ornate leafy capitals) — and Roman architectural innovations — the arch, the dome, and concrete — and spot their influence in modern public buildings such as courthouses, museums, government buildings, and monuments",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify the three Greek column orders (Doric, Ionic, Corinthian) from pictures",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you walked past a courthouse or museum with big columns, could you tell you whether they're Doric, Ionic, or Corinthian and explain that the design comes from ancient Greece or Rome?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Greek and Roman Architecture. Identify the three Greek column orders (Doric, Ionic, Corinthian) from pictures Name Roman architectural innovations: the arch, the dome, and concrete",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_05"
+    },
+    {
+      "title": "Alexander the Great's Empire",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Alexander the Great's Empire!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how Alexander the Great of Macedon conquered a vast empire stretching from Greece to Egypt to India, spreading Greek language, culture, and ideas across the ancient world — creating a period known as the Hellenistic Age where Greek and Eastern cultures blended",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe the extent of Alexander's empire on a map (Greece to Egypt to India)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you who Alexander the Great was, how far his empire stretched, and what happened to Greek culture because of his conquests?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Alexander the Great's Empire. Describe the extent of Alexander's empire on a map (Greece to Egypt to India) Explain that Alexander spread Greek culture and language across the lands he conquered",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_06"
+    },
+    {
+      "title": "Fall of the Western Roman Empire",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Fall of the Western Roman Empire!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how the Western Roman Empire gradually declined due to a combination of factors — military pressure from invading peoples, political instability, economic problems, and an overstretched empire — and finally fell in AD 476, while the Eastern Roman (Byzantine) Empire continued for nearly a thousand more years",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least two reasons why the Western Roman Empire declined and fell",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain why the Roman Empire fell apart and tell you that while the western half collapsed, the eastern half kept going for centuries?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fall of the Western Roman Empire. Name at least two reasons why the Western Roman Empire declined and fell State the date AD 476 as when the last Western Roman emperor was removed",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_07"
+    },
+    {
+      "title": "Greek Philosophers and Medicine",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_greece_rome"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Greek Philosophers and Medicine? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that Greek thinkers called philosophers developed ways of understanding the world that still influence us today — Socrates asked challenging questions to test ideas (the Socratic method), Plato imagined the ideal society, Aristotle observed and classified the natural world — and that Hippocrates is called the father of medicine for insisting on natural causes of illness rather than blaming the gods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe what Socrates, Plato, and Aristotle each contributed to thinking and learning",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you about Socrates, Plato, and Aristotle — what each one was famous for — and explain why Greek thinkers still matter today?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Greek Philosophers and Medicine: Describe what Socrates, Plato, and Aristotle each contributed to thinking and learning Explain the Socratic method as learning by asking questions rather than just being told answers",
+          "media": {}
+        }
+      ],
+      "id": "4_Social Studies_unit_02_lesson_08"
+    }
+  ],
+  "id": "Social Studies_unit_02"
+}

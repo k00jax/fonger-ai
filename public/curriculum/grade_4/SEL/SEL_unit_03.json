@@ -1,0 +1,158 @@
+{
+  "title": "Friendship & Cooperation",
+  "objective": "Students will explore friendship & cooperation concepts including Self-Reflection in Relationships, Giving and Receiving Feedback, Assertive Communication and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE.INT.P3.LO.8",
+    "ib-pyp-pspe:PSPE.INT.P3.LO.7",
+    "ib-pyp-pspe:PSPE.INT.P4.LO.3",
+    "ib-pyp-pspe:PSPE.INT.P4.LO.1",
+    "ib-pyp-pspe:PSPE.INT.P2.LO.8",
+    "ib-pyp-pspe:PSPE.INT.P4.CU.2"
+  ],
+  "skills_tested": [
+    "friendship_cooperation"
+  ],
+  "lessons": [
+    {
+      "title": "Self-Reflection in Relationships",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Self-Reflection in Relationships? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Reflect on their own role and behaviour in relationships — recognising patterns in how they interact with others, understanding what they contribute to friendships, and identifying areas where they could improve as a friend or team member",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify a pattern in their own social behaviour, such as always wanting to lead or avoiding confrontation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you honestly reflect on their friendships and say something like 'I think I sometimes take over in group work and I'm trying to listen more' — showing awareness of their own social patterns?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Self-Reflection in Relationships: Identify a pattern in their own social behaviour, such as always wanting to lead or avoiding confrontation Describe what they do well in relationships and one area they'd like to improve",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_03_lesson_01"
+    },
+    {
+      "title": "Giving and Receiving Feedback",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Giving and Receiving Feedback!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Give and receive constructive feedback — telling someone what they did well and what could be improved in a way that is helpful rather than hurtful, and receiving feedback about their own work without becoming defensive",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give feedback that includes both a specific positive point and a constructive suggestion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reviews a classmate's story and finds mistakes, can they give feedback that's helpful — like 'I loved this part, and this bit could be clearer' — rather than just saying 'it's wrong'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Giving and Receiving Feedback. Give feedback that includes both a specific positive point and a constructive suggestion Receive feedback about their own work without getting upset or dismissive",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_03_lesson_02"
+    },
+    {
+      "title": "Assertive Communication",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Assertive Communication!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use assertive communication — expressing needs, opinions, and boundaries clearly and respectfully without being aggressive (pushy/demanding) or passive (giving in/staying silent) — including saying no when something doesn't feel right",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the difference between assertive, aggressive, and passive responses",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If friends want you to do something they're uncomfortable with — like excluding another child or breaking a rule — can you say 'I don't want to do that' firmly but politely?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Assertive Communication: Explain the difference between assertive, aggressive, and passive responses Role-play saying no in a peer pressure scenario",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_03_lesson_03"
+    },
+    {
+      "title": "Helping Others Resolve Conflicts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Helping Others Resolve Conflicts? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Mediate conflicts between others — helping two friends who are arguing by listening to both sides, helping them see each other's perspective, and guiding them toward a fair resolution",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Listen to both sides of a conflict without taking sides initially",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If two of you's friends are arguing and both come to you for support, can you help them talk it out fairly rather than just taking one side?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Helping Others Resolve Conflicts. Listen to both sides of a conflict without taking sides initially Help each person articulate their perspective to the other",
+          "media": {}
+        }
+      ],
+      "id": "4_SEL_unit_03_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_03"
+}

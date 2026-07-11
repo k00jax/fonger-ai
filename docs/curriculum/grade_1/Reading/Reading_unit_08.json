@@ -1,0 +1,92 @@
+{
+  "title": "Vocabulary",
+  "objective": "Students will explore vocabulary concepts including Defining Words, Root Words & Inflections.",
+  "standards": [
+    "uk-nc-2013:Eng_LKS2_Read_Comp_3",
+    "uk-nc-2013:Eng.App2.Y2.Word.3",
+    "ccss-ela:L.3.4b",
+    "ccss-ela:L.1.5a",
+    "ccss-ela:L.1.5b",
+    "uk-nc-2013:Eng.App2.Y2.Word.1",
+    "ccss-ela:L.1.4c",
+    "ccss-ela:L.1.5c",
+    "uk-nc-2013:Eng/KS1/Y2/C/1f",
+    "ccss-ela:L.1.4b"
+  ],
+  "skills_tested": [
+    "vocabulary"
+  ],
+  "lessons": [
+    {
+      "title": "Defining Words",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Defining Words! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Define words by category and by one or more key attributes (e.g., 'a duck is a bird that swims'), making real-life connections between words and their use",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Define 'tiger' as 'a large cat with stripes' — naming category and key attribute",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what a word means by saying what type of thing it is and what makes it special — for example, \"a penguin is a bird that can't fly but is great at swimming\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Defining Words: Define 'tiger' as 'a large cat with stripes' — naming category and key attribute Connect the word 'cozy' to real-life examples: places at home that feel cozy",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_08_lesson_01"
+    },
+    {
+      "title": "Root Words & Inflections",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "vocabulary"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Root Words & Inflections? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify frequently occurring root words and their inflectional forms (e.g., look/looks/looked/looking), using affixes as clues to word meaning and understanding how suffixes create nouns and adjectives",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify 'play' as the root in 'played', 'playing', 'player'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you sees words like \"play,\" \"plays,\" \"played,\" and \"playing,\" do they understand they all come from the same root word and can they use each form correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Root Words & Inflections. Identify 'play' as the root in 'played', 'playing', 'player' Explain that '-ful' in 'careful' means 'full of care'",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_08_lesson_02"
+    }
+  ],
+  "id": "Reading_unit_08"
+}

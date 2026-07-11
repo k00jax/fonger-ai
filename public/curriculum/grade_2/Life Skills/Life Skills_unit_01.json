@@ -1,0 +1,256 @@
+{
+  "title": "Entrepreneurship",
+  "objective": "Students will explore entrepreneurship concepts including Costs & Revenue, Making a Simple Plan, Learning from Failure and more.",
+  "standards": [],
+  "skills_tested": [
+    "entrepreneurship"
+  ],
+  "lessons": [
+    {
+      "title": "Costs & Revenue",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Costs & Revenue. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "It costs money to make things (costs/expenses); you earn money by selling them (revenue); if revenue is more than costs, that's profit; if costs are more, that's a loss",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain what costs, revenue, and profit mean using a simple example",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you spent £4 on supplies for a lemonade stand and earned £10 selling lemonade, could they tell you how much profit they made?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Costs & Revenue: Explain what costs, revenue, and profit mean using a simple example Calculate profit from a given scenario (e.g. spent £3 on ingredients, sold cakes for £8, profit = £5)",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_01_lesson_01"
+    },
+    {
+      "title": "Making a Simple Plan",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Making a Simple Plan? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Before starting a business, making a simple plan: what will I make or do, who will buy it, what do I need, how much will it cost, and what price will I charge?",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write or draw a simple business plan covering: product, customer, materials needed, and price",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wanted to run a small business at a school fair, could they write a simple plan covering what they'd sell, what they'd need, and what they'd charge?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Making a Simple Plan: Write or draw a simple business plan covering: product, customer, materials needed, and price Identify at least three things they would need before they could start selling",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_01_lesson_02"
+    },
+    {
+      "title": "Learning from Failure",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Learning from Failure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Not every business idea works; entrepreneurs try, fail, learn, and try again; iteration and resilience as core entrepreneurial skills; famous failure-to-success stories",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Give an example of a famous entrepreneur who failed before succeeding",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you's first attempt at a project or business idea didn't work out, would they see it as a chance to improve rather than a reason to give up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Learning from Failure. Give an example of a famous entrepreneur who failed before succeeding Explain what they would do differently if a business idea didn't work the first time",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_01_lesson_03"
+    },
+    {
+      "title": "Teamwork in Business",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Teamwork in Business. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Most businesses need more than one person; working together, dividing tasks, and using different people's strengths; the value of teamwork in business",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe how they would divide tasks in a team business project (one person makes, one sells, one designs)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was working with friends to run a stall at a fair, could they suggest how to divide up the jobs so everyone plays to their strengths?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Teamwork in Business. Describe how they would divide tasks in a team business project (one person makes, one sells, one designs) Explain why using people's different strengths makes a business better",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_01_lesson_04"
+    },
+    {
+      "title": "Having a Business Idea",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Having a Business Idea! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Where business ideas come from; spotting everyday problems and thinking of solutions; the difference between inventing something new and improving something that exists",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify a simple everyday problem and suggest a product or service that could solve it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you to think of a problem at school or home that they could solve by making or selling something, could they come up with an idea?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Having a Business Idea. Identify a simple everyday problem and suggest a product or service that could solve it Explain the difference between an invention (something new) and an innovation (making something better)",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_01_lesson_05"
+    },
+    {
+      "title": "Being a Good Seller",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Being a Good Seller. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Customer service, fairness, and honesty in business; keeping promises to customers; why being trustworthy matters for repeat business and reputation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why being honest about what you're selling matters",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sold something to a friend and it broke the next day, would they understand why it's important to make it right rather than ignore it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Being a Good Seller. Explain why being honest about what you're selling matters Describe what good customer service looks like (being polite, helpful, keeping promises)",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_01_lesson_06"
+    },
+    {
+      "title": "Marketing Basics",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Marketing Basics! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "How people find out about what you're selling; signs, posters, social media, word of mouth; being persuasive; the basics of advertising and promotion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Design a simple poster or advert for a product or service",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wanted to advertise a car wash or bake sale, could they design a poster that would make people want to come?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Marketing Basics. Design a simple poster or advert for a product or service Name at least three ways to let people know about something you're selling",
+          "media": {}
+        }
+      ],
+      "id": "2_Life Skills_unit_01_lesson_07"
+    }
+  ],
+  "id": "Life Skills_unit_01"
+}

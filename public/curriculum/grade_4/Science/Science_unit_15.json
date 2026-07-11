@@ -1,0 +1,123 @@
+{
+  "title": "Space Systems & Earth's History",
+  "objective": "Students will explore space systems & earth's history concepts including The solar system, How fossils form, Earth's rotation and day/night.",
+  "standards": [
+    "ngss-k5:5-ESS1-2",
+    "uk-nc-2013:Y5.Sci.ES.1",
+    "uk-nc-2013:Y5.Sci.ES.4",
+    "uk-nc-2013:Y5.Sci.ES.3",
+    "ngss-k5:4-ESS1-1",
+    "uk-nc-2013:Y5.Sci.ES.2"
+  ],
+  "skills_tested": [
+    "space_systems_earth's_history"
+  ],
+  "lessons": [
+    {
+      "title": "The solar system",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The solar system? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the sun, Earth, and moon as approximately spherical bodies, and describe the movement of the Earth and other planets orbiting the sun in the solar system",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that the sun, Earth, and moon are approximately spherical",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe the solar system — how Earth and the other planets orbit the sun, and how the moon orbits Earth, and that they're all roughly ball-shaped?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The solar system. State that the sun, Earth, and moon are approximately spherical Name the planets in order from the sun and explain they all orbit the sun",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_15_lesson_01"
+    },
+    {
+      "title": "How fossils form",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about How fossils form!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify evidence from patterns in rock formations and fossils in rock layers to support an explanation for changes in a landscape over time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that rock layers (strata) form over time, with the oldest at the bottom",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees layers of rock in a cliff face, can they explain that the bottom layers are oldest and any fossils tell us what lived there long ago?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How fossils form. Explain that rock layers (strata) form over time, with the oldest at the bottom Describe how fossils in different layers provide evidence of organisms that lived at different times",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_15_lesson_02"
+    },
+    {
+      "title": "Earth's rotation and day/night",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Earth's rotation and day/night!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the idea of the Earth's rotation to explain day and night and the apparent movement of the sun across the sky",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that the Earth rotates (spins) on its axis once every 24 hours",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that the sun doesn't actually move across the sky — it's the Earth spinning that makes it look like it does, and that's what causes day and night?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Earth's rotation and day/night: Explain that the Earth rotates (spins) on its axis once every 24 hours Describe how this rotation causes day (facing the sun) and night (facing away)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_15_lesson_03"
+    }
+  ],
+  "id": "Science_unit_15"
+}

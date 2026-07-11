@@ -1,0 +1,291 @@
+{
+  "title": "Polar Regions",
+  "objective": "Students will explore polar regions concepts including Comparing Arctic & Antarctic, Polar Food Chains, The Race to the South Pole and more.",
+  "standards": [],
+  "skills_tested": [
+    "polar_regions"
+  ],
+  "lessons": [
+    {
+      "title": "Comparing Arctic & Antarctic",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparing Arctic & Antarctic? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare the Arctic and Antarctic in detail — the Arctic is an ocean covered by floating sea ice with surrounding land masses (Canada, Russia, Greenland, Scandinavia), while Antarctica is a continent larger than Europe buried under ice up to 4 km thick; polar bears, Arctic foxes, and walruses live only in the Arctic while penguins, leopard seals, and albatrosses are found only in the Antarctic",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State that the Arctic is a frozen ocean surrounded by land (name at least two bordering countries), while Antarctica is a continent covered by ice sheet up to 4 km thick",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain in detail how the Arctic and Antarctic are different — which animals live where, that one is frozen ocean and the other is a frozen continent, and which countries border the Arctic?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing Arctic & Antarctic. State that the Arctic is a frozen ocean surrounded by land (name at least two bordering countries), while Antarctica is a continent covered by ice sheet up to 4 km thick Correctly assign at least three animals to the Arctic and three to the Antarctic",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_01"
+    },
+    {
+      "title": "Polar Food Chains",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Polar Food Chains!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand polar food chains — in the Antarctic, phytoplankton are eaten by krill, krill are eaten by fish and penguins, and penguins are eaten by leopard seals and orcas; in the Arctic, algae under ice feeds zooplankton, which feeds fish, which feeds seals, which feeds polar bears — and that tiny organisms like krill and plankton are the foundation of all polar life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Construct an Antarctic food chain: phytoplankton → krill → penguin → leopard seal or orca",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain a polar food chain — starting from tiny plankton, through krill and fish, up to seals and polar bears or orcas — and explain why the tiny creatures at the bottom are so important?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Polar Food Chains: Construct an Antarctic food chain: phytoplankton → krill → penguin → leopard seal or orca Construct an Arctic food chain: algae → zooplankton → fish → seal → polar bear",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_02"
+    },
+    {
+      "title": "The Race to the South Pole",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The Race to the South Pole? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the story of the race to the South Pole in detail — Norwegian Roald Amundsen and British Robert Falcon Scott both set out in 1911, Amundsen arrived first on 14 December using dog sleds and careful planning, Scott arrived 34 days later using man-hauled sledges and tragically died with his team on the return journey; also know about Ernest Shackleton's 1914 Endurance expedition where the ship was trapped and crushed by ice, and Shackleton's extraordinary boat journey to South Georgia to rescue his crew",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the Scott vs Amundsen race: Amundsen arrived 14 December 1911 using dog sleds; Scott arrived 34 days later and died on the return",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you the detailed story of Amundsen and Scott's race to the South Pole — who won and why, what went wrong for Scott, and the incredible survival story of Shackleton's Endurance?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Race to the South Pole. Describe the Scott vs Amundsen race: Amundsen arrived 14 December 1911 using dog sleds; Scott arrived 34 days later and died on the return Explain at least two reasons Amundsen succeeded: better planning, dog sleds, polar experience, and lighter supplies",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_03"
+    },
+    {
+      "title": "Ice & States of Matter",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Ice & States of Matter? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand ice in different forms and states of matter — sea ice forms when ocean water freezes (it's salty and relatively thin), glacial ice forms from compacted snow over centuries (fresh water, very thick), and icebergs break off from glaciers and float in the sea; know that water exists as solid (ice), liquid (water), and gas (water vapour), and that salt lowers the freezing point of water",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Distinguish between sea ice (frozen ocean, salty, thin) and glacial ice (compacted snow, fresh water, thick)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the difference between sea ice and glacier ice, and describe how water changes between solid, liquid, and gas — maybe by doing a simple freezing experiment with salt and fresh water?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ice & States of Matter. Distinguish between sea ice (frozen ocean, salty, thin) and glacial ice (compacted snow, fresh water, thick) Explain that icebergs break off from glaciers and float because ice is less dense than liquid water",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_04"
+    },
+    {
+      "title": "The Arctic Tundra",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The Arctic Tundra!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know what the Arctic tundra is — a vast, treeless landscape with permafrost (permanently frozen ground) just below the surface, a very short growing season in summer when mosses, lichens, and tough grasses burst into life, and home to caribou/reindeer, musk oxen, lemmings, and snowy owls",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the tundra as a treeless landscape with permafrost (permanently frozen ground) beneath the surface",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know what tundra is — the huge flat landscape near the Arctic with no trees, frozen ground underneath, and short summers where everything bursts into life?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Arctic Tundra. Describe the tundra as a treeless landscape with permafrost (permanently frozen ground) beneath the surface Explain that the tundra has a very short summer growing season when mosses, lichens, and grasses grow quickly",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_05"
+    },
+    {
+      "title": "Inuit & Sami Peoples",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Inuit & Sami Peoples? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that indigenous peoples have lived in the Arctic for thousands of years — the Inuit across Canada, Alaska, and Greenland, and the Sami in northern Scandinavia — developing remarkable knowledge of the environment, using dog sleds and kayaks for transport, wearing animal-skin clothing for warmth, and building igloos as temporary shelters, with a deep respect for the animals and land they depend on",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the Inuit (Canada, Alaska, Greenland) and Sami (northern Scandinavia) as Arctic indigenous peoples",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you tell you about the Inuit and Sami peoples who have lived in the Arctic for thousands of years — how they travel by dog sled, wear animal-skin clothing, and know the ice and animals incredibly well?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Inuit & Sami Peoples. Name the Inuit (Canada, Alaska, Greenland) and Sami (northern Scandinavia) as Arctic indigenous peoples Describe at least three aspects of traditional Arctic life: dog sleds, kayaks, animal-skin clothing, igloos, or hunting practices",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_06"
+    },
+    {
+      "title": "Cold-Weather Adaptations",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Cold-Weather Adaptations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how polar animals are adapted to survive extreme cold — blubber (thick fat layer) insulates seals and whales, hollow fur traps air for warmth in polar bears, counter-current heat exchange in penguin flippers prevents heat loss, Arctic foxes grow thick white winter coats for camouflage and warmth, and some animals migrate to avoid the harshest months",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least three cold-weather adaptations: blubber, hollow fur, counter-current heat exchange, white winter coats, or migration",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain several ways polar animals survive the freezing cold — like a polar bear's hollow fur trapping warm air, a seal's thick blubber, or an Arctic fox changing colour in winter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Cold-Weather Adaptations: Describe at least three cold-weather adaptations: blubber, hollow fur, counter-current heat exchange, white winter coats, or migration Explain the purpose of each adaptation (e.g. blubber insulates against cold water, white fur provides camouflage in snow)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_07"
+    },
+    {
+      "title": "Why Polar Seasons Are Extreme",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "polar_regions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Why Polar Seasons Are Extreme!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand why the poles have extreme seasons — Earth's axis is tilted at about 23.5°, so as it orbits the Sun, each pole spends half the year tilted toward the Sun (continuous daylight, warmer summer) and half tilted away (continuous darkness, bitter winter); this tilt also drives the annual cycle of sea ice expanding in winter and retreating in summer, and triggers animal behaviours like migration and breeding",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that Earth's axis is tilted at about 23.5° and this tilt causes the extreme polar seasons",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain WHY the poles have months of daylight in summer and months of darkness in winter — that it's because Earth is tilted on its axis as it goes around the Sun?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Why Polar Seasons Are Extreme: Explain that Earth's axis is tilted at about 23.5° and this tilt causes the extreme polar seasons Describe how the tilt means each pole faces toward the Sun for half the year (summer/daylight) and away for the other half (winter/darkness)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_10_lesson_08"
+    }
+  ],
+  "id": "Science_unit_10"
+}

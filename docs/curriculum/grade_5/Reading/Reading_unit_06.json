@@ -1,0 +1,301 @@
+{
+  "title": "Speaking & Listening",
+  "objective": "Students will explore speaking & listening concepts including Performing Scripts & Poetry, Evaluating a Speaker's Argument, Summarising Spoken and Media Presentations and more.",
+  "standards": [
+    "uk-nc-2013:KS3-ENG-SE-1d",
+    "ccss-ela:SL.5.3",
+    "ccss-ela:SL.5.2",
+    "ccss-ela:SL.5.1.d",
+    "uk-nc-2013:KS3-ENG-SE-1b",
+    "ccss-ela:SL.5.6",
+    "ccss-ela:SL.5.5",
+    "ccss-ela:SL.5.1.c",
+    "uk-nc-2013:KS3-ENG-SE-1a"
+  ],
+  "skills_tested": [
+    "speaking_listening"
+  ],
+  "lessons": [
+    {
+      "title": "Performing Scripts & Poetry",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Performing Scripts & Poetry. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Improvise, rehearse, and perform play scripts and poetry — using role, intonation, tone, volume, mood, silence, stillness, and action to generate language, explore meaning, and add impact to performance",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Perform a scene from a play using appropriate intonation, volume, and pauses to convey character and mood",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you performs in a play or reads aloud from a script, do they use their voice — volume, pace, and expression — to bring the character or poem to life?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Performing Scripts & Poetry. Perform a scene from a play using appropriate intonation, volume, and pauses to convey character and mood Use improvisation to explore how a character might respond in a new situation",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_01"
+    },
+    {
+      "title": "Evaluating a Speaker's Argument",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Evaluating a Speaker's Argument. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Summarise the points a speaker makes and explain how each claim is supported by reasons and evidence, evaluating the logic and relevance of the support",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the main claim in a spoken presentation and the evidence used to support it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you listens to a speaker making a case for something, can they explain back to you both what the speaker claimed and the reasons and evidence they gave to back it up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Evaluating a Speaker's Argument. Identify the main claim in a spoken presentation and the evidence used to support it Evaluate whether a speaker's reasons logically support their main argument",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_02"
+    },
+    {
+      "title": "Summarising Spoken and Media Presentations",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Summarising Spoken and Media Presentations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Summarise a written text read aloud or information presented in diverse media and formats including visually, quantitatively, and orally",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Summarise the main points of a video or audio presentation in own words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After listening to a talk or watching an informational video, can you give you a spoken summary of what the main message was in their own words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Summarising Spoken and Media Presentations: Summarise the main points of a video or audio presentation in own words Identify key information from a graph, chart, or infographic and explain it orally",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_03"
+    },
+    {
+      "title": "Drawing Conclusions from Discussion",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Drawing Conclusions from Discussion! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Review the key ideas expressed in discussions and draw conclusions in light of information and knowledge gained from the discussion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Summarise the main points made by different speakers in a group discussion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After a group discussion, can you pull together the main points that were made and explain what conclusion the group reached?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Drawing Conclusions from Discussion: Summarise the main points made by different speakers in a group discussion Draw a conclusion that synthesises multiple viewpoints expressed in the discussion",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_04"
+    },
+    {
+      "title": "Speaking Formally and Giving Presentations",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Speaking Formally and Giving Presentations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use Standard English confidently in formal and informal spoken contexts — give short speeches and presentations expressing own ideas clearly, keeping to the point, and adapting register and vocabulary to the audience",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Deliver a 2-3 minute presentation on a topic with a clear opening, organised points, and a conclusion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you give a short prepared speech or presentation in Standard English — staying on point and adjusting their vocabulary to suit the audience?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Speaking Formally and Giving Presentations: Deliver a 2-3 minute presentation on a topic with a clear opening, organised points, and a conclusion Adapt language between formal and informal registers depending on the context and audience",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_05"
+    },
+    {
+      "title": "Adapting Speech to Context",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Adapting Speech to Context. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Adapt speech to a variety of contexts and tasks, using formal English when appropriate to task and situation while adjusting tone, vocabulary, and style for different audiences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Present the same information formally to a panel and informally to peers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you naturally speak differently depending on who they're talking to — for example, more formally with a teacher than with a friend at the playground?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adapting Speech to Context: Present the same information formally to a panel and informally to peers Adjust vocabulary and sentence structure when speaking to different audiences",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_06"
+    },
+    {
+      "title": "Multimedia Presentations",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Multimedia Presentations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Include multimedia components and visual displays in presentations when appropriate to enhance the development of main ideas or themes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Select graphics, images, or sound that support and clarify main ideas in a presentation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you gives a presentation at school, do they think about including things like diagrams, slides, or pictures to help make their points clearer for the audience?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Multimedia Presentations. Select graphics, images, or sound that support and clarify main ideas in a presentation Create slides or visual aids that enhance rather than distract from the spoken content",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_07"
+    },
+    {
+      "title": "Building on Others in Discussions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Building on Others in Discussions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Pose and respond to specific questions in discussions, making comments that contribute to the discussion and elaborate on the remarks of others",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Ask follow-up questions that build on another speaker's comment",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "In a class discussion, does you ask questions that move the conversation forward and add comments that build on what others have said rather than just repeating the same ideas?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Building on Others in Discussions. Ask follow-up questions that build on another speaker's comment Respond to a classmate's idea by adding supporting evidence or a related example",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_06_lesson_08"
+    }
+  ],
+  "id": "Reading_unit_06"
+}

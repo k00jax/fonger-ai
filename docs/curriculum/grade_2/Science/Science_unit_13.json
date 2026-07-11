@@ -1,0 +1,291 @@
+{
+  "title": "Space Exploration",
+  "objective": "Students will explore space exploration concepts including The Sun is a star, Earth's Spin & Orbit, The Eight Planets and more.",
+  "standards": [],
+  "skills_tested": [
+    "space_exploration"
+  ],
+  "lessons": [
+    {
+      "title": "The Sun is a star",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about The Sun is a star!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the Sun is a star — the closest star to Earth — and that it is at the centre of our solar system, with all eight planets orbiting around it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that the Sun is a star, not a unique type of object",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know that the Sun is actually a star — just a very close one — and that the planets go around it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Sun is a star. State that the Sun is a star, not a unique type of object Explain that the Sun appears bigger and brighter than other stars because it is much closer",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_01"
+    },
+    {
+      "title": "Earth's Spin & Orbit",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Earth's Spin & Orbit. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that Earth moves in two ways: it rotates (spins) on its axis once every 24 hours causing day and night, and it orbits (travels around) the Sun once every 365 days, which is one year",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Demonstrate with a globe or ball that Earth's rotation causes day on the Sun-facing side and night on the opposite side",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that we have day and night because the Earth spins, and that a year is the time it takes Earth to go all the way around the Sun?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Earth's Spin & Orbit. Demonstrate with a globe or ball that Earth's rotation causes day on the Sun-facing side and night on the opposite side State that one full rotation takes about 24 hours (one day)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_02"
+    },
+    {
+      "title": "The Eight Planets",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The Eight Planets? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name the eight planets in order from the Sun (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune), know that Pluto is a dwarf planet, and distinguish rocky inner planets from gas giant outer planets",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! List all eight planets in order from the Sun",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you list all eight planets in order from the Sun — maybe using a memory trick like 'My Very Eager Mother Just Served Us Nachos'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about The Eight Planets. List all eight planets in order from the Sun State that Pluto was reclassified as a dwarf planet in 2006",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_03"
+    },
+    {
+      "title": "Space Robots & Rovers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Space Robots & Rovers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how robots and rovers have explored places humans cannot easily go — Mars rovers like Curiosity and Perseverance drive across Mars taking photos, collecting rock samples, and searching for signs of past water",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least one Mars rover (Curiosity or Perseverance) and state it drives on Mars's surface",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know about the Mars rovers? Can they tell you what Curiosity or Perseverance does on Mars?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Space Robots & Rovers. Name at least one Mars rover (Curiosity or Perseverance) and state it drives on Mars's surface Explain that rovers take photos, analyse rocks, and look for evidence of water",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_04"
+    },
+    {
+      "title": "Planet Features",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Planet Features!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe a key feature of each planet: Mercury is smallest and closest, Venus is the hottest, Mars is red with rust, Jupiter is the largest with a Great Red Spot, Saturn has rings, Uranus tilts on its side, Neptune is the farthest and very cold",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State one distinctive feature for at least six of the eight planets",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you named a planet, could you tell you one interesting fact about it — like Saturn's rings or Jupiter's Great Red Spot?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Planet Features: State one distinctive feature for at least six of the eight planets Compare at least two planets (e.g. Jupiter is much bigger than Earth, Venus is hotter than Mercury)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_05"
+    },
+    {
+      "title": "The Moon's Orbit",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about The Moon's Orbit!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that the Moon orbits Earth approximately once a month, that it does not make its own light but reflects sunlight, and that its changing appearance (phases) is caused by how much of the sunlit side we can see from Earth",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that the Moon orbits Earth roughly once every 28-30 days",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why the Moon seems to change shape — that it’s always round but we only see the part lit up by the Sun?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The Moon's Orbit. State that the Moon orbits Earth roughly once every 28-30 days Explain that the Moon reflects sunlight rather than producing its own light",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_06"
+    },
+    {
+      "title": "Asteroids, Comets & Dwarf Planets",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Asteroids, Comets & Dwarf Planets!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify other objects in the solar system beyond planets: asteroids (rocky bodies mostly between Mars and Jupiter), comets (icy bodies with tails when near the Sun), and meteoroids/meteors/meteorites (space rocks that enter Earth’s atmosphere)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe asteroids as rocky bodies mostly found in the belt between Mars and Jupiter",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw a shooting star, could they explain that it’s actually a tiny space rock burning up in our atmosphere — and tell you the difference between that and a comet?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Asteroids, Comets & Dwarf Planets. Describe asteroids as rocky bodies mostly found in the belt between Mars and Jupiter Describe comets as icy bodies that develop a glowing tail when they approach the Sun",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_07"
+    },
+    {
+      "title": "How Telescopes Work",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_exploration"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of How Telescopes Work!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that telescopes are instruments that help us see distant objects in space, and that space telescopes like Hubble and James Webb orbit above Earth’s atmosphere to get clearer views of the universe",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that a telescope magnifies distant objects so we can see them in more detail",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you know what a telescope does and why some telescopes are sent into space — like the Hubble or James Webb telescopes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How Telescopes Work. Explain that a telescope magnifies distant objects so we can see them in more detail State that Earth's atmosphere blurs the view, so space telescopes get clearer pictures",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_13_lesson_08"
+    }
+  ],
+  "id": "Science_unit_13"
+}

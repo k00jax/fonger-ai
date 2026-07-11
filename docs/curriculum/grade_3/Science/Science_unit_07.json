@@ -1,0 +1,46 @@
+{
+  "title": "Space Systems & Earth's History",
+  "objective": "Students will explore space systems & earth's history concepts including Earth & Space Vocabulary.",
+  "standards": [],
+  "skills_tested": [
+    "space_systems_earth's_history"
+  ],
+  "lessons": [
+    {
+      "title": "Earth & Space Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Earth & Space Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use technical vocabulary for Earth's motion and the wider universe — rotation, revolution, axis, tilt, orbit, light year, gravitational force, atmosphere, lunar phases, waxing, waning, solstice, equinox, eclipse — and apply these when explaining day and night, the seasons, and the Moon's phases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use 'rotation' and 'revolution' correctly to describe Earth's two distinct types of movement and explain what each causes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the difference between the Earth rotating and the Earth orbiting the Sun — using the actual science words 'rotation' and 'revolution'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Earth & Space Vocabulary. Use 'rotation' and 'revolution' correctly to describe Earth's two distinct types of movement and explain what each causes Use 'waxing' and 'waning' to describe the Moon's phases and explain what causes them",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_07_lesson_01"
+    }
+  ],
+  "id": "Science_unit_07"
+}

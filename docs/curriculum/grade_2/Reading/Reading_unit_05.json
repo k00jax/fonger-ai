@@ -1,0 +1,50 @@
+{
+  "title": "Speaking & Listening",
+  "objective": "Students will explore speaking & listening concepts including Engaging Listeners and Valuing Viewpoints.",
+  "standards": [
+    "uk-nc-2013:Eng.SL.11",
+    "uk-nc-2013:Eng.SL.12",
+    "uk-nc-2013:Eng.SL.10"
+  ],
+  "skills_tested": [
+    "speaking_listening"
+  ],
+  "lessons": [
+    {
+      "title": "Engaging Listeners and Valuing Viewpoints",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "speaking_listening"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Engaging Listeners and Valuing Viewpoints!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Gain, maintain and monitor the interest of listeners when speaking; consider and evaluate different viewpoints, attending to and building on others' contributions; begin to select appropriate language for different situations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use strategies to engage listeners during a presentation (e.g., make eye contact, vary tone and pace, ask the audience a question)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is talking in a group, do they notice if people are losing interest and adjust how they're speaking — or pick up on what others have said and add to it thoughtfully?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Engaging Listeners and Valuing Viewpoints: Use strategies to engage listeners during a presentation (e.g., make eye contact, vary tone and pace, ask the audience a question) Listen to a peer's viewpoint and respond by agreeing, disagreeing, or extending their idea with a reason (e.g., 'I agree with Priya because… but I also think…')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_05_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_05"
+}

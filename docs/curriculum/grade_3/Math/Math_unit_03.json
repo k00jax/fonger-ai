@@ -1,0 +1,606 @@
+{
+  "title": "Fractions",
+  "objective": "Students will explore fractions concepts including Fractions of a whole, Equivalent fractions on a number line, Equivalent fractions (age 8+) and more.",
+  "standards": [],
+  "skills_tested": [
+    "fractions"
+  ],
+  "lessons": [
+    {
+      "title": "Fractions of a whole",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Fractions of a whole!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand a fraction 1/b as the quantity formed by 1 part when a whole is partitioned into b equal parts; understand a/b as a parts of size 1/b",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Given a shape divided into 5 equal parts, identify one shaded part as 1/5",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you cut a pizza into 6 equal slices, can you explain what 1/6 means — and then work out what 4/6 of the pizza looks like?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fractions of a whole: Given a shape divided into 5 equal parts, identify one shaded part as 1/5 Explain that 3/4 means 3 parts each of size 1/4",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_01"
+    },
+    {
+      "title": "Equivalent fractions on a number line",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Equivalent fractions on a number line? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand two fractions as equivalent if they are the same size or the same point on a number line; recognise and show families of common equivalent fractions using diagrams",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use fraction strips to show 1/2 = 2/4 = 3/6",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees that 2/4 and 1/2 land on the exact same point on a number line, can they explain in their own words why those two fractions are equal?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Equivalent fractions on a number line: Use fraction strips to show 1/2 = 2/4 = 3/6 Verify on a number line that 2/3 and 4/6 land on the same point",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_02"
+    },
+    {
+      "title": "Equivalent fractions (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Equivalent fractions (age 8+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Generate simple equivalent fractions and explain why they are equivalent using visual fraction models",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Given 1/3, generate 2/6 as equivalent and show with area model",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is shown a fraction bar split into 3 parts with 1 shaded (= 1/3), can they draw an equivalent bar with 6 parts that shows exactly the same amount shaded?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Equivalent fractions (age 8+). Given 1/3, generate 2/6 as equivalent and show with area model Simplify 4/8 to 1/2 and justify with a fraction strip",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_03"
+    },
+    {
+      "title": "Fractions on a number line (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Fractions on a number line (age 8+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent fractions on a number line: partition the interval 0 to 1 into b equal parts to locate 1/b, then mark off a lengths of 1/b from 0 to locate a/b",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Partition a 0-to-1 number line into 4 equal parts and mark 1/4",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you draws a number line from 0 to 1 split into 5 equal parts, can they label where 2/5 and 4/5 go — and explain how they worked it out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fractions on a number line (age 8+). Partition a 0-to-1 number line into 4 equal parts and mark 1/4 Explain that each part on the line has size 1/b",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_04"
+    },
+    {
+      "title": "Decimal equivalents of tenths and hundredths",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Decimal equivalents of tenths and hundredths! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and write decimal equivalents of any number of tenths or hundredths (e.g. 3/10 = 0.3, 27/100 = 0.27)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write 7/10 as 0.7 and vice versa",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees 7/10 on a price label, can they rewrite it as a decimal — and do the same thing for 43/100?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Decimal equivalents of tenths and hundredths. Write 7/10 as 0.7 and vice versa Convert 45/100 to 0.45",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_05"
+    },
+    {
+      "title": "Tenths (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Tenths (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count up and down in hundredths; recognise that hundredths arise when dividing an object by 100 or dividing tenths by 10",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Count from 3/100 to 12/100 in hundredths",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has £1 and spends 37p, can they say that 37p is 37/100 of a pound — and count up in hundredths from 0/100 to 100/100?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Tenths (age 8+). Count from 3/100 to 12/100 in hundredths Explain that 1/10 ÷ 10 = 1/100",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_06"
+    },
+    {
+      "title": "Decimal & Percent Notation",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Decimal & Percent Notation! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, and use decimal and percentage notation correctly — decimal, decimal point, tenths, hundredths, thousandths, percentage, per cent, % symbol, convert, terminating decimal — and understand the relationships between fractions, decimals, and percentages as three ways of expressing the same value",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read and write decimal numbers correctly, identifying the value of each digit (ones, tenths, hundredths)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw '0.5' and '50%' written down, could they explain that they both mean the same amount — and write them as a fraction too?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decimal & Percent Notation: Read and write decimal numbers correctly, identifying the value of each digit (ones, tenths, hundredths) Use the % symbol correctly and explain that per cent means 'out of 100'",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_07"
+    },
+    {
+      "title": "Fraction-Decimal Equivalents",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fraction-Decimal Equivalents!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and write decimal equivalents of 1/4, 1/2, and 3/4",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! State that 1/2 = 0.5, 1/4 = 0.25, 3/4 = 0.75",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe calls for 3/4 of a cup of flour, can you tell you what that is as a decimal — without looking it up?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fraction-Decimal Equivalents. State that 1/2 = 0.5, 1/4 = 0.25, 3/4 = 0.75 Match fractions to decimals in a sorting activity",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_08"
+    },
+    {
+      "title": "Decimal place value (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Decimal place value (age 8+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare numbers with the same number of decimal places up to two decimal places",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Order 0.45, 0.54, 0.39 from smallest to largest",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is comparing two prices — £4.75 and £4.57 — can they tell you which is more expensive without using a calculator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Decimal place value (age 8+). Order 0.45, 0.54, 0.39 from smallest to largest Compare 3.72 and 3.27 using place-value reasoning",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_09"
+    },
+    {
+      "title": "Dividing by 10 and 100",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Dividing by 10 and 100. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find the effect of dividing a one- or two-digit number by 10 and 100, identifying the value of the digits as ones, tenths, and hundredths",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate 37 ÷ 10 = 3.7 and identify 3 as ones and 7 as tenths",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you starts with the number 48 and divides it by 10, can they tell you the answer — and explain what happened to each digit's place value?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Dividing by 10 and 100. Calculate 37 ÷ 10 = 3.7 and identify 3 as ones and 7 as tenths Calculate 4 ÷ 100 = 0.04 and identify 4 as hundredths",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_10"
+    },
+    {
+      "title": "Adding Fractions (Same Denominator)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Adding Fractions (Same Denominator). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Add and subtract fractions with the same denominator, including results greater than one whole (e.g. 5/8 + 6/8 = 11/8)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Calculate 3/5 + 4/5 = 7/5 and explain it equals 1 2/5",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a recipe uses 5/8 of a bag of flour and then another 6/8, can you work out the total and explain what the answer means as a mixed number?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Adding Fractions (Same Denominator): Calculate 3/5 + 4/5 = 7/5 and explain it equals 1 2/5 Subtract 2/6 from 5/6",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_11"
+    },
+    {
+      "title": "Comparing fractions (age 8+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparing fractions (age 8+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare two fractions with the same numerator or the same denominator by reasoning about size; record comparisons with >, =, or < symbols",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compare 3/8 and 3/4: same numerator, larger denominator means smaller pieces so 3/8 < 3/4",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees 3/5 and 3/8, can they tell you which is bigger just by thinking about the size of each piece — without needing to draw it out?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Comparing fractions (age 8+). Compare 3/8 and 3/4: same numerator, larger denominator means smaller pieces so 3/8 < 3/4 Compare 5/6 and 2/6: same denominator so 5/6 > 2/6",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_12"
+    },
+    {
+      "title": "Fractions of a whole (age 8+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Fractions of a whole (age 8+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Express whole numbers as fractions (e.g. 3 = 3/1) and recognise fractions equivalent to whole numbers (e.g. 4/4 = 1, 6/1 = 6)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write 5 as 5/1 and explain why",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to write the number 3 as a fraction, can they write 3/1 — and also tell you what fraction equals exactly 1 whole, like 4/4 or 5/5?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Fractions of a whole (age 8+): Write 5 as 5/1 and explain why Locate 4/4 and 1 at the same point on a number line",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_13"
+    },
+    {
+      "title": "Fractions of amounts (harder)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Fractions of amounts (harder)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving increasingly harder fractions to calculate quantities, including non-unit fractions where the answer is a whole number",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Find 3/5 of 20",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If 3/4 of a class of 28 pupils brought their homework in, can you work out exactly how many pupils that is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fractions of amounts (harder). Find 3/5 of 20 Calculate 2/3 of 18 and explain the two-step process (divide then multiply)",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_14"
+    },
+    {
+      "title": "Decimals and fractions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Decimals and fractions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve simple measure and money problems involving fractions and decimals to two decimal places",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate 1/4 of £3.20",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a bottle holds 1.5 litres and you drinks 0.75 litres, can they work out how much is left — and write it as both a decimal and a fraction?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decimals and fractions: Calculate 1/4 of £3.20 A rope is 2.5 m long; how much is left after cutting 0.75 m?",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_15"
+    },
+    {
+      "title": "Decimal place value",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Decimal place value! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Round decimals with one decimal place to the nearest whole number",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Round 3.7 to 4 and 3.2 to 3",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measures something as 3.7 m, can they tell you whether that rounds to 3 m or 4 m — and explain why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decimal place value: Round 3.7 to 4 and 3.2 to 3 Place 6.5 on a number line between 6 and 7 and decide it rounds to 7",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_16"
+    },
+    {
+      "title": "Fractions as parts of shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Fractions as parts of shapes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Partition shapes into parts with equal areas and express the area of each part as a unit fraction of the whole",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Partition a rectangle into 6 equal-area parts and label each 1/6",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to fold a square piece of paper into 8 equal parts, can they tell you what fraction of the whole square each part represents?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fractions as parts of shapes. Partition a rectangle into 6 equal-area parts and label each 1/6 Show two different ways to partition a square into 4 equal parts",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_03_lesson_17"
+    }
+  ],
+  "id": "Math_unit_03"
+}

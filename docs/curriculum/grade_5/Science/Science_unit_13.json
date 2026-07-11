@@ -1,0 +1,266 @@
+{
+  "title": "Waves, Light & Sound",
+  "objective": "Students will explore waves, light & sound concepts including Reflection & Refraction, White Light & Colour, Light Travels in Straight Lines and more.",
+  "standards": [
+    "ngss-ms:MS-PS4-1",
+    "uk-nc-2013:KS3.Sci.Phys.Waves.2",
+    "uk-nc-2013:Y6.Sci.L.1",
+    "uk-nc-2013:KS3.Sci.Phys.Waves.4",
+    "uk-nc-2013:Y6.Sci.L.4",
+    "uk-nc-2013:KS3.Sci.Phys.Waves.1",
+    "uk-nc-2013:KS3.Sci.Phys.Waves.5",
+    "uk-nc-2013:KS3.Sci.Phys.Waves.3"
+  ],
+  "skills_tested": [
+    "waves,_light_sound",
+    "weather_climate"
+  ],
+  "lessons": [
+    {
+      "title": "Reflection & Refraction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Reflection & Refraction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "State the law of reflection (angle of incidence = angle of reflection) and explain refraction as the change in speed and direction when light crosses a boundary between two media; apply ray diagrams for plane mirrors and refracting surfaces",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! States the law of reflection and applies it to draw a reflected ray correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you put a straw in a glass of water and it looked bent at the surface, could they explain why that happens — drawing a diagram to show the path of light at the water’s surface?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reflection & Refraction. States the law of reflection and applies it to draw a reflected ray correctly Draws a ray diagram for a plane mirror showing a virtual image",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_13_lesson_01"
+    },
+    {
+      "title": "White Light & Colour",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about White Light & Colour!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain that white light is a mixture of all visible colours (ROYGBIV), describe dispersion through a prism, explain why objects appear coloured (selective reflection and absorption of wavelengths), and describe colour mixing with filters",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Lists the colours of the visible spectrum in order of increasing frequency",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you shone white light through a prism, could they explain why a rainbow of colours appears — and then predict what colour a blue jumper would look under red light and why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about White Light & Colour. Lists the colours of the visible spectrum in order of increasing frequency Explains why a prism disperses white light into a spectrum",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_13_lesson_02"
+    },
+    {
+      "title": "Light Travels in Straight Lines",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Light Travels in Straight Lines! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that light appears to travel in straight lines and use this to explain how we see objects and why shadows have the same shape as the objects that cast them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: State and demonstrate that light travels in straight lines (e.g. can't see around corners, laser pointer)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a shadow of a hand looks like a hand shape, using the idea that light travels in straight lines?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Light Travels in Straight Lines. State and demonstrate that light travels in straight lines (e.g. can't see around corners, laser pointer) Use straight-line light to explain why shadows have the same outline shape as the object",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_13_lesson_03"
+    },
+    {
+      "title": "Wave Properties & Types",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Wave Properties & Types!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe waves in terms of amplitude, wavelength, frequency, and wave speed; distinguish transverse waves (oscillation perpendicular to direction of travel) from longitudinal waves (oscillation parallel); and use the wave equation v = fλ",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Labels a wave diagram with amplitude, wavelength, crest, and trough",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked to describe a wave and how fast it travels, could they sketch one, label the wavelength and amplitude, and use the wave equation to work out speed from the frequency and wavelength?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Wave Properties & Types: Labels a wave diagram with amplitude, wavelength, crest, and trough Distinguishes transverse and longitudinal waves and gives an example of each",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_13_lesson_04"
+    },
+    {
+      "title": "How Sound Waves Travel",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "waves,_light_sound"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about How Sound Waves Travel? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain that sound is produced by vibrating objects and travels as a longitudinal pressure wave through solids, liquids, and gases; describe reflection of sound (echoes) and absorption; explain why sound cannot travel through a vacuum",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explains how a vibrating object creates regions of compression and rarefaction in air",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you heard an echo in a large empty hall, could they explain what causes the echo, why the same sound in a carpeted living room doesn’t echo, and what would happen to sound in outer space?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How Sound Waves Travel. Explains how a vibrating object creates regions of compression and rarefaction in air Explains why sound travels fastest in solids and cannot travel in a vacuum",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_13_lesson_05"
+    },
+    {
+      "title": "Global Wind Patterns",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Global Wind Patterns!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain that unequal solar heating drives large-scale atmospheric circulation: Hadley cells (0-30°), Ferrel cells (30-60°), and polar cells (60-90°) produce the trade winds, westerlies, and polar easterlies; describe how the Coriolis effect from Earth's rotation deflects winds rightward in the Northern Hemisphere; explain the jet stream as a fast high-altitude wind that steers weather systems; connect jet stream waviness and Arctic amplification to prolonged extreme weather",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why the UK tends to get wet weather arriving from the west — what global pattern of winds is steering weather systems, and how does Earth's rotation contribute to this?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Global Wind Patterns. You now know more about Global Wind Patterns!",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_13_lesson_06"
+    },
+    {
+      "title": "Greenhouse Gas Science",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "weather_climate"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Greenhouse Gas Science! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the electromagnetic spectrum and distinguish between short-wave solar radiation and long-wave infrared radiation emitted by Earth; explain how greenhouse gas molecules (CO2, CH4, N2O, H2O) absorb and re-emit infrared through molecular vibration while O2 and N2 do not; distinguish the natural greenhouse effect (which makes Earth habitable) from the enhanced greenhouse effect driven by human emissions; evaluate the relative potency of different greenhouse gases",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain, in terms of light and energy, why CO2 in the atmosphere traps heat but nitrogen and oxygen — which make up most of the air — don't? What's physically different about CO2 molecules?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Greenhouse Gas Science. You now know more about Greenhouse Gas Science!",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_13_lesson_07"
+    }
+  ],
+  "id": "Science_unit_13"
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Entrepreneurship",
+  "objective": "Students will explore entrepreneurship concepts including Making Something to Sell, Who Is a Customer?, Buyers & Sellers and more.",
+  "standards": [],
+  "skills_tested": [
+    "entrepreneurship"
+  ],
+  "lessons": [
+    {
+      "title": "Making Something to Sell",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Making Something to Sell!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "The experience of creating a product to sell — a craft, a drawing, baked goods; what makes something worth buying; pride in making something others want",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Create a simple product (craft, drawing, baked item) that could be sold",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you made something at home — like friendship bracelets or decorated biscuits — could they explain why someone might want to buy them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Making Something to Sell. Create a simple product (craft, drawing, baked item) that could be sold Explain what makes their product good enough for someone to want to buy it",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_01_lesson_01"
+    },
+    {
+      "title": "Who Is a Customer?",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Who Is a Customer?! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understanding that a customer is someone who buys what you make or do; thinking about what customers want and need; the idea that businesses serve people",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define what a customer is in their own words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was planning to sell lemonade at a school event, could they think about what would make people want to buy their lemonade rather than someone else's?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Who Is a Customer?: Define what a customer is in their own words Suggest what a customer might look for when deciding whether to buy something (quality, price, looks nice)",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_01_lesson_02"
+    },
+    {
+      "title": "Buyers & Sellers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Buyers & Sellers!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "When someone makes or has something, they can sell it; when someone wants something, they can buy it; introduction to the concept of exchange and transactions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain what a buyer does and what a seller does",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you set up a stall at a school fair, could they explain who the buyers and sellers are and what each person does?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Buyers & Sellers. Explain what a buyer does and what a seller does Act out a simple buying and selling transaction with a partner",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_01_lesson_03"
+    },
+    {
+      "title": "Goods & Services",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "entrepreneurship"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Goods & Services. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Some people make things (goods) and some people do things for others (services); recognising both in everyday life and understanding that both have value",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Sort a set of pictures into goods (things you can touch) and services (things people do for you)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you tell you the difference between a product you buy in a shop and a service like getting a haircut, and give examples of each?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Goods & Services. Sort a set of pictures into goods (things you can touch) and services (things people do for you) Give three examples of goods and three examples of services from their everyday life",
+          "media": {}
+        }
+      ],
+      "id": "k_Life Skills_unit_01_lesson_04"
+    }
+  ],
+  "id": "Life Skills_unit_01"
+}

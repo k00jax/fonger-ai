@@ -1,0 +1,291 @@
+{
+  "title": "Mathematical Thinking",
+  "objective": "Students will explore mathematical thinking concepts including Explaining Mathematical Reasoning, Guided Multi-Step Problem Solving, Connecting maths to real life and more.",
+  "standards": [],
+  "skills_tested": [
+    "mathematical_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Explaining Mathematical Reasoning",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Explaining Mathematical Reasoning!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "With teacher prompting, explain and justify mathematical reasoning using drawings, number sentences, or words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain a solution strategy using a drawing or number sentence (e.g. 'I made ten first, then added the rest')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you \"how did you work that out?\", can they show you with a drawing or explain their steps in simple words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Explaining Mathematical Reasoning. Explain a solution strategy using a drawing or number sentence (e.g. 'I made ten first, then added the rest') Justify why an answer is correct by showing an alternative method that gives the same result",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_01"
+    },
+    {
+      "title": "Guided Multi-Step Problem Solving",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Guided Multi-Step Problem Solving? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "With teacher guidance, make sense of multi-step and more complex problems by planning a pathway to the solution, identifying relevant information, and choosing appropriate operations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: When given a word problem within 20 or 100, identify the known information and what needs to be found",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you works out that 3 children each get 12 sweets and ends up with 5, does you pause and say \"that doesn't seem right\" rather than just writing it down?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Guided Multi-Step Problem Solving. When given a word problem within 20 or 100, identify the known information and what needs to be found Try a strategy (drawing, number line, known fact) and switch approach if the first attempt stalls",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_02"
+    },
+    {
+      "title": "Connecting maths to real life",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Connecting maths to real life. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent real-world problems with number sentences, bar models, or diagrams, and interpret the mathematical result back in context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Choose and write an appropriate number sentence for a measurement or money word problem",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you solves a word problem by drawing a bar model or writing an equation, can they also explain what their answer means in the real-world context — like \"that means each child gets 4 sweets\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Connecting maths to real life. Choose and write an appropriate number sentence for a measurement or money word problem Draw a bar model or diagram to represent a two-step or comparison problem",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_03"
+    },
+    {
+      "title": "Numbers on a number line",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Numbers on a number line! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Select and use appropriate tools and representations (number lines, hundred squares, rulers, part-whole models) to support problem-solving",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Choose a number line or hundred square to support adding or subtracting two-digit numbers",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is tackling a maths problem, do they choose a useful tool — like a number line for addition or a hundred square to count on — rather than always working in their head?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Numbers on a number line. Choose a number line or hundred square to support adding or subtracting two-digit numbers Select a ruler when a problem requires measuring length",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_04"
+    },
+    {
+      "title": "Generalising Patterns",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Generalising Patterns!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use repeated reasoning to generalise: spot calculation patterns, describe rules for sequences, and predict results using known mathematical facts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use a known doubles fact to derive a near-doubles answer (e.g. 6 + 7 = 6 + 6 + 1 = 13)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is practising times tables or number patterns, do they spot a shortcut — like \"if 6 × 7 = 42, then 6 × 8 must be 48\" — and use known facts to work out ones they haven't memorised yet?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Generalising Patterns. Use a known doubles fact to derive a near-doubles answer (e.g. 6 + 7 = 6 + 6 + 1 = 13) Notice that subtracting 10 from any two-digit number always reduces the tens digit by 1",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_05"
+    },
+    {
+      "title": "Precise Maths Communication",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Precise Maths Communication? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Communicate with mathematical precision: use correct vocabulary, specify units, and use symbols accurately",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use the = sign correctly to mean 'is the same as' rather than 'the answer is'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes or talks about a maths answer, do they include the units — like \"5 centimetres\" rather than just \"5\" — and use the right symbols like = or &lt;?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Precise Maths Communication. Use the = sign correctly to mean 'is the same as' rather than 'the answer is' Include units when giving a measurement answer (e.g. '12 cm' not just '12')",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_06"
+    },
+    {
+      "title": "Connecting Representations",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Connecting Representations! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Move between real-world situations, drawings, and number sentences, explaining how each representation connects to the others (quantitative reasoning)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write a number sentence (e.g. 14 + 5 = 19) to match a word problem and explain the connection",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you solves a word problem, can they draw a diagram or write a number sentence to show their thinking — and then explain how the picture and the numbers match the real situation?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Connecting Representations: Write a number sentence (e.g. 14 + 5 = 19) to match a word problem and explain the connection Draw a bar model or part-whole diagram to represent a problem, then solve using the diagram",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_07"
+    },
+    {
+      "title": "Shape patterns",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "mathematical_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Shape patterns? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Look for and use mathematical structure: apply properties of operations, place-value patterns, and relationships between shapes to solve problems efficiently",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use the commutative property deliberately (e.g. reorder 3 + 9 as 9 + 3 to count on from the larger number)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you notices a pattern in their maths work — like how multiplying by 10 always adds a zero — do they use that pattern to solve similar problems more quickly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Shape patterns. Use the commutative property deliberately (e.g. reorder 3 + 9 as 9 + 3 to count on from the larger number) Use place-value structure to add or subtract tens (e.g. 47 + 10 = 57 because only the tens digit changes)",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_06_lesson_08"
+    }
+  ],
+  "id": "Math_unit_06"
+}

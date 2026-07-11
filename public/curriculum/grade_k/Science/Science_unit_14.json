@@ -1,0 +1,84 @@
+{
+  "title": "Space Systems & Earth's History",
+  "objective": "Students will explore space systems & earth's history concepts including Why seasons change, Naming the Planets.",
+  "standards": [
+    "ngss-k5:1-ESS1-2",
+    "uk-nc-2013:Y1.Sci.SC.2"
+  ],
+  "skills_tested": [
+    "space_systems_earth's_history"
+  ],
+  "lessons": [
+    {
+      "title": "Why seasons change",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Why seasons change. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make observations at different times of year to relate the amount of daylight to the time of year, noticing longer days in summer and shorter days in winter",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the pattern: more daylight hours in summer, fewer in winter",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you noticed that it's still light at bedtime in summer but dark much earlier in winter, and can they explain this pattern?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Why seasons change: Describe the pattern: more daylight hours in summer, fewer in winter Compare sunrise/sunset times at different points in the year",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_14_lesson_01"
+    },
+    {
+      "title": "Naming the Planets",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Naming the Planets!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name the planets in our solar system in order from the Sun and use vocabulary for space — planet, star, sun, moon, satellite, orbit, solar system, galaxy, universe, asteroid, comet — applying these correctly when describing the structure of the solar system and objects we see in the sky",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name the eight planets in order from the Sun without prompting",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you name the planets in order from the Sun — and explain the difference between a star, a planet, and a moon?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Naming the Planets. Name the eight planets in order from the Sun without prompting Use 'orbit' correctly to describe the movement of planets around the Sun and moons around planets",
+          "media": {}
+        }
+      ],
+      "id": "k_Science_unit_14_lesson_02"
+    }
+  ],
+  "id": "Science_unit_14"
+}

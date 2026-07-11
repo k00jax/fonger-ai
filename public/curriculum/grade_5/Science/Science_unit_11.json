@@ -1,0 +1,193 @@
+{
+  "title": "Space Systems & Earth's History",
+  "objective": "Students will explore space systems & earth's history concepts including Shadows, Why We Have Seasons, Phases of the Moon and more.",
+  "standards": [
+    "ngss-k5:5-ESS1-1",
+    "ngss-k5:5-ESS1-2",
+    "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.3",
+    "ngss-ms:MS-ESS1-1",
+    "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.2",
+    "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.1"
+  ],
+  "skills_tested": [
+    "space_systems_earth's_history"
+  ],
+  "lessons": [
+    {
+      "title": "Shadows",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Shadows. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Represent data in graphical displays to reveal patterns of daily changes in shadow length and direction, day and night cycles, and seasonal star patterns",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Measure and record shadow length and direction at different times of day",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you measure their shadow at different times of day, plot it on a chart, and explain why it's longest in the morning and evening but shortest at midday?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Shadows. Measure and record shadow length and direction at different times of day Create a graph showing how shadow length changes throughout the day",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_11_lesson_01"
+    },
+    {
+      "title": "Why We Have Seasons",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Why We Have Seasons!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain that the seasons are caused by the tilt of Earth's axis during its orbit around the Sun, distinguishing this from the common misconception that seasons are caused by changing distance from the Sun",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains that Earth's axis is tilted at about 23.5° relative to its orbit",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked why the UK is hot in summer but Australia is cold at the same time, could they explain that it's not about being closer to the Sun but about which half of the Earth is tilted towards the Sun?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Why We Have Seasons. Explains that Earth's axis is tilted at about 23.5° relative to its orbit Describes how the tilted axis causes one hemisphere to receive more direct sunlight in summer and less in winter",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_11_lesson_02"
+    },
+    {
+      "title": "Phases of the Moon",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Phases of the Moon!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain the phases of the Moon as the changing angle of sunlight on the lunar surface as seen from Earth, and describe how solar and lunar eclipses occur",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explains that the phases of the Moon arise from the changing geometry of Sun, Earth, and Moon, not Earth's shadow",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you noticed the Moon looking like a thin crescent one night and a full circle two weeks later, could they explain what has changed and why — and describe what happens during a lunar eclipse?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Phases of the Moon: Explains that the phases of the Moon arise from the changing geometry of Sun, Earth, and Moon, not Earth's shadow Describes the sequence of Moon phases over approximately 28 days",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_11_lesson_03"
+    },
+    {
+      "title": "Star Brightness & Distance",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Star Brightness & Distance!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Support an argument that the apparent brightness of the sun and stars is due to their relative distances from Earth, understanding the sun is a relatively close star",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that the sun is a star, and it appears much brighter because it is much closer to Earth",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why the sun looks so much brighter than other stars, even though many stars are actually bigger — it's because the sun is much closer to us?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Star Brightness & Distance: Explain that the sun is a star, and it appears much brighter because it is much closer to Earth Describe how a torch looks brighter close up and dimmer far away as an analogy",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_11_lesson_04"
+    },
+    {
+      "title": "The solar system (age 11+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "space_systems_earth's_history"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The solar system (age 11+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the detailed structure of the solar system, including moons, asteroids, and comets, compare orbital periods and distances of the planets, and distinguish between planets, dwarf planets, and other bodies",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Names the eight planets in order and gives one distinguishing fact about each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was making a model of the solar system, could they describe the difference between a planet, a moon, an asteroid, and a comet — and explain why planets closest to the Sun take less time to complete an orbit?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about The solar system (age 11+): Names the eight planets in order and gives one distinguishing fact about each Describes the difference between a planet, a dwarf planet, an asteroid, and a comet",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_11_lesson_05"
+    }
+  ],
+  "id": "Science_unit_11"
+}

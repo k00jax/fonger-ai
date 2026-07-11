@@ -1,0 +1,722 @@
+{
+  "title": "Grammar & Punctuation (Part 1)",
+  "objective": "Students will explore grammar & punctuation concepts including Grammar for Effect, Literary and Language Terminology, Grammar Terms: Voice and Punctuation and more.",
+  "standards": [
+    "ccss-ela:L.6.3b",
+    "ccss-ela:L.7.2a",
+    "ccss-ela:L.6.1e",
+    "uk-nc-2013:Eng.App2.Y6.Term.1",
+    "uk-nc-2013:KS3-ENG-GV-1f",
+    "ccss-ela:L.5.1a",
+    "ccss-ela:RL.7.5",
+    "uk-nc-2013:KS3-ENG-GV-1b",
+    "ccss-ela:L.7.1a",
+    "uk-nc-2013:Eng.UKS2.Write.VGP.1b"
+  ],
+  "skills_tested": [
+    "grammar_punctuation"
+  ],
+  "lessons": [
+    {
+      "title": "Grammar for Effect",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Grammar for Effect. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse the effectiveness and impact of grammatical features in texts read — understanding how authors make deliberate grammatical choices (sentence length, passive voice, fronted adverbials, listing) to create specific effects on the reader",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain how an author's use of short, simple sentences creates tension or urgency in a passage",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a piece of writing they admire, can they point to specific grammatical choices the author made — like very short sentences for tension, or a list of three for rhythm — and explain why those choices work?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Grammar for Effect. Explain how an author's use of short, simple sentences creates tension or urgency in a passage Analyse why an author uses a list of three (tricolon) in a persuasive text and evaluate its impact",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_01"
+    },
+    {
+      "title": "Literary and Language Terminology",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Literary and Language Terminology! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Discuss reading, writing, and spoken language with precise and confident use of linguistic and literary terminology — including terms for word classes, sentence types, clause types, literary devices, and text-level features",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use terms like 'subordinate clause', 'relative pronoun', 'metaphor', 'alliteration' accurately in discussion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you discusses a book or piece of writing with a teacher, do they use precise language — like \"the author uses a compound-complex sentence here\" or \"that's a non-restrictive relative clause\" — rather than just saying \"this bit is good\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Literary and Language Terminology: Use terms like 'subordinate clause', 'relative pronoun', 'metaphor', 'alliteration' accurately in discussion Explain the difference between a simile and a metaphor using correct terminology",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_02"
+    },
+    {
+      "title": "Grammar Terms: Voice and Punctuation",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Grammar Terms: Voice and Punctuation. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use Year 6 grammatical terminology accurately: subject, object, active voice, passive voice, synonym, antonym, ellipsis, hyphen, colon, semi-colon, bullet points",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Define and give examples of subject and object in sentences",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to find the \"subject\" and \"object\" in a sentence, or to explain what a \"semi-colon\" or \"ellipsis\" does, can they give you a confident and accurate answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Grammar Terms: Voice and Punctuation. Define and give examples of subject and object in sentences Explain the difference between active and passive voice using correct terminology",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_03"
+    },
+    {
+      "title": "Active and passive voice",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Active and passive voice!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the passive voice to shift focus from the agent to the action or recipient, understanding how passive constructions affect the presentation of information in formal and objective writing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Convert active sentences to passive voice and explain the change in emphasis",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you wants to write about something without saying who did it — like in a science report — can they switch the sentence round to say \"The experiment was carried out\" instead of \"We carried out the experiment\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Active and passive voice: Convert active sentences to passive voice and explain the change in emphasis Identify passive constructions in news reports and scientific writing",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_04"
+    },
+    {
+      "title": "Choosing Tenses for Precise Meaning",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Choosing Tenses for Precise Meaning!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use verb tense to convey various times, sequences, states, and conditions, selecting tenses deliberately to express the precise timing and nature of actions and events",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write a paragraph using multiple tenses to show the sequence of past, present, and future events",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a story that jumps between past events and present thoughts, do they shift verb tenses deliberately and accurately — so the reader always knows exactly when each event is happening?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Choosing Tenses for Precise Meaning: Write a paragraph using multiple tenses to show the sequence of past, present, and future events Choose between simple, progressive, and perfect tenses to express duration or completion",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_05"
+    },
+    {
+      "title": "Consistent verb tense",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Consistent verb tense!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and correct inappropriate shifts in verb tense within and across sentences and paragraphs, maintaining consistency unless a shift is required by meaning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify and correct unnecessary tense shifts in a given paragraph",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you read back a paragraph you has written and it unexpectedly switches from past tense to present tense mid-way through, can they spot the shift and correct it so the tense stays consistent?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Consistent verb tense. Identify and correct unnecessary tense shifts in a given paragraph Edit own writing to ensure consistent tense use throughout a narrative",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_06"
+    },
+    {
+      "title": "Paragraph Cohesion",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Paragraph Cohesion? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Link ideas across paragraphs using a wider range of cohesive devices including word repetition, grammatical connections such as adverbials, and ellipsis to create coherent extended texts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use adverbials such as 'on the other hand' and 'as a consequence' to connect paragraphs",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a long piece across several paragraphs, do the sections feel connected — with repeated key words, linking phrases, and occasional gaps (ellipsis) used deliberately to hold the whole text together?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Paragraph Cohesion: Use adverbials such as 'on the other hand' and 'as a consequence' to connect paragraphs Apply ellipsis to avoid repetition while maintaining clarity across sentences",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_07"
+    },
+    {
+      "title": "Phrases & Clauses",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Phrases & Clauses? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand and analyse the function of phrases (noun, verb, adjectival, adverbial, prepositional) and clauses (main, subordinate, relative) in general and in specific sentences, including recognising and correcting misplaced and dangling modifiers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify a prepositional phrase acting as an adverbial and explain its role in the sentence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads a sentence like \"Walking home from school, the rain soaked her backpack\" and something feels grammatically off, can they identify the dangling modifier and explain how to rewrite it correctly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Phrases & Clauses: Identify a prepositional phrase acting as an adverbial and explain its role in the sentence Distinguish between a main clause and a subordinate clause and explain their relationship",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_08"
+    },
+    {
+      "title": "Advanced Punctuation for Clarity",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Advanced Punctuation for Clarity!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use punctuation confidently and accurately for effect and clarity — including semicolons to link related clauses, colons to introduce lists or explanations, dashes and parentheses for parenthetical information, ellipsis for omission or suspense, and commas for coordinate adjectives and nonrestrictive elements",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use a semicolon to link two closely related independent clauses without a conjunction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a complex piece — like an essay or a detailed story — do they use advanced punctuation like semi-colons, colons, dashes, and ellipses confidently and accurately to shape meaning and style?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Advanced Punctuation for Clarity: Use a semicolon to link two closely related independent clauses without a conjunction Set off a nonrestrictive clause with commas and explain why the commas are needed",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_09"
+    },
+    {
+      "title": "Types of Sentences",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Types of Sentences! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Choose among and construct simple, compound, complex, and compound-complex sentences to signal different relationships among ideas, varying sentence patterns deliberately for meaning, interest, and style",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Combine short sentences into a complex sentence using a subordinating conjunction for effect",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is writing for effect — like building tension in a story or structuring an argument — do they deliberately vary their sentence types, mixing short punchy sentences with longer, more complex ones?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Types of Sentences: Combine short sentences into a complex sentence using a subordinating conjunction for effect Rewrite a passage of monotonous simple sentences using a mix of sentence types for variety and flow",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_10"
+    },
+    {
+      "title": "Hyphens in Prefixed Words",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Hyphens in Prefixed Words. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use hyphens to avoid ambiguity in compound modifiers and prefixed words, distinguishing between meanings that change based on hyphen placement",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Distinguish between 'man eating shark' and 'man-eating shark' by adding or removing hyphens",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why \"a man-eating shark\" and \"a man eating shark\" mean completely different things — and use a hyphen correctly in their own writing to avoid that kind of confusion?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Hyphens in Prefixed Words: Distinguish between 'man eating shark' and 'man-eating shark' by adding or removing hyphens Use hyphens with prefixes to clarify meaning such as 'recover' versus 're-cover'",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_11"
+    },
+    {
+      "title": "Commas with yes, no, and names",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Commas with yes, no, and names. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use commas to set off the words yes and no, to set off tag questions, and to indicate direct address in sentences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write sentences using commas with yes and no at the beginning such as 'Yes, I understand'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes dialogue or a letter and addresses someone by name — like \"Yes, Mum, I did tidy my room\" — do they use commas correctly around the name and around words like \"yes\" or \"no\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Commas with yes, no, and names. Write sentences using commas with yes and no at the beginning such as 'Yes, I understand' Punctuate tag questions correctly such as 'It's cold today, isn't it?'",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_12"
+    },
+    {
+      "title": "Punctuating Titles of Works",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Punctuating Titles of Works. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use underlining, quotation marks, or italics to indicate titles of works, applying conventions for different types of works such as books, stories, poems, songs, and articles",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use italics or underlining for titles of books, films, and albums",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you refers to a book title or a film name in their writing, do they know to put it in inverted commas or italics — like writing *Charlotte's Web* or \"Charlotte's Web\" — rather than just leaving it as plain text?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Punctuating Titles of Works: Use italics or underlining for titles of books, films, and albums Use quotation marks for titles of short works such as poems, songs, and articles",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_13"
+    },
+    {
+      "title": "Standard English",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Standard English! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and understand the differences between spoken and written language — including differences in formality, register, grammar, and vocabulary — and between Standard English and other varieties of English, using Standard English confidently in writing and speech",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain three differences between how we speak informally and how we write formally (e.g., contractions, slang, sentence completeness)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand that the way they speak with friends is different from how they should write in school — and can they adjust their language for formal situations, using standard grammar and vocabulary?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Standard English: Explain three differences between how we speak informally and how we write formally (e.g., contractions, slang, sentence completeness) Identify features of Standard English and explain why it is used in formal contexts",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_14"
+    },
+    {
+      "title": "Commas After Introductory Elements",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Commas After Introductory Elements? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use a comma to separate an introductory element from the rest of the sentence, including introductory words, phrases, and clauses",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Place commas after introductory adverbs such as 'However' or 'Therefore' at the start of sentences",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you begins a sentence with a phrase or clause — like \"Despite the rain,\" or \"If you look closely,\" — do they put a comma after that opening part before the main sentence begins?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Commas After Introductory Elements. Place commas after introductory adverbs such as 'However' or 'Therefore' at the start of sentences Use commas after introductory prepositional phrases like 'In the morning' or 'After the game'",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_15"
+    },
+    {
+      "title": "Varying Sentence Structure",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Varying Sentence Structure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Expand, combine, and reduce sentences for meaning, reader interest, and style, using techniques such as embedding clauses, using appositives, and varying sentence length",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Combine two simple sentences into one complex sentence using subordination",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you revises their writing, can they take a very long sentence and split it up, or take three short choppy sentences and combine them into one — choosing the version that reads best for the audience?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Varying Sentence Structure: Combine two simple sentences into one complex sentence using subordination Expand a simple sentence by adding descriptive phrases and clauses",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_16"
+    },
+    {
+      "title": "Punctuating Clauses",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Punctuating Clauses? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use semi-colons, colons, and dashes to mark boundaries between independent clauses, choosing the appropriate punctuation based on the relationship between the clauses",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Join two related independent clauses using a semi-colon in place of a conjunction",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes two closely related sentences, can they join them with a semi-colon or colon — like \"It was late; the streets were empty\" — rather than always using a full stop or \"and\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Punctuating Clauses. Join two related independent clauses using a semi-colon in place of a conjunction Use a colon to introduce an explanation or elaboration of the first clause",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_17"
+    },
+    {
+      "title": "Conjunctions, Prepositions and Interjections",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Conjunctions, Prepositions and Interjections!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain the function of conjunctions, prepositions, and interjections in general and in particular sentences, understanding how each word class contributes to meaning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify conjunctions, prepositions, and interjections in sentences and explain their function",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you what the word \"although\" or \"ouch!\" does in a sentence, can they explain one is a conjunction that joins ideas and the other is an interjection that expresses feeling?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Conjunctions, Prepositions and Interjections. Identify conjunctions, prepositions, and interjections in sentences and explain their function Explain how removing a preposition or conjunction changes the meaning of a sentence",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_18"
+    },
+    {
+      "title": "The subjunctive mood",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of The subjunctive mood!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the subjunctive form in formal writing and speech to express wishes, demands, suggestions, or hypothetical situations (e.g., 'If I were you', 'I suggest that he go', 'Were they to arrive')",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write sentences using 'If I were' to express hypothetical conditions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a formal letter or a persuasive essay, can they use phrases like \"If I were in charge…\" or \"The school suggests that every pupil attend…\" to sound more formal and precise?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The subjunctive mood. Write sentences using 'If I were' to express hypothetical conditions Transform informal sentences into formal equivalents using subjunctive forms such as 'I recommend that she attend'",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_19"
+    },
+    {
+      "title": "Correlative Conjunctions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "grammar_punctuation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Correlative Conjunctions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use correlative conjunctions correctly in sentences, pairing words such as either/or, neither/nor, both/and, not only/but also, and whether/or",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write sentences using each pair of correlative conjunctions correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you wants to say that two things are equally true — like \"both cats and dogs make good pets\" — do they know to use \"both…and\" together, rather than just \"and\" on its own?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Correlative Conjunctions: Write sentences using each pair of correlative conjunctions correctly Ensure parallel structure when using correlative conjunctions in complex sentences",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_02_lesson_20"
+    }
+  ],
+  "id": "Reading_unit_02"
+}

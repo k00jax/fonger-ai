@@ -1,0 +1,158 @@
+{
+  "title": "Emotional Literacy",
+  "objective": "Students will explore emotional literacy concepts including Naming Basic Emotions, Feelings Change and Differ, Triggers and Causes of Feelings and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE-ID-CU-P1-3",
+    "ib-pyp-pspe:PSPE-ID-LO-P1-5",
+    "ib-pyp-pspe:PSPE.INT.P1.LO.4",
+    "ib-pyp-pspe:PSPE-ID-LO-P1-6",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-4",
+    "ib-pyp-pspe:PSPE-ID-LO-P2-3"
+  ],
+  "skills_tested": [
+    "emotional_literacy"
+  ],
+  "lessons": [
+    {
+      "title": "Naming Basic Emotions",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Naming Basic Emotions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and recognise basic emotions — happy, sad, angry, scared, excited, and surprised — in themselves and in others by looking at facial expressions and body language",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Label at least five basic emotions from pictures or real situations",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a friend crying at a birthday party, can they tell you what that friend might be feeling and name the emotion?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Naming Basic Emotions. Label at least five basic emotions from pictures or real situations Match facial expressions to emotion words in a sorting activity",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_01_lesson_01"
+    },
+    {
+      "title": "Feelings Change and Differ",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Feelings Change and Differ? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that everyone has feelings, that feelings change throughout the day, and that the same event can make different people feel different things",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give an example of a time their feelings changed during a single day",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you and you watch the same film and you find it funny but you finds it scary, can they understand why you both felt differently?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Feelings Change and Differ: Give an example of a time their feelings changed during a single day Explain why two children might feel differently about the same event",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_01_lesson_02"
+    },
+    {
+      "title": "Triggers and Causes of Feelings",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Triggers and Causes of Feelings!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that feelings have causes — something happens (a trigger) and that makes us feel a certain way — and begin to identify what triggers their own emotions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe a trigger for at least three different emotions from their own experience",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you gets upset about something at school, can they explain to you what happened that made them feel that way?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Triggers and Causes of Feelings. Describe a trigger for at least three different emotions from their own experience Complete 'I felt ___ because ___' sentences accurately",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_01_lesson_03"
+    },
+    {
+      "title": "Expressing Feelings with Words",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Expressing Feelings with Words! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Express their own feelings appropriately using words rather than actions — saying 'I feel angry because...' instead of hitting, shouting, or withdrawing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use an 'I feel ___ when ___' statement during a disagreement",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is frustrated — say a sibling takes their toy — do they use words to say how they feel rather than snatching it back or crying?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Expressing Feelings with Words: Use an 'I feel ___ when ___' statement during a disagreement Choose to tell an adult how they feel instead of acting out physically",
+          "media": {}
+        }
+      ],
+      "id": "k_SEL_unit_01_lesson_04"
+    }
+  ],
+  "id": "SEL_unit_01"
+}

@@ -1,0 +1,722 @@
+{
+  "title": "Reading Comprehension (Part 1)",
+  "objective": "Students will explore reading comprehension concepts including Justifying Views About Texts, Evaluating Arguments in Non-Fiction, Figurative Language and Literary Devices and more.",
+  "standards": [
+    "uk-nc-2013:KS3-ENG-R-1c",
+    "uk-nc-2013:KS3-ENG-R-3c",
+    "ccss-ela:RL.7.5",
+    "ccss-ela:RI.8.1",
+    "ccss-ela:RI.6.2",
+    "ccss-ela:RL.6.6",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.3",
+    "ccss-ela:RI.7.2",
+    "ccss-ela:RI.6.10",
+    "uk-nc-2013:KS3-ENG-R-3a"
+  ],
+  "skills_tested": [
+    "reading_comprehension"
+  ],
+  "lessons": [
+    {
+      "title": "Justifying Views About Texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Justifying Views About Texts. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Provide reasoned justifications for views about texts, supporting interpretations and opinions with evidence and logical arguments",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State an opinion about a character's motivations and support it with three pieces of textual evidence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you shares an opinion about a book — like \"I think the villain had a point\" — can they back it up with specific quotes or events from the text, rather than just saying how they feel?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Justifying Views About Texts: State an opinion about a character's motivations and support it with three pieces of textual evidence Construct a reasoned argument about an author's message using quotes from the text",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_01"
+    },
+    {
+      "title": "Evaluating Arguments in Non-Fiction",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Evaluating Arguments in Non-Fiction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate arguments and claims in non-fiction texts — assess whether reasoning is sound, evidence is relevant and sufficient, distinguish between fact and opinion, and recognise bias, propaganda, and rhetorical techniques",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify the main claim in an argument text and evaluate whether the evidence presented is sufficient",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a persuasive piece — like an editorial or a speech — can they identify the rhetorical techniques being used, evaluate whether the argument is logically sound, and explain what might be biased or misleading?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Evaluating Arguments in Non-Fiction. Identify the main claim in an argument text and evaluate whether the evidence presented is sufficient Spot logical fallacies or irrelevant evidence introduced to distract from weak reasoning",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_02"
+    },
+    {
+      "title": "Figurative Language and Literary Devices",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Figurative Language and Literary Devices. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine the meaning of figurative and connotative language in context, analyse the impact of specific word choices on meaning and tone, and identify literary devices such as metaphor, simile, personification, allusion, and irony",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify a metaphor or simile in a passage and explain its effect on the reader",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a passage containing a metaphor, irony, or allusion, can they explain what the author really meant — going beyond the literal words to describe the effect that device creates for the reader?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Figurative Language and Literary Devices. Identify a metaphor or simile in a passage and explain its effect on the reader Explain how an author's word choice creates a particular tone (e.g., menacing, humorous, melancholic)",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_03"
+    },
+    {
+      "title": "Using and Evaluating Textual Evidence",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Using and Evaluating Textual Evidence. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Cite specific textual evidence to support analysis of what a text says explicitly and what can be inferred, distinguishing between strong and weak evidence and explaining how the evidence supports a point",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify a relevant quotation to support an inference about a character's feelings",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you makes a point about a text in class or in writing, do they back it up with a specific quote or reference — and can they explain whether that evidence strongly supports their point or only weakly?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Using and Evaluating Textual Evidence: Identify a relevant quotation to support an inference about a character's feelings Explain why one piece of evidence is stronger than another for supporting a claim",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_04"
+    },
+    {
+      "title": "Poetic forms and conventions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Poetic forms and conventions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and understand poetic conventions — including form (sonnet, ballad, free verse), metre, rhyme scheme, stanza structure, imagery, and sound devices (alliteration, assonance, onomatopoeia) — and analyse how poets use them for effect",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the form of a poem (e.g., sonnet, haiku, ballad) and explain its key structural features",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a poem, can they identify its form — like a sonnet or a ballad — and explain how the poet's use of rhyme, rhythm, and imagery contributes to the poem's meaning or emotional impact?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Poetic forms and conventions. Identify the form of a poem (e.g., sonnet, haiku, ballad) and explain its key structural features Analyse how a poet uses rhythm or sound devices to reinforce meaning or mood",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_05"
+    },
+    {
+      "title": "Narrative Perspective and Unreliable Narrators",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Narrative Perspective and Unreliable Narrators! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse point of view and narrative perspective — including first person, third person limited and omniscient, and unreliable narrator — and how the author's or narrator's perspective shapes the reader's understanding and creates effects such as suspense, irony, or humour",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify the narrative perspective of a text and explain how it limits or expands the reader's knowledge",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a story with an unreliable narrator — where the person telling the story isn't fully trustworthy — can they spot the clues that suggest the narrator isn't giving the full picture?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Narrative Perspective and Unreliable Narrators: Identify the narrative perspective of a text and explain how it limits or expands the reader's knowledge Explain how dramatic irony arises when the reader knows something a character does not",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_06"
+    },
+    {
+      "title": "Plot Structure and Character Development",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Plot Structure and Character Development!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse how plot structure unfolds through episodes or key events, and how characters develop, respond to challenges, and change over the course of a narrative — including the relationship between character, setting, and plot",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Trace how a character's attitude changes across a story and identify the turning points",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a novel, can you explain how the main character changed from the beginning to the end — pointing to specific events that caused that change and how the setting shaped who they became?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Plot Structure and Character Development. Trace how a character's attitude changes across a story and identify the turning points Explain how a specific incident in a drama propels the action or provokes a decision",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_07"
+    },
+    {
+      "title": "Understanding drama and performance",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Understanding drama and performance!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how dramatists communicate meaning through performance — including staging, direction, set design, lighting, and actors' choices — and how different productions can interpret the same script differently",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain how a director's staging choices (e.g., set, lighting, blocking) affect the audience's understanding",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After watching a stage or film production of a play they've read, can you discuss how specific choices — like the lighting, the actor's tone, or the set design — interpreted the script, and whether they agreed with those choices?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Understanding drama and performance. Explain how a director's staging choices (e.g., set, lighting, blocking) affect the audience's understanding Compare two productions or adaptations of the same play and evaluate different interpretive choices",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_08"
+    },
+    {
+      "title": "Critical comparison across texts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Critical comparison across texts? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make critical comparisons across texts — comparing themes, characters, settings, styles, or arguments in two or more works, including texts from different periods, genres, or cultures",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare how two novels treat a shared theme (e.g., growing up) using specific evidence from both",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading texts from very different times or cultures, can you compare them thoughtfully — noting not just surface similarities but deeper differences in values, style, and what the author assumed about their reader?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Critical comparison across texts. Compare how two novels treat a shared theme (e.g., growing up) using specific evidence from both Analyse how a modern retelling draws on and transforms elements from a traditional story or myth",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_09"
+    },
+    {
+      "title": "Using Multiple Sources",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Using Multiple Sources! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw on information from multiple print or digital sources, demonstrating the ability to locate an answer to a question quickly or solve a problem efficiently",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Use search features, indexes, and headings to locate specific information across sources",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you needs to answer a research question for school, can they search across several books or websites to find the relevant information quickly — rather than reading every source from start to finish?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Using Multiple Sources. Use search features, indexes, and headings to locate specific information across sources Synthesise information from two or more sources to answer a research question",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_10"
+    },
+    {
+      "title": "Comparing Characters, Settings and Events",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Comparing Characters, Settings and Events!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast two or more characters, settings, or events in a story or drama, drawing on specific details about how characters interact, settings influence action, or events connect",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Create a Venn diagram comparing two characters' traits using textual evidence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a novel with several main characters, can you compare two of them in detail — explaining how their personalities, experiences, and relationships are both similar and different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Comparing Characters, Settings and Events: Create a Venn diagram comparing two characters' traits using textual evidence Explain how a change in setting affects the mood and characters' actions in a story",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_11"
+    },
+    {
+      "title": "Different viewpoints in texts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Different viewpoints in texts! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe how a narrator's or speaker's point of view influences how events are described, recognising the difference between limited and omniscient narration and how perspective shapes storytelling",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify whether a story uses first-person or third-person narration and explain the effect",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a story told by an all-knowing narrator feels different from one told by a single character who only knows their own side — and give an example of how that changes what the reader knows?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Different viewpoints in texts: Identify whether a story uses first-person or third-person narration and explain the effect Explain how events would be described differently if told from another character's perspective",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_12"
+    },
+    {
+      "title": "Comparing Books",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Comparing Books!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make comparisons within and across books, identifying similarities and differences in themes, characters, settings, and authorial choices across multiple texts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare how two authors develop similar themes using different narrative techniques",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a few books by the same author or in the same genre, can you compare them — discussing what themes, styles, or character types the author tends to use?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Comparing Books. Compare how two authors develop similar themes using different narrative techniques Identify similarities and differences between characters across books by the same author",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_13"
+    },
+    {
+      "title": "Wide Independent Reading Across Genres",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Wide Independent Reading Across Genres!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read widely and independently across fiction and non-fiction — including whole novels, short stories, plays, poetry, and non-fiction from different genres, periods, and cultures — building stamina, breadth, and personal taste as a reader",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Choose books independently that offer appropriate challenge and genuine interest",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you read for pleasure across a wide range of books — fiction, non-fiction, poetry, plays — and can they talk enthusiastically about authors, genres, or themes they've discovered on their own?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Wide Independent Reading Across Genres: Choose books independently that offer appropriate challenge and genuine interest Read at least two Shakespeare plays and a range of pre-1914 and contemporary literature during KS3",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_14"
+    },
+    {
+      "title": "Tracing Theme Across a Text",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Tracing Theme Across a Text!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine and analyse the theme or central idea of a text, trace how it develops across the text through key details and events, and provide an objective summary distinct from personal opinion",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify a theme in a novel and explain how specific events develop it across the plot",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a novel or long poem, can you explain what it was really about at its deepest level — the central idea or theme — and trace how that idea developed through key moments in the text?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Tracing Theme Across a Text. Identify a theme in a novel and explain how specific events develop it across the plot Distinguish between the topic of a text (what it is about) and the theme (what it is saying)",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_15"
+    },
+    {
+      "title": "Quoting Accurately from Texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Quoting Accurately from Texts!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Quote accurately from literary and informational texts when explaining what the text says explicitly and when drawing inferences, using quotation marks and citations correctly",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Select and copy exact words from a text to support an inference about character motivation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes about a book or article for school, do they quote from the text directly — putting the exact words in speech marks — to support their points?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Quoting Accurately from Texts: Select and copy exact words from a text to support an inference about character motivation Use quotation marks correctly when incorporating textual evidence into written responses",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_16"
+    },
+    {
+      "title": "Summarising Non-Fiction Main Ideas",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Summarising Non-Fiction Main Ideas!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Determine two or more main ideas of an informational text and explain how they are supported by key details, then summarise the text without personal opinions",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify the main ideas in each section of an informational article",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a long non-fiction article, can you identify two or three main ideas it covers and write a brief summary that captures all of them — without adding their own opinions?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Summarising Non-Fiction Main Ideas: Identify the main ideas in each section of an informational article List key details that support each main idea in a multi-paragraph text",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_17"
+    },
+    {
+      "title": "Comparing Structure in Information Texts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparing Structure in Information Texts? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast the overall structure of events, ideas, concepts, or information in two or more informational texts, identifying patterns such as chronology, comparison, cause/effect, or problem/solution",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the organisational structure of two texts on the same topic",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads two non-fiction texts about the same topic that are organised differently — one in time order and one comparing two sides — can they describe those structural differences and explain how each one shapes the reader's experience?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Comparing Structure in Information Texts. Identify the organisational structure of two texts on the same topic Explain how one text uses cause/effect while another uses problem/solution to present information",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_18"
+    },
+    {
+      "title": "How Authors Treat Similar Themes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of How Authors Treat Similar Themes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast stories in the same genre on their approaches to similar themes and topics, identifying how different authors treat common ideas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Compare how two mystery stories create suspense using different techniques",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading two adventure stories in the same genre, can you compare how each author handled similar elements — like the hero's challenge or the resolution — and say which approach they preferred and why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Authors Treat Similar Themes. Compare how two mystery stories create suspense using different techniques Identify common themes in adventure stories and explain how each author develops them differently",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_19"
+    },
+    {
+      "title": "Purpose, audience, and context",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Purpose, audience, and context!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the purpose, audience, and context of a text and use this knowledge to support comprehension — recognising how writing aimed at different audiences (academic, popular, persuasive) uses different conventions, register, and tone",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the intended audience and purpose of a text and explain how the language choices reflect this",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads something written for a very different audience — like a scientific journal article versus a children's book on the same topic — can they explain how the purpose and audience shaped the language, tone, and structure?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Purpose, audience, and context. Identify the intended audience and purpose of a text and explain how the language choices reflect this Compare a newspaper article and a scientific report on the same topic, noting differences in register and structure",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_04_lesson_20"
+    }
+  ],
+  "id": "Reading_unit_04"
+}

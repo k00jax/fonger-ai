@@ -1,0 +1,192 @@
+{
+  "title": "Friendship & Cooperation",
+  "objective": "Students will explore friendship & cooperation concepts including Resolving Disagreements with Friends, Friendships change over time, Working Well in a Group and more.",
+  "standards": [
+    "ib-pyp-pspe:PSPE.INT.P2.LO.5",
+    "ib-pyp-pspe:PSPE.INT.P2.LO.3",
+    "ib-pyp-pspe:PSPE.INT.P2.LO.9",
+    "ib-pyp-pspe:PSPE.INT.P2.CU.1",
+    "ib-pyp-pspe:PSPE.INT.P2.LO.6"
+  ],
+  "skills_tested": [
+    "friendship_cooperation"
+  ],
+  "lessons": [
+    {
+      "title": "Resolving Disagreements with Friends",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Resolving Disagreements with Friends? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Resolve simple disagreements with peers by talking it through — explaining how they feel, listening to the other person's side, and finding a compromise or solution that both can accept",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain their own point of view calmly during a disagreement",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you and a friend disagree about which game to play at break time, can they talk it through and find a compromise — rather than one person always getting their way or the argument escalating?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Resolving Disagreements with Friends. Explain their own point of view calmly during a disagreement Listen to the other person's perspective without interrupting",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_03_lesson_01"
+    },
+    {
+      "title": "Friendships change over time",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Friendships change over time! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that friendships change over time — that it's normal for friends to drift apart or for new friendships to form — and develop strategies for making new friends and handling friendship changes without feeling like something is wrong with them",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain that friendships changing is normal and doesn't mean something is wrong",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you's best friend starts spending more time with someone else, can they handle it without falling apart — understanding that friendships shift and they can make new friends too?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Friendships change over time. Explain that friendships changing is normal and doesn't mean something is wrong Describe a strategy for making new friends, such as joining a club or inviting someone to play",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_03_lesson_02"
+    },
+    {
+      "title": "Working Well in a Group",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Working Well in a Group? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Work effectively as part of a small group — contributing their own ideas, listening to others' ideas, taking on a fair share of the work, and supporting the group to reach a shared goal",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Contribute at least one idea during a group discussion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you has to do a group project at school, do they pull their weight — sharing ideas and doing their part — rather than sitting back or trying to take over?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Working Well in a Group. Contribute at least one idea during a group discussion Listen to and build on another group member's idea",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_03_lesson_03"
+    },
+    {
+      "title": "Communication Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Communication Vocabulary! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know and use the vocabulary of healthy communication and conflict — assertive, passive, aggressive, compromise, conflict, resolution, mediate, bystander, upstander, and peer pressure — and understand the difference between these contrasting approaches",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use 'assertive' correctly and distinguish it from 'aggressive' — e.g. 'Being assertive means saying what I need calmly'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you and a friend have a disagreement, can they describe it using words like 'conflict' or 'compromise' — and explain how assertive communication is different from aggressive or passive behaviour?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Communication Vocabulary. Use 'assertive' correctly and distinguish it from 'aggressive' — e.g. 'Being assertive means saying what I need calmly' Explain what 'conflict resolution' means and describe one strategy such as using 'I feel...' statements",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_03_lesson_04"
+    },
+    {
+      "title": "Roles in a Group",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Roles in a Group!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand different roles people play in groups — leader, supporter, mediator, idea-generator — and recognise that effective groups need a mix of roles, not everyone trying to be the leader",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Name at least three different roles people can play in a group",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "In a group project, can you recognise that they don't always have to be in charge — and that sometimes the group works better when they support someone else's idea rather than pushing their own?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Roles in a Group. Name at least three different roles people can play in a group Identify their own preferred role and describe its strengths",
+          "media": {}
+        }
+      ],
+      "id": "2_SEL_unit_03_lesson_05"
+    }
+  ],
+  "id": "SEL_unit_03"
+}

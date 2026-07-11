@@ -1,0 +1,301 @@
+{
+  "title": "Number Representation & Place Value",
+  "objective": "Students will explore number representation & place value concepts including Place value of each digit, Comparing Large Numbers, Negative Numbers and more.",
+  "standards": [
+    "uk-nc-2013:Ma/KS2/Y4/NPV/2",
+    "uk-nc-2013:Ma/KS2/Y4/NPV/8",
+    "uk-nc-2013:Ma/KS2/Y4/NPV/5",
+    "uk-nc-2013:Ma/KS2/Y4/NPV/4",
+    "uk-nc-2013:Ma/KS2/Y4/NPV/9",
+    "uk-nc-2013:Ma/KS2/Y4/NPV/3",
+    "uk-nc-2013:Ma/KS2/Y4/NPV/6",
+    "uk-nc-2013:Ma/KS2/Y4/NPV/7",
+    "ccss-math:3.NBT.1"
+  ],
+  "skills_tested": [
+    "number_representation_place_value"
+  ],
+  "lessons": [
+    {
+      "title": "Place value of each digit",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Place value of each digit!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise the place value of each digit in a four-digit number (thousands, hundreds, tens, and ones)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State the value of each digit in a four-digit number (e.g. in 7,345 the 7 represents 7 thousands)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees the number 5,347, can they tell you the value of each digit — that the 5 means 5,000, the 3 means 300, the 4 means 40, and the 7 means 7?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Place value of each digit. State the value of each digit in a four-digit number (e.g. in 7,345 the 7 represents 7 thousands) Partition a four-digit number into thousands, hundreds, tens, and ones",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_01"
+    },
+    {
+      "title": "Comparing Large Numbers",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Comparing Large Numbers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Order and compare numbers beyond 1000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Compare two four-digit numbers using >, <, and = by examining digits from the highest place value",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you put a set of four-digit numbers like 4,321, 1,876, and 9,045 in order from smallest to largest — comparing them digit by digit?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Comparing Large Numbers: Compare two four-digit numbers using >, <, and = by examining digits from the highest place value Order a set of numbers up to 10,000 from smallest to largest",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_02"
+    },
+    {
+      "title": "Negative Numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Negative Numbers. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Count backwards through zero to include negative numbers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Count backwards from 5 through zero: 5, 4, 3, 2, 1, 0, −1, −2 …",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you count backwards past zero into negative numbers — like 3, 2, 1, 0, −1, −2, −3 — without hesitating at zero?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Negative Numbers. Count backwards from 5 through zero: 5, 4, 3, 2, 1, 0, −1, −2 … Place negative numbers on a number line",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_03"
+    },
+    {
+      "title": "Rounding to 10, 100, 1000",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Rounding to 10, 100, 1000. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Round any number to the nearest 10, 100, or 1000",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Round 4,367 to the nearest 10 (4,370), 100 (4,400), and 1000 (4,000)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you round a number like 4,738 to the nearest 10 (4,740), 100 (4,700), or 1,000 (5,000) — and explain which digit they look at to decide?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Rounding to 10, 100, 1000: Round 4,367 to the nearest 10 (4,370), 100 (4,400), and 1000 (4,000) Explain the rounding rule using a number line (which multiple is closer)",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_04"
+    },
+    {
+      "title": "Numbers to 10,000",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Numbers to 10,000? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify, represent, and estimate numbers up to 10,000 using different representations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Represent a four-digit number on a place-value chart or with base-ten materials",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you mark a number like 6,400 roughly in the right place on a number line that goes from 0 to 10,000 — and explain how they decided where to put it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Numbers to 10,000: Represent a four-digit number on a place-value chart or with base-ten materials Estimate where a number falls on a 0–10,000 number line",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_05"
+    },
+    {
+      "title": "Place Value Problem-Solving",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Place Value Problem-Solving!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve number and practical problems involving place value with increasingly large positive numbers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Solve a problem requiring rounding, comparing, or ordering numbers beyond 1000",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked 'what is the largest 4-digit even number you can make from the digits 3, 7, 1, and 8?', can they work through it systematically and give you an answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Place Value Problem-Solving: Solve a problem requiring rounding, comparing, or ordering numbers beyond 1000 Apply place-value knowledge in a practical context (e.g. population figures, distances)",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_06"
+    },
+    {
+      "title": "1000 More or Less",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about 1000 More or Less. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find 1000 more or less than a given number",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Given 4,562, state that 1000 more is 5,562 and 1000 less is 3,562",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you quickly work out '1,000 more than 3,456' or '1,000 less than 7,200' in their head — knowing only the thousands digit changes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about 1000 More or Less. Given 4,562, state that 1000 more is 5,562 and 1000 less is 3,562 Explain using place value that only the thousands digit changes",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_07"
+    },
+    {
+      "title": "Roman numerals to 100",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Roman numerals to 100! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read Roman numerals to 100 (I to C) and understand that the numeral system changed over time to include zero and place value",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Read and write Roman numerals I, V, X, L, C and combinations up to 100",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read Roman numerals like XIV (14) or XLII (42) — and do they know why we stopped using Roman numerals for most things once zero and place value were invented?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Roman numerals to 100. Read and write Roman numerals I, V, X, L, C and combinations up to 100 Convert between Roman numerals and Hindu-Arabic numerals (e.g. XLIV = 44)",
+          "media": {}
+        }
+      ],
+      "id": "3_Math_unit_08_lesson_08"
+    }
+  ],
+  "id": "Math_unit_08"
+}

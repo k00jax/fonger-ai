@@ -1,0 +1,119 @@
+{
+  "title": "Earth's Systems",
+  "objective": "Students will explore earth's systems concepts including Finding patterns in data, Erosion and weathering, Types of rocks.",
+  "standards": [
+    "ngss-k5:4-ESS2-1",
+    "ngss-k5:4-ESS2-2"
+  ],
+  "skills_tested": [
+    "earth's_systems"
+  ],
+  "lessons": [
+    {
+      "title": "Finding patterns in data",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Finding patterns in data! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse and interpret data from maps to describe patterns of Earth's features, recognising that many features result from processes that occur over long periods",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use a map to identify patterns in the location of mountains, rivers, lakes, and other features",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at a map and notice patterns like mountains running in lines, rivers flowing to the sea, or deserts clustered near the equator?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Finding patterns in data. Use a map to identify patterns in the location of mountains, rivers, lakes, and other features Describe patterns observed (e.g. mountains in chains, rivers flow from high to low ground)",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_03_lesson_01"
+    },
+    {
+      "title": "Erosion and weathering",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Erosion and weathering! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make observations and measurements to provide evidence of the effects of weathering or the rate of erosion by water, ice, wind, or vegetation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Define weathering (breaking down of rock in place) and erosion (movement of broken rock/soil)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at a crumbling cliff or a river bank and explain how water, wind, or ice has slowly worn away the rock or soil over time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Erosion and weathering. Define weathering (breaking down of rock in place) and erosion (movement of broken rock/soil) Describe the effects of at least three agents of weathering/erosion: water, ice, wind, vegetation",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_03_lesson_02"
+    },
+    {
+      "title": "Types of rocks",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Types of rocks? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use vocabulary for Earth's geological processes and rock types — igneous, sedimentary, metamorphic, erosion, weathering, deposition, fossil, sediment, strata, permeable, impermeable — and apply these when explaining how rocks form and how landscapes change over time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Correctly classify igneous, sedimentary, and metamorphic rocks and explain in one sentence how each type forms",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Could you explain the difference between a rock being weathered and being eroded — those are actually two different things?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Types of rocks. Correctly classify igneous, sedimentary, and metamorphic rocks and explain in one sentence how each type forms Use 'erosion', 'weathering', and 'deposition' correctly as three distinct stages in a sequence",
+          "media": {}
+        }
+      ],
+      "id": "4_Science_unit_03_lesson_03"
+    }
+  ],
+  "id": "Science_unit_03"
+}

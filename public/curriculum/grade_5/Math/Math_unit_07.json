@@ -1,0 +1,326 @@
+{
+  "title": "Measurement",
+  "objective": "Students will explore measurement concepts including Area of Triangles & Parallelograms, Miles & Kilometres, Volume as additive and more.",
+  "standards": [],
+  "skills_tested": [
+    "measurement"
+  ],
+  "lessons": [
+    {
+      "title": "Area of Triangles & Parallelograms",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Area of Triangles & Parallelograms? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Calculate the area of parallelograms and triangles using formulae (A = b × h for parallelograms, A = ½ × b × h for triangles)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate the area of a parallelogram with base 8 cm and height 5 cm",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is cutting triangular pieces of cloth where the base is 8 cm and the height is 5 cm, can they use a formula to work out the area of each piece?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Area of Triangles & Parallelograms: Calculate the area of a parallelogram with base 8 cm and height 5 cm Calculate the area of a triangle with base 12 cm and height 7 cm",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_01"
+    },
+    {
+      "title": "Miles & Kilometres",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Miles & Kilometres! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Convert between miles and kilometres using the approximate relationship (5 miles ≈ 8 km)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Convert 40 miles to approximately 64 km",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is driving 40 miles to a theme park, can they use the rule that 5 miles ≈ 8 km to estimate roughly how many kilometres that is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Miles & Kilometres: Convert 40 miles to approximately 64 km Explain why the conversion factor between miles and km is approximately 1.6",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_02"
+    },
+    {
+      "title": "Volume as additive",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Volume as additive! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise volume as additive; find volumes of composite solid figures made of two or more non-overlapping right rectangular prisms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Decompose an L-shaped solid into two cuboids and calculate total volume",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If an L-shaped swimming pool is made of two rectangular sections, can you find the volume of each section separately and add them to get the total volume of the pool?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Volume as additive: Decompose an L-shaped solid into two cuboids and calculate total volume Solve a real-world problem requiring the volume of a composite figure (e.g. a step-shaped structure)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_03"
+    },
+    {
+      "title": "Decimal place value",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Decimal place value!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Convert among different-sized standard measurement units within a given system (e.g. 5 cm to 0.05 m) using decimal notation to up to three decimal places; convert between smaller and larger units of length, mass, volume, and time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Convert 3,250 g to 3.25 kg using decimal notation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to convert 5 cm to metres and write the answer as a decimal, can they do it — and also convert 2.45 kg into grams?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decimal place value: Convert 3,250 g to 3.25 kg using decimal notation Convert 0.45 km to 450 m",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_04"
+    },
+    {
+      "title": "Measurement Conversions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Measurement Conversions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve problems involving the calculation and conversion of units of measure, using decimal notation and multi-step reasoning in real-world contexts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Solve: 'A recipe uses 0.75 kg of flour. How many grams are needed for 3 batches?'",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is filling a fish tank that holds 60 litres and the tap fills it at 3.5 litres per minute, can they work out how long it will take to fill the tank?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measurement Conversions. Solve: 'A recipe uses 0.75 kg of flour. How many grams are needed for 3 batches?' Compare 2.5 litres and 2,450 ml by converting to the same unit",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_05"
+    },
+    {
+      "title": "Estimating answers (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Estimating answers (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find the volume of right rectangular prisms by packing with unit cubes and show it equals l × w × h (or base area × height); apply V = l × w × h and V = B × h to solve real-world problems; calculate, estimate, and compare volumes of cubes and cuboids in standard units (cm³, m³)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use V = l × w × h to find the volume of a cuboid 4 cm × 3 cm × 5 cm = 60 cm³",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wants to work out how much soil fits in a plant box that is 40 cm long, 20 cm wide, and 15 cm deep, can they use a formula to calculate the volume?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Estimating answers (age 10+): Use V = l × w × h to find the volume of a cuboid 4 cm × 3 cm × 5 cm = 60 cm³ Explain why packing a prism with unit cubes gives the same result as multiplying edge lengths",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_06"
+    },
+    {
+      "title": "Perimeter (age 10+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Perimeter (age 10+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that shapes with the same area can have different perimeters and vice versa; explore this relationship systematically",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw two rectangles with area 24 cm² but different perimeters",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has 12 square tiles to arrange, can they make different-shaped rectangles and notice that the area stays the same (12 tiles) but the perimeters are all different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Perimeter (age 10+). Draw two rectangles with area 24 cm² but different perimeters Find two shapes with perimeter 20 cm but different areas",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_07"
+    },
+    {
+      "title": "Counting Unit Cubes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Counting Unit Cubes! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure volumes by counting unit cubes using cubic cm, cubic in, cubic ft, and other units",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Count unit cubes in a 3D diagram to determine volume in cm³",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a 3-D shape built from small cubes in a diagram, can they count how many cubes it contains — even the ones hidden at the back — to find the volume?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Counting Unit Cubes. Count unit cubes in a 3D diagram to determine volume in cm³ Measure the volume of a small container by filling it with centimetre cubes",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_08"
+    },
+    {
+      "title": "Measuring length (age 10+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Measuring length (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise volume as an attribute of solid figures; understand that a unit cube (side length 1 unit) has 'one cubic unit' of volume and can be used to measure volume; a solid packed with n unit cubes has volume n cubic units",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what 'volume' means for a 3D shape and how it differs from area",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you builds a solid shape using small cubes, can they count the cubes to find the volume — and explain what \"one cubic centimetre\" means in everyday terms?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Measuring length (age 10+). Explain what 'volume' means for a 3D shape and how it differs from area Identify a unit cube and explain that it represents one cubic unit of volume",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_07_lesson_09"
+    }
+  ],
+  "id": "Math_unit_07"
+}

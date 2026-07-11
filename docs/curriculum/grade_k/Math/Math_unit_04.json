@@ -1,0 +1,192 @@
+{
+  "title": "Geometry",
+  "objective": "Students will explore geometry concepts including 3-D shapes (age 5+), Turns & Directions, Building & Drawing Shapes and more.",
+  "standards": [
+    "ccss-math:K.G.6",
+    "uk-nc-2013:Maths/Y1/GPD/1",
+    "ccss-math:K.G.5",
+    "ccss-math:K.G.4",
+    "ccss-math:K.G.3"
+  ],
+  "skills_tested": [
+    "geometry"
+  ],
+  "lessons": [
+    {
+      "title": "3-D shapes (age 5+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about 3-D shapes (age 5+). Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse and compare 2-D and 3-D shapes using informal language to describe sides, vertices, and other attributes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Count the sides and corners of a shape",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe what makes two shapes different — for example, explaining that a triangle has 3 corners and 3 sides while a square has 4 of each?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about 3-D shapes (age 5+): Count the sides and corners of a shape Compare a triangle and a rectangle by number of sides",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_04_lesson_01"
+    },
+    {
+      "title": "Turns & Directions",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Turns & Directions! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe movement and direction, including whole, half, quarter, and three-quarter turns",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Follow instructions to move forward, backward, turn left/right",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is playing a game where they have to turn left or right, do they understand what a quarter turn, half turn, and full turn mean?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Turns & Directions. Follow instructions to move forward, backward, turn left/right Demonstrate a whole turn, half turn, and quarter turn with their body",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_04_lesson_02"
+    },
+    {
+      "title": "Building & Drawing Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Building & Drawing Shapes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Model shapes by building from components (e.g. sticks and clay balls) and by drawing",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Build a triangle from three sticks and three clay balls",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you build or draw a shape they've been shown — for example, making a cube from folded paper or copying a triangle onto dot paper?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Building & Drawing Shapes. Build a triangle from three sticks and three clay balls Draw a recognisable rectangle",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_04_lesson_03"
+    },
+    {
+      "title": "Combining Simple Shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Combining Simple Shapes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compose simple shapes to form larger shapes (e.g. two triangles make a rectangle)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Join two triangles to make a rectangle or larger triangle",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you fit smaller shapes together to make bigger ones — like combining two triangles to make a rectangle?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Combining Simple Shapes. Join two triangles to make a rectangle or larger triangle Use pattern blocks to fill a hexagon outline",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_04_lesson_04"
+    },
+    {
+      "title": "Flat vs Solid Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Flat vs Solid Shapes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish two-dimensional (flat) shapes from three-dimensional (solid) shapes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Sort shapes into 'flat' and 'solid' groups",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Does you understand the difference between a flat shape like a square and a solid shape like a cube — and can they sort everyday objects into flat or solid?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Flat vs Solid Shapes. Sort shapes into 'flat' and 'solid' groups Explain that a circle is flat but a sphere is solid",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_04_lesson_05"
+    }
+  ],
+  "id": "Math_unit_04"
+}

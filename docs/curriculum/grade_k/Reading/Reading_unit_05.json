@@ -1,0 +1,407 @@
+{
+  "title": "Reading Comprehension",
+  "objective": "Students will explore reading comprehension concepts including Listening to Texts Read Aloud, Characters, settings, and events, Main Topic of Informational Texts and more.",
+  "standards": [
+    "uk-nc-2013:Eng_Y1_RC_01",
+    "uk-nc-2013:Eng_Y1_RC_03",
+    "ccss-ela:RI.1.8",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.1a",
+    "ccss-ela:RL.1.5",
+    "uk-nc-2013:Eng/KS1/Y2/C/2d",
+    "ccss-ela:RL.1.3",
+    "ccss-ela:RI.K.8",
+    "uk-nc-2013:Eng_LKS2_Read_Comp_16",
+    "ccss-ela:RL.1.7"
+  ],
+  "skills_tested": [
+    "reading_comprehension"
+  ],
+  "lessons": [
+    {
+      "title": "Listening to Texts Read Aloud",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Listening to Texts Read Aloud!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Listen to and discuss poems, stories, and non-fiction at a level beyond independent reading; confirm understanding of texts read aloud by asking and answering questions about key details",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Answer questions about a story or non-fiction text read aloud by the teacher",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you read a story aloud to you, can they answer questions about what happened — like who the main character was, where the story took place, and what the problem was?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Listening to Texts Read Aloud: Answer questions about a story or non-fiction text read aloud by the teacher Discuss events, characters, or ideas from chapter books read to the class",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_01"
+    },
+    {
+      "title": "Characters, settings, and events",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Characters, settings, and events. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify characters, settings, and major events in stories; become familiar with key stories, fairy tales, and traditional tales and retell them with key details in sequence",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name the main characters in a story",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a fairy tale or story together, can you retell it to you in order — saying who was in it, where it happened, and what the main events were?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Characters, settings, and events: Name the main characters in a story Describe where and when a story takes place",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_02"
+    },
+    {
+      "title": "Main Topic of Informational Texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Main Topic of Informational Texts? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify the main topic and retell key details of informational texts; describe connections between individuals, events, ideas, or pieces of information",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State what a non-fiction text is mostly about in one sentence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After you reads a short fact book — like one about animals or space — can they tell you what the main topic was and give you a few key facts they learned from it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Main Topic of Informational Texts: State what a non-fiction text is mostly about in one sentence List two or three important facts learned from an informational text",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_03"
+    },
+    {
+      "title": "Reading between the lines",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Reading between the lines. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Ask and answer questions about key details in literary and informational texts; make simple inferences based on what characters say and do",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Answer 'who', 'what', 'where' questions about a text using evidence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "While reading a story, can you answer questions like \"Why did the character do that?\" or \"How do you think they felt?\" — using clues from the text rather than just guessing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Reading between the lines. Answer 'who', 'what', 'where' questions about a text using evidence Infer a character's feelings from their actions (e.g. 'She's sad because she's crying')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_04"
+    },
+    {
+      "title": "Self-Correcting While Reading",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Self-Correcting While Reading!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Check that text makes sense while reading and self-correct inaccurate reading by re-reading or using context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Notice when reading does not make sense and stop to re-read",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is reading and something doesn't quite make sense, do they go back and re-read that part — or use the surrounding words to work out what a tricky word or sentence means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Self-Correcting While Reading: Notice when reading does not make sense and stop to re-read Self-correct errors mid-sentence (e.g. 'Wait, that doesn't sound right')",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_05"
+    },
+    {
+      "title": "Book Features and Author's Reasons",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Book Features and Author's Reasons!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify front cover, back cover, and title page of a book; identify the reasons an author gives to support points in informational text",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Point to and name parts of a book (front cover, back cover, title page)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you find the contents page or index in a non-fiction book and use it to locate specific information — and do they understand why the author included those features?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Book Features and Author's Reasons. Point to and name parts of a book (front cover, back cover, title page) Use the title page to find the title, author, and illustrator",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_06"
+    },
+    {
+      "title": "Comparing Characters Across Stories",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Comparing Characters Across Stories? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and contrast the adventures and experiences of characters in familiar stories; identify similarities and differences between two texts on the same topic",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Identify what two stories have in common (e.g. 'Both have a bear character')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has read two stories with similar themes — like two tales about a brave hero — can they tell you what was the same and what was different between them?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Comparing Characters Across Stories: Identify what two stories have in common (e.g. 'Both have a bear character') Compare information from two books about the same topic",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_07"
+    },
+    {
+      "title": "Connecting reading to experience",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Connecting reading to experience? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Link what is read or heard to own experiences; draw on background knowledge and vocabulary to support understanding of texts",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Make text-to-self connections (e.g. 'This reminds me of when I...')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you hears or reads a story about something familiar — like going to school or visiting a grandparent — do they connect it to their own life and use that to help understand what's happening?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Connecting reading to experience. Make text-to-self connections (e.g. 'This reminds me of when I...') Use personal experience to understand a character's feelings",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_08"
+    },
+    {
+      "title": "Discussing Texts as a Group",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Discussing Texts as a Group! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Participate in discussions about what is read, taking turns and listening to others; explain understanding clearly; actively engage in group reading activities",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Share ideas about a book in a group discussion",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you's class discusses a book they've all read, does you join in — sharing their own ideas and listening to what others think, even if their view is different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Discussing Texts as a Group. Share ideas about a book in a group discussion Listen to and respond to others' opinions about a text",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_09"
+    },
+    {
+      "title": "Different Types of Texts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Different Types of Texts!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise common types of texts (storybooks, poems, non-fiction); name the author and illustrator and define the role of each in telling or presenting a text",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Distinguish between a story, a poem, and a non-fiction book",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you hand you a book, can they tell you whether it's a story or a fact book — and point out the author's name on the cover?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Different Types of Texts: Distinguish between a story, a poem, and a non-fiction book Point to and name the author and illustrator on the cover",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_10"
+    },
+    {
+      "title": "Pictures and Text Working Together",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Pictures and Text Working Together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the relationship between illustrations and the text in which they appear; use pictures to support and extend comprehension",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Use pictures to predict or confirm story events",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you is reading a picture book, do they look at the illustrations to help them understand what's happening in the story — and can they explain how a picture connects to the words on the page?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Pictures and Text Working Together. Use pictures to predict or confirm story events Describe what is happening in an illustration and how it relates to the text",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_05_lesson_11"
+    }
+  ],
+  "id": "Reading_unit_05"
+}

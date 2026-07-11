@@ -1,0 +1,118 @@
+{
+  "title": "Emotional Literacy",
+  "objective": "Students will explore emotional literacy concepts including Brain Science of Emotions.",
+  "standards": [],
+  "skills_tested": [
+    "emotional_literacy",
+    "empathy_social_awareness",
+    "friendship_cooperation"
+  ],
+  "lessons": [
+    {
+      "title": "Brain Science of Emotions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "emotional_literacy"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Brain Science of Emotions. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how the amygdala triggers emotional responses and how the prefrontal cortex (still developing in adolescence) regulates them; explain why stress hormones (cortisol, adrenaline) affect thinking and memory; understand that the adolescent brain's dopamine system makes feelings more intense; distinguish between emotion regulation (managing feelings effectively) and emotion suppression (pushing feelings down, which is counterproductive); introduce cognitive reappraisal as a research-backed technique for changing how we interpret a situation",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain, in basic terms, why teenagers tend to feel emotions more intensely than adults — what's happening in the developing brain that makes feelings so powerful during adolescence, and what's the difference between managing a feeling and suppressing it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Brain Science of Emotions: You now know more about Brain Science of Emotions!",
+          "media": {}
+        }
+      ],
+      "id": "5_SEL_unit_01_lesson_01"
+    },
+    {
+      "title": "Systemic Inequality and Allyship",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "empathy_social_awareness"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Systemic Inequality and Allyship! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Move beyond 'treating everyone the same' to understand that structural advantages and disadvantages exist regardless of individual effort or intention; explore concrete examples of systemic inequality (educational attainment gaps, gender pay gap, representation in leadership); distinguish between individual prejudice and structural discrimination; understand intersectionality — how multiple aspects of identity interact; develop informed compassion rooted in evidence rather than pity; explore what being a genuine ally means in practice",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain the difference between treating everyone 'the same' and actually making things fair — and give a real example of a structural barrier that means two people starting in different positions face unequal opportunities even if they try equally hard?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Systemic Inequality and Allyship: You now know more about Systemic Inequality and Allyship!",
+          "media": {}
+        }
+      ],
+      "id": "5_SEL_unit_01_lesson_02"
+    },
+    {
+      "title": "Social Cues and Group Dynamics",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "friendship_cooperation"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Social Cues and Group Dynamics! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand subtext, indirect communication, and social cues in adolescent peer groups; analyse the psychology of in-group and out-group dynamics and why belonging can come at the cost of exclusion; understand gossip as a social bonding and status mechanism, and its costs; develop strategies for navigating social hierarchies without compromising values; distinguish between assertiveness and aggression in peer settings; understand how to respond to exclusion — whether experiencing it or witnessing it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you senses tension or unspoken 'undercurrents' in a group of friends, can they describe what social cues they pick up on and explain the difference between being assertive and being aggressive when they choose to address it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Social Cues and Group Dynamics. You now know more about Social Cues and Group Dynamics!",
+          "media": {}
+        }
+      ],
+      "id": "5_SEL_unit_01_lesson_03"
+    }
+  ],
+  "id": "SEL_unit_01"
+}

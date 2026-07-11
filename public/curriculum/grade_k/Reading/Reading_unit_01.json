@@ -1,0 +1,46 @@
+{
+  "title": "English Thinking",
+  "objective": "Students will explore english thinking concepts including Reading for Meaning.",
+  "standards": [],
+  "skills_tested": [
+    "english_thinking"
+  ],
+  "lessons": [
+    {
+      "title": "Reading for Meaning",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "english_thinking"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reading for Meaning! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that reading is about making meaning, not just saying words correctly — a text that can be decoded but not understood has not been read",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Simple View of Reading (Gough & Tunmer)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads something aloud correctly but then can't tell you what it was about, do they recognise that reading means understanding — not just saying the words?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reading for Meaning: Simple View of Reading (Gough & Tunmer) reading comprehension research on comprehension-decoding separation",
+          "media": {}
+        }
+      ],
+      "id": "k_Reading_unit_01_lesson_01"
+    }
+  ],
+  "id": "Reading_unit_01"
+}

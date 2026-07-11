@@ -1,0 +1,83 @@
+{
+  "title": "Multiplication & Division",
+  "objective": "Students will explore multiplication & division concepts including Multiplication as repeated addition, Arrays for multiplication.",
+  "standards": [
+    "uk-nc-2013:Maths/Y1/MD/1"
+  ],
+  "skills_tested": [
+    "multiplication_division"
+  ],
+  "lessons": [
+    {
+      "title": "Multiplication as repeated addition",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Multiplication as repeated addition? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand multiplication as repeated addition and grouping equal sets",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain that 3 groups of 2 is the same as 2 + 2 + 2",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to count 4 bags with 3 apples in each, can they see that instead of counting all 12 one by one, they could add 3 + 3 + 3 + 3 — or say '4 groups of 3'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multiplication as repeated addition. Explain that 3 groups of 2 is the same as 2 + 2 + 2 Use objects to make equal groups and count the total",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_07_lesson_01"
+    },
+    {
+      "title": "Arrays for multiplication",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "multiplication_division"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Arrays for multiplication!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use arrays to represent multiplication and division situations",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Build an array of 3 rows of 4 objects to show 3 × 4",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees eggs arranged in 3 rows of 4 in a box, can they use that grid layout to work out both '3 × 4 = 12' and '12 ÷ 3 = 4'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Arrays for multiplication: Build an array of 3 rows of 4 objects to show 3 × 4 Read an array and state the total",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_07_lesson_02"
+    }
+  ],
+  "id": "Math_unit_07"
+}

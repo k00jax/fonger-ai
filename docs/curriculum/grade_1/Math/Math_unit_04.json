@@ -1,0 +1,190 @@
+{
+  "title": "Fractions",
+  "objective": "Students will explore fractions concepts including Fractions of amounts, Fraction Notation, Decomposing a shape into more equal shares and more.",
+  "standards": [
+    "uk-nc-2013:Maths/Y2/F/1",
+    "uk-nc-2013:Maths/Y2/F/2",
+    "ccss-math:1.G.3"
+  ],
+  "skills_tested": [
+    "fractions"
+  ],
+  "lessons": [
+    {
+      "title": "Fractions of amounts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Fractions of amounts!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise, find, name, and write fractions 1/3, 1/4, 2/4, and 3/4 of a length, shape, set of objects, or quantity",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Find 1/3 of 12 objects by sharing into 3 equal groups",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you put 12 grapes on the table, can you count out a quarter of them — and then show you what three-quarters of the grapes looks like?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fractions of amounts. Find 1/3 of 12 objects by sharing into 3 equal groups Shade 3/4 of a rectangle that has been divided into 4 equal parts",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_04_lesson_01"
+    },
+    {
+      "title": "Fraction Notation",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Fraction Notation! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, and use fraction notation correctly — fraction, numerator, denominator, unit fraction, non-unit fraction, proper fraction, improper fraction, mixed number, equivalent fraction, simplest form — and understand what each term describes, including the roles of the numerator and denominator in expressing parts of a whole",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Point to and name the numerator and denominator in any given fraction and explain what each tells you",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you saw the fraction 3/4 written down, could they point to the numerator and the denominator — and explain what each number actually means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Fraction Notation. Point to and name the numerator and denominator in any given fraction and explain what each tells you Correctly classify fractions as unit, proper, improper, or mixed number with an example of each",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_04_lesson_02"
+    },
+    {
+      "title": "Decomposing a shape into more equal shares",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Decomposing a shape into more equal shares!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that decomposing a shape into more equal shares creates smaller shares",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain that a quarter of a pizza is smaller than a half of the same pizza",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If a pizza is shared between 2 people and then the same pizza is shared between 8 people, can you explain why each slice is smaller when more people share it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decomposing a shape into more equal shares: Explain that a quarter of a pizza is smaller than a half of the same pizza Demonstrate that fourths are smaller pieces than halves",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_04_lesson_03"
+    },
+    {
+      "title": "Halves & Quarters of Shapes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Halves & Quarters of Shapes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Partition circles and rectangles into two and four equal shares and describe them using the words halves, fourths, and quarters",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Divide a circle into two equal halves",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you give you a round pizza or a rectangular chocolate bar, can they divide it into four equal pieces and tell you each piece is called a quarter or a fourth?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Halves & Quarters of Shapes: Divide a circle into two equal halves Divide a rectangle into four equal quarters",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_04_lesson_04"
+    },
+    {
+      "title": "Understanding fractions",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "fractions"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Understanding fractions? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Write simple fractions (e.g. 1/2 of 6 = 3) and recognise the equivalence of 2/4 and 1/2",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write 1/2 of 10 = 5",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has 6 strawberries and eats half of them, can they write that as \"1/2 of 6 = 3\" — and explain why 2/4 and 1/2 are the same amount?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding fractions: Write 1/2 of 10 = 5 Explain that 2/4 is the same as 1/2 using a diagram",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_04_lesson_05"
+    }
+  ],
+  "id": "Math_unit_04"
+}

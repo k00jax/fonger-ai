@@ -1,0 +1,337 @@
+{
+  "title": "Reading Comprehension (Part 2)",
+  "objective": "Students will explore reading comprehension concepts including Justifying Views About Texts, Evaluating Arguments in Non-Fiction, Figurative Language and Literary Devices and more.",
+  "standards": [
+    "uk-nc-2013:KS3-ENG-R-1c",
+    "uk-nc-2013:KS3-ENG-R-3c",
+    "ccss-ela:RL.7.5",
+    "ccss-ela:RI.8.1",
+    "ccss-ela:RI.6.2",
+    "ccss-ela:RL.6.6",
+    "uk-nc-2013:Eng.UKS2.Read.Comp.3",
+    "ccss-ela:RI.7.2",
+    "ccss-ela:RI.6.10",
+    "uk-nc-2013:KS3-ENG-R-3a"
+  ],
+  "skills_tested": [
+    "reading_comprehension"
+  ],
+  "lessons": [
+    {
+      "title": "How Language Choices Affect the Reader",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of How Language Choices Affect the Reader!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Evaluate how authors use language including figurative language, considering the impact of word choices, imagery, and literary devices on the reader",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain how a specific metaphor or simile affects the reader's understanding or emotions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a descriptive passage with figurative language — like \"the sun was a burning eye\" — can they explain what image or feeling the author was creating and whether it was effective?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about How Language Choices Affect the Reader: Explain how a specific metaphor or simile affects the reader's understanding or emotions Evaluate an author's choice of descriptive language and its impact on atmosphere",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_01"
+    },
+    {
+      "title": "Synthesising across multiple texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Synthesising across multiple texts! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Integrate information from several texts on the same topic in order to write or speak about the subject knowledgeably, combining information without plagiarising",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Combine information from three sources into a coherent paragraph using own words",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a school report using several sources, do they bring together information from all of them into their own words — rather than just quoting or copying from one source at a time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Synthesising across multiple texts. Combine information from three sources into a coherent paragraph using own words Create a fact sheet that synthesises key information from multiple texts on one topic",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_02"
+    },
+    {
+      "title": "Explaining Relationships in Texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Explaining Relationships in Texts! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in historical, scientific, or technical texts based on specific information",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain the cause-and-effect relationship between events in a historical text",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a history or science text about how two events or discoveries were connected, can you explain that relationship clearly — describing how one thing led to or influenced the other?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Explaining Relationships in Texts: Explain the cause-and-effect relationship between events in a historical text Describe how a scientific process involves sequential steps that depend on each other",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_03"
+    },
+    {
+      "title": "How Parts Build a Whole Text",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about How Parts Build a Whole Text. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a story, drama, or poem, analysing how each part contributes to the whole",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Map the structure of a novel showing how each chapter advances plot or character development",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After finishing a novel, can you explain how each chapter contributed to the whole — like how an early chapter introduced a tension that wasn't resolved until much later?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about How Parts Build a Whole Text. Map the structure of a novel showing how each chapter advances plot or character development Explain how individual stanzas in a poem build toward a central theme or message",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_04"
+    },
+    {
+      "title": "Analysing Text Structure",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Analysing Text Structure. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse how a text's structure — including its overall organisation, use of chapters, stanzas, scenes, paragraphs, or sections — contributes to its meaning, style, and development of ideas",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain how a non-chronological structure (e.g., flashback, frame narrative) creates suspense or surprise",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you analyses a poem or novel, can they explain how the author's structural choices — like starting in the middle of the action, or ending with a repeated image — shape the overall meaning of the text?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Analysing Text Structure. Explain how a non-chronological structure (e.g., flashback, frame narrative) creates suspense or surprise Analyse the role of a specific paragraph in developing and refining a key concept in a non-fiction text",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_05"
+    },
+    {
+      "title": "Fact vs opinion",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Fact vs opinion? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between statements of fact and statements of opinion in texts, recognising how authors blend factual information with subjective viewpoints",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify and label statements as fact or opinion in a newspaper article",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a newspaper article or non-fiction text, can they point out which parts are facts and which parts are the author's opinions — and explain how they can tell the difference?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fact vs opinion. Identify and label statements as fact or opinion in a newspaper article Explain why a statement is a fact by citing verifiable evidence or why it is an opinion",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_06"
+    },
+    {
+      "title": "Multiple Accounts of Events",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Multiple Accounts of Events. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse multiple accounts of the same event or topic, noting important similarities and differences in the point of view they represent",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Compare two news articles about the same event and identify differences in perspective",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you reads two different accounts of the same event — like two news articles covering the same story — can they explain what each account emphasises, what each leaves out, and why the perspectives differ?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multiple Accounts of Events. Compare two news articles about the same event and identify differences in perspective Explain how the author's background or purpose affects their account of an event",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_07"
+    },
+    {
+      "title": "Supporting ideas with evidence",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Supporting ideas with evidence!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which specific points",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Match each of an author's main points with the evidence used to support it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After reading a persuasive text, can you map out which reasons the author uses to support which specific points — showing that they understand the structure of the argument, not just the conclusion?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Supporting ideas with evidence. Match each of an author's main points with the evidence used to support it Evaluate whether the evidence provided adequately supports the author's argument",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_08"
+    },
+    {
+      "title": "Multimedia elements in texts",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "reading_comprehension"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Multimedia elements in texts? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Analyse how visual and multimedia elements contribute to the meaning, tone, or beauty of a text such as graphic novels, multimedia presentations, or illustrated editions of fiction and poetry",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Explain how illustrations in a graphic novel convey emotion or advance the story",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you reads a graphic novel or illustrated book, can they explain how the pictures and layout — not just the words — help tell the story or create a particular mood?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Multimedia elements in texts. Explain how illustrations in a graphic novel convey emotion or advance the story Analyse how visual elements such as colour and layout affect the tone of a multimedia text",
+          "media": {}
+        }
+      ],
+      "id": "5_Reading_unit_05_lesson_09"
+    }
+  ],
+  "id": "Reading_unit_05"
+}

@@ -1,0 +1,298 @@
+{
+  "title": "Ecosystems & Habitats",
+  "objective": "Students will explore ecosystems & habitats concepts including Changing Environments, Food Chains & Energy Transfer, Grouping Living Things and more.",
+  "standards": [
+    "ngss-k5:3-LS2-1",
+    "uk-nc-2013:Y4.Sci.A.3",
+    "uk-nc-2013:Y4.Sci.LTH.2",
+    "uk-nc-2013:Y4.Sci.LTH.3",
+    "ngss-k5:3-LS4-4",
+    "uk-nc-2013:Y4.Sci.LTH.1"
+  ],
+  "skills_tested": [
+    "ecosystems_habitats"
+  ],
+  "lessons": [
+    {
+      "title": "Changing Environments",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Changing Environments? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that environments can change and that this can sometimes pose dangers and challenges to living things",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Give at least two examples of environmental changes (natural and human-caused)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you give examples of how changes like pollution, building, or drought can make it harder for animals and plants to survive?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Changing Environments. Give at least two examples of environmental changes (natural and human-caused) Describe how a specific change affects the organisms in that environment",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_01"
+    },
+    {
+      "title": "Food Chains & Energy Transfer",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Food Chains & Energy Transfer? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct and interpret food chains identifying producers, predators, and prey, and understand energy transfer between trophic levels",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Construct a food chain with at least four organisms, labelling producer, primary consumer, predator",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you build a food chain for a woodland and point out which organisms are producers, which are predators, and which are prey?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Food Chains & Energy Transfer: Construct a food chain with at least four organisms, labelling producer, primary consumer, predator Define producer, predator, and prey with examples",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_02"
+    },
+    {
+      "title": "Grouping Living Things",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Grouping Living Things. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that living things can be grouped in a variety of ways based on observable features",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Group a set of organisms using at least two different criteria (e.g. by habitat, by body covering, by diet)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you sort a set of animals or plants into groups using their own criteria, like 'has wings' or 'lives in water'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Grouping Living Things. Group a set of organisms using at least two different criteria (e.g. by habitat, by body covering, by diet) Explain the reasoning behind each grouping choice",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_03"
+    },
+    {
+      "title": "Classification Keys",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Classification Keys. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explore and use classification keys to identify, group, and name living things in local and wider environments",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Follow a branching classification key to identify an unknown organism",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use a simple yes/no key chart to work out the name of an insect or plant they've found outside?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Classification Keys. Follow a branching classification key to identify an unknown organism Create a simple yes/no classification key for a set of 6-8 organisms",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_04"
+    },
+    {
+      "title": "Human impact on environments",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Human impact on environments!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use vocabulary for human impact on the environment — pollution, habitat destruction, deforestation, biodiversity, conservation, renewable energy, non-renewable energy, fossil fuel, carbon footprint, sustainability, endangered, extinct — and apply these when discussing environmental issues and human choices",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Distinguish between renewable and non-renewable energy sources using the correct terms and give examples of each",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain what a carbon footprint is — not just that it's about pollution, but what it actually measures?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Human impact on environments. Distinguish between renewable and non-renewable energy sources using the correct terms and give examples of each Use 'biodiversity' and 'conservation' correctly in discussing why protecting habitats matters",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_05"
+    },
+    {
+      "title": "Animal Groups & Survival",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Animal Groups & Survival!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Construct an argument that some animals form groups that help members survive, such as herds, packs, or colonies",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Give at least two examples of animals that live in groups (e.g. wolves, ants, fish schools)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why wolves hunt in packs or why fish swim in schools, and how being in a group helps them survive?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Animal Groups & Survival: Give at least two examples of animals that live in groups (e.g. wolves, ants, fish schools) Explain how group living provides survival advantages (protection, finding food, raising young)",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_06"
+    },
+    {
+      "title": "Ecology Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ecology Vocabulary. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use vocabulary for feeding relationships and ecological roles — producer, consumer, predator, prey, herbivore, carnivore, omnivore, decomposer, food chain, food web, nutrient cycle — and describe how energy and matter flow through ecosystems using these terms",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Construct a food chain correctly using producer, consumer, predator, and prey in the right positions",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you draw a food chain from a plant to a top predator and label each animal as a producer, consumer, predator, or prey?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Ecology Vocabulary: Construct a food chain correctly using producer, consumer, predator, and prey in the right positions Distinguish between herbivore, carnivore, and omnivore with correct examples from a given ecosystem",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_07"
+    },
+    {
+      "title": "Reading Food Web Diagrams",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ecosystems_habitats"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Reading Food Web Diagrams!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and interpret food web diagrams — identify producers, primary and secondary consumers, and decomposers; trace energy flow along food chains within the web; predict the effect of removing or adding a species",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify the producer, herbivore, and carnivore in a food web from a diagram",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is shown a diagram with arrows connecting plants, insects, frogs, and hawks, can they trace which animals eat which and explain what would happen if the frogs disappeared?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading Food Web Diagrams. Identify the producer, herbivore, and carnivore in a food web from a diagram Trace two food chains through the same food web and identify shared species",
+          "media": {}
+        }
+      ],
+      "id": "3_Science_unit_02_lesson_08"
+    }
+  ],
+  "id": "Science_unit_02"
+}

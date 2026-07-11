@@ -1,0 +1,652 @@
+{
+  "title": "Geometry",
+  "objective": "Students will explore geometry concepts including Angles in triangles (age 11+), Angle sums in triangles and polygons, Coordinate Transformations and more.",
+  "standards": [
+    "uk-nc-2013:KS3.Maths.Geo.3",
+    "uk-nc-2013:KS3.Maths.Geo.5",
+    "ccss-math:7.G.3",
+    "ccss-math:7.G.5",
+    "ccss-math:5.G.2",
+    "ccss-math:8.G.1c",
+    "ccss-math:8.G.3",
+    "ccss-math:8.G.1a",
+    "uk-nc-2013:KS3.Maths.Geo.10",
+    "uk-nc-2013:KS3.Maths.Geo.7"
+  ],
+  "skills_tested": [
+    "geometry"
+  ],
+  "lessons": [
+    {
+      "title": "Angles in triangles (age 11+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Angles in triangles (age 11+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Derive and apply formulae for the area of triangles, parallelograms, and trapezia, and for the volume of cuboids and other prisms (including cylinders), connecting each formula to its geometric reasoning",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate the area of a trapezium using A = ½(a + b) × h and explain why the formula works",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to tile a triangular section of a patio with a base of 4 m and height of 3 m, can they work out the area to know how many tiles to buy?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Angles in triangles (age 11+). Calculate the area of a trapezium using A = ½(a + b) × h and explain why the formula works Find the volume of a triangular prism by calculating cross-sectional area × length",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_01"
+    },
+    {
+      "title": "Angle sums in triangles and polygons",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Angle sums in triangles and polygons? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Derive and use the angle sum in a triangle (180°), use it to deduce the angle sum in any polygon ((n−2) × 180°), and calculate interior and exterior angles of regular polygons",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Calculate a missing angle in a triangle by subtracting the known angles from 180°",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows two angles of a triangle are 50° and 70°, can they work out the third? And can they figure out the angles inside a regular pentagon?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Angle sums in triangles and polygons. Calculate a missing angle in a triangle by subtracting the known angles from 180° Find the sum of interior angles in a hexagon by dividing it into triangles",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_02"
+    },
+    {
+      "title": "Coordinate Transformations",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Coordinate Transformations!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify properties of translations, rotations, and reflections; describe and perform these transformations on given figures, and understand that the image is congruent to the original",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Reflect a shape in a given mirror line (including diagonal lines) and state the coordinates of the image",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked to rotate a triangle 90° clockwise around a fixed point, can they work out where each corner ends up — and confirm the triangle is still the same size and shape?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Coordinate Transformations. Reflect a shape in a given mirror line (including diagonal lines) and state the coordinates of the image Rotate a shape about a given centre by 90° or 180° and describe the result",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_03"
+    },
+    {
+      "title": "Coordinates (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Coordinates (age 10+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe positions on the full coordinate grid (all four quadrants); use coordinates with negative values",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Plot points with negative coordinates such as (−3, 4) and (2, −5) on a four-quadrant grid",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is playing a game where ships can be at negative coordinates too, can they correctly plot and read positions like (−3, 2) or (1, −4) on a grid?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Coordinates (age 10+). Plot points with negative coordinates such as (−3, 4) and (2, −5) on a four-quadrant grid Identify the quadrant in which a given point lies",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_04"
+    },
+    {
+      "title": "Translating and reflecting shapes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Translating and reflecting shapes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw and translate simple shapes on the coordinate plane; reflect shapes in the axes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Translate a triangle 3 units right and 2 units down on a coordinate grid and state the new coordinates",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you draws a triangle at coordinates (1, 2), (3, 2), and (2, 4) on a grid, can they then reflect it across the x-axis and tell you the new coordinates of each corner?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Translating and reflecting shapes: Translate a triangle 3 units right and 2 units down on a coordinate grid and state the new coordinates Reflect a shape in the x-axis and list the coordinates of the reflected vertices",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_05"
+    },
+    {
+      "title": "Classifying shapes by properties",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Classifying shapes by properties? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and classify geometric shapes based on their properties and sizes; understand that attributes belonging to a category also belong to all subcategories; classify two-dimensional figures in a hierarchy based on properties",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Explain why all squares are rectangles but not all rectangles are squares",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If someone asks you \"is a square also a rectangle?\", can they explain why the answer is yes — because a square has all the properties of a rectangle plus equal sides?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Classifying shapes by properties. Explain why all squares are rectangles but not all rectangles are squares Place quadrilaterals in a hierarchy diagram showing subset relationships",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_06"
+    },
+    {
+      "title": "Numbers on a number line",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Numbers on a number line! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand a coordinate system defined by two perpendicular number lines (axes) with an origin at (0,0); know that an ordered pair (x, y) specifies a unique point where the first number gives horizontal distance and the second gives vertical distance from the origin",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify the x-axis, y-axis, and origin on a coordinate grid",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at a map with a grid and you describe a location as \"3 across and 5 up from the origin\", can they find the exact point — and explain what each of the two numbers tells you?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Numbers on a number line: Identify the x-axis, y-axis, and origin on a coordinate grid Explain that (3, 5) means go 3 along the x-axis and 5 up the y-axis",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_07"
+    },
+    {
+      "title": "Plotting points in the first quadrant",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Plotting points in the first quadrant!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Plot and read ordered pairs in the first quadrant of the coordinate plane; represent real-world and mathematical problems by graphing points and interpreting coordinate values in context",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Plot the point (4, 7) accurately on a first-quadrant grid",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you tell you a car journey passes through grid points (2, 3), (5, 7), and (8, 4) on a map, can they plot those points and describe what the journey looks like?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Plotting points in the first quadrant. Plot the point (4, 7) accurately on a first-quadrant grid Graph a set of data pairs (e.g. time vs distance) as points on the coordinate plane",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_08"
+    },
+    {
+      "title": "Angles in triangles (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Angles in triangles (age 10+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find unknown angles in triangles, quadrilaterals, and regular polygons using angle sum properties",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Find a missing angle in a triangle given two angles (using angle sum = 180°)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows that angles in a triangle always add up to 180°, and two angles in a triangle are 55° and 70°, can they work out the third angle without measuring it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Angles in triangles (age 10+). Find a missing angle in a triangle given two angles (using angle sum = 180°) Calculate a missing angle in a quadrilateral (angle sum = 360°)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_09"
+    },
+    {
+      "title": "Types of angles (age 11+)",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Types of angles (age 11+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use conventional geometric terms and notation to describe, sketch, and draw points, lines, parallel and perpendicular lines, right angles, regular polygons, and reflectively/rotationally symmetric polygons",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use correct notation for line segments (AB), angles (∠ABC), and parallel lines (AB ∥ CD)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to describe a triangle using proper geometry notation — naming its angles and sides with letters — can they do it clearly enough for someone else to draw it?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Types of angles (age 11+). Use correct notation for line segments (AB), angles (∠ABC), and parallel lines (AB ∥ CD) Sketch a regular hexagon and describe its rotational and reflective symmetry",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_10"
+    },
+    {
+      "title": "Properties of triangles and quadrilaterals",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Properties of triangles and quadrilaterals? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Derive and illustrate properties of triangles, quadrilaterals, and circles using appropriate language, including interior angles, diagonals, symmetry, and relationships between side lengths",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! List and verify properties of a parallelogram (opposite sides parallel/equal, opposite angles equal, diagonals bisect each other)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you why the diagonals of a rectangle are always equal in length, can they explain it using the properties of the shape — rather than just measuring to check?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Properties of triangles and quadrilaterals. List and verify properties of a parallelogram (opposite sides parallel/equal, opposite angles equal, diagonals bisect each other) Explain why a square is a special case of both a rectangle and a rhombus",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_11"
+    },
+    {
+      "title": "2-D shapes (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about 2-D shapes (age 10+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw 2-D shapes using given dimensions and angles, using a ruler and protractor accurately",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Draw a triangle with sides 5 cm, 7 cm and an included angle of 60°",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you to draw a triangle with sides of 5 cm and 7 cm with a 40° angle between them, can they use a ruler and protractor to draw it accurately?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about 2-D shapes (age 10+). Draw a triangle with sides 5 cm, 7 cm and an included angle of 60° Construct a rectangle with given length and width using a ruler and set square",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_12"
+    },
+    {
+      "title": "Understanding angles (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Understanding angles (age 10+)? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise angles where they meet at a point, are on a straight line, or are vertically opposite; find missing angles using these properties",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Find a missing angle at a point given the other angles (total 360°)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If two straight lines cross each other, can you tell you which pairs of angles are equal (vertically opposite) — and find a missing angle if you give them one of the others?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Understanding angles (age 10+): Find a missing angle at a point given the other angles (total 360°) Use the straight-line property (angles sum to 180°) to find an unknown angle",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_13"
+    },
+    {
+      "title": "Measuring angles (age 11+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Measuring angles (age 11+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Draw and measure line segments and angles accurately using ruler and protractor, and interpret scale drawings to extract real measurements",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Draw a triangle accurately given two sides and the included angle (SAS)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given an architect's floor plan where 1 cm represents 2 m, can they measure a room on the plan and work out its real-world dimensions?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measuring angles (age 11+). Draw a triangle accurately given two sides and the included angle (SAS) Measure angles in a geometric figure to the nearest degree using a protractor",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_14"
+    },
+    {
+      "title": "Understanding angles (age 11+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Understanding angles (age 11+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Apply the properties of angles at a point (360°), on a straight line (180°), and vertically opposite angles to find unknown angles in multi-step problems",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Find a missing angle using the fact that angles on a straight line sum to 180°",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a diagram with several angles marked at crossing lines and some unknown, can they use the rules about straight lines and crossing lines to find all the missing angles step by step?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Understanding angles (age 11+). Find a missing angle using the fact that angles on a straight line sum to 180° Use vertically opposite angles are equal to set up and solve an equation for an unknown",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_15"
+    },
+    {
+      "title": "3-D shapes (age 10+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore 3-D shapes (age 10+)! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise, describe, and build simple 3-D shapes, including making nets",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify which net will fold into a given 3-D shape",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is given a flat cross-shaped piece of card (a net), can they predict what 3-D shape it will make when folded up — and then fold it to check?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about 3-D shapes (age 10+). Identify which net will fold into a given 3-D shape Construct the net of a triangular prism and fold it to verify",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_16"
+    },
+    {
+      "title": "3-D shapes (age 11+)",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about 3-D shapes (age 11+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the properties of faces, surfaces, edges, and vertices of 3-D shapes (cubes, cuboids, prisms, cylinders, pyramids, cones, and spheres) to solve problems, including visualising cross-sections",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Count and describe the faces, edges, and vertices of a triangular prism and a square-based pyramid",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you slices a cylinder straight across the middle like cutting a tin of beans in half, can they describe the shape of the cut surface? What about slicing at an angle?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about 3-D shapes (age 11+). Count and describe the faces, edges, and vertices of a triangular prism and a square-based pyramid Describe the 2-D cross-section produced by slicing a cylinder horizontally or a cone vertically",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_17"
+    },
+    {
+      "title": "Parts of a circle",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "geometry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Parts of a circle!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Illustrate and name parts of circles, including radius, diameter, and circumference; know that the diameter is twice the radius",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Label the radius, diameter, and circumference on a circle diagram",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you give you a round plate and a ruler, can they measure the diameter — and explain how the radius compares to the diameter?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Parts of a circle. Label the radius, diameter, and circumference on a circle diagram Calculate the diameter given a radius of 4.5 cm (diameter = 9 cm)",
+          "media": {}
+        }
+      ],
+      "id": "5_Math_unit_05_lesson_18"
+    }
+  ],
+  "id": "Math_unit_05"
+}

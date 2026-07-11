@@ -1,0 +1,159 @@
+{
+  "title": "Organisms & Life Processes",
+  "objective": "Students will explore organisms & life processes concepts including Animal Life Stages, Seeds & Plant Growth, What Plants Need to Grow and more.",
+  "standards": [
+    "uk-nc-2013:Y6.Sci.EI.2",
+    "uk-nc-2013:Y2.Sci.P.2",
+    "ngss-k5:2-LS2-1",
+    "ngss-k5:1-LS3-1",
+    "ngss-k5:1-LS1-2",
+    "uk-nc-2013:Y2.Sci.P.1",
+    "uk-nc-2013:Y2.Sci.A.1"
+  ],
+  "skills_tested": [
+    "organisms_life_processes"
+  ],
+  "lessons": [
+    {
+      "title": "Animal Life Stages",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Animal Life Stages? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that animals, including humans, have offspring which grow into adults, and describe basic animal life stages",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the basic life stages of a human: baby, child, teenager, adult",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you describe how a kitten grows into a cat, or how a baby grows into an adult?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Animal Life Stages. Describe the basic life stages of a human: baby, child, teenager, adult Give examples of other animals and their young (e.g. kitten → cat, chick → hen)",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_03_lesson_01"
+    },
+    {
+      "title": "Seeds & Plant Growth",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Seeds & Plant Growth! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe and describe how seeds and bulbs grow into mature plants through stages of germination and growth",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the stages: seed absorbs water → root appears → shoot pushes up → leaves open",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Has you planted a seed or bulb and been able to describe what happened as it grew — first a root, then a shoot, then leaves?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Seeds & Plant Growth. Describe the stages: seed absorbs water → root appears → shoot pushes up → leaves open Compare how a bulb and a seed start growing differently",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_03_lesson_02"
+    },
+    {
+      "title": "What Plants Need to Grow",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about What Plants Need to Grow? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that plants need water, light, and a suitable temperature to grow and stay healthy",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Name three things plants need to grow: water, light, suitable temperature",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain why a plant on the windowsill grows better than one left in a dark cupboard?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about What Plants Need to Grow. Name three things plants need to grow: water, light, suitable temperature Predict what happens to a plant kept in the dark, with no water, or in freezing cold",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_03_lesson_03"
+    },
+    {
+      "title": "Offspring resemble parents",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "organisms_life_processes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Offspring resemble parents!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Observe that young plants and animals resemble their parents but are not identical, recognising inherited similarities and individual differences",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe at least three features that offspring inherit from parents (e.g. eye colour, petal colour, fur type)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at a family photo and point out features children share with their parents, while also noticing how each child looks a bit different?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Offspring resemble parents: Describe at least three features that offspring inherit from parents (e.g. eye colour, petal colour, fur type) Explain that offspring are similar to parents but not identical copies",
+          "media": {}
+        }
+      ],
+      "id": "1_Science_unit_03_lesson_04"
+    }
+  ],
+  "id": "Science_unit_03"
+}

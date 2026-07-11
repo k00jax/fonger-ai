@@ -1,0 +1,231 @@
+{
+  "title": "Scientific Inquiry",
+  "objective": "Students will explore scientific inquiry concepts including Using evidence to answer questions, Drawing conclusions from evidence, Could there be another explanation? and more.",
+  "standards": [
+    "uk-nc-2013:KS2L.Sci.WS.6",
+    "uk-nc-2013:KS2L.Sci.WS.9",
+    "uk-nc-2013:KS2L.Sci.WS.2",
+    "uk-nc-2013:KS2L.Sci.WS.3",
+    "uk-nc-2013:KS2L.Sci.WS.4",
+    "uk-nc-2013:KS2L.Sci.WS.5",
+    "uk-nc-2013:KS2L.Sci.WS.8",
+    "uk-nc-2013:KS2L.Sci.WS.7",
+    "uk-nc-2013:KS2L.Sci.WS.1"
+  ],
+  "skills_tested": [
+    "scientific_inquiry"
+  ],
+  "lessons": [
+    {
+      "title": "Using evidence to answer questions",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Using evidence to answer questions!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify differences, similarities, or changes related to scientific ideas and use straightforward scientific evidence to answer questions or support findings",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Identify at least one pattern (similarity, difference, or trend) in a set of scientific data",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you looks at their experiment results, can they spot patterns — like things that are similar, different, or changing — and use the evidence to back up their answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Using evidence to answer questions: Identify at least one pattern (similarity, difference, or trend) in a set of scientific data Explain how the pattern relates to the scientific idea being investigated",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_12_lesson_01"
+    },
+    {
+      "title": "Drawing conclusions from evidence",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Drawing conclusions from evidence? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Report on findings from enquiries using oral and written explanations, draw simple conclusions, make predictions, and suggest improvements",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Write or present a clear report of findings from an investigation",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After finishing an experiment, can you explain what they found out, what it means, what they'd predict for next time, and how they could improve the test?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Drawing conclusions from evidence. Write or present a clear report of findings from an investigation Draw a conclusion that answers the original question, supported by data",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_12_lesson_02"
+    },
+    {
+      "title": "Could there be another explanation?",
+      "bloom_level": "Evaluate",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Could there be another explanation?? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "For any result, ask: is there another explanation? — the first explanation that fits isn't always the right one, and good scientists actively look for alternatives",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! prompts to consider alternative possible worlds research (6-7 year olds)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you comes up with an explanation for something they observed, do they try to think of at least one other possible explanation before deciding they've found the answer?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Could there be another explanation?. prompts to consider alternative possible worlds research (6-7 year olds) scientific thinking promotes critical thinking (MDPI 2025)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_12_lesson_03"
+    },
+    {
+      "title": "Classifying living things",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Classifying living things. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Gather, record, classify, and present data in a variety of ways including tables, bar charts, labelled diagrams, and keys",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Organise data into a clear table with appropriate headings",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "After doing an experiment, can you put their results into a neat table, draw a bar chart, and add labels to a diagram to show what they found?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Classifying living things. Organise data into a clear table with appropriate headings Create a bar chart or pictogram from collected data",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_12_lesson_04"
+    },
+    {
+      "title": "Measuring accurately",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Measuring accurately! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Make systematic and careful observations, take accurate measurements using standard units and equipment including thermometers and data loggers",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Use at least three types of measuring equipment correctly (ruler, thermometer, measuring jug, scales)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you use a thermometer to measure temperature accurately, read a ruler in centimetres, and record measurements carefully during an experiment?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Measuring accurately. Use at least three types of measuring equipment correctly (ruler, thermometer, measuring jug, scales) Read measurements in standard units (cm, ml, °C, g) with reasonable accuracy",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_12_lesson_05"
+    },
+    {
+      "title": "Fair testing",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "scientific_inquiry"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Fair testing? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Set up simple practical enquiries, comparative tests, and fair tests, understanding the importance of changing only one variable at a time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain what makes a test 'fair' (only one variable changes, everything else stays the same)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wants to find out which soil is best for growing beans, can they set up a fair test where only the soil changes and everything else stays the same?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Fair testing. Explain what makes a test 'fair' (only one variable changes, everything else stays the same) Identify the variable to change, the variable to measure, and the variables to keep the same",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_12_lesson_06"
+    }
+  ],
+  "id": "Science_unit_12"
+}

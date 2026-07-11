@@ -1,0 +1,116 @@
+{
+  "title": "Data & Statistics",
+  "objective": "Students will explore data & statistics concepts including Reading tables, Reading and Comparing Bar Graphs, Statistical Analysis Vocabulary.",
+  "standards": [],
+  "skills_tested": [
+    "data_statistics"
+  ],
+  "lessons": [
+    {
+      "title": "Reading tables",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reading tables! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Complete, read, and interpret information in tables, including timetables",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read a bus timetable to find the departure time for a particular stop",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read a timetable — like a train or bus timetable — to find out when a journey leaves, arrives, and how long it takes?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Reading tables: Read a bus timetable to find the departure time for a particular stop Complete a two-way table from given data about favourite sports by gender",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_01"
+    },
+    {
+      "title": "Reading and Comparing Bar Graphs",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Reading and Comparing Bar Graphs!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve comparison, sum, and difference problems using information presented in a bar graph",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read a line graph of temperature over a week and identify the warmest day",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a line graph showing how a plant's height changed over several weeks, can they read off values, spot when it grew fastest, and find the difference between two points?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading and Comparing Bar Graphs. Read a line graph of temperature over a week and identify the warmest day Find the difference in rainfall between two months from a line graph",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_02"
+    },
+    {
+      "title": "Statistical Analysis Vocabulary",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "data_statistics"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Statistical Analysis Vocabulary!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read, write, and use the vocabulary of statistical analysis — mean, median, mode, range, frequency, data, sample, average, chart, table, graph, pie chart, scatter graph, correlation — with understanding of what each term describes",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Correctly define and calculate the mean, median, mode, and range of a small data set",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looked at a set of test scores from their class, could they find the mean, the median, and the range — and explain what each one tells you about how the class did?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Statistical Analysis Vocabulary. Correctly define and calculate the mean, median, mode, and range of a small data set Use 'outlier' correctly to identify a value that doesn't fit the pattern, and explain its effect on the mean",
+          "media": {}
+        }
+      ],
+      "id": "4_Math_unit_02_lesson_03"
+    }
+  ],
+  "id": "Math_unit_02"
+}

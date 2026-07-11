@@ -1,0 +1,263 @@
+{
+  "title": "Earth's Systems",
+  "objective": "Students will explore earth's systems concepts including Shapes of land and water, Where water is found on Earth, Properties of materials and more.",
+  "standards": [
+    "ngss-k5:2-ESS2-2",
+    "ngss-k5:2-ESS2-1",
+    "uk-nc-2013:Y3.Sci.R.3",
+    "ngss-k5:2-ESS2-3",
+    "uk-nc-2013:Y3.Sci.R.1",
+    "uk-nc-2013:Y3.Sci.R.2"
+  ],
+  "skills_tested": [
+    "earth's_systems"
+  ],
+  "lessons": [
+    {
+      "title": "Shapes of land and water",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Shapes of land and water!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Develop a model to represent the shapes and kinds of land (mountains, valleys, plains) and bodies of water (rivers, lakes, oceans) in an area",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name and describe at least four types of landforms (mountain, valley, plain, hill, cliff)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you look at a map or build a model showing mountains, rivers, and oceans, and explain what each type of land or water feature is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Shapes of land and water. Name and describe at least four types of landforms (mountain, valley, plain, hill, cliff) Name and describe at least three types of water bodies (river, lake, ocean, pond)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_03_lesson_01"
+    },
+    {
+      "title": "Where water is found on Earth",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Where water is found on Earth? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Identify where water is found on Earth and understand that water can exist as solid (ice) or liquid, recognising water in oceans, rivers, glaciers, and underground",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: List where water is found on Earth: oceans, rivers, lakes, glaciers, underground, atmosphere",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you name the different places water is found on Earth — in oceans, rivers, ice caps, and even underground — and explain that ice is just frozen water?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Where water is found on Earth. List where water is found on Earth: oceans, rivers, lakes, glaciers, underground, atmosphere Explain that water exists as liquid (rivers, oceans) and solid (ice, glaciers, snow)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_03_lesson_02"
+    },
+    {
+      "title": "Properties of materials",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Properties of materials! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and group different kinds of rocks based on their appearance and simple physical properties such as hardness, texture, and colour",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe at least three observable properties of rocks: hardness, texture, colour, grain size",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you examine a collection of rocks and sort them by whether they're hard or crumbly, rough or smooth, and light or dark?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Properties of materials. Describe at least three observable properties of rocks: hardness, texture, colour, grain size Sort a collection of rocks into groups based on chosen properties",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_03_lesson_03"
+    },
+    {
+      "title": "How fossils form",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore How fossils form! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe in simple terms how fossils are formed when things that have lived are trapped within rock over millions of years",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describe the basic process: organism dies, gets buried in mud/sand, layers build up, material turns to rock over millions of years",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how a shell or bone from an ancient creature ended up preserved inside a rock?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about How fossils form. Describe the basic process: organism dies, gets buried in mud/sand, layers build up, material turns to rock over millions of years Explain that the organism's shape is preserved as a fossil within the rock",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_03_lesson_04"
+    },
+    {
+      "title": "Preventing Erosion",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Preventing Erosion? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare multiple solutions designed to slow or prevent wind or water from changing the shape of the land",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe how wind and water can change the shape of land (erosion)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a sandcastle being washed away by waves, can they think of ways to protect it — like building a wall or planting grass to hold the sand?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Preventing Erosion. Describe how wind and water can change the shape of land (erosion) Compare at least two design solutions for reducing erosion (e.g. retaining walls, plants, windbreaks)",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_03_lesson_05"
+    },
+    {
+      "title": "Evaporation and condensation",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Evaporation and condensation! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and use vocabulary for the water cycle — evaporation, condensation, precipitation, collection, transpiration, water vapour, runoff, groundwater — and describe each stage of the cycle using these terms in the correct sequence",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe the complete water cycle using at least four correct technical terms in the right order",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain where the puddle goes after it stops raining — using words like 'evaporation' or 'water vapour' rather than just 'it dries up'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Evaporation and condensation. Describe the complete water cycle using at least four correct technical terms in the right order Distinguish 'evaporation' from 'condensation' and explain where each occurs in the water cycle",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_03_lesson_06"
+    },
+    {
+      "title": "Rocks and soil",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "earth's_systems"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Rocks and soil. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise that soils are made from rocks and organic matter, and that different soils have different properties",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that soil is a mixture of broken-down rock particles and decomposed organic matter (humus)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain that soil isn't just dirt — it's made from tiny broken-down bits of rock mixed with dead leaves and other organic material?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Rocks and soil. State that soil is a mixture of broken-down rock particles and decomposed organic matter (humus) Compare at least two types of soil (sandy, clay, loam) and describe their different properties",
+          "media": {}
+        }
+      ],
+      "id": "2_Science_unit_03_lesson_07"
+    }
+  ],
+  "id": "Science_unit_03"
+}

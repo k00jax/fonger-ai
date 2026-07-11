@@ -1,0 +1,157 @@
+{
+  "title": "Number Representation & Place Value",
+  "objective": "Students will explore number representation & place value concepts including Reading and writing numbers to 20, The teen numbers, Number Words to Twenty and more.",
+  "standards": [
+    "ccss-math:K.NBT.1",
+    "ccss-math:K.CC.3",
+    "ccss-math:1.NBT.2.b",
+    "uk-nc-2013:Maths/Y1/NPV/5",
+    "uk-nc-2013:Maths/Y1/NPV/2"
+  ],
+  "skills_tested": [
+    "number_representation_place_value"
+  ],
+  "lessons": [
+    {
+      "title": "Reading and writing numbers to 20",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Reading and writing numbers to 20! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and write numerals from 0 to 20",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read any numeral 0–20 when shown it",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read a number like '17' written on paper and write it themselves — and do they know what each digit means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading and writing numbers to 20. Read any numeral 0–20 when shown it Write numerals 0–20 legibly from dictation",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_08_lesson_01"
+    },
+    {
+      "title": "The teen numbers",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about The teen numbers? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that the teen numbers (11–19) are composed of ten ones and some further ones (early place value)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Compose 14 as a group of ten and four ones using objects",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has 14 building blocks, can they see it as one full tower of 10 and 4 left over — understanding 'teen' numbers as ten-and-some-more?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about The teen numbers. Compose 14 as a group of ten and four ones using objects Decompose 17 into 10 + 7 and record as an equation",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_08_lesson_02"
+    },
+    {
+      "title": "Number Words to Twenty",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Number Words to Twenty! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and write number words from one to twenty",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read the word 'twelve' and identify it as 12",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you write number words like 'fourteen' or 'twenty' — and read them on a birthday card or in a story book without needing help?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Number Words to Twenty. Read the word 'twelve' and identify it as 12 Write the word form of a given number 1–20",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_08_lesson_03"
+    },
+    {
+      "title": "Reading and writing numbers to 100",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "number_representation_place_value"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Reading and writing numbers to 100. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read and write numerals from 0 to 100",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read two-digit numerals up to 100 correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read and write any number up to 100 — both as a numeral and by saying what it means?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Reading and writing numbers to 100. Read two-digit numerals up to 100 correctly Write any number 0–100 as a numeral from dictation",
+          "media": {}
+        }
+      ],
+      "id": "k_Math_unit_08_lesson_04"
+    }
+  ],
+  "id": "Math_unit_08"
+}

@@ -1,0 +1,162 @@
+{
+  "title": "Spelling & Word Study",
+  "objective": "Students will explore spelling & word study concepts including Apostrophes for possession, Spelling Contracted Forms, Alternative Spellings for Sounds and more.",
+  "standards": [
+    "uk-nc-2013:Eng_App1_Y2_10",
+    "uk-nc-2013:Eng_App1_Y2_25",
+    "uk-nc-2013:Eng/KS1/Y2/S/1a",
+    "ccss-ela:L.3.2e",
+    "uk-nc-2013:Eng/KS1/Y2/S/1f",
+    "uk-nc-2013:Eng_App1_Y2_24",
+    "ccss-ela:L.1.2d",
+    "uk-nc-2013:Eng_LKS2_Write_Trans_Spell_2",
+    "uk-nc-2013:Eng_App1_Y2_22",
+    "uk-nc-2013:Eng/KS1/Y2/S/2"
+  ],
+  "skills_tested": [
+    "spelling_word_study"
+  ],
+  "lessons": [
+    {
+      "title": "Apostrophes for possession",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Apostrophes for possession!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use the possessive apostrophe with singular nouns to show ownership (e.g., the girl's book, the dog's bone)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Write 'the cat's tail' to show the tail belongs to the cat",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes something belonging to one person or thing — like \"the dog's lead\" or \"the girl's bag\" — do they put the apostrophe in the right place?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Apostrophes for possession. Write 'the cat's tail' to show the tail belongs to the cat Distinguish plural -s ('the cats ran') from possessive 's ('the cat's bed') in writing",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_07_lesson_01"
+    },
+    {
+      "title": "Spelling Contracted Forms",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Spelling Contracted Forms! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell contracted forms correctly by placing the apostrophe where letters are omitted (can't, didn't, I'll, it's, etc.)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write 'can't' for 'cannot', 'didn't' for 'did not' with apostrophe correctly placed",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes a short form like \"can't\" or \"didn't,\" do they put the apostrophe in the right place to show where letters are missing?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Spelling Contracted Forms. Write 'can't' for 'cannot', 'didn't' for 'did not' with apostrophe correctly placed Distinguish 'it's' (it is) from 'its' (possessive) in a sentence",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_07_lesson_02"
+    },
+    {
+      "title": "Alternative Spellings for Sounds",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Alternative Spellings for Sounds! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Spell words using alternative grapheme choices for known phonemes, learning new spellings for sounds already encountered (e.g., /ɔ:/ as 'a' before ll, /ʌ/ as 'o', words ending -tion), including distinguishing common homophones",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Spell 'ball', 'call', 'walk' using alternative grapheme /ɔ:/ as 'a' before ll",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you writes and comes across a word where the same sound can be spelled different ways — like \"see\" and \"sea\" — do they know which spelling to use?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Alternative Spellings for Sounds: Spell 'ball', 'call', 'walk' using alternative grapheme /ɔ:/ as 'a' before ll Distinguish homophones in writing: 'there/their/they’re', 'here/hear', 'quite/quiet'",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_07_lesson_03"
+    },
+    {
+      "title": "Suffixes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "spelling_word_study"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Suffixes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Apply suffix spelling rules that require changes to the root word: dropping final -e before vowel suffixes, changing -y to -i, doubling final consonants in short-vowel words; use suffixes -ment, -ness, -ful, -less, -ly",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Spell 'hoping' (drop e), 'cried' (y to i), 'running' (double consonant) applying the correct rule",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you adds an ending like \"-ing\" or \"-ed\" to a word, do they know when to drop a silent \"e,\" double the last letter, or change a \"y\" to an \"i\" — for example, \"running,\" \"baked,\" or \"happily\"?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Suffixes: Spell 'hoping' (drop e), 'cried' (y to i), 'running' (double consonant) applying the correct rule Add -ful, -less, -ness, -ly correctly: 'careful', 'hopeless', 'sadness', 'slowly'",
+          "media": {}
+        }
+      ],
+      "id": "1_Reading_unit_07_lesson_04"
+    }
+  ],
+  "id": "Reading_unit_07"
+}

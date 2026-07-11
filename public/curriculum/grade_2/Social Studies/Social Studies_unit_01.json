@@ -1,0 +1,291 @@
+{
+  "title": "Ancient Egypt",
+  "objective": "Students will explore ancient egypt concepts including Building the Pyramids, Ancient Egypt on the Timeline, Upper and Lower Egypt and more.",
+  "standards": [],
+  "skills_tested": [
+    "ancient_egypt"
+  ],
+  "lessons": [
+    {
+      "title": "Building the Pyramids",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Building the Pyramids!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand how the pyramids were built: thousands of workers moved enormous stone blocks using ramps, rollers, and sledges, the work was organised by the pharaoh's officials, and the design evolved from flat-topped mastabas to step pyramids (like Djoser's) to the smooth-sided Great Pyramid — and know that later pharaohs were buried in hidden rock-cut tombs in the Valley of the Kings",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Describe at least two methods used to move and raise heavy stone blocks",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you wonders how the Egyptians built the pyramids without modern machines, can they describe some of the methods used and explain how tomb design changed over time?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Building the Pyramids. Describe at least two methods used to move and raise heavy stone blocks Explain that pyramid design changed over time from simple tombs to the Great Pyramid",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_01"
+    },
+    {
+      "title": "Ancient Egypt on the Timeline",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Ancient Egypt on the Timeline. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Place ancient Egypt on a timeline spanning over 3,000 years — from around 3100 BCE (unification under the first pharaoh) to 30 BCE (Roman conquest) — understanding that this civilisation lasted longer than the time between the Romans and today, and was divided into major periods: the Old Kingdom (pyramid age), Middle Kingdom, and New Kingdom (empire age)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Place ancient Egypt on a timeline showing it lasted over 3,000 years",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you asked you when the ancient Egyptians lived and for how long, could they explain that it was thousands of years ago and lasted longer than most other civilisations?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Ancient Egypt on the Timeline. Place ancient Egypt on a timeline showing it lasted over 3,000 years Name the three main periods (Old, Middle, New Kingdom) and associate one fact with each",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_02"
+    },
+    {
+      "title": "Upper and Lower Egypt",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Upper and Lower Egypt! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that ancient Egypt was divided into Upper Egypt (the narrow river valley in the south) and Lower Egypt (the wide delta in the north), that the two lands were united under one pharaoh, and that Egyptians managed the Nile's water through irrigation canals and shadufs to grow crops year-round",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Identify Upper and Lower Egypt on a map and explain why they had different landscapes",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees a map showing the Nile splitting into branches near the sea, can they explain the difference between Upper and Lower Egypt and how farmers used the river's water?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Upper and Lower Egypt. Identify Upper and Lower Egypt on a map and explain why they had different landscapes Describe how irrigation tools like shadufs and canals helped farmers water their fields",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_03"
+    },
+    {
+      "title": "Egyptian Tomb Paintings and Artefacts",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Egyptian Tomb Paintings and Artefacts. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Use tomb paintings, artefacts, and objects from ancient Egypt as evidence to find out about daily life: Nebamun's tomb paintings show hunting and feasting, jewellery and furniture reveal craftsmanship, and everyday objects like pots and tools tell us what ordinary people used — understanding that these sources are how we piece together information about a civilisation that ended thousands of years ago",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Describe what can be learned about Egyptian life by studying a tomb painting or artefact",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at an ancient Egyptian painting showing people fishing and feasting, can they explain what it tells us about how Egyptians lived?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Egyptian Tomb Paintings and Artefacts: Describe what can be learned about Egyptian life by studying a tomb painting or artefact Explain that objects found in tombs and ruins are evidence that helps archaeologists understand the past",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_04"
+    },
+    {
+      "title": "Egyptian Gods and Goddesses",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Egyptian Gods and Goddesses! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Name and describe key Egyptian gods and goddesses: Ra the sun god who sailed across the sky each day, Osiris the ruler of the afterlife, Isis the goddess of magic and motherhood, Anubis the jackal-headed god of mummification, Horus the falcon-headed sky god, Thoth the ibis-headed god of writing, and Bastet the cat goddess of protection",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Name at least four Egyptian gods/goddesses and describe their roles",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees an Egyptian statue with a jackal head, can they tell you it represents Anubis and explain what he was the god of?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Egyptian Gods and Goddesses: Name at least four Egyptian gods/goddesses and describe their roles Explain why many gods were shown with animal heads and what the animals represented",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_05"
+    },
+    {
+      "title": "Scribes and the Rosetta Stone",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Scribes and the Rosetta Stone! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know that scribes were specially trained people who could read and write hieroglyphs, that the Rosetta Stone — a slab with the same text in three scripts — was the key to cracking the hieroglyphic code, and that Jean-François Champollion used it to decipher hieroglyphs in 1822 after centuries of mystery",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Explain the importance of scribes as the only people who could read and write",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you sees the Rosetta Stone in a museum (or a picture of it), can they explain why it was so important and how it helped us read hieroglyphs?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Scribes and the Rosetta Stone. Explain the importance of scribes as the only people who could read and write Describe the Rosetta Stone as having the same message in three different scripts",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_06"
+    },
+    {
+      "title": "Egyptian Social Hierarchy",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Egyptian Social Hierarchy. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the social structure of ancient Egypt as a pyramid-shaped hierarchy: the pharaoh at the top, then priests and nobles, followed by scribes and soldiers, then craftworkers and merchants, and farmers and labourers at the base — understanding that a person's position was usually inherited and determined their whole way of life",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Draw or describe the social pyramid with at least four levels correctly ordered",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked who was more important in ancient Egypt — a scribe or a farmer — can they explain the social pyramid and where each person fitted?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Egyptian Social Hierarchy. Draw or describe the social pyramid with at least four levels correctly ordered Explain that most people were farmers and had very different lives from the pharaoh",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_07"
+    },
+    {
+      "title": "Mummification Step by Step",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "ancient_egypt"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Mummification Step by Step!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Describe the step-by-step process of mummification: the body was washed, internal organs were removed and placed in canopic jars, the body was dried with natron salt for 40 days, then wrapped in linen bandages with amulets tucked between the layers, and finally placed in a decorated coffin (sarcophagus)",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. List the main steps of mummification in the correct order",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is asked how the ancient Egyptians made a mummy, can they describe the main steps — like removing organs, drying the body, and wrapping it in bandages?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Mummification Step by Step. List the main steps of mummification in the correct order Explain the purpose of canopic jars and what was stored in them",
+          "media": {}
+        }
+      ],
+      "id": "2_Social Studies_unit_01_lesson_08"
+    }
+  ],
+  "id": "Social Studies_unit_01"
+}

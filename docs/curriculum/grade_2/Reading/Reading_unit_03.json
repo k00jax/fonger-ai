@@ -1,0 +1,87 @@
+{
+  "title": "Phonics & Word Reading",
+  "objective": "Students will explore phonics & word reading concepts including Decoding unfamiliar words, Prefixes and suffixes.",
+  "standards": [
+    "ccss-ela:RF.3.3.a",
+    "ccss-ela:RF.2.3.f",
+    "ccss-ela:RF.2.3.d",
+    "ccss-ela:RF.3.3.b",
+    "ccss-ela:RF.3.3.d"
+  ],
+  "skills_tested": [
+    "phonics_word_reading"
+  ],
+  "lessons": [
+    {
+      "title": "Decoding unfamiliar words",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Decoding unfamiliar words!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read Y3-4 exception words with unusual spelling-sound correspondences, applying growing knowledge of morphology and etymology to decode unfamiliar exception words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read exception words from the Y3-4 statutory word list accurately (e.g. 'business', 'caught', 'knowledge', 'different')",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you read trickier exception words — like 'ordinary', 'promise', 'recent', or 'island' — without being thrown off by the parts that don't follow the usual spelling rules?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Decoding unfamiliar words: Read exception words from the Y3-4 statutory word list accurately (e.g. 'business', 'caught', 'knowledge', 'different') Identify unusual letter-sound correspondences in exception words and explain why the word does not follow common GPC rules",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_03_lesson_01"
+    },
+    {
+      "title": "Prefixes and suffixes",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "phonics_word_reading"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Prefixes and suffixes!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Read words containing common prefixes and suffixes from the Y3-4 programme, applying knowledge of root words, prefixes and suffixes (morphology and etymology) to read aloud and understand new words",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Read words with common prefixes (dis-, mis-, re-, pre-) and suffixes (-ation, -ous, -ly) by identifying the root word first",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "When you sees a word like 'disappear' or 'comfortable', can they spot the root word and figure out what the prefix or suffix is adding to its meaning?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Prefixes and suffixes. Read words with common prefixes (dis-, mis-, re-, pre-) and suffixes (-ation, -ous, -ly) by identifying the root word first Apply morphological knowledge to attempt unfamiliar words (e.g. recognise 'happy' inside 'unhappiness')",
+          "media": {}
+        }
+      ],
+      "id": "2_Reading_unit_03_lesson_02"
+    }
+  ],
+  "id": "Reading_unit_03"
+}

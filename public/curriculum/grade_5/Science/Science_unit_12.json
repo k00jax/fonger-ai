@@ -1,0 +1,152 @@
+{
+  "title": "The Human Body",
+  "objective": "Students will explore the human body concepts including Neurons & Brain Structure, Immunity & Vaccines.",
+  "standards": [],
+  "skills_tested": [
+    "the_human_body",
+    "volcanoes_earthquakes"
+  ],
+  "lessons": [
+    {
+      "title": "Neurons & Brain Structure",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Neurons & Brain Structure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Explain how neurons transmit signals as electrochemical impulses across synapses, describe how the brain is organised (lobes and functions, limbic system for emotion), and explain neuroplasticity — why learning and practice physically change brain structure — connecting to optical illusions as evidence that the brain constructs reality rather than passively recording it",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Describes the neuron-to-neuron signal pathway: electrical impulse travels along axon, neurotransmitter crosses the synapse, new impulse begins in the next neuron",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked why practising a skill like piano or football makes you better over time, could they explain what's actually happening physically in the brain — and describe what it means to say the brain 'rewires itself'?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Neurons & Brain Structure: Describes the neuron-to-neuron signal pathway: electrical impulse travels along axon, neurotransmitter crosses the synapse, new impulse begins in the next neuron Names the four lobes of the cerebral cortex (frontal, parietal, temporal, occipital) and gives one function for each",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_12_lesson_01"
+    },
+    {
+      "title": "Immunity & Vaccines",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "the_human_body"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Immunity & Vaccines? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish innate (non-specific, immediate) from adaptive (specific, memory-forming) immunity; explain how B cells produce antibodies that recognise specific antigens, how T cells destroy infected cells, and why immunological memory makes vaccines work; and describe the gut microbiome as a community of trillions of microbes that significantly influences immune function",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Distinguishes innate immunity (rapid, non-specific barriers and inflammation) from adaptive immunity (slow, specific, memory-forming)",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you was asked why they don't get chickenpox twice, could they explain the difference between just fighting off a germ and actually 'remembering' it — and describe how a vaccine trains the immune system without causing the disease?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Immunity & Vaccines. Distinguishes innate immunity (rapid, non-specific barriers and inflammation) from adaptive immunity (slow, specific, memory-forming) Explains how B cells produce antibodies that bind to specific antigens on pathogens, targeting them for destruction",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_12_lesson_02"
+    },
+    {
+      "title": "How Tectonic Plates Move",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about How Tectonic Plates Move? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Understand that convection currents in the molten mantle drive the movement of rigid tectonic plates; distinguish between convergent (collision/subduction), divergent (spreading ridges), and transform (sliding) plate boundaries; explain why volcanoes, earthquakes, and mountain chains cluster at boundaries; introduce the Wilson cycle of supercontinent assembly and breakup",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you looks at a world map showing where volcanoes and earthquakes happen, can they explain why these events follow specific ring-shaped patterns rather than occurring randomly around the globe?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about How Tectonic Plates Move: You now know more about How Tectonic Plates Move!",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_12_lesson_03"
+    },
+    {
+      "title": "Seismic Waves & Earth's Interior",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "volcanoes_earthquakes"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's discover the amazing world of Seismic Waves & Earth's Interior!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Distinguish between P-waves (compression, travel through solids and liquids) and S-waves (shear, cannot pass through liquids); explain why a seismic shadow zone exists on the far side of an earthquake; describe how seismologists use wave refraction and reflection to infer that Earth has a solid inner core, liquid outer core, mantle, and crust",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice what we learned!",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "Can you explain how scientists know Earth has a liquid outer core if nobody has ever drilled that deep — what clues do earthquake waves give us about Earth's hidden interior?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Seismic Waves & Earth's Interior. You now know more about Seismic Waves & Earth's Interior!",
+          "media": {}
+        }
+      ],
+      "id": "5_Science_unit_12_lesson_04"
+    }
+  ],
+  "id": "Science_unit_12"
+}

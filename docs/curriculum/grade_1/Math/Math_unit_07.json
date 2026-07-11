@@ -1,0 +1,372 @@
+{
+  "title": "Measurement",
+  "objective": "Students will explore measurement concepts including Choosing measurement units, Measuring length (age 6+), Measuring length and more.",
+  "standards": [
+    "uk-nc-2013:Maths/Y2/M/3",
+    "uk-nc-2013:Maths/Y2/M/1",
+    "uk-nc-2013:Maths/Y2/M/4",
+    "ccss-math:1.MD.2",
+    "uk-nc-2013:Maths/Y2/M/6",
+    "uk-nc-2013:Maths/Y2/M/8",
+    "ccss-math:1.MD.1",
+    "uk-nc-2013:Maths/Y2/M/5",
+    "ccss-math:1.MD.3",
+    "uk-nc-2013:Maths/Y2/M/2"
+  ],
+  "skills_tested": [
+    "measurement"
+  ],
+  "lessons": [
+    {
+      "title": "Choosing measurement units",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Choosing measurement units. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Choose and use appropriate standard units to measure length (m/cm), mass (kg/g), temperature (°C), and capacity (litres/ml) to the nearest appropriate unit",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Measure the length of a table in centimetres using a ruler",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you ask you whether to measure a swimming pool or a piece of paper in cm or m, can they pick the sensible unit for each — and explain why?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Choosing measurement units. Measure the length of a table in centimetres using a ruler Weigh an object in grams using a scale",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_01"
+    },
+    {
+      "title": "Measuring length (age 6+)",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Measuring length (age 6+)!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Measure the length of an object using same-size length units laid end to end with no gaps or overlaps",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Measure a book by laying paper clips end to end and counting them",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you is measuring the length of a table using identical toy bricks, can they lay them end to end with no gaps — and tell you how many bricks long the table is?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Measuring length (age 6+): Measure a book by laying paper clips end to end and counting them Understand that the length measurement is the number of units that span the object",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_02"
+    },
+    {
+      "title": "Measuring length",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Measuring length!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Order three objects by length and compare the lengths of two objects indirectly using a third object",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Put three ribbons in order from shortest to longest",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you has three pencils of different lengths but can only compare two at a time, can they figure out which is longest — by using a third pencil as a go-between?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Great job! Today we learned about Measuring length. Put three ribbons in order from shortest to longest Use a piece of string to compare the heights of two objects that cannot be placed side by side",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_03"
+    },
+    {
+      "title": "Comparing and ordering measurements",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Comparing and ordering measurements!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and order lengths, mass, and capacity and record results using >, <, and =",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Measure two objects and write 45cm > 32cm",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you measures three pieces of string as 15 cm, 9 cm, and 22 cm, can they put them in order from shortest to longest — and write that using a < symbol?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Comparing and ordering measurements. Measure two objects and write 45cm > 32cm Order three containers by capacity after measuring each",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_04"
+    },
+    {
+      "title": "Number of minutes in an hour",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Today we're going to learn about Number of minutes in an hour. Get ready for an adventure!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Know the number of minutes in an hour and the number of hours in a day",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. State that there are 60 minutes in an hour",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows there are 60 minutes in an hour, can they tell you how many minutes are in 2 hours — and how many hours make a whole day?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Number of minutes in an hour: State that there are 60 minutes in an hour State that there are 24 hours in a day",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_05"
+    },
+    {
+      "title": "Telling Time: Minutes",
+      "bloom_level": "Understand",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Telling Time: Minutes? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Tell and write the time to five minutes, including quarter past and quarter to, and draw clock hands to show these times",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let's practice together! Read an analogue clock showing 3:25",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If the clock shows quarter to four, can you tell you the time — and draw hands on a blank clock face to show twenty past three?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Telling Time: Minutes: Read an analogue clock showing 3:25 Write 'quarter past 9' or '9:15'",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_06"
+    },
+    {
+      "title": "Sequence intervals of time",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Let's explore Sequence intervals of time! Have you ever wondered about this?",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Compare and sequence intervals of time",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Let me show you something cool. Order three events by how long they took",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you knows a film takes 2 hours and a car journey takes 45 minutes, can they tell you which takes longer — and put a few daily activities in order of how long they take?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Sequence intervals of time. Order three events by how long they took Compare the duration of two activities (e.g. 'the race took longer than the walk')",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_07"
+    },
+    {
+      "title": "Money Addition & Subtraction",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Money Addition & Subtraction!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Solve simple money problems involving addition and subtraction, including giving change",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Calculate the total cost of two items priced in pence",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you buys a snack for 45p and pays with a £1 coin, can they work out how much change they should get — and count it back?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Money Addition & Subtraction. Calculate the total cost of two items priced in pence Work out change from 50p after buying an item costing 35p",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_08"
+    },
+    {
+      "title": "Adding money and giving change",
+      "bloom_level": "Apply",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Welcome to an exciting lesson about Adding money and giving change!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Find different combinations of coins that equal the same amount of money",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Show that 50p can be made with 2×20p + 1×10p, or 5×10p, or 1×50p",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you needs to make exactly 30p, can they find two or three different ways to do it using different combinations of coins?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "Amazing work! Let's review what we discovered about Adding money and giving change. Show that 50p can be made with 2×20p + 1×10p, or 5×10p, or 1×50p Systematically find multiple coin combinations for a given total",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_09"
+    },
+    {
+      "title": "Pounds & Pence Notation",
+      "bloom_level": "Remember",
+      "skills_tested": [
+        "measurement"
+      ],
+      "steps": [
+        {
+          "type": "hook",
+          "content": "Have you ever thought about Pounds & Pence Notation? Let's find out together!",
+          "media": {}
+        },
+        {
+          "type": "concept",
+          "content": "Recognise and use symbols for pounds (£) and pence (p) and combine amounts to make a particular value",
+          "media": {}
+        },
+        {
+          "type": "guided_practice",
+          "content": "Time to try this out: Write £1.50 or 150p correctly",
+          "media": {}
+        },
+        {
+          "type": "try_it",
+          "content": "If you picks up coins worth 50p, 20p, and 10p, can they write the total using the p symbol — and tell you if that's enough to buy something costing 75p?",
+          "media": {}
+        },
+        {
+          "type": "wrap_up",
+          "content": "You did it! Here's what we explored about Pounds & Pence Notation: Write £1.50 or 150p correctly Combine coins to make a given total, e.g. 50p + 20p + 5p = 75p",
+          "media": {}
+        }
+      ],
+      "id": "1_Math_unit_07_lesson_10"
+    }
+  ],
+  "id": "Math_unit_07"
+}
