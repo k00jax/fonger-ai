@@ -34,8 +34,8 @@ const projects = [
     description:
       'A philosophical wonder-question game. 33 scenarios with XP leveling and badges. Built as an interactive web app that explores the biggest ideas through play.',
     status: 'live',
-    link: '/questionarium/',
-    internal: true,
+    link: 'https://questionarium.vercel.app/',
+    image: '/questionarium-preview.webp',
     tech: ['Next.js', 'React', 'Tailwind CSS'],
   },
   {
