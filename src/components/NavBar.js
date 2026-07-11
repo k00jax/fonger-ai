@@ -38,6 +38,7 @@ export default function NavBar() {
     { href: '/projects/', label: 'Projects' },
     { href: '/books/', label: 'Books' },
     { href: '/swarm/', label: 'Swarm' },
+    { href: '/arcadia/', label: 'Arcadia' },
     { href: '/family/', label: 'Family' },
   ];
 
