@@ -58,6 +58,7 @@ const projects = [
       'AI API arbitrage platform. Pay-per-use access to Claude, Gemini, Qwen, and more. Stripe checkout, zero subscriptions. Multi-model chat with usage-based pricing.',
     status: 'live',
     link: 'https://aetherchat-silk.vercel.app',
+    image: '/aetherchat-preview.png',
     tech: ['Next.js', 'Stripe', 'Claude API', 'Gemini API'],
   },
 ];
