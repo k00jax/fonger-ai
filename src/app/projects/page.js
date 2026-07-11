@@ -14,15 +14,6 @@ const projects = [
     tech: ['Next.js', 'GitHub Pages', 'Tailwind CSS'],
   },
   {
-    name: 'Trivance AI',
-    description:
-      'AI strategy consulting for small and mid-sized businesses. Strategy reports, hands-on implementation, team training, and ongoing advisory. Where thought becomes system.',
-    status: 'live',
-    link: 'https://trivanceai.com',
-    image: '/trivanceai-preview.png',
-    tech: ['Next.js', 'Consulting', 'AI Strategy'],
-  },
-  {
     name: 'The Swarm',
     description:
       'A 45-agent autonomous swarm across 10 departments: Research, Design, Production, Marketing, Operations, Quality, Analytics, Strategy, Director, and Security. Coordinated multi-agent workflows running autonomously.',

@@ -45,7 +45,13 @@ export default function TrivancePage() {
               <p className="text-sm text-gray-500 mt-1">Founded by Kyle Fonger</p>
             </div>
           </div>
-          <p className="text-lg text-gray-400 leading-relaxed max-w-xl mt-4">
+
+          {/* Header image */}
+          <div className="mt-6 mb-2 rounded-2xl overflow-hidden border border-[#1f1f1f]">
+            <img src="/trivanceai-preview.png" alt="Trivance AI" className="w-full object-cover" />
+          </div>
+
+          <p className="text-lg text-gray-400 leading-relaxed max-w-xl">
             AI strategy that works. Helping small and mid-sized businesses turn
             AI confusion into operational advantage.
           </p>
