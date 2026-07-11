@@ -15,6 +15,7 @@ const projects = [
       'A 45-agent autonomous swarm across 10 departments: Research, Design, Production, Marketing, Operations, Quality, Analytics, Strategy, Director, and Security. Coordinated multi-agent workflows running autonomously.',
     status: 'live',
     link: '/swarm/',
+    image: '/swarm-preview.png',
     internal: true,
     tech: ['Python', 'Hermes', 'Claude', 'GPT-4o'],
   },
