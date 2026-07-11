@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useState } from 'react';
 
 const projects = [
   {
@@ -84,8 +85,30 @@ const StatusDot = ({ status }) => {
 };
 
 export default function ProjectsPage() {
+  const [lightbox, setLightbox] = useState(null);
+
   return (
     <div className="min-h-screen pt-24 pb-16 px-4 relative z-10">
+      {/* Lightbox */}
+      {lightbox && (
+        <div
+          className="fixed inset-0 z-50 bg-black/90 flex items-center justify-center p-4 cursor-pointer"
+          onClick={() => setLightbox(null)}
+        >
+          <img
+            src={lightbox.src}
+            alt={lightbox.alt}
+            className="max-w-full max-h-[90vh] rounded-xl object-contain"
+          />
+          <button
+            className="absolute top-4 right-4 text-white text-2xl hover:text-gray-300"
+            onClick={() => setLightbox(null)}
+          >
+            ✕
+          </button>
+        </div>
+      )}
+
       <div className="max-w-5xl mx-auto">
         <div className="animate-fade-in-up mb-16">
           <p className="text-xs tracking-[0.2em] uppercase text-gray-600 mb-5">Portfolio</p>
@@ -113,7 +136,10 @@ export default function ProjectsPage() {
 
               {/* Project image */}
               {project.image && (
-                <div className="mb-4 rounded-xl overflow-hidden border border-[#2a2a2a]">
+                <div
+                  className="mb-4 rounded-xl overflow-hidden border border-[#2a2a2a] cursor-zoom-in hover:border-[#444] transition-colors"
+                  onClick={() => setLightbox({ src: project.image, alt: project.name })}
+                >
                   <img src={project.image} alt={project.name} className="w-full object-cover" />
                 </div>
               )}
