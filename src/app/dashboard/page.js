@@ -527,7 +527,11 @@ function SwarmDashboard() {
                   dept={dept}
                   agents={deptAgents}
                   activeIds={activeIds}
-                  defaultExpanded={depts.length <= 5 || selectedDept !== null}
+                  defaultExpanded={
+                    deptAgents.some(a => activeIds.has(a.name)) ||
+                    depts.length <= 5 ||
+                    selectedDept !== null
+                  }
                 />
               );
             })}
