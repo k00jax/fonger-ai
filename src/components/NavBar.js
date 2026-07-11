@@ -33,11 +33,11 @@ export default function NavBar() {
   }, [open]);
 
   const links = [
-    { href: '/trivance/', label: 'Trivance AI' },
     { href: '/projects/', label: 'Projects' },
-    { href: '/books/', label: 'Books' },
+    { href: '/trivance/', label: 'Trivance AI' },
     { href: '/swarm/', label: 'Swarm' },
     { href: '/arcadia/', label: 'Arcadia' },
+    { href: '/books/', label: 'Books' },
     { href: '/family/', label: '🔒 Family' },
   ];
 
