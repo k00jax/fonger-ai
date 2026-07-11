@@ -103,6 +103,15 @@ const projects = [
     link: 'https://github.com/k00jax/Forge',
     tech: ['Python'],
   },
+  {
+    name: 'Noetic',
+    description:
+      'ESP training application. Develop and track extrasensory perception through Zener cards, decimal sequences, and full deck prediction exercises. Built with Supabase and Capacitor.',
+    status: 'live',
+    link: 'https://mind-forge-ebon.vercel.app/',
+    image: '/noetic-preview.png',
+    tech: ['React', 'TypeScript', 'Supabase', 'Capacitor'],
+  },
 ];
 
 const StatusDot = ({ status }) => {
