@@ -7,6 +7,7 @@ const projects = [
       'Personal brand hub. This site you are on. Built with Next.js, static export, and GitHub Pages. 8 pages, password-protected areas, and a swarm dashboard.',
     status: 'live',
     link: 'https://fonger.ai',
+    image: '/fongerai-preview.png',
     tech: ['Next.js', 'GitHub Pages', 'Tailwind CSS'],
   },
   {
