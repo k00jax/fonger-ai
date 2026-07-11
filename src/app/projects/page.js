@@ -109,7 +109,7 @@ const projects = [
     description:
       'ESP training application. Develop and track extrasensory perception through Zener cards, decimal sequences, and full deck prediction exercises. Built with Supabase and Capacitor.',
     status: 'live',
-    link: 'https://mind-forge-ebon.vercel.app/',
+    link: 'https://noetic-qsbv2a6tt-arcadia-projects.vercel.app/',
     image: '/noetic-preview.png',
     tech: ['React', 'TypeScript', 'Supabase', 'Capacitor'],
   },
