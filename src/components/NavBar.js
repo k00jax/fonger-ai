@@ -34,12 +34,11 @@ export default function NavBar() {
 
   const links = [
     { href: '/trivance/', label: 'Trivance AI' },
-    { href: '/dashboard/', label: 'Dashboard' },
     { href: '/projects/', label: 'Projects' },
     { href: '/books/', label: 'Books' },
     { href: '/swarm/', label: 'Swarm' },
     { href: '/arcadia/', label: 'Arcadia' },
-    { href: '/family/', label: 'Family' },
+    { href: '/family/', label: '🔒 Family' },
   ];
 
   const isActive = (href) => pathname === href;
