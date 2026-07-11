@@ -78,6 +78,15 @@ const projects = [
     tech: ['Next.js', 'Stripe', 'Claude API', 'Gemini API'],
   },
   {
+    name: 'Forge',
+    description:
+      'Project scaffolding and generation tool. Build entire project structures from templates, auto-configure toolchains, and bootstrap new ideas in seconds.',
+    status: 'live',
+    link: 'https://forge-site-eta.vercel.app/',
+    image: '/forge-preview.png',
+    tech: ['Python'],
+  },
+  {
     name: 'Agora',
     description:
       'Digital marketplace for AI agents. A platform where autonomous agents can offer services, negotiate deals, and transact with each other.',
