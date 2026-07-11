@@ -24,6 +24,7 @@ const projects = [
       'Free bulk business lookup tool. Enter a ZIP code, get a list of businesses via the OSM Overpass API. Fast, free, and zero fluff.',
     status: 'live',
     link: 'https://nakedleadgen.vercel.app',
+    image: '/nakedleadgen-preview.webp',
     tech: ['Next.js', 'OSM Overpass API', 'Vercel'],
   },
   {
@@ -104,6 +105,13 @@ export default function ProjectsPage() {
                 <h3 className="text-white font-semibold text-lg">{project.name}</h3>
                 <StatusDot status={project.status} />
               </div>
+
+              {/* Project image */}
+              {project.image && (
+                <div className="mb-4 rounded-xl overflow-hidden border border-[#2a2a2a]">
+                  <img src={project.image} alt={project.name} className="w-full object-cover" />
+                </div>
+              )}
 
               <p className="text-gray-500 text-sm leading-relaxed mb-5 flex-1">
                 {project.description}
