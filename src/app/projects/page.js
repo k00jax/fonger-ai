@@ -68,6 +68,38 @@ const projects = [
     image: '/aetherchat-preview.png',
     tech: ['Next.js', 'Stripe', 'Claude API', 'Gemini API'],
   },
+  {
+    name: 'Agora',
+    description:
+      'Digital marketplace for AI agents. A platform where autonomous agents can offer services, negotiate deals, and transact with each other.',
+    status: 'development',
+    link: 'https://github.com/k00jax/agora',
+    tech: ['HTML', 'JavaScript', 'Python'],
+  },
+  {
+    name: 'Audiobook Studio',
+    description:
+      'Turn manuscripts into audiobooks. Automated narration pipeline with voice synthesis, chapter segmentation, and audio mastering.',
+    status: 'development',
+    link: 'https://github.com/k00jax/audiobook-studio',
+    tech: ['TypeScript', 'Python', 'ElevenLabs API'],
+  },
+  {
+    name: 'HERMES Desktop',
+    description:
+      'The agent framework that powers The Trivance. Multi-profile AI assistant with skills, plugins, cron scheduling, and Discord integration. Built on Nous Research\'s Hermes architecture.',
+    status: 'live',
+    link: 'https://github.com/k00jax/HERMES',
+    tech: ['Python', 'C++', 'Shell'],
+  },
+  {
+    name: 'Forge',
+    description:
+      'Project scaffolding and generation tool. Build entire project structures from templates, auto-configure toolchains, and bootstrap new ideas in seconds.',
+    status: 'development',
+    link: 'https://github.com/k00jax/Forge',
+    tech: ['Python'],
+  },
 ];
 
 const StatusDot = ({ status }) => {
