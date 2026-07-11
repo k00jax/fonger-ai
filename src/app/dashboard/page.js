@@ -116,44 +116,97 @@ function StatsHeader({ agents, active, depts, selectedDept, onSelectDept }) {
 
 function AgentRow({ agent, color }) {
   const isRunning = agent.status === 'running' || agent.status === 'busy';
+  const [showDetail, setShowDetail] = useState(false);
 
   return (
-    <div
-      className={`flex items-center gap-2.5 px-3 py-2 text-xs border-b border-[#1a1a2e]/30 last:border-0 transition-colors hover:bg-[#0d0d1a] ${
-        isRunning ? 'bg-[#0a0f0a]' : ''
-      }`}
-    >
-      {/* Status dot */}
-      <span
-        className={`w-2 h-2 rounded-full flex-none ${
-          isRunning
-            ? 'bg-[#33ff33] shadow-[0_0_6px_rgba(51,255,51,0.5)] animate-pulse'
-            : 'bg-gray-700'
-        }`}
-      />
-
-      {/* Agent name */}
-      <span
-        className={`font-mono truncate min-w-0 flex-1 ${
-          isRunning ? 'text-white font-semibold' : 'text-gray-500'
+    <div>
+      <button
+        onClick={() => setShowDetail(!showDetail)}
+        className={`w-full flex items-center gap-2.5 px-3 py-2 text-xs border-b border-[#1a1a2e]/30 last:border-0 transition-colors hover:bg-[#0d0d1a] text-left ${
+          isRunning ? 'bg-[#0a0f0a]' : ''
         }`}
       >
-        {agent.name}
-      </span>
+        {/* Status dot */}
+        <span
+          className={`w-2 h-2 rounded-full flex-none ${
+            isRunning
+              ? 'bg-[#33ff33] shadow-[0_0_6px_rgba(51,255,51,0.5)] animate-pulse'
+              : 'bg-gray-700'
+          }`}
+        />
 
-      {/* Task */}
-      <span className="text-gray-600 text-[10px] truncate max-w-[140px] hidden sm:inline">
-        {agent.task || 'idle'}
-      </span>
+        {/* Agent name + role */}
+        <span className="font-mono truncate min-w-0 flex-1">
+          <span className={isRunning ? 'text-white font-semibold' : 'text-gray-500'}>
+            {agent.name}
+          </span>
+          <span className="text-gray-700 text-[9px] ml-1.5 hidden sm:inline">
+            {agent.role}
+          </span>
+        </span>
 
-      {/* Status badge */}
-      <span
-        className={`text-[9px] uppercase tracking-wider px-1.5 py-0.5 rounded font-mono flex-none ${
-          isRunning ? 'bg-[#33ff33]/15 text-[#33ff33]' : 'bg-[#1a1a2e] text-gray-600'
-        }`}
-      >
-        {agent.status}
-      </span>
+        {/* Task (visible when running) */}
+        {isRunning && agent.task && (
+          <span className="text-[#33ff33]/70 text-[10px] truncate max-w-[180px] hidden sm:inline font-mono">
+            {agent.task}
+          </span>
+        )}
+
+        {/* Status badge */}
+        <span
+          className={`text-[9px] uppercase tracking-wider px-1.5 py-0.5 rounded font-mono flex-none ${
+            isRunning ? 'bg-[#33ff33]/15 text-[#33ff33]' : 'bg-[#1a1a2e] text-gray-600'
+          }`}
+        >
+          {agent.status}
+        </span>
+
+        {/* Expand icon */}
+        <svg
+          className={`w-3 h-3 text-gray-600 flex-none transition-transform ${showDetail ? 'rotate-180' : ''}`}
+          fill="none" stroke="currentColor" viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+
+      {/* Expanded detail */}
+      {showDetail && (
+        <div className="px-3 pb-3 pt-1 bg-[#060610] border-b border-[#1a1a2e]/30">
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-[10px] font-mono">
+            <div>
+              <span className="text-gray-600">Dept</span>
+              <div className="text-gray-400 mt-0.5 uppercase">{agent.dept}</div>
+            </div>
+            <div>
+              <span className="text-gray-600">Role</span>
+              <div className="text-gray-400 mt-0.5">{agent.role}</div>
+            </div>
+            <div>
+              <span className="text-gray-600">Model</span>
+              <div className="text-gray-400 mt-0.5">{agent.model || '—'}</div>
+            </div>
+            <div>
+              <span className="text-gray-600">Last Active</span>
+              <div className="text-gray-400 mt-0.5">{agent.last || '—'}</div>
+            </div>
+            {agent.tokens > 0 && (
+              <div>
+                <span className="text-gray-600">Tokens</span>
+                <div className="text-gray-400 mt-0.5">{agent.tokens.toLocaleString()}</div>
+              </div>
+            )}
+            {agent.task && (
+              <div className="col-span-2">
+                <span className="text-gray-600">Current Task</span>
+                <div className={`mt-0.5 ${isRunning ? 'text-[#33ff33]/80' : 'text-gray-500'}`}>
+                  {agent.task}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
