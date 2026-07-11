@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect, useRef, useMemo } from 'react';
-import PasswordGate from '../../components/PasswordGate';
 
 const DEPT_COLORS = {
   research: '#f0a030',
@@ -583,28 +582,8 @@ function SwarmDashboard() {
   );
 }
 
-// ─── Exported Page with Password Gate ───────────────────────────────────
+// ─── Exported Page ───────────────────────────────────────────────────────
 
 export default function DashboardPage() {
-  const [unlocked, setUnlocked] = useState(false);
-
-  useEffect(() => {
-    if (
-      typeof window !== 'undefined' &&
-      sessionStorage.getItem('family-auth') === 'true'
-    ) {
-      setUnlocked(true);
-    }
-  }, []);
-
-  if (!unlocked) {
-    return (
-      <PasswordGate
-        title="Swarm Dashboard"
-        onUnlock={() => setUnlocked(true)}
-      />
-    );
-  }
-
   return <SwarmDashboard />;
 }
