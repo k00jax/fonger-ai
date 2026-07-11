@@ -53,6 +53,7 @@ const projects = [
       'An AI sales call assistant that provides real-time guidance during calls, post-call summaries, and CRM integration. Like having a strategist in your ear.',
     status: 'live',
     link: 'https://pay-sales-hub.vercel.app',
+    image: '/saleshub-preview.png',
     tech: ['Python', 'Whisper', 'GPT-4o', 'CRM API'],
   },
   {
