@@ -16,8 +16,8 @@ export default function BooksPage() {
 
           {/* Book 1: Manufacturing Monsters (most recent) */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover-orange transition-all duration-500">
-            <div className="w-12 h-12 rounded-xl bg-brand-orange/10 text-brand-orange flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
-              🔍
+            <div className="mb-6 rounded-xl overflow-hidden border border-[#2a2a2a]">
+              <img src="/book-manufacturing-monsters.jpeg" alt="Manufacturing Monsters cover" className="w-full object-cover" />
             </div>
             <h2 className="text-xl font-bold text-white leading-tight mb-3">
               Manufacturing Monsters
@@ -35,8 +35,8 @@ export default function BooksPage() {
 
           {/* Book 2: WTFAYTA */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover transition-all duration-500">
-            <div className="w-12 h-12 rounded-xl bg-brand-red/10 text-brand-red flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
-              📖
+            <div className="mb-6 rounded-xl overflow-hidden border border-[#2a2a2a]">
+              <img src="/book-wtfayta.png" alt="What the Fuck Are You Talking About? cover" className="w-full object-cover" />
             </div>
             <h2 className="text-xl font-bold text-white leading-tight mb-2">
               What the Fuck Are You Talking About?
@@ -78,8 +78,8 @@ export default function BooksPage() {
 
           {/* Book 3: Where Are You (oldest) */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-8 card-hover transition-all duration-500">
-            <div className="w-12 h-12 rounded-xl bg-[#22d3ee]/10 text-[#22d3ee] flex items-center justify-center text-xl mb-6 transition-transform duration-500 group-hover:scale-110">
-              🌌
+            <div className="mb-6 rounded-xl overflow-hidden border border-[#2a2a2a]">
+              <img src="/book-where-are-you.jpeg" alt="Where Are You cover" className="w-full object-cover" />
             </div>
             <h2 className="text-xl font-bold text-white leading-tight mb-2">
               Where Are You
