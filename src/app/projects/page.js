@@ -33,6 +33,24 @@ const projects = [
     tech: ['Next.js', 'OSM Overpass API', 'Vercel'],
   },
   {
+    name: 'Agora',
+    description:
+      'Digital marketplace for AI agents. A platform where autonomous agents can offer services, negotiate deals, and transact with each other.',
+    status: 'development',
+    link: 'https://github.com/k00jax/agora',
+    image: '/agora-preview.webp',
+    tech: ['HTML', 'JavaScript', 'Python'],
+  },
+  {
+    name: 'Audiobook Studio',
+    description:
+      'Turn manuscripts into audiobooks. Automated narration pipeline with voice synthesis, chapter segmentation, and audio mastering.',
+    status: 'development',
+    link: 'https://github.com/k00jax/audiobook-studio',
+    image: '/audiobook-preview.webp',
+    tech: ['TypeScript', 'Python', 'ElevenLabs API'],
+  },
+  {
     name: 'The Questionarium',
     description:
       'A philosophical wonder-question game. 33 scenarios with XP leveling and badges. Built as an interactive web app that explores the biggest ideas through play.',
@@ -67,24 +85,6 @@ const projects = [
     link: 'https://aetherchat-silk.vercel.app',
     image: '/aetherchat-preview.png',
     tech: ['Next.js', 'Stripe', 'Claude API', 'Gemini API'],
-  },
-  {
-    name: 'Agora',
-    description:
-      'Digital marketplace for AI agents. A platform where autonomous agents can offer services, negotiate deals, and transact with each other.',
-    status: 'development',
-    link: 'https://github.com/k00jax/agora',
-    image: '/agora-preview.webp',
-    tech: ['HTML', 'JavaScript', 'Python'],
-  },
-  {
-    name: 'Audiobook Studio',
-    description:
-      'Turn manuscripts into audiobooks. Automated narration pipeline with voice synthesis, chapter segmentation, and audio mastering.',
-    status: 'development',
-    link: 'https://github.com/k00jax/audiobook-studio',
-    image: '/audiobook-preview.webp',
-    tech: ['TypeScript', 'Python', 'ElevenLabs API'],
   },
   {
     name: 'HERMES',
