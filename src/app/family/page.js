@@ -21,10 +21,11 @@ const tiles = [
   },
   {
     title: 'AI Chat',
-    desc: 'Kid-friendly AI assistant. Safe, educational conversations for curious minds.',
+    desc: 'Kid-friendly AI assistant. Safe, educational conversations for curious minds. API key stays on the server.',
     icon: '🤖',
-    href: '/family/chat/',
+    href: 'https://tools.fonger.ai/arcadia-chat',
     color: '#4da6ff',
+    external: true,
   },
   {
     title: 'Parents',
@@ -81,6 +82,19 @@ export default function FamilyPage() {
                   <p className="text-gray-500 text-sm leading-relaxed mb-4">{tile.desc}</p>
                   <span className="text-xs text-gray-600 font-mono uppercase tracking-wider">Coming Soon</span>
                 </div>
+              ) : tile.external ? (
+                <a
+                  href={tile.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 hover:border-[#2a2a2a] hover:bg-[#141414] transition-all duration-300 group"
+                >
+                  <div className="text-3xl mb-4 group-hover:scale-110 transition-transform duration-300 inline-block">
+                    {tile.icon}
+                  </div>
+                  <h3 className="text-white font-semibold text-lg mb-2">{tile.title}</h3>
+                  <p className="text-gray-500 text-sm leading-relaxed">{tile.desc}</p>
+                </a>
               ) : (
                 <Link
                   href={tile.href}
