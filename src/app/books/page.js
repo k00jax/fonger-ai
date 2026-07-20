@@ -14,7 +14,29 @@ export default function BooksPage() {
         {/* Book Cards — newest to oldest */}
         <div className="grid grid-cols-1 gap-6 mb-16">
 
-          {/* Book 1: Manufacturing Monsters (most recent) */}
+          {/* Book 1: The Gap (most recent) */}
+          <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 sm:p-8 card-hover transition-all duration-500 flex flex-col sm:flex-row gap-6">
+            <div className="flex-1 min-w-0">
+              <h2 className="text-xl font-bold text-white leading-tight mb-2">
+                The Gap
+              </h2>
+              <p className="text-gray-500 text-sm mb-3 leading-relaxed">Why Some People Shape Reality and Others Just Experience It</p>
+              <span className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-4 font-medium tracking-wide">
+                Writing
+              </span>
+              <p className="text-gray-400 leading-relaxed text-sm mb-4">
+                The most important divide in the twenty-first century will not be wealth,
+                politics, or education. It will be agency. A philosophy of creation,
+                consumption, and crossing the gap between them.
+              </p>
+              <p className="text-gray-600 text-xs">Philosophy, agency, technology, and the creative posture.</p>
+            </div>
+            <div className="sm:w-40 sm:flex-shrink-0 rounded-xl overflow-hidden border border-[#2a2a2a] self-start">
+              <img src="/book-the-gap.jpeg" alt="The Gap cover" className="w-full object-cover" />
+            </div>
+          </div>
+
+          {/* Book 2: Manufacturing Monsters */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 sm:p-8 card-hover-orange transition-all duration-500 flex flex-col sm:flex-row gap-6">
             <div className="flex-1 min-w-0">
               <h2 className="text-xl font-bold text-white leading-tight mb-3">
