@@ -33,6 +33,7 @@ export default function NavBar() {
   }, [open]);
 
   const links = [
+    { href: '/', label: 'Home' },
     { href: '/projects/', label: 'Projects' },
     { href: 'https://tools.fonger.ai', label: 'Tools', external: true },
     { href: '/trivance/', label: 'Trivance AI' },
