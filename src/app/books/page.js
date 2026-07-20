@@ -111,8 +111,8 @@ export default function BooksPage() {
                 Where Are You
               </h2>
               <p className="text-gray-500 text-sm mb-3 leading-relaxed">The Bible as a Map of Consciousness</p>
-              <span className="inline-block px-3 py-1 bg-[#22d3ee]/10 text-[#22d3ee] text-xs rounded-full mb-4 font-medium tracking-wide">
-                Final Draft · June 2026 · 174 pages
+              <span className="inline-block px-3 py-1 bg-green-500/10 text-green-400 text-xs rounded-full mb-4 font-medium tracking-wide">
+                Complete
               </span>
               <p className="text-gray-400 leading-relaxed text-sm mb-5">
                 A sympathetic reading of the biblical tradition that treats
