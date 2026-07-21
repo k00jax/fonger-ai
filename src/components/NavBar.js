@@ -26,12 +26,6 @@ export default function NavBar() {
     return () => document.removeEventListener('click', handler);
   }, [open]);
 
-  // Lock body scroll when mobile menu open
-  useEffect(() => {
-    document.body.style.overflow = open ? 'hidden' : '';
-    return () => { document.body.style.overflow = ''; };
-  }, [open]);
-
   const links = [
     { href: '/', label: 'Home' },
     { href: '/projects/', label: 'Projects' },
@@ -117,8 +111,8 @@ export default function NavBar() {
 
       {/* Mobile menu */}
       <div
-        className={`md:hidden overflow-hidden transition-all duration-400 ease-out
-          ${open ? 'max-h-80 opacity-100' : 'max-h-0 opacity-0'}`}
+        className={`md:hidden overflow-y-auto transition-all duration-300 ease-out
+          ${open ? 'max-h-[70vh] opacity-100' : 'max-h-0 opacity-0'}`}
       >
         <div className="border-t border-[#1f1f1f] bg-[#0a0a0a] px-4 py-4 space-y-1">
           {links.map((link) => {
