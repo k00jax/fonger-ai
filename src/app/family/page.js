@@ -21,11 +21,10 @@ const tiles = [
   },
   {
     title: 'AI Chat',
-    desc: 'Kid-friendly AI assistant. Safe, educational conversations for curious minds. API key stays on the server.',
+    desc: 'Kid-friendly AI assistant. Safe, educational conversations for curious minds.',
     icon: '🤖',
-    href: 'https://tools.fonger.ai/arcadia-chat',
+    href: '/family/chat/',
     color: '#4da6ff',
-    external: true,
   },
   {
     title: 'Parents',

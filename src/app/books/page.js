@@ -14,7 +14,25 @@ export default function BooksPage() {
         {/* Book Cards — newest to oldest */}
         <div className="grid grid-cols-1 gap-6 mb-16">
 
-          {/* Book 1: The Gap (most recent) */}
+          {/* Book 1: The First Friday of the Month (most recent) */}
+          <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 sm:p-8 card-hover transition-all duration-500 flex flex-col sm:flex-row gap-6">
+            <div className="flex-1 min-w-0">
+              <h2 className="text-xl font-bold text-white leading-tight mb-2">
+                The First Friday of the Month
+              </h2>
+              <span className="inline-block px-3 py-1 bg-brand-red/10 text-brand-red text-xs rounded-full mb-4 font-medium tracking-wide">
+                In Progress
+              </span>
+              <p className="text-gray-400 leading-relaxed text-sm mb-5">
+                A story about the first Friday of the month.
+              </p>
+            </div>
+            <div className="sm:w-40 sm:flex-shrink-0 rounded-xl overflow-hidden border border-[#2a2a2a] self-start">
+              <img src="/book-first-friday.jpeg" alt="The First Friday of the Month cover" className="w-full object-cover" />
+            </div>
+          </div>
+
+          {/* Book 2: The Gap */}
           <div className="group bg-[#0f0f0f] border border-[#1f1f1f] rounded-2xl p-6 sm:p-8 card-hover transition-all duration-500 flex flex-col sm:flex-row gap-6">
             <div className="flex-1 min-w-0">
               <h2 className="text-xl font-bold text-white leading-tight mb-2">
