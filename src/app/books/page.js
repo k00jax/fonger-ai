@@ -24,7 +24,9 @@ export default function BooksPage() {
                 In Progress
               </span>
               <p className="text-gray-400 leading-relaxed text-sm mb-5">
-                A story about the first Friday of the month.
+                Every payroll hour steals from the actual business. Lead with empathy,
+                not fear. Complexity scales with variety, not headcount. A playbook for
+                finding the seams and removing them.
               </p>
             </div>
             <div className="sm:w-40 sm:flex-shrink-0 rounded-xl overflow-hidden border border-[#2a2a2a] self-start">
