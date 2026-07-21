@@ -8,7 +8,7 @@ import { KIDS } from '../../../lib/demoData';
 function getKidAge(kid) {
   const m = kid.bio.match(/(\d+)\s+years?\s+old/);
   if (m) return parseInt(m[1], 10);
-  const fallbacks = { ollie: 9, barrett: 7, isla: 5 };
+  const fallbacks = { ollie: 10, barrett: 8, isla: 5 };
   return fallbacks[kid.id] || 8;
 }
 
@@ -17,7 +17,7 @@ const DEEPSEEK_URL = 'https://api.deepseek.com/v1/chat/completions';
 function buildSystemPrompt(kid) {
   const age = getKidAge(kid);
   return [
-    `You are Arcadia, a friendly AI tutor for a ${age}-year-old named ${kid.name}.`,
+    `You are Auri, a friendly AI tutor for a ${age}-year-old named ${kid.name}.`,
     'Keep answers simple, encouraging, and age-appropriate.',
     'Use emojis occasionally. Be kind, patient, and educational.',
     'Never discuss violence, drugs, or inappropriate topics.',
@@ -222,7 +222,7 @@ export default function FamilyChatPage() {
               Who is chatting?
             </h1>
             <p className="text-gray-500 text-sm">
-              Pick your profile to start a conversation with Arcadia.
+              Pick your profile to start a conversation with Auri.
             </p>
           </div>
           <div className="space-y-3">
@@ -273,7 +273,7 @@ export default function FamilyChatPage() {
                 {selectedKid.name}
               </div>
               <div className="text-gray-500 text-xs">
-                chatting with Arcadia
+                chatting with Auri
               </div>
             </div>
             <svg
@@ -338,7 +338,7 @@ export default function FamilyChatPage() {
             <div className="text-center py-20">
               <span className="text-5xl block mb-4">{selectedKid.emoji}</span>
               <h2 className="text-white text-lg font-semibold mb-1">
-                Say hello to Arcadia!
+                Say hello to Auri!
               </h2>
               <p className="text-gray-500 text-sm max-w-xs mx-auto">
                 Ask me anything -- I am here to help you learn and explore.
@@ -405,7 +405,7 @@ export default function FamilyChatPage() {
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder={`Ask Arcadia anything, ${selectedKid.name}...`}
+            placeholder={`Ask Auri anything, ${selectedKid.name}...`}
             disabled={sending}
             className="flex-1 bg-[#111] border border-[#1f1f1f] rounded-xl px-4 py-3 text-white placeholder-gray-600 focus:outline-none focus:border-brand-orange/50 focus:ring-2 focus:ring-brand-orange/10 transition-all duration-300 text-sm disabled:opacity-50"
           />

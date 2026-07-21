@@ -10,7 +10,7 @@ const KIDS = [
     emoji: '🦊',
     grade: '4',
     color: '#f97316', // brand-orange
-    bio: '9 years old. Loves building things and asking big questions.',
+    bio: '10 years old. Loves building things, coding, and asking big questions.',
   },
   {
     id: 'barrett',
@@ -18,7 +18,7 @@ const KIDS = [
     emoji: '🐺',
     grade: '2',
     color: '#dc2626', // brand-red
-    bio: '7 years old. Curious explorer, always ready for the next adventure.',
+    bio: '8 years old. Full of energy, loves animals and exploring the outdoors.',
   },
   {
     id: 'isla',
@@ -26,7 +26,7 @@ const KIDS = [
     emoji: '🦋',
     grade: 'k',
     color: '#f59e0b', // amber
-    bio: 'Almost ready to start! Loves stories, colors, and asking "why?"',
+    bio: '5 years old. Loves stories, drawing, and asking "why?" about everything.',
   },
 ];
 
